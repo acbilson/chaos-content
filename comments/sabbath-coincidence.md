@@ -1,0 +1,6 @@
++++
+categories = ["personal"]
+date = "2020-09-11"
+tags = ["sabbath"]
++++
+This morning my phone became completely unresponsive to input or reboot. I reflected on my phone use and, just after I'd decided to lock the ability to download new apps, my phone was restored. Coincidence, or God's kindness for Sabbath rest?
