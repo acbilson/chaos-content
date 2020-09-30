@@ -43,3 +43,9 @@ Well, that's interesting! I never added the public key to my server because it d
 To solve this issue, I generated a new ssh key, copied both private and public keys to my server, and updated the endpoint with my new public key. Viola, success!
 
 To summarize, I was seeing an unexpected error from a process that I didn't see when executing the same line in my shell. With Julia's strace help I was able to piece together enough of keychain's logic to determine that the error happened when the process searched a backup path after an error occurred in the user's directory. I killed my shell's ssh-agent processes and discovered a keychain warning about a missing public key. When new private/public keys were added, my error disappeared.
+
+UPDATE: it turns out that's not all to fix my issue. I discovered afterward that keychain pulls its context from the HOME variable, which is different based on the process. Fortunately, poking through the help page revealed that I could override this value with `--dir /my/root/path`. It's good to know, however, that I also needed to read the full path to the ssh key because it apparently still depends on HOME. Here's the final result:
+
+```
+eval `/usr/bin/keychain --dir /home/user --agents ssh --eval /home/user/.ssh/id_rsa`
+```
