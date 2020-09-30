@@ -27,4 +27,3 @@ I write about a wide range of interests, but you can filter by the following top
 If you want to see what I'm reading, thinking or doing, scroll down to look at my comments or see them all <a href="{{< ref "/comments" >}}">here</a>.
 
 If you'd like to see other independent writers I follow, see my <a href="{{< ref "/blogroll/_index.md" >}}">blog roll</a>.
-
