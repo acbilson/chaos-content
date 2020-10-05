@@ -207,6 +207,12 @@ span.resume {
 <i>I have a fledgling tech company and hired Alex Bilson to be a project manager for our first app. We already had a prototype and wanted to add functionality to it before beta testing it. Alex was very thoughtful, detailed and thorough in evaluating my problem and presenting possible solutions. He gave me a comprehensive implementation plan with varying options with cost and time estimates. I have no tech background. Alex was able to convert highly technological ideas and processes into something I could understand and make decisions about what I wanted. The cost to implement the added functionality would’ve been a few thousand dollars. Alex recommended that I already had enough to do beta testing and that it might be better to wait until I get feedback before making changes. I appreciated his honesty and integrity. Alex keeps deadlines, is punctual and has a calming presence. I decided to go forward with beta testing and I will hire him again when I’m ready to upgrade my app. I highly recommend him.</i> - Andrea Bacon
 </p>
 
+<p>
+<span class="resume">Performance Trust Capital Partners</span>
+<span style="display: block; margin-top: 1em;"><b>2020:</b> crafts a seven-page requirements document, a deployment estimate of twenty-two weeks, and a statement of work for his first project.
+</span></p>
+
+
 </section>
 
 <section id="engineer" class="resume">
@@ -316,12 +322,6 @@ span.resume {
 <th>Acumen</th>
 <th>Example</th>
 </tr>
-
-<tr>
-  <td>PowerShell</td>
-  <td><meter value="10" min="1" max="10">10 out of 10</meter></td>
-  <td><a href="https://github.com/acbilson/ps-git-sync">ps-git-sync</a>,<a href="https://github.com/acbilson/computer-vision-psmodule">computer-vision</a></td>
-</tr>
 <tr>
   <td><span>Docker+Compose</span></td>
   <td><meter value="9" min="1" max="10">9 out of 10</meter></td>
@@ -333,8 +333,8 @@ span.resume {
   <td></td>
 </tr>
 <tr>
-  <td><span>Bash Shell</span></td>
-  <td><meter value="7" min="1" max="10">7 out of 10</meter></td>
+  <td><span>Hugo</span></td>
+  <td><meter value="8" min="1" max="10">8 out of 10</meter></td>
   <td></td>
 </tr>
 <tr>
@@ -344,6 +344,52 @@ span.resume {
 </tr>
 
 </table>
+
+<h2>SysAdmin Tools</h2>
+
+<table class="resume">
+<tr>
+<th>Tool</th>
+<th>Acumen</th>
+<th>Example</th>
+</tr>
+
+<tr>
+  <td>PowerShell</td>
+  <td><meter value="10" min="1" max="10">10 out of 10</meter></td>
+  <td><a href="https://github.com/acbilson/ps-git-sync">ps-git-sync</a>,<a href="https://github.com/acbilson/computer-vision-psmodule">computer-vision</a></td>
+</tr>
+<tr>
+  <td><span>Nginx</span></td>
+  <td><meter value="8" min="1" max="10">8 out of 10</meter></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td><span>Bash Shell</span></td>
+  <td><meter value="7" min="1" max="10">7 out of 10</meter></td>
+  <td></td>
+</tr>
+<tr>
+  <td><span>OpenSSH</span></td>
+  <td><meter value="7" min="1" max="10">7 out of 10</meter></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td><span>strace</span></td>
+  <td><meter value="5" min="1" max="10">5 out of 10</meter></td>
+  <td></td>
+</tr>
+<tr>
+  <td><span>netstat/lsof</span></td>
+  <td><meter value="5" min="1" max="10">5 out of 10</meter></td>
+  <td></td>
+</tr>
+
+
+</table>
+
 
 <h2>Source Control</h2>
 

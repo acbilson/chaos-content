@@ -13,8 +13,14 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 
 [Michael Descy](https://mjdescy.me/) - The original encouragement to write a blog. Never met the man, but thanks for putting your thoughts up for the public!
 
-[Dan Moore](https://letterstoanewdeveloper.com/) - Dan's post encouraging developers to [try contracting](https://letterstoanewdeveloper.com/2018/11/12/try-contracting/) helped me maintain steam as a technology consultant.
+[Dan Moore](https://letterstoanewdeveloper.com/) - Dan's post encouraging developers to [try contracting](https://letterstoanewdeveloper.com/2018/11/12/try-contracting/) helped me maintain steam as a technology consultant. Buy his book on the [Apress website](https://www.apress.com/gp/book/9781484260739).
 
 [Max B&ouml;ck](https://mxb.dev/blog/) - Max's blog has a litany of resources to make one's personal website beautiful and interconnected. One of the first blogs I read that piqued my interest in the [IndieWeb](https://indieweb.org/).
 
 [Madison Taskett](https://www.madisontaskett.com/) - I've had a blast reading Madison's heartfelt and personal posts. Few writers express themselves on the web so openly that I regularly consider reaching out to them to say "thank you."
+
+[Victoria Drake](https://victoria.dev/) - Her site is gorgeous, and her writing has the right balance between concise and simple. All the little tidbits, like the SQL statement for her related posts section, make it one of my favorite sites to visit.
+
+[Tom MacWright](https://macwright.com/) - Tom's site is minimalist, which is perfect considering the huge amount of content. I enjoy reading his posts because of his eclectic depth.
+
+[Ben Werdm&uuml;ller](https://werd.io/) - Like Tom, Ben has eclectic depth. I suppose it's because they both write about the direction of the Internet, politics, and their personal lives from time-to-time.
