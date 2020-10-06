@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 date = "2020-10-05"
 categories = ["spiritual"]
 description = "A book recommendation for Dr. Smith's book, Desiring the Kingdom"

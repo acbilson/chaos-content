@@ -1,4 +1,5 @@
 +++
+category = "personal"
 title = "Tend His Vineyard"
 draft = true
 date = "2020-10-14"

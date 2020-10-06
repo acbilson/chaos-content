@@ -1,4 +1,5 @@
 +++
+category = "personal"
 title = "The Year of the Virus"
 date = "2020-07-01"
 description = "In which Alex documents a historic moment for his sons."

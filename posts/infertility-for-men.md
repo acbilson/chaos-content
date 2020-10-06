@@ -1,4 +1,5 @@
 +++
+category = "personal"
 categories = ["personal"]
 date = "2020-02-26"
 description = "In which Amie interviews Alex about his experience with infertility."

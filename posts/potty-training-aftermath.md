@@ -1,4 +1,5 @@
 +++
+category = "personal"
 categories = ["personal"]
 date = "2020-03-04"
 description = "In which Alex recounts two weeks of potty training."

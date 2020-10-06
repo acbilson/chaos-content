@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 date = "2020-08-05"
 title = "Discovery Bible Study Stories"
 description = "In which Alex shares a litany of DBS stories."

@@ -1,4 +1,5 @@
 +++
+category = "technology"
 addendum = ["I say, \"our velocity,\" but one of my takeaways from this process was how important it is to get buy-in for a tool before I invest. I thought that, if I made the script useful and user-friendly, everyone would adopt it. In reality, each member used portions of the script at best."]
 categories = ["technology"]
 date = "2020-03-11"
@@ -46,7 +47,7 @@ For example, if I needed to make changes to three files to implement a story and
 
 ## Resolution
 
-The developers who worked on this code every day had personal processes which made their work proficient despite these challenges. For our team to be productive from the first commits, we took a few actions. 
+The developers who worked on this code every day had personal processes which made their work proficient despite these challenges. For our team to be productive from the first commits, we took a few actions.
 
 The first was to add .gitignore files to exclude the massive number of generated files from the local build process. We didn't receive authorization right away, so I wrote a quick and dirty PowerShell script to explicitly restore or delete the irrelevant files. This script became irrelevant once a configured .gitignore file was added to our branch.
 

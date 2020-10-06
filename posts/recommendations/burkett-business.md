@@ -1,4 +1,5 @@
 +++
+category = "business"
 date = "2020-05-27"
 categories = ["business","spiritual"]
 description = "A book recommendation for Larry Burkett's book, Business by the Book"

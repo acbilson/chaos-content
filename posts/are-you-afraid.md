@@ -1,4 +1,5 @@
 +++
+category = "personal"
 title = "Are You Afraid?"
 date = "2020-09-09"
 description = "In which Alex responds to a shocking video that exposes missing American history."

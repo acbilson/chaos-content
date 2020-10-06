@@ -1,4 +1,5 @@
 +++
+category = "technology"
 draft = true
 categories = ["technology"]
 date = "2020-09-23"

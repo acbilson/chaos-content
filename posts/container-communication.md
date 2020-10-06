@@ -1,4 +1,5 @@
 +++
+category = "technology"
 categories = ["technology"]
 date = "2020-07-22"
 description = "In which Alex demonstrates a third way to manage multi-docker workflows."

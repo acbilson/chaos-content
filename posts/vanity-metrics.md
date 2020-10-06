@@ -1,4 +1,5 @@
 +++
+category = "business"
 categories = ["business"]
 date = "2020-02-12"
 description = "In which Alex explores the concept of 'vanity metrics.'"

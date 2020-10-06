@@ -1,4 +1,5 @@
 +++
+category = "technology"
 title = "Learning Ansible"
 date = "2020-07-29"
 description = "In which Alex shares his first foray into Ansible."

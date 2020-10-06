@@ -1,4 +1,5 @@
 +++
+category = "technology"
 date = "2020-07-08"
 title = "Secure Cloud Storage"
 description = "In which Alex explains how tar, gzip, and gpg can keep your data secure in the cloud."

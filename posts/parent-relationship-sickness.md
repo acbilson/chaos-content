@@ -1,4 +1,5 @@
 +++
+category = "personal"
 categories = ["personal"]
 date = "2020-02-07"
 description = "In which Alex considers how parenthood changes his relationship with sickness."

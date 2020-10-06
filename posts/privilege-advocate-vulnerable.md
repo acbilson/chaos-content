@@ -1,4 +1,5 @@
 +++
+category = "personal"
 date = "2020-04-15"
 title = "Privilege: An Advocate for the Vulnerable"
 description = "In which Alex ponders the responsibility of the privileged to advocate for the vulnerable."

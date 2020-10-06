@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 draft = true
 date = "2020-10-07"
 title = "Small Group Manifesto"

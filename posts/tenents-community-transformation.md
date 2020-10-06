@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 categories = ["spiritual"]
 date = "2020-06-17"
 description = "In which Alex enumerates six tenents to guide any community transformation endeavor."

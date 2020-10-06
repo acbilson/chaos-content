@@ -1,4 +1,5 @@
 +++
+category = "technology"
 title = "Visualizing COVID Deaths"
 date = "2020-11-11"
 description = "In which Alex combines two amazing discoveries in data journalism"

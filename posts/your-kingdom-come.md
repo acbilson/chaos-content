@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 date = "2020-05-12"
 title = "Your Kingdom Come"
 description = "In which Alex ponders the meaning of the prayer, 'your Kingdom come.'"

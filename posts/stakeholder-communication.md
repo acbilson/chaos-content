@@ -1,4 +1,5 @@
 +++
+category = "business"
 title = "Stakeholder Communication"
 date = "2020-03-18"
 description = "In which Alex argues that project managers should inform stakeholders early, often, and with simple clarity."

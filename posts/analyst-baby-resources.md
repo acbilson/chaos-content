@@ -1,4 +1,5 @@
 +++
+category = "resources"
 categories = ["resources"]
 date = "2020-02-20"
 description = "In which Alex shares his analytical family's favorite online baby resources."

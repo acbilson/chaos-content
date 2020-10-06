@@ -1,4 +1,5 @@
 +++
+category = "personal"
 date = "2020-04-29"
 categories = ["personal", "business"]
 description = "In which Alex shares what he's done with his privilege on behalf of the vulnerable."

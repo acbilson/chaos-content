@@ -1,4 +1,5 @@
 +++
+category = "business"
 categories = ["business"]
 date = "2020-04-30"
 description = "In which Alex publishes his 2020 MBA thesis."

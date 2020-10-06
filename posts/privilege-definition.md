@@ -1,4 +1,5 @@
 +++
+category = "personal"
 title = "Privilege: What is It?"
 date = "2020-04-01"
 description = "In which Alex defines for himself what it means to have privilege."
