@@ -1,4 +1,5 @@
 +++
+category = "business"
 date = "2020-05-06"
 categories = ["business","technology"]
 citations = ["Bilson, Alex. Optimum Joy Clinical Counseling: Observations, Analysis and Recommendations (2020)."]

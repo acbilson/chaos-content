@@ -1,4 +1,5 @@
 +++
+category = "technology"
 date = "2020-05-13"
 categories = ["technology"]
 description = "In which Alex aggregates instructions to entirely host one's own website."

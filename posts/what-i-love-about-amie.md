@@ -1,4 +1,5 @@
 +++
+category = "personal"
 date = "2020-07-05"
 categories = ["personal"]
 description = "In which Alex reminisces about his beloved."

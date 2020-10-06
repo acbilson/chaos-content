@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 categories = ["spiritual"]
 date = "2020-09-02"
 description = "In which Alex walks through an exercise in biblical interpretation from Romans 14:17."

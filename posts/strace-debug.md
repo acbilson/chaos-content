@@ -1,4 +1,5 @@
 +++
+category = "technology"
 categories = ["technology"]
 date = "2020-10-03"
 description = "In which Alex describes a debugging moment."

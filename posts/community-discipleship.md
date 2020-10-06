@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 date = "2020-08-19"
 categories = ["spiritual"]
 description = "In which Alex introduces his approach to community discipleship and what he loves about it."

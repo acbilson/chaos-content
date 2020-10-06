@@ -1,4 +1,5 @@
 +++
+category = "personal"
 date = "2020-03-25"
 title = "Return of the Potty"
 description = "In which Alex writes about regressions in potty training."

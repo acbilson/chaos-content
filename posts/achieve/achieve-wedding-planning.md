@@ -1,4 +1,5 @@
 +++
+category = "personal"
 title = "Wedding Planning"
 description = ""
 draft = true

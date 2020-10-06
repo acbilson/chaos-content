@@ -1,4 +1,5 @@
 +++
+category = "business"
 title = "Buy Pizzas, Not Gift Cards"
 date = "2020-03-18"
 description = "In which Alex explains why gift cards won't help restaurants with COVID-19"

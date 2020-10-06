@@ -1,4 +1,5 @@
 +++
+category = "personal"
 date = "2020-05-25"
 title = "Shared Case Notes"
 description = "In which Alex describes a consult to deliver a case notes tool for an English attorney."

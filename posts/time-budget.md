@@ -1,4 +1,5 @@
 +++
+category = "personal"
 date = "2020-04-08"
 categories = ["personal", "business"]
 description = "In which Alex shares one of his favorite tools to make sense of his week; the time budget."

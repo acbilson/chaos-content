@@ -1,4 +1,5 @@
 +++
+category = "resources"
 categories = ["resources"]
 date = "2020-06-03"
 description = "In which Alex notates what he's learned about scanning as an ethical hacker."

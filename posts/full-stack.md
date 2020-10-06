@@ -1,4 +1,5 @@
 +++
+category = "technology"
 title = "Full Stack Development"
 date = "2020-10-28"
 draft = true

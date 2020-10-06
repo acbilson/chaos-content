@@ -1,4 +1,5 @@
 +++
+category = "personal"
 title = "First Anniversary"
 date = "2020-07-12"
 description = "In which Alex remembers in detail his first wedding anniversary."

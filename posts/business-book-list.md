@@ -1,4 +1,5 @@
 +++
+category = "resources"
 date = "2020-07-15"
 title = "Business Book List"
 description = "In which Alex itemizes the business books he's read."

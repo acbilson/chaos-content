@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 date = "2020-08-26"
 categories = ["business", "spiritual"]
 description = "In which Alex meditates on what effect a hope of reward beyond the grave has on work."

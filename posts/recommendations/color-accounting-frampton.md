@@ -1,4 +1,5 @@
 +++
+category = "business"
 date = "2020-04-22"
 categories = ["business"]
 description = "A book recommendation for Frampton and Robilliard's book, Color Accounting"

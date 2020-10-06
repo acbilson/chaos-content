@@ -1,4 +1,5 @@
 +++
+category = "spiritual"
 categories = ["spiritual"]
 date = "2020-11-04"
 description = "In which Alex desribes hindrances to the discovery process."
