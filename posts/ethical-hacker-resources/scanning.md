@@ -73,11 +73,11 @@ The nmap command line utility enumerates over a target IP range to gather compre
 Scans the IP address range for active machines and checks the status of the top ten most common ports on each machine. Here's a table-formatted example of the output for one machine:
 
 <table>
-<th>PORT</th><th>STATE</th><th>SERVICE</th>
-<tr><td>21/tcp</td><td>closed</td><td>ftp</td></tr>
-<tr><td>22/tcp</td><td>closed</td><td>ssh</td></tr>
-<tr><td>23/tcp</td><td>closed</td><td>telnet</td></tr>
-<tr><td>80/tcp</td><td>open</td><td>http</td></tr>
+<tr><th>PORT</th><th>STATE</th><th>SERVICE</th></tr>
+<tr><td>21/tcp </td><td>closed</td><td>ftp</td></tr>
+<tr><td>22/tcp </td><td>closed</td><td>ssh</td></tr>
+<tr><td>23/tcp </td><td>closed</td><td>telnet</td></tr>
+<tr><td>80/tcp </td><td>open  </td><td>http</td></tr>
 <tr><td>110/tcp</td><td>closed</td><td>pop3</td></tr>
 <tr><td>139/tcp</td><td>closed</td><td>netbios-ssn</td></tr>
 <tr><td>443/tcp</td><td>closed</td><td>https</td></tr>
