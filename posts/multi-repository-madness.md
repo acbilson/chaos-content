@@ -4,7 +4,7 @@ addendum = ["I say, \"our velocity,\" but one of my takeaways from this process 
 categories = ["technology"]
 date = "2020-03-11"
 description = "In which Alex shares about his experience building a feature across eight interconnected Git repositories."
-tags = ["PowerShell", "Git"]
+tags = ["powershell", "git"]
 title = "Repository Madness"
 
 [featuredImage]
