@@ -5,7 +5,7 @@ draft = true
 date = "2020-10-14"
 description = "In which Alex digs into one of Jesus' parables and what it means for his life."
 categories = ["personal"]
-tags = ["vineyard"]
+tags = ["family", "righteousness"]
 [featuredImage]
   large = ""
   small = ""

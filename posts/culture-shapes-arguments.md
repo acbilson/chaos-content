@@ -4,7 +4,7 @@ title = "Culture Shapes Arguments"
 date = "2020-10-08"
 description = "In which Alex argues that a person's intellectual background shapes what arguments persuade them."
 categories = ["business"]
-tags = ["fiction","culture","selling"]
+tags = ["culture","selling"]
 citations = ["Asimov, Isaac. Foundation. Bantam Dell. 1951", "Meyer, Erin. The Culture Map (INTL ED): Decoding How People Lead, Think, and Get Things Done Across Cultures. Public Affairs. 2016", "Pink, Daniel. To Sell Is Human: The Surprising Truth About Moving Others. Riverhead Books. 2012"]
 in-reply-to = "http://interconnected.org/home/2020/10/07/orthogonal"
 [featuredImage]

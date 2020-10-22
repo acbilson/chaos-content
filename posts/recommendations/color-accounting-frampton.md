@@ -4,7 +4,7 @@ date = "2020-04-22"
 categories = ["business"]
 description = "A book recommendation for Frampton and Robilliard's book, Color Accounting"
 dropcap = false
-tags = ["accounting", "ledger-cli"]
+tags = ["accounting", "cli"]
 title = "Recommend: Color Accounting"
 citations = ["Frampton, Peter and Robilliard, Mark. Color Accounting: The new graphical system that makes understanding accounting easy and quick. Accounting Comes Alive International. 2014"]
 

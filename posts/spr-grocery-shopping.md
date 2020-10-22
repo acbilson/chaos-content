@@ -3,7 +3,7 @@ category = "technology"
 categories = ["technology"]
 date = "2020-02-10"
 description = "In which Alex learns about the Microsoft Computer Vision API by using it to make a grocery list."
-tags = ["Azure", "PowerShell"]
+tags = ["azure", "powershell", "cli"]
 title = "Computerized Grocery Shopping"
 
 [featuredImage]

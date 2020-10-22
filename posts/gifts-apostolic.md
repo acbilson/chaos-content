@@ -3,7 +3,7 @@ category = "personal"
 categories = ["personal"]
 date = "2020-09-27"
 description = "In which Alex shares his uncomfortable spiritual gift."
-tags = ["apostleship", "spiritual-gift"]
+tags = ["spiritual-gifts"]
 title = "My Gifting"
 
 [featuredImage]

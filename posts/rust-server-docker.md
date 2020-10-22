@@ -3,7 +3,7 @@ category = "technology"
 categories = ["technology"]
 date = "2020-06-24"
 description = "In which Alex shares his first foray using Rocket with Docker."
-tags = ["rust-lang", "rocket", "docker"]
+tags = ["rustlang", "docker"]
 title = "Rocket Server in Docker"
 
 [featuredImage]
