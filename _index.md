@@ -56,5 +56,11 @@ div.title-body {
     </div>
     <p>If you want to see what I'm reading, thinking or doing, check out my <a href="{{< ref "/comments" >}}">comments</a>.</p>
     <p>If you'd like to see other independent writers I follow, see my <a href="{{< ref "/blogroll/_index.md" >}}">blog roll</a>.</p>
-  </div>
+</div>
+</div>
+
+<div id="covid" style="display: none;">
+<h2>Covid Memorial</h2>
+<p>These are today's Covid-related deaths in Cook County, Illinois, according to the medical examiner. A moment of silence.</p>
+<ul style="list-style-type: none;" id="deaths"></ul>
 </div>
