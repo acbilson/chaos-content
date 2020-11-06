@@ -26,6 +26,11 @@ div.title-body {
     border-radius: 50%;
 }
 
+#covid {
+  border: 6px double black;
+  padding: 10px;
+}
+
 /* maximized screen */
 @media screen and (min-width: 80em) {
 
@@ -60,7 +65,8 @@ div.title-body {
 </div>
 
 <div id="covid" style="display: none;">
-<h2>Covid Memorial</h2>
+<h2 style="margin: 0;">Covid Memorial</h2>
 <p>These are today's Covid-related deaths in Cook County, Illinois, according to the medical examiner. A moment of silence.</p>
 <ul style="list-style-type: none;" id="deaths"></ul>
+<p>Where do I get this data? See <a href="{{< ref "/posts/data-journalism.md">}}">this post</a>.</p>
 </div>
