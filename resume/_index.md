@@ -1,5 +1,5 @@
 +++
-Title = "Resume"
+Title = "Resumé"
 displayInMenu = true
 kind = "page"
 toc = "true"
