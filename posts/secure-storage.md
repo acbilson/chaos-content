@@ -28,9 +28,9 @@ Two command-line programs married together in a single shell script secured my f
 
 Put simply, this command rolls all specified files into one. The command has been around for ages, exists on every machine, and just works, so I use it instead of a newer algorithm. Run without options, the command will generate an output file with the exact number of kilobytes as the input files, but I use the compression option to save space. My journal files are stored in my current working directory for this example.
 
-```
+{{< highlight sh >}}
 tar -czvf journals.tar.gz *
-```
+{{< / highlight >}}
 
 ## gpg
 
@@ -40,16 +40,18 @@ If you haven't generated a private key before, [follow the instructions](https:/
 
 Once your private key is ready, let's run the following command to create an encrypted copy of our journals file.
 
-```
+
+{{< highlight sh >}}
 gpg -o journals-safe.tar.gz.gpg -e -r acbilson@gmail.com journals.tar.gz
-```
+{{< / highlight >}}
 
 ## Last step
 
 Programs like Dropbox keep every file that's uploaded, even if the user deletes it, so these steps won't make a difference unless the original files are never synced. To achieve this, we move the original's location outside the Dropbox sync folder. This way we can move only the secure version of our journals to Dropbox.
 
 All of this is easily scripted. Here's an example:
-```
+
+{{< highlight sh >}}
 #!/bin/sh
 
 secure-journals () {
@@ -74,4 +76,4 @@ secure-journals () {
 }
 
  secure-journals
-```
+{{< / highlight >}}

@@ -61,28 +61,29 @@ These steps are listed by execution, not by location. It's a commentary on the s
 
 I didn't run into this issue right away, but at some point I discovered that copying my SSH public key to a shared volume location will fail unless the container user has ownership of the folder. Docker grants shared volume ownership to root by default, so I needed to change this first.
 
-```
-$ docker exec --user root "$CONTROLLER_NAME" /bin/bash -c "chown controller $KEY_DRIVE"
-```
+{{< highlight docker >}}
+docker exec --user root "$CONTROLLER_NAME" \
+  /bin/bash -c "chown controller $KEY_DRIVE"
+{{< / highlight >}}
 
 ## Generate SSH Key &#127918;
 
 Now that the `controller` user has ownership of the shared volume (set to variable: `KEY_DRIVE`), it's time to generate the key. I discovered in the process that using the `-P` option with an empty string skips the passphrase user input.
 
-```
+{{< highlight sh >}}
 mkdir -p ~/.ssh && \
 ssh-keygen -t rsa -f ~/.ssh/controller_rsa -P "" && \
 cp -f ~/.ssh/controller_rsa.pub "$KEY_DRIVE"
-```
+{{< / highlight >}}
 
 ## Add Public Key &#128119;
 
 With the SSH key generated and shared, now my clients must authorize it. My example only runs one client, but it shouldn't (🤞) take much more to loop through all the clients you may run.
 
-```
+{{< highlight sh >}}
 mkdir -p ~/.ssh && \
   cat "$KEY_DRIVE"/controller_rsa.pub >> ~/.ssh/authorized_keys
-```
+{{< / highlight >}}
 
 ## Start SSH Service &#128119;
 
@@ -90,9 +91,9 @@ For full automation, I need the ssh service running on every client. So I spin i
 
 > Note: Service interaction varies widely between Linux distros. I'm using Debian for all my containers.
 
-```
+{{< highlight sh >}}
 /etc/init.d/ssh start
-```
+{{< / highlight >}}
 
 ### Remove Password Access &#128119;
 
@@ -100,25 +101,26 @@ I try to use Docker as responsibly as I would if I were administering these cont
 
 > This step also proves my success since my controller can no longer access other containers by password.
 
-```
+{{< highlight sh >}}
 sed -i 's/#PasswordAuthentication.*/PasswordAuthentication no/' /etc/ssh/sshd_config
-```
+{{< / highlight >}}
 
 ### Add Client IP to Host &#127918;
 
 The first time the controller connects to a client requires user input to verify that the connection is appropriate. I bypass this request by adding the client to the controller's list of known hosts.
 
-```
+
+{{< highlight sh >}}
 ssh-keyscan -t rsa "$CLIENT_NAME" >> ~/.ssh/known_hosts
-```
+{{< / highlight >}}
 
 ### Verify Connection &#127918;
 
 We're finished! But just to be certain, let's verify that the controller does have automatic access to the client by running a simple `whoami` on the client from the controller.
 
-```
+{{< highlight sh >}}
 ssh -i ~/.ssh/controller_rsa client@"$CLIENT_NAME" whoami
-```
+{{< / highlight >}}
 
 ## Design Choices
 

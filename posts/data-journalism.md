@@ -39,7 +39,7 @@ Before we begin, it's worth noting that the tool Cook County uses to house this 
 
 I've never had an easier setup than datasette. There's not even steps per-se; just look at this shell script. All you'll need is a version of Python 3 to use it.
 
-```
+{{< highlight sh >}}
 #!/bin/sh
 
 # create virtual environment
@@ -57,15 +57,15 @@ datasette install datasette-vega
 
 # deactivate virtual environment
 deactivate
-```
+{{< / highlight >}}
 
 ## Data Acquisition
 
 Remember that I mentioned the data is hosted by Socrata? Well, Socrata hosts a Web API! But you don't need to read their API documentation; thanks to Andrew Chavez' work we can use his [socrata2sql](https://github.com/DallasMorningNews/socrata2sql) tool. Here's the entire command to get our data set (don't forget to activate your virtual environment first).
 
-```
-> socrata2sql insert datacatalog.cookcountyil.gov 3trz-enys
-```
+{{< highlight sh >}}
+socrata2sql insert datacatalog.cookcountyil.gov 3trz-enys
+{{< / highlight >}}
 
 This will generate a sqlite table with the name of the data source. We just gave socrata2sql the host and the dataset id and it handles the rest.
 
@@ -73,9 +73,9 @@ This will generate a sqlite table with the name of the data source. We just gave
 
 Last step (already? I know!), let's host the datasette website. Again, it's a one-liner (and you still need your virtual environment activated):
 
-```
-> datasette serve medical_examiner_case_archive__covid19_related_deaths.sqlite
-```
+{{< highlight sh >}}
+datasette serve medical_examiner_case_archive__covid19_related_deaths.sqlite
+{{< / highlight >}}
 
 Now let's do some analysis.
 
@@ -89,7 +89,7 @@ Cook county fits international COVID death patterns in that the majority of deat
 
 Here's the SQL query:
 
-```
+{{< highlight sql >}}
 select
   age,
   COUNT(*) as 'count'
@@ -99,7 +99,7 @@ group by
   age
 having
   COUNT(*) >= 25
-```
+{{< / highlight >}}
 
 ## Deaths by Month and Age
 
@@ -118,7 +118,7 @@ Sure enough, the past three months have leveled off. More concerning, however, i
 
 And the SQL query:
 
-```
+{{< highlight sql >}}
 select
   age,
   COUNT(*) as 'count',
@@ -132,7 +132,7 @@ having
   COUNT(*) >= 5
   and month >= '07-2020'
   and age between 50 and 100
-```
+{{< / highlight >}}
 
 ## Deaths by City and Month
 
@@ -152,7 +152,7 @@ I did observe that many towns have no data after June. It's likely these towns a
 
 And the SQL query:
 
-```
+{{< highlight sql >}}
 select
   COUNT(*) as 'count',
   strftime('%m-%Y', death_date) as 'month',
@@ -167,7 +167,7 @@ group by
 having
   COUNT(*) >= 5
   and month >= '06-2020'
-```
+{{< / highlight >}}
 
 ## Acknowledgements
 

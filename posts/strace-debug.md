@@ -23,9 +23,9 @@ I figured out that my user has a ~/.keychain directory, which meant that keychai
 
 I couldn't figure out why the command succeeded in my shell but failed when executed by my webhook process. I remembered that Julia Evans has a [series on strace](https://jvns.ca/categories/strace/). With Julia's help I put a trace on the webhook process and dumped it to a local file with this command: `strace -yf -p 27404 -o temp.txt`. With a little grepping I discovered some lines like this:
 
-```
+{{< highlight sh >}}
 27727 stat64("/.keychain", 0xbea5f6f8) = -1 ENOENT (No such file or directory)
-```
+{{< / highlight >}}
 
 (My original logs were overwritten while debugging or I'd show you a better example, like the trace of the failing mkdir command and its context.)
 
@@ -47,6 +47,6 @@ To summarize, I was seeing an unexpected error from a process that I didn't see 
 
 UPDATE: it turns out that's not all to fix my issue. I discovered afterward that keychain pulls its context from the HOME variable, which is different based on the process. Fortunately, poking through the help page revealed that I could override this value with `--dir /my/root/path`. It's good to know, however, that I also needed to read the full path to the ssh key because it apparently still depends on HOME. Here's the final result:
 
-```
+{{< highlight sh >}}
 eval `/usr/bin/keychain --dir /home/user --agents ssh --eval /home/user/.ssh/id_rsa`
-```
+{{< / highlight >}}

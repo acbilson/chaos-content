@@ -26,52 +26,52 @@ The crux of the automation lies in responding to Github webhooks. If I automate 
 
 The first step was simple; the webhook package should be installed on the machine.
 
-```
+{{< highlight yml >}}
 - name: installs webhook server
   apt:
     name: webhook
     state: latest
   become: yes
-```
+{{< / highlight >}}
 
 > you'll notice many tasks end with `become: yes`. This line indicates that the command requires heightened privileges to run.
 
 Somehow, the package doesn't create it's own /etc folder, so I take that step myself.
 
-```
+{{< highlight yml >}}
 - name: creates and sets hooks directory permissions
   file:
     path: /etc/webhook
     state: directory
     owner: root
   become: yes
-```
+{{< / highlight >}}
 
 Why did I need an /etc folder? To put my hook configuration in, of course! This copies the file from my machine to my target.
 
-```
+{{< highlight yml >}}
 - name: adds hooks.json
   template:
     src: hooks.json
     dest: /etc/webhook/hooks.json
     owner: root
   become: yes
-```
+{{< / highlight >}}
 
 The webhook project responds to incoming webhooks by running shell scripts. I need somewhere to store them, so I create a folder in /usr/lib.
 
-```
+{{< highlight yml >}}
 - name: creates and sets scripts directory permissions
   file:
     path: /usr/lib/webhook/scripts
     state: directory
     owner: root
   become: yes
-```
+{{< / highlight >}}
 
 With my folder created, it's time to copy the three scripts I need for the commit-build-deploy process. This might have been wrapped into one iterative task (or compiled into a single script), but I wasn't sure at the time whether I'd want a different configuration for any of the files. In my experience, it's better to have some duplication where I'm uncertain of change than to prematurely optimize and split later.
 
-```
+{{< highlight yml >}}
 - name: adds script to create a new note
   template:
     src: new-note.sh
@@ -95,11 +95,11 @@ With my folder created, it's time to copy the three scripts I need for the commi
     owner: root
     mode: '0744'
   become: yes
-```
+{{< / highlight >}}
 
 With all the webhook installation complete, it's time to proxy the server with Nginx.
 
-```
+{{< highlight yml >}}
 - name: adds nginx proxy config
   template:
     src: webhook_proxy
@@ -112,32 +112,32 @@ With all the webhook installation complete, it's time to proxy the server with N
     src: /etc/nginx/sites-available/webhook_proxy
     dest: /etc/nginx/sites-enabled/webhook_proxy
     state: link
-```
+{{< / highlight >}}
 
 Did you catch the `notify: restart nginx` line? This refers to another task which should be executed after this completes, but only when there's been a change. It's nothing fancy.
 
-```
+{{< highlight yml >}}
 - name: restart nginx
   service:
     name: nginx
     state: restarted
   become: yes
-```
+{{< / highlight >}}
 
 One last step to finish the proxy. I need to allow the webhook port through my firewall.
 
-```
+{{< highlight yml >}}
 - name: allows webhook port access
   ufw:
     rule: allow
     port: '6237'
     proto: tcp
   become: yes
-```
+{{< / highlight >}}
 
 There seem to be as many instructions for running a Linux service as there are Linux distros. I chose to create a systemd service to manage my webhook executable, but if you have a better idea, I'd love to hear it. I particularly want something efficient, fault-tolerant, and works on Debian.
 
-```
+{{< highlight yml >}}
 - name: adds systemd script to run webhooks
   template:
     src: webhook.service
@@ -158,7 +158,7 @@ There seem to be as many instructions for running a Linux service as there are L
   shell:
     cmd: systemctl enable --now webhook.service
   become: yes
-```
+{{< / highlight >}}
 
 One of my next steps is to begin these tasks with better security configurations. The webhook server should run as a non-privileged user with permission only to what it requires. A couple of tasks to create a user and group, then ownership changes where I add new files and modifications to existing directories ought to do it.
 
