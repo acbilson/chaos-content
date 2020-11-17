@@ -27,10 +27,10 @@ When I'd finished the book, I wanted to practice double-entry accounting for my 
 
 After you've read the book a couple of times, practice double-entry accounting with the robust Plaintext double-entry accounting CLI tool [ledger-cli](https://www.ledger-cli.org/). Here's a mildly adjusted example taken from my own ledger:
 
-```
+{{< highlight txt >}}
 ; baby wipes and a gift for Amie
 1/22 * OnlineStore.com
   Expenses:Home                                            $25.12
   Expenses:Gift                                            $32.24
   Assets:MyBank:Checking                                  -$57.36
-```
+{{< / highlight >}}

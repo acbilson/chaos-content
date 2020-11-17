@@ -48,7 +48,10 @@ Now let's make our first connection to our server! Make sure it's turned on &#x1
 
 Open up a terminal instance on your computer. We'll use [OpenSSH](https://www.openssh.com/) to access the Raspberry Pi. Most computers have this software pre-installed, or you may install it now. Type the following command; changing the IP address to the address your router assigned.
 
-`> ssh pi@192.168.1.3`
+
+{{< highlight sh >}}
+ssh pi@192.168.1.3
+{{< / highlight >}}
 
 You're in!
 
@@ -68,16 +71,18 @@ The possible options at this stage are endless, so I will focus on a single, opi
 
 First, let's install the server software. Log back into your Raspberry Pi (remember your passphrase?) and run the following commands.
 
-```
-> sudo apt-get update && sudo apt-get upgrade -y
-> sudo apt-get install nginx -y
-```
+{{< highlight sh >}}
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get install nginx -y
+{{< / highlight >}}
 
 > The first line updates your package registry and upgrades all the installed software packages. You should run this command periodically to keep your server up-to-date with security patches. The second line installs our software, [Nginx](https://www.nginx.com/).
 
 We don't have a website yet, but Nginx comes with a default landing page. Start the server with:
 
-`> sudo /etc/init.d/nginx start`
+{{< highlight sh >}}
+sudo /etc/init.d/nginx start
+{{< / highlight >}}
 
 > This command launches the Nginx background process on your Raspberry Pi. You can also run similar commands to restart and stop the service.
 
@@ -129,7 +134,9 @@ You've probably noticed that security is a theme. Your site may not require in-t
 
 First, we need to install certbot on our Raspberry Pi. Log in and run the following command:
 
-`> sudo apt-get install certbot python-certbot-nginx -y`
+{{< highlight sh >}}
+sudo apt-get install certbot python-certbot-nginx -y
+{{< / highlight >}}
 
 > This installs the certbot software that we'll use to register a certificate and helper software to update our Nginx configuration.<br /><br />
 
@@ -137,7 +144,9 @@ First, we need to install certbot on our Raspberry Pi. Log in and run the follow
 
 Then we'll run the following command:
 
-`sudo certbot certonly --manual --preferred-challenges dns -d thisismycoolsite.com`
+{{< highlight sh >}}
+sudo certbot certonly --manual --preferred-challenges dns -d thisismycoolsite.com
+{{< / highlight >}}
 
 Follow the prompts. When you get to a question about adding a DNS TXT record, add a TXT record in your registrar's interface with the key certbot displays in your terminal. It might look like this:
 

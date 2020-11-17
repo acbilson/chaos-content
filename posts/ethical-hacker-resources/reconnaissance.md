@@ -83,31 +83,35 @@ Download software enumerates over every possible path at a specified domain. Thi
 ### Ping
 Ping has numerous flags which a hacker can use to determine accepted packet size. For example, a hacker can attempt different packet sizes with this snippet, where -f turns off packet fragmentation (it'll be sent as one packet, not many) and -l specifies the packet size in bytes.
 
-`> ping hackthissite.org -f -l 1500`
+{{< highlight sh >}}
+ping hackthissite.org -f -l 1500
+{{< / highlight >}}
 
 ### NSLookup
 Nslookup can retrieve sets of related servers at a domain, including the DNS servers. A domain may have mail servers, backup servers, even print servers available on the public web. To list all mail servers at a public domain:
 
-```
-> nslookup
-> set type=mx
-> hackthissite.org
-```
+
+{{< highlight sh >}}
+nslookup
+set type=mx
+hackthissite.org
+{{< / highlight >}}
+
 Or to identify the authoritative name server:
 
-```
+{{< highlight sh >}}
 > nslookup
 > set type=cname
 > hackthissite.org
-```
+{{< / highlight >}}
 
 When the authoritative name server has been identified, a hacker may glean more information by querying that server directly.
 
-```
+{{< highlight sh >}}
 > nslookup
 > set server=198.148.81.188
 > set type=any
 > hackthissite.org
-```
+{{< / highlight >}}
 
 Change the final line to `ls -d hackthissite` to attempt a zone transfer.
