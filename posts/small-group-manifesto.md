@@ -13,21 +13,38 @@ tags = ["small-group","community","kingdom"]
 +++
 How does Jesus' Kingdom community organize? Is the Sunday gathering primary? What are 'micro' groups? These are the sort of questions that keep me up into the wee hours of the morning. Will you join me in an exercise to loosely structure a Kingdom community?
 
-When you consider how a church community might orient on a given week, at least four options exist:
+# Definitions
+
+First, what the heck is 'Kingdom community'? Don't you just mean church?
+
+Certain words have baggage from long practice. Most church attendees agree that the church building != the Church (ekklesia, the 'called out ones'), yet our practices reflect another conviction. So I hope to shake our categories a little by ditching the old words in favor of new, less baggage-ridden (I hope) words that I can invest with new concepts. I'll let someone else try to redeem 'church' and 'Christian'.
+
+# Why Care?
+
+Second, why care how a Kingdom community organizes?
+
+Let me make a few axiomatic statements. Our practices shape our hearts and minds.
+
+The fundamental way humans flourish is by loving God and neighbor. To love God and neighbor isn't an ephemeral command about our intent or feelings, but about the actions we take in everyday life. The majority of a person's actions are subconscious, i.e. people react more than reason. And the way our actions, and our thinking, change is by deliberately practicing loving acts.
+
+Now let me add another: deliberate practice of loving acts is best fostered in community.
+
+So, following my dense logic, one ought to care about the way Kingdom communities are formed because their organization affects human flourishing.
+
+# Kingdom Meetings
+
+Let's turn to the subject. When you consider how a Kingdom community might orient on a given week, at least four meetings exist:
 
 - Sunday gatherings
 - discipleship groups
 - special interest groups
 - friendship groups
 
-
-These four exist in tension, like rubber bands that pull the community toward a center. A community that entirely lacks one of these bands may still suspend, but it means that the other bands must exert greater tension to stay centered. Remove two and the community may suspend off-center; three and it dangles in the air.
+These four exist in tension, like rubber bands holding an object in suspension. A community that entirely lacks one of these bands may still suspend in air, but it means that the other bands must exert greater tension to maintain center. Remove two and the community may suspend off-center; three and it dangles in the air.
 
 <img src="../data/kingdom-community-diagram.svg" />
 
-I chose the manifesto format from my experience with the [Agile Manifesto](https://agilemanifesto.org/), because a manifesto seeks to describe distinctives rather than definitions. By choosing distinctives over definitions, I allow the bands to stretch and contract to fit the cultural and circumstantial needs of the location in which the Kingdom community lives. At the same time I give room for communities missing one or more of these bands to exist as true Kingdom communities, albeit -over-stretched bands.
-
-> This list correlates with distinctives of spiritual formation because Jesus' Kingdom community is the **primary** mechanism for formation.
+I chose the manifesto format because a manifesto seeks to describe principles rather than definitions. I want the four meetings to stretch and contract to fit the cultural and circumstantial needs of the location in which the Kingdom community lives. At the same time I want to give room for communities missing one or more of these bands to exist as true Kingdom communities, albeit over-stretched bands.
 
 # Friendship
 
