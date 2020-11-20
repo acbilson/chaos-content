@@ -10,9 +10,16 @@ toc = "true"
 p.question {
   font-style: italic;
   margin-top: 1.2em;
+}
 
 section#analyst>ul {
   list-style: none;
+}
+
+div.skills {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
 }
 
 </style>
@@ -126,6 +133,7 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 
 <h1>Engineering Skills</h1>
 
+<div class="skills">
 {{< / raw >}}
 
 {{< table
@@ -178,6 +186,8 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 >}}
 
 {{< raw >}}
+</div>
+
 </section>
 
 <section id="analyst">
@@ -222,7 +232,10 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 </li>
 
 </ul>
-
 </section>
+{{< / raw >}}
 
-{{< raw >}}
+You have more questions? <a href=mailto:acbilson@gmail.com">Email me</a> and your question may be featured here!
+
+Ta ta for now! &#128075;&#127995;
+
