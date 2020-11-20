@@ -3,7 +3,7 @@ draft = true
 category = "technology"
 categories = ["technology"]
 tags = ["cms","consulting"]
-date = "2021-01-01"
+date = "2020-12-30"
 title = "An Analysis of CMS Options"
 description = "In which Alex describes his search for his client's perfect CMS."
 
