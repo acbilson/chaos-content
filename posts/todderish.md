@@ -16,7 +16,7 @@ Todderish, or the language of toddlers, may share words from other tongues, but 
 
 English-influenced Todderish steals several words. “No,” “mine,” and “more” being some of the most recognizable. Some you may not recognize or may associate with another meaning.
 
-Todderish conjunctions have no matching correlation to the host language. Their meaning is unclear, but the intent is mimicry filler phrases to pseudo-match the host language.
+Todderish conjunctions have no matching correlation to the host language. Their meaning is unclear, but the intent is mimicry filler phrases.
 
 {{< vocab
   word="Beekie"
