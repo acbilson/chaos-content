@@ -183,9 +183,9 @@ Todderish conjunctions have no matching correlation to the host language. Their 
 >}}
 
 {{< vocab
-  word="Yak"
+  word="Yawk"
   term="verb"
-  phonetic="yak"
+  phonetic="yäk"
   match="To kick, smack"
   example="Yak ball! I no yak de bebe."
 >}}
