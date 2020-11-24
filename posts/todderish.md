@@ -77,7 +77,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   word="Eitch"
   term="noun"
   phonetic="īch"
-  match="Light."
+  match="Light"
   example="No eitch."
 >}}
 
@@ -107,7 +107,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   word="Hoos"
   term="noun"
   phonetic="hüs"
-  match="Horse, or large dog."
+  match="Horse, or large dog"
   example="Hoos dere."
 >}}
 
@@ -115,7 +115,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   word="Lalo"
   term="noun"
   phonetic="lälō"
-  match="Yellow, or snack."
+  match="Yellow, or snack"
   example="I want da lalo."
 >}}
 
@@ -147,7 +147,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   word="Num-nuh"
   term="noun"
   phonetic="nəm-nə"
-  match="Cat, or small dog."
+  match="Cat, or small dog"
   example="Num-nuh meow."
 >}}
 
