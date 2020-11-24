@@ -24,3 +24,9 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 [Tom MacWright](https://macwright.com/) - Tom's site is minimalist, which is perfect considering the huge amount of content. I enjoy reading his posts because of his eclectic depth.
 
 [Ben Werdm&uuml;ller](https://werd.io/) - Like Tom, Ben has eclectic depth. I suppose it's because they both write about the direction of the Internet, politics, and their personal lives from time-to-time.
+
+[Matt Webb](http://interconnected.org/home/) - I so enjoy reading Matt's original and sci-fi-inspired thoughts. He's inspired me to include more theory in my writing and not only accounts of facts and learnings.
+
+[Kathy Fisher](http://www.aspeckledtrout.com/) - Kathy most recently writes about a devastating trauma with such grace and honesty that it brings me to tears, but I've found you can pick any article from her archive and find a gem.
+
+[Simon Willison](https://simonwillison.net/) - Simon is a prolific technical writer. His work, particularly his investment in [datasette](https://docs.datasette.io/en/stable/), was my first introduction to the world of data journalism.
