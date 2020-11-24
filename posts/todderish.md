@@ -1,7 +1,7 @@
 +++
 category = "personal"
 categories = ["personal"]
-date = "2020-11-27"
+date = "2020-11-24"
 description = "In which Alex explores the etymology of Todderish, or the language of toddlers."
 tags = ["children","language"]
 title = "Todderish"
@@ -32,6 +32,14 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bēsh"
   match="Beach"
   example="Go beesh?"
+>}}
+
+{{< vocab
+  word="Cawcox"
+  term="noun"
+  phonetic="kȯkäks"
+  match="Chocolate"
+  example="I got cawcox, me!"
 >}}
 
 {{< vocab
@@ -96,6 +104,22 @@ Todderish conjunctions have no matching correlation to the host language. Their 
 >}}
 
 {{< vocab
+  word="Hoos"
+  term="noun"
+  phonetic="hüs"
+  match="Horse, or large dog."
+  example="Hoos dere."
+>}}
+
+{{< vocab
+  word="Lalo"
+  term="noun"
+  phonetic="lälō"
+  match="Yellow, or snack."
+  example="I want da lalo."
+>}}
+
+{{< vocab
   word="Look"
   term="noun"
   phonetic="lük"
@@ -104,9 +128,17 @@ Todderish conjunctions have no matching correlation to the host language. Their 
 >}}
 
 {{< vocab
+  word="Nack"
+  term="noun"
+  phonetic="näk"
+  match="Snack"
+  example="I want nack dere, me."
+>}}
+
+{{< vocab
   word="Nonk"
   term="verb"
-  phonetic="näŋk"
+  phonetic="nōnk"
   match="To honk"
   example="Nonk, nonk!"
 >}}
@@ -115,7 +147,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   word="Num-nuh"
   term="noun"
   phonetic="nəm-nə"
-  match="Cat"
+  match="Cat, or small dog."
   example="Num-nuh meow."
 >}}
 
@@ -155,6 +187,6 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="verb"
   phonetic="yak"
   match="To kick, smack"
-  example="Yak ball!"
+  example="Yak ball! I no yak de bebe."
 >}}
 
