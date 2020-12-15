@@ -27,7 +27,7 @@ Let me list a few axioms.
 
 1. We humans flourish by loving God and neighbor with our whole being.
 
-2. To love God and neighbor isn't an ephemeral command about our intent or feelings, but about the actions we take in everyday life.
+2. To love God and neighbor isn't an ephemeral command about our intentions or feelings, but about the actions, we take in everyday life.
 
 3. The vast majority of our actions are subconscious, i.e. we react more than reason.
 
@@ -37,7 +37,7 @@ Let me list a few axioms.
 
 Now let me add to this one more:
 
-6. Habitual practice of loving acts is best fostered in community.
+6. Habitual practice of loving acts is best fostered in a community.
 
 So, following my dense logic,
 
@@ -54,7 +54,7 @@ Let's turn to the subject. When you consider how a Kingdom community might orien
 - discipleship groups
 - Sunday gatherings
 
-These four exist in tension, like rubber bands holding an object in suspension. A community that entirely lacks one of these bands may still suspend in air, but it means the other bands must exert greater tension to maintain center. Remove two and the community may suspend off-center; three and it dangles helplessly in space. The four meetings ought to stretch and contract to fit the cultural and circumstantial needs of geographical location in which the Kingdom community resides. While communities which lack one or more of these meetings exist as true Kingdom communities, the over-stretched nature of their existing communities puts them at greater risk of malformation.
+These four exist in tension, like rubber bands holding an object in suspension. A community that entirely lacks one of these bands may still suspend in the air, but it means the other bands must exert greater tension to maintain the center. Remove two and the community may suspend off-center; three and it dangles helplessly in space. The four meetings ought to stretch and contract to fit the cultural and circumstantial needs of the geographical location in which the Kingdom community resides. While communities that lack one or more of these meetings exist as true Kingdom communities, the over-stretched nature of their existing communities puts them at greater risk of malformation.
 
 <img src="../data/kingdom-community-diagram.svg" />
 
@@ -62,7 +62,7 @@ These four exist in tension, like rubber bands holding an object in suspension. 
 
 **Summary**
 
-Hindrances abound for the individual who seeks to grow in the fundamental qualities of a Christian; qualities such as obedience, humility, and compassion. Trauma, loneliness, spiritual attack, and a lack of self-awareness are a few reasons we don't develop deeper humility, comprehensive obedience, or genuine compassion. Close friendships, where individuals are welcome to encourage and confront one another from an intimate, confidential relationship, is a powerful means of character growth. Friendship groups, whether formally named or not, are about two to four people who move towards total commitment to one another, complete transparency, and a unified mission.
+Hindrances abound for the individual who seeks to grow in the fundamental qualities of a Christian; qualities such as obedience, humility, and compassion. Trauma, loneliness, spiritual attack, and a lack of self-awareness are a few reasons we don't develop deeper humility, comprehensive obedience, or genuine compassion. Close friendships, where individuals are welcome to encourage and confront one another from an intimate, confidential relationship, are a powerful means of character growth. Friendship groups, whether formally named or not, are about two to four people who move towards a total commitment to one another, complete transparency, and a unified mission.
 
 **Synonyms:** &bull; micro groups &bull; accountability partners &bull; teams
 
@@ -74,27 +74,27 @@ Hindrances abound for the individual who seeks to grow in the fundamental qualit
 
 **Intimacy over comfort**
 
-Friendship meeting exist to foster intimacy, which is a fundamental ingredient of personal transformation. There are few moments more powerful than when one shares one’s darkest secrets with another human being and receives compassion. Conversely, small talk is comfortable but devoid of intimacy. Seek intimacy.
+Friendship meetings exist to foster intimacy, which is a fundamental ingredient of personal transformation. Few moments are more powerful than when one shares one’s darkest secrets with another human being and receives compassion. Conversely, small talk is comfortable but devoid of intimacy. Seek intimacy.
 
 **Comraderie over diversity**
 
-Friendship meetings exist to bundle people together in resilient, transformative relationships. It's less relevant for a friendship meeting to have diverse viewpoints than to have common purpose.
+Friendship meetings exist to bundle people together in resilient, transformative relationships. It's less relevant for a friendship meeting to have diverse viewpoints than to have a common purpose.
 
 ## Special Interest
 
 **Summary**
 
-Transformation into the image of Jesus is an essential task of the Kingdom community, yet leaders recognize many adjacent needs which require attention to specific community segments. For example, financial wisdom deserves periodic attention, or the training of a weakly-represented spiritual gift, or healing for members with unresolved trauma.
+Transformation into the image of Jesus is an essential task of the Kingdom community, yet leaders recognize many adjacent needs that require attention to specific community segments. For example, financial wisdom deserves periodic attention, or the training of a weakly-represented spiritual gift, or healing for members with unresolved trauma.
 
 **Synonyms:** &bull; skill training &bull; topical teaching
 
 **Biblical examples:**
 
-- Paul, Pricilla and Aquilla at work making tents
+- Paul, Pricilla, and Aquilla at work making tents
 
 **Instruction over friendship**
 
-Special interest meetings target a segment of the Kingdom community to bolster it's health and welbeing. Any friendship built as the result of shared experience is welcome but tangential to the meeting's purpose.
+Special interest meetings target a segment of the Kingdom community to bolster its health and wellbeing. Any friendship built as the result of shared experience is welcome but tangential to the meeting's purpose.
 
 **Practice over knowledge**
 
@@ -124,7 +124,7 @@ Discipleship meetings are centers of diversity. It's less important that everyon
 
 **Discovery over instruction**
 
-Discipleship meetings facilitate discovery of the Bible's claims whatever prior experience an individual may possess. All participants grant space for others to learn at their own pace, and actively avoid building knowledge hierarchies.
+Discipleship meetings facilitate the discovery of the Bible's claims whatever prior experience an individual may possess. All participants grant space for others to learn at their own pace, and actively avoid building knowledge hierarchies.
 
 **Innovation over conformity**
 
@@ -154,14 +154,14 @@ Kingdom communities benefit tremendously when the roles and gifts of all Christi
 
 **Effect over regularity**
 
-Sunday gathering have been regulated more than any other meeting. Regulations include: weekly meetings that are seeker-friendly, feature a single speaker and offer community announcements. These regulations, and others like them, are less important than the effect Sunday gatherings have to unify the disparate parts of the Kingdom community towards a common vision. Sunday gatherings may become more relevant if less frequent.
+Sunday gatherings have been regulated more than any other meeting. Regulations include: weekly meetings that are seeker-friendly, feature a single speaker, and offer community announcements. These regulations, and others like them, are less important than the effect Sunday gatherings have to unify the disparate parts of the Kingdom community towards a common vision. Sunday gatherings may become more relevant if less frequent.
 
 **Celebration over discovery**
 
-Sunday gatherings remind participants of their shared purpose: to love God and their neighbors. The opportunity to celebrate with one another is the more valuable because it is so rarely done.
+Sunday gatherings remind participants of their shared purpose: to love God and their neighbors. The opportunity to celebrate with one another is valuable because it is so rarely done.
 
 # Confession
 
-This manifesto is incomplete, for who can escape the gravity of one's own circumstances to envision a community different from one's own? It is bound by my humanity, by time and space, by errors, foibes, and misunderstandings. Nonetheless, it is uniquely my own, and I believe that I also have a measure of God's Spirit.
+This manifesto is incomplete, for who can escape the gravity of one's circumstances to envision a community different from one's own? It is bound by my humanity, by time and space, by errors, foibles, and misunderstandings. Nonetheless, it is uniquely my own, and I believe that I also have a measure of God's Spirit.
 
 Thank you for listening.
