@@ -3,45 +3,6 @@ IsHome = true
 kind = "home"
 title = ""
 +++
-<style>
-
-div.home-page {
-  display: flex;
-  flex-flow: column nowrap;
-}
-
-div.title-body {
-  margin-left: 2%;
-
-}
-
-.title-img-container {
-    position: relative;
-    width: 70%;
-    height: auto;
-    margin: auto;
-}
-
-.title-img {
-    border-radius: 50%;
-}
-
-#covid {
-  border: 6px double black;
-  padding: 10px;
-}
-
-/* maximized screen */
-@media screen and (min-width: 80em) {
-
-  div.home-page {
-    display: flex;
-    flex-flow: row nowrap;
-  }
-}
-
-</style>
-
 <div class="home-page">
   <div class="title-img-container">
     <img class="title-img" src="https://30odha.by.files.1drv.com/y4mKYu6Uh5IYc_-I2yvtnVVEfXY4lJGm960ILB0GLEYamEMHduu_C4BgCJeP3yBc6OjrU8-Stml9OB7kLSdBTpcmuVtmGL-7TdUOSgSCjvAHb6Fs0eMpSYjoHBvK_YT7qTQjwFiWimA_8hb-Is5zNRnfelGBXsya1K-OLg_rkzOw3L2eLQ9ff92PMD0D-aq8dAQjCreVni7aX3vUFO1-Y5R8Q?width=495&height=660&cropmode=none" alt="Graham on Alex's Shoulders">
