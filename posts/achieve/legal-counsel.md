@@ -6,8 +6,8 @@ description = "In which Alex describes a consult to deliver a case notes tool fo
 categories = ["Business"]
 tags = ["consulting"]
 [featuredImage]
-  large = "https://f3uhag.by.files.1drv.com/y4mwZT3h_EZYyG24t9kr2WLvDcCxUZ_-Bm_4IVU-1wpJjWaBeuUkCHNRX2Vt_Jjq1AlFFr0waU8o4AG087RwrRofXnDxL3Gwh44ZRVQ1i7T_y9HE2fZJ1z7Va00UJExAhKCQzaKssJYLrwV_4HvSQAqpxbLay-XE9Q0YdIYvZUVgbMj4Eb6iZwf7HOwtZmZZy5akBXuWuq2c3wIzKk1SH9fHg?width=768&height=1024&cropmode=none"
-  small = "https://f3uhag.by.files.1drv.com/y4mwZT3h_EZYyG24t9kr2WLvDcCxUZ_-Bm_4IVU-1wpJjWaBeuUkCHNRX2Vt_Jjq1AlFFr0waU8o4AG087RwrRofXnDxL3Gwh44ZRVQ1i7T_y9HE2fZJ1z7Va00UJExAhKCQzaKssJYLrwV_4HvSQAqpxbLay-XE9Q0YdIYvZUVgbMj4Eb6iZwf7HOwtZmZZy5akBXuWuq2c3wIzKk1SH9fHg?width=768&height=1024&cropmode=none"
+  large = "https://by3301files.storage.live.com/y4mqyv_VVEJy--OPpYyjROc2Cospc-e6RXeBeY_z1a-gzaDPP1Wq3MlGHmE9BIlNAh9Xjn-wbykqDzf0slDUTXLQA-qyyDRG42Zc5qWKaIUDPbstdzY9FogKCDqqNkBbUpACNGd_tv3Q_us_Tip4P4N6EMrT6dau5jmj-wfZaYZJttxJs7kxZ6a5M8jeRgV6LfE?width=768&height=1024&cropmode=none"
+  small = "https://by3301files.storage.live.com/y4mqyv_VVEJy--OPpYyjROc2Cospc-e6RXeBeY_z1a-gzaDPP1Wq3MlGHmE9BIlNAh9Xjn-wbykqDzf0slDUTXLQA-qyyDRG42Zc5qWKaIUDPbstdzY9FogKCDqqNkBbUpACNGd_tv3Q_us_Tip4P4N6EMrT6dau5jmj-wfZaYZJttxJs7kxZ6a5M8jeRgV6LfE?width=192&height=256&cropmode=none"
   alt   = "Relativity Mug"
 +++
 

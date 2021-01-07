@@ -7,9 +7,9 @@ tags = ["spiritual-gifts"]
 title = "My Gifting"
 
 [featuredImage]
-  alt = "Graham Opens A Package"
-  large = "https://2uobha.by.files.1drv.com/y4mlLPIh3chrcIgzLnMdvPUJWxeusIfYGrb-hg9v4ZPVDNht8OPpDT4NBgUR-_cczBRcz5654oFvzYEpcZ1N_mhrncCNQVennFT04R55B3JqcKUqrtH4hSnQItZhYVonNRnlvqlYjEEMyBWZrbjj_Hd67So_2opZr8o-TdHXZCSCpOS5Xd5a5Q5kjush5dYhwXgbOAd7w-yaXjpmXSxyWAVkg?width=768&height=1024&cropmode=none"
-  small = "https://2uobha.by.files.1drv.com/y4mlLPIh3chrcIgzLnMdvPUJWxeusIfYGrb-hg9v4ZPVDNht8OPpDT4NBgUR-_cczBRcz5654oFvzYEpcZ1N_mhrncCNQVennFT04R55B3JqcKUqrtH4hSnQItZhYVonNRnlvqlYjEEMyBWZrbjj_Hd67So_2opZr8o-TdHXZCSCpOS5Xd5a5Q5kjush5dYhwXgbOAd7w-yaXjpmXSxyWAVkg?width=192&height=256&cropmode=none"
+  alt = "Royal Opens A Package"
+  large = "https://by3301files.storage.live.com/y4m2Lt7J8xSg8FaNKRnIX9Kw7oWDeLxCjtLHjhGkNkLq39YIi_pbIC4u5nu2GO7l-dIxOaLM844tT-cp9rV6rqvm9udQgcL3B98maZzPG6Y73t5hv6Ege2V0-haOY-od0OFzQvSuRTXW9WoYcawlQZ_n-QSSizQepKAxXKAJiCOIsLZ39e6NhNlBVJO4aZ0oLth?width=768&height=1024&cropmode=none"
+  small = "https://by3301files.storage.live.com/y4m2Lt7J8xSg8FaNKRnIX9Kw7oWDeLxCjtLHjhGkNkLq39YIi_pbIC4u5nu2GO7l-dIxOaLM844tT-cp9rV6rqvm9udQgcL3B98maZzPG6Y73t5hv6Ege2V0-haOY-od0OFzQvSuRTXW9WoYcawlQZ_n-QSSizQepKAxXKAJiCOIsLZ39e6NhNlBVJO4aZ0oLth?width=768&height=1024&cropmode=none"
 +++
 
 What I'm about to share with you makes me extremely uncomfortable.
