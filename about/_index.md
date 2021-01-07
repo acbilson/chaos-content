@@ -57,4 +57,8 @@ Through-hiking &bull;
 World History &bull;
 Writing
 
+![Amie and I](https://by3301files.storage.live.com/y4mBLEWXuY0DB-gntRGAvu7i7F5rXLBtus2hhx9Bdq2IovwVHqTg_EP6H6OkGdxn-CSBWJYkrXcvo4PNjoEZr8ClouqApuNtr8AdPnVc9_glcksRusLqu1n6ZODEjOt0B5LfZ1gSU1RlbnASW8FVzWi5sSSNNKAzw4tAFIUvaiB7FPLLzSPIkdqQCX9QhY6Z_FN?width=640&height=480&cropmode=none)
+
 ![Amie Graham and I](https://35zmqq.by.files.1drv.com/y4mbGEZHZJKgJN3Hru5PdJrixJOzpFzs5Hn36J7Zm0mKrW93ZtyYjzZIXJoXdN7285w_yMRYFiqIBn8cZH3TfGFXrTY3G1eA017xbahRpMSJT54iO88jZpYJIsLpEP-9mMlbIXMO9fQ2GMxcvL0Xq5D48_vbgUKwCHFf7jipikJ3p0s_GigiARcw0c18ljR9_7ffpY_Bt5FP2HRBTT7wjmgjg?width=770&height=1024&cropmode=none)
+
+![Amie Graham and I](https://by3301files.storage.live.com/y4mqbGELUQHW70-pDQQY3maN_E1kl61OfMhWXj6Mw60KSyrBSEJrjk-LTaTPAfvDWVs6uQzc3K6dB1WsjS6rO-eRVBm6CfeGZLdIAstdisfkjJTWt4O8Ke-sSkUy5z23VUlrmVV2gjHD-p1n1Bttkqqimoeq4o3vgNgfUkF00fJoXlXPe0j2SvUVMZg2Q1ZR6mb?width=4032&height=3024&cropmode=none)
