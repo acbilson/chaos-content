@@ -140,7 +140,7 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 title="Programming Languages"
 headers="Language|Acumen"
 rows="C#|9^Python|8^JavaScript|8^T-SQL|7^Rust|4"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^PyLexLib|https://github.com/acbilson/py-lex-lib^statement-converter|https://github.com/acbilson/statement_converter"
+examples="Budget App|https://github.com/acbilson/plaintext-budget^PyLexLib|https://github.com/acbilson/py-lex-lib^statement-converter|https://github.com/acbilson/statement_converter^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
 >}}
 
 {{< table
@@ -161,14 +161,14 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 title="DevOps Tools"
 headers="Language|Acumen"
 rows="Docker+Compose|9^Hugo|9^NPM+Webpack|8^Ansible|7"
-examples="Budget App|https://github.com/acbilson/plaintext-budget"
+examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
 >}}
 
 {{< table
 title="SysAdmin Tools"
 headers="Language|Acumen"
 rows="PowerShell|10^Nginx|8^Bash Shell|7^OpenSSH|7^strace|5^netstat|5"
-examples="ps-git-sync|https://github.com/acbilson/ps-git-sync^computer-vision-psmodule|https://github.com/acbilson/computer-vision-psmodule"
+examples="ps-git-sync|https://github.com/acbilson/ps-git-sync^computer-vision-psmodule|https://github.com/acbilson/computer-vision-psmodule^dotfile-config|https://github.com/acbilson/config"
 >}}
 
 {{< table
