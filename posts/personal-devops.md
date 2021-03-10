@@ -1,6 +1,6 @@
 +++
 category = "technology"
-date = "2021-03-12"
+date = "2021-03-10"
 title = "Personal DevOps"
 description = "In which Alex catalogs his thought progression from bare-metal to Kubernetes."
 categories = ["technology"]
