@@ -14,7 +14,7 @@ toc = true
 +++
 As a painter returns to his work to apply a fresh layer of dimension, so I hope to further define my original [Kingdom Manifesto](). I will dispense with the introductory work and apply new strokes to the largest of the Kingdom meetings, Sunday gatherings.
 
-# Sunday Gatherings - Misidentified
+# Sunday Gatherings as a Service (SGAAS)
 
 The centrality of the Sunday gathering is embedded in the United State's social fabric. It is the subject of countless books, podcasts and blogs, and has developed an entire vocabulary. Consider some Sunday-specific slang:
 
@@ -26,9 +26,17 @@ A church that's labeled "seeker-friendly" tries to reduce the seeker's chasm-jum
 
 A church with member registration is trying to weed out the "seekers" from the "finders" (made that last up). A member registry is useful for a number of reasons, such as to count the actual number of committed ~attendees~ Christians to gauge the relative growth of church commitment over time.
 
-If you work in a marketing department, these definitions might be familiar with different terms. Swap "seeker" for "visitor," "member" for "customer", and the rate of church commitment as the "conversion rate." I don't know who stole which idea from whom, but there's comical overlap.
+If you work in a technology marketing department, these definitions might be familiar with different terms. Swap "seeker" for "visitor," "member" for "customer", and the rate of church commitment as the "conversion rate." I don't know who stole which idea from whom, but there's comical overlap.
 
-I want you to understand with this tongue-in-cheek slang comparison that the Sunday gathering is conceptualized and marketed exactly the same way that a company conceptualizes its core offering. As radical as a salesperson announcing that we have misidentified our company's fundamental service, I propose that we the Church have mistaken the Sunday gathering as our fundamental service.
+I want you to understand with this tongue-in-cheek slang comparison that the Sunday gathering is conceptualized and marketed exactly the same way that a company conceptualizes its core offering. As radical as an entrepreneur announcing that to his company that we've misidentified our company's fundamental service, I propose that we the Church have mistaken the Sunday gathering as our fundamental service. We the church need an innovative disruption to stay "relevant."
+
+# Sunday Gatherings in a new Light
+
+Ok, so I've just stated that Sunday gatherings are not a fundamental service. Does that mean we do away with them? By no means! Instead, let's place the Sunday gathering in a more modest position alongside the other three meetings/services. You may call them "the four fundamental services" if you'd prefer alliterative genius.
+
+- discovery 1: a church without a sunday gathering is still a church
+- discovery 2: an attendee that's not a member is still a committed Christian
+- discovery 3: a startup church may require significantly fewer resources than expected
 
 -----------------------
 
