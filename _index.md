@@ -11,6 +11,7 @@ title = ""
 
   <div class="title-body">
       <p>New content here</p>
+      <p>YES!</p>
       <p>Welcome! You can call me Alex.</p>
       <p>If you're here to work together, check out my <a href="#card">card</a>.</p>
       <p>If you're here to read my writing, scroll down to peruse my latest work or see it all <a href="{{< ref "/posts" >}}">here</a>.</p>
