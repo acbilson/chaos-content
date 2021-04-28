@@ -18,9 +18,9 @@ I've been journeying with Madeleine L'Engle among the stars, trying to grasp the
 <p>"Charged and luring where you fly<br />
 Are you the flicker of a sign and wonder<br />
 Or just some great misfire"<br />
-- [Silicone Boone, Diamond](http://siliconeboone.com/)</p>
+- <a href="http://siliconeboone.com/">Silicone Boone, Diamond</a></p>
 </blockquote>
-{{< \ raw >}}
+{{< / raw >}}
 
 The stars have long been a portal into the wonder of God's power and majesty, but the mysteries we've uncovered from their light complicate our notions of God's handiwork. The unfathomable distance, the speed of expansion, the raging fire and cold darkness of the cosmos all serve to stretch one's mental framework for God, faith, and human dignity.
 
