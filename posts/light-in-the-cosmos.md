@@ -30,7 +30,7 @@ The imaginations of some scientists view all these facts and conclude that it's 
 
 A dialogue in _Dragons in the Waters_ mirrors my own doubt. To quote Simon,
 
-> "If [God] has all of these galaxies and all of these start and all of these planets, I wouldn't think he'd have much time left over for people ([L'Engle](#citations), pg 332])."
+> "If [God] has all of these galaxies and all of these stars and all of these planets, I wouldn't think he'd have much time left over for people ([L'Engle](#citations), pg 332])."
 
 The wise Aunt Leonis acknowledges later in the dialogue,
 
