@@ -11,7 +11,7 @@ tags = ["faith", "stars", "doubt", "silicone-boone"]
   small = "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
   alt   = "Photo by Greg Rakozy on Unsplash"
 +++
-{{<photoref "" "https://unsplash.com/@grakozy" >}}
+{{<photoref "Greg Rakozy" "https://unsplash.com/@grakozy" >}}
 
 I've been journeying with Madeleine L'Engle among the stars, trying to grasp the majesty of the heavens and yet hold confidently to God's intimacy with humanity. Listening to Silicone Boone has given lyrics to much of my own experience. I'm enjoying these today:
 
