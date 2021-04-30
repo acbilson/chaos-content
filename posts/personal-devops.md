@@ -46,17 +46,17 @@ When I came back to the problem, I decided to create a network diagram to descri
 
 A diagram is worth ten thousand words, so here's what I've modeled. First, my existing architecture.
 
-{{ raw }}
+{{< raw >}}
 <img style="background-color: white; padding: 10px 0;" src="../data/arch/bare-metal_deployment.svg" />
-{{ / raw }}
+{{< / raw >}}
 
 Notice how simple it is. When I push an update to my site, my webhook service pulls the update and compiles the site for nginx to serve. If I send an update with my publishing service, it stores the new file in my content repo, pushes a change, and the same webhook process fires. To load data onto my static site I run a datasette instance. Simple and effective.
 
 Then, my proposed kubernetes cluster architecture.
 
-{{ raw }}
+{{< raw >}}
 <img style="background-color: white; padding: 10px 0;" src="../data/arch/k3s_deployment.svg" />
-{{ / raw }}
+{{< / raw >}}
 
 I've split the deployment into two because my site does not depend upon the data server to operate, but it does depend upon my build and publish server to manage my own CD process. I've also moved from a model where every time I publish it stores a new file, pushes it to my repo, and rebuilds to a scheduled build. I've kept the publish and buld processes separate so that I can still support either or both options, but I've found that I don't care that much about seeing what I publish immediately render on my site.
 
