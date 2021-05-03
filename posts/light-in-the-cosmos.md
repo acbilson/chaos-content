@@ -3,6 +3,7 @@ category = "spiritual"
 title = "Light in the Cosmos"
 date = "2021-04-27"
 description = "In which Alex explores the cosmos with music and fiction."
+comments = true
 categories = ["personal", "spiritual"]
 citations = ["L'Engle, Madeliene. Dragons in the Waters (1976) found in The Polly O'Keefe Quartet.", "L'Engle, Madeliene. Paraphrase from Albert Einstein's The World As I See It (1949) as found in Madeliene L'Engle's Smith College 50th Reunion Speech (1991) in The Polly O'Keefe Quartet."]
 tags = ["faith", "stars", "doubt", "silicone-boone"]
