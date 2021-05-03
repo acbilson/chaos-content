@@ -6,7 +6,7 @@ tags = ["cms","consulting"]
 date = "2020-12-30"
 title = "An Analysis of CMS Options"
 description = "In which Alex describes his search for his client's perfect CMS."
-
+comments = true
 [featuredImage]
   alt = ""
   large = ""

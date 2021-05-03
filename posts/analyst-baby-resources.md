@@ -6,7 +6,7 @@ description = "In which Alex shares his analytical family's favorite online baby
 draft = false
 tags = ["children"]
 title = "The Analyst's List of Baby Resources"
-
+comments = true
 [featuredImage]
   alt = "Empty Crib Noir"
   large = "https://twqn6g.by.files.1drv.com/y4m_5yoB6UNlpaRbrnyz0DjQ8NM1_6I6IUzPd-fBem9jURYtjQ3RRBHdjqGaGSJ2xbbnGb-s3L8q58GgXtwUrUYcza5O-_Izpc6Qa3jVITE_hNFGQyIJNusT9SZxwLCbuX6gPdNzTZP-zuiaLuo-MP4A-SoEBu3YTwQe183uB1YWcy8S78lc5fGn-KR4RXPu97qrOHrQzEVmZ7Dh6aiOEQD5A?width=768&height=1024&cropmode=none"

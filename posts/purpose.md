@@ -5,7 +5,7 @@ date = "2020-01-29"
 description = "In which Alex explores the purpose of this blog."
 tags = ["children", "purpose"]
 title = "Purpose"
-
+comments = true
 [featuredImage]
   alt = "Graham Plays with Animals"
   large = "https://he0y0g.by.files.1drv.com/y4mig_U5MIyDbduriZ81kdl7IP0tTt-nMhMz0OCPY0_fausCvV-WGZZLqx5AU8UD8VjY-yX5IClhTzlE-gm2zEVv27RzKNTsf0TLJgNJyu-sSn31LK9xieT39S4DBC7H_fWv8-YWHfkw5PBIraKKyQ-afClFstZp67YdIfTPaYzn-IOobKNpZJVg714DBZ2vmP_nNVw_Tuak4Ey0-RBDXjUaQ?width=768&height=1024&cropmode=none"

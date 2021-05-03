@@ -5,7 +5,7 @@ date = "2020-02-07"
 description = "In which Alex considers how parenthood changes his relationship with sickness."
 tags = ["children", "parenthood"]
 title = "A Parent's Relationship with Sickness"
-
+comments = true
 [featuredImage]
   alt = "Graham Plays with Animals"
   large = "https://5uorna.by.files.1drv.com/y4m4mrB0wQ8bwk9I2O2izw91xZVxkAryNBPI8WPgSLX3SaCBr9sbHfAqffY4rdHuI4loOed59ht56kyXjnTZFbq78RNPujAFdDtMnSdv1sjgDugSXN9HUDoVCeLF4o8K5TotFIU82CLzf93Kgeg2AG4zDrFKsWtXE0hVB0reRvAu7rFaKnUPpr1xUGcq9PQVKJzx80GJ1yU1izNq3OriccbtQ?width=768&height=1024&cropmode=none"

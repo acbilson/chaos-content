@@ -5,7 +5,7 @@ categories = ["personal"]
 description = "In which Alex reminisces about his beloved."
 tags = ["gratitude"]
 title = "What I Love About Amie"
-
+comments = true
 [featuredImage]
   alt = "Amie and Alex on Lover's Lane"
   large = "https://rcgiwa.by.files.1drv.com/y4mfOGgJ3bGwJSOcs23sQ37E6dslwOuQIw2FznDA8wTN--cqcVDe1KdsjqgK6vjczfPnuSz6RTtj_lJBtyHhpR1ZCmf37w2QaFa-8ZZj6ZjZ3bi8v9TM3RSdUjLXSOIcuEsYBWekQlBI_KUja5MNXmL64yB5Adwox4b9AkGktYJm2eQZ02sbmFFFb8uixJyc2U2Rccae3_eNBtj5d0PldQuBw?width=1024&height=768&cropmode=none"

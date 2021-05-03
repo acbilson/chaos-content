@@ -5,7 +5,7 @@ date = "2020-06-17"
 description = "In which Alex enumerates six tenents to guide any community transformation endeavor."
 tags = ["discipleship", "transformation", "chicago"]
 title = "Tenents of Community Transformation"
-
+comments = true
 [featuredImage]
   alt = "Blooming Flower"
   large = "https://gnvtpa.by.files.1drv.com/y4mXsbev3ihrZnv_4QGpEVrnPv7iLh_aKrSAd_pw-RWzVUVowX5HWi7eXBU7Zjm6M0hb7Bt4ZLbXeni1sUlBeMo5zD3gdSiRmCONpDtWyNziNDlaFl9EFBW1grUHiyjArHxK2laZS9MfjhKAYjbM84mRn-TT5_6FjA35MROBzGpgaEYaBcVV_bwj7Po_A7ZQerawviJaXqdCFGepY0MXMyJrQ?width=768&height=1024&cropmode=none"

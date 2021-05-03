@@ -6,6 +6,7 @@ date = "2020-10-14"
 description = "In which Alex digs into one of Jesus' parables and what it means for his life."
 categories = ["personal"]
 tags = ["family", "righteousness"]
+comments = true
 [featuredImage]
   large = ""
   small = ""

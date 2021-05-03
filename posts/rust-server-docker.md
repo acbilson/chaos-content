@@ -5,7 +5,7 @@ date = "2020-06-24"
 description = "In which Alex shares his first foray using Rocket with Docker."
 tags = ["rustlang", "docker"]
 title = "Rocket Server in Docker"
-
+comments = true
 [featuredImage]
   alt = "Photo by SpaceX on UnSplash"
   large = "https://images.unsplash.com/photo-1517976547714-720226b864c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"

@@ -4,6 +4,7 @@ title = "American Racism"
 date = "2020-05-29"
 description = "In which Alex exposes a chronic American injustice."
 categories = ["personal"]
+comments = true
 tags = ["racism", "justice"]
 [featuredImage]
   large = "https://images.unsplash.com/photo-1590715487984-2c0331f2292c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"

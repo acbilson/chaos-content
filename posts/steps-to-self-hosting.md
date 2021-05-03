@@ -7,7 +7,7 @@ dropCap = false
 toc = true
 tags = ["hosting", "server"]
 title = "Steps to Self Hosting"
-
+comments = true
 [featuredImage]
   alt = "Graham on a Block Cycle"
   large = "https://uwroja.by.files.1drv.com/y4mOfiFdz2sYcWeBbnlwv5Edazg8EUrV36VtacrZTHNo3wIwG0m3oaYnbK0-ySkYaMaGaP5EP9vgFT0eBRXhCF5w8fQcMEr3l39vBknGXazWEVYr1TD-HFdCz67uivJjh68Os3WIS9iz0YK3Vl4tHiJYvatWT3wM9EE0CTLkkUXvXMcKhemyXZCwirQgLnuRP6J_iPRxjQMeWvz9b4KEqZhDg?width=768&height=1024&cropmode=none"

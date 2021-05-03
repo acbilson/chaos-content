@@ -5,6 +5,7 @@ title = "How To Start Writing"
 description = "In which Alex describes how to get started writing your own online content."
 categories = ["Business"]
 tags = ["writing", "consulting"]
+comments = true
 [featuredImage]
   large = "https://by3302files.storage.live.com/y4mRMZxFjSlXDz595547grJ2Kdu_3Wkbmr3aSaExC1738tG81aB-NV3mgKtNH-Bsc4pC8rG27KnnVXfLRzZ42R1pO8ATj_O6jHfKIrvS9rLXyksqALGl4vXn0Cx7lxB4Wia7Vay0ptqjS4LkXMlY_tkpcBZOpZyfj-BHK9Q5xPVvTFdrfKDDjEzyMJKjS2R8uuo?width=768&height=1024&cropmode=none"
   small = "https://by3302files.storage.live.com/y4mRMZxFjSlXDz595547grJ2Kdu_3Wkbmr3aSaExC1738tG81aB-NV3mgKtNH-Bsc4pC8rG27KnnVXfLRzZ42R1pO8ATj_O6jHfKIrvS9rLXyksqALGl4vXn0Cx7lxB4Wia7Vay0ptqjS4LkXMlY_tkpcBZOpZyfj-BHK9Q5xPVvTFdrfKDDjEzyMJKjS2R8uuo?width=192&height=256&cropmode=none"
