@@ -5,6 +5,7 @@ title = "Personal DevOps"
 description = "In which Alex catalogs his thought progression from bare-metal to Kubernetes."
 categories = ["technology"]
 tags = ["consulting", "bare-metal", "raspberrypi", "ci/cd", "k3s"]
+comments = true
 [featuredImage]
   large = "https://bn02pap001files.storage.live.com/y4mzPw7Fpg9BxjkAp7GJ85UMQwRvbYOJg2WsJNfj07VP-D_r02oepgkx3DEqcgRSUi0eCc8Mv6PER6Te-Zfl8N62H-mQPVyHXBvNy7zXwrM2z12vEswjTuPbXf_6IwZyoI_lKcNfTF5MYwekOBu_rVu6PDsS-1lfA0cwcmFH_lWdWZdV_0ZLkJfqj6HjNzXayPy?width=768&height=1024&cropmode=none"
   small = "https://bn02pap001files.storage.live.com/y4mzPw7Fpg9BxjkAp7GJ85UMQwRvbYOJg2WsJNfj07VP-D_r02oepgkx3DEqcgRSUi0eCc8Mv6PER6Te-Zfl8N62H-mQPVyHXBvNy7zXwrM2z12vEswjTuPbXf_6IwZyoI_lKcNfTF5MYwekOBu_rVu6PDsS-1lfA0cwcmFH_lWdWZdV_0ZLkJfqj6HjNzXayPy?width=192&height=256&cropmode=none"

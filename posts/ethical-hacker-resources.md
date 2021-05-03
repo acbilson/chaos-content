@@ -6,7 +6,7 @@ description = "In which Alex supplies a master list of his notes on ethical hack
 dropcap = false
 tags = ["security"]
 title = "Ethical Hacker Resources"
-
+comments = true
 [featuredImage]
   alt = "Graham Hacks on Computer"
   large = "https://3urseq.by.files.1drv.com/y4mdiDQgm-HdM-cjE8mAIdkdajVAZLj-CCDr-fqcj_MNL5_kM-tr-rc6IApxigB4n5APgeg-dMWhjuPi-VmO1t3xg3L8nPgqcap7yxAK3eaOgfk7lHZZq29_vvpiRvaU6pV16yFq4xhhwenedjYd_6F2Rn_txqj0Xpjjf6Ij4kiERDvsR6NJ7XE0T1eRGnxNVd7GLAaD108zMD28g2ZyeJGWg?width=768&height=1024&cropmode=none"

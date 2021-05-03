@@ -4,6 +4,7 @@ date = "2020-05-27"
 categories = ["business","spiritual"]
 description = "A book recommendation for Larry Burkett's book, Business by the Book"
 dropcap = false
+comments = true
 tags = ["integration","ethics"]
 title = "Reject: Business by the Book"
 citations = ["Burkett, Larry. Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006"]

@@ -4,6 +4,7 @@ title = "Jordan Field Support"
 description = ""
 draft = true
 dropCap = true
+comments = true
 categories = ["Personal"]
 tags = ["consulting"]
 [featuredImage]

@@ -6,7 +6,7 @@ description = "In which Alex introduces his approach to community discipleship a
 draft = true
 tags = ["discipleship", "revival", "chicago"]
 title = "What I Love About Discovery"
-
+comments = true
 [featuredImage]
   alt = ""
   large = ""

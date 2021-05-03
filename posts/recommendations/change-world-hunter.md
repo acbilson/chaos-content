@@ -5,6 +5,7 @@ date = "2021-01-01"
 categories = ["spiritual"]
 description = "A book recommendation for James Hunter's book, To Change the World"
 dropcap = false
+comments = true
 tags = ["integration","modernism","culture"]
 title = "Consider: To Change the World"
 toc = true

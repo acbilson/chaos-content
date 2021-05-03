@@ -5,6 +5,7 @@ date = "2020-07-29"
 description = "In which Alex shares his first foray into Ansible."
 categories = ["technology"]
 tags = ["ansible"]
+comments = true
 [featuredImage]
   large = "https://imiigq.by.files.1drv.com/y4mybL004JUY7qjzKg-WxUEhIFeRiJDRMKjb7Eo0rHxzP6GLLx2iagJilJfwrz0vFY8IFinvHGxjPttOvjgTSuJTZQmtZkUUVb-vu3Yh_2XYkBWtLOXu6lrMADI04KdAc4LWc0uilJ8K-c__wTgYyfJ-jeSGGYurl79VRIukTZqZc9elEW06hjhl3v9dRvs3u1uRV52Im2A5vv6rimaNXtt2A?width=768&height=1024&cropmode=none"
   small = "https://imiigq.by.files.1drv.com/y4mybL004JUY7qjzKg-WxUEhIFeRiJDRMKjb7Eo0rHxzP6GLLx2iagJilJfwrz0vFY8IFinvHGxjPttOvjgTSuJTZQmtZkUUVb-vu3Yh_2XYkBWtLOXu6lrMADI04KdAc4LWc0uilJ8K-c__wTgYyfJ-jeSGGYurl79VRIukTZqZc9elEW06hjhl3v9dRvs3u1uRV52Im2A5vv6rimaNXtt2A?width=192&height=256&cropmode=none"

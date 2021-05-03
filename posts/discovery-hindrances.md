@@ -6,7 +6,7 @@ date = "2020-11-04"
 description = "In which Alex desribes hindrances to the discovery process."
 tags = ["bible", "interpretation"]
 title = "Hindrances to Discovery"
-
+comments = true
 [featuredImage]
   alt = ""
   large = ""

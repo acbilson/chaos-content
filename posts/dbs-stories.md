@@ -4,6 +4,7 @@ date = "2020-08-05"
 title = "Discovery Bible Study Stories"
 description = "In which Alex shares a litany of DBS stories."
 categories = ["Spiritual"]
+comments = true
 tags = ["dbs","small-group","community"]
 [featuredImage]
   large = "https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=1024&height=768&cropmode=none"

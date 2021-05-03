@@ -5,6 +5,7 @@ title = "Your Kingdom Come"
 description = "In which Alex ponders the meaning of the prayer, 'your Kingdom come.'"
 categories = ["Spiritual"]
 tags = ["kingdom", "prayer"]
+comments = true
 addendum = [
   "Matthew marks section bookends at Matthew 4:23 and 9:35. Both verses are nearly identical. This is strong evidence that the content between the bookends elaborate on the summary of Jesus' teaching and acts."
 ]

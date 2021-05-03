@@ -5,7 +5,7 @@ date = "2020-02-26"
 description = "In which Amie interviews Alex about his experience with infertility."
 tags = ["children", "infertility"]
 title = "What to Expect When You're Not Expecting"
-
+comments = true
 [featuredImage]
   alt = "Man Looking into Desert"
   large = "https://i2.wp.com/optimumjoyclinicalcounseling.com/wp-content/uploads/2019/09/Copy-of-Part-one.png?resize=560%2C315&ssl=1"

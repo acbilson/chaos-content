@@ -7,6 +7,7 @@ description = "In which Alex paints a second coat on one of the Church's fundame
 categories = ["Spiritual"]
 tags = ["community","kingdom"]
 toc = true
+comments = true
 [featuredImage]
   large = "https://fskkpa.by.files.1drv.com/y4mQ5ceOyFkBdYGZSFhuB5I5u8-qOf3R55IZL5lkyT8PF4o_FOUl8F_D9UN4_9m-dMGISyZjKDp7Sa66GDdkih7B_1HdJsPak-UJMzMUQi_-ZJEq488odFDZT81bMpF5pwzYr8bnqtUBE_TIXxRObhB1AM7RfrgXmONXQ1ldmXHYWsPSV6w_BkIsRfmGze4TFeU7LmNZrYpleMtg52RBTiTXg?width=768&height=1024&cropmode=none"
   small = "https://fskkpa.by.files.1drv.com/y4mQ5ceOyFkBdYGZSFhuB5I5u8-qOf3R55IZL5lkyT8PF4o_FOUl8F_D9UN4_9m-dMGISyZjKDp7Sa66GDdkih7B_1HdJsPak-UJMzMUQi_-ZJEq488odFDZT81bMpF5pwzYr8bnqtUBE_TIXxRObhB1AM7RfrgXmONXQ1ldmXHYWsPSV6w_BkIsRfmGze4TFeU7LmNZrYpleMtg52RBTiTXg?width=192&height=256&cropmode=none"

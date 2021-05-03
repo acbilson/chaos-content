@@ -6,7 +6,7 @@ description = "In which Alex meditates on what effect a hope of reward beyond th
 draft = true
 tags = ["hope", "kingdom"]
 title = "Expectation of Reward"
-
+comments = true
 [featuredImage]
   alt = ""
   large = ""

@@ -3,6 +3,7 @@ category = "personal"
 title = "Wedding Planning"
 description = ""
 draft = true
+comments = true
 categories = ["Personal"]
 tags = ["consulting"]
 [featuredImage]

@@ -6,7 +6,7 @@ date = "2020-03-11"
 description = "In which Alex shares about his experience building a feature across eight interconnected Git repositories."
 tags = ["powershell", "git"]
 title = "Repository Madness"
-
+comments = true
 [featuredImage]
   alt = "Terminal Output"
   large = "https://raw.githubusercontent.com/acbilson/ps-git-sync/aim/images/action-branch.png"

@@ -4,6 +4,7 @@ title = "First Anniversary"
 date = "2020-07-12"
 description = "In which Alex remembers in detail his first wedding anniversary."
 categories = ["personal"]
+comments = true
 tags = ["marriage", "gratitude"]
 [featuredImage]
 large = "https://gxvx0g.by.files.1drv.com/y4mZjzcI4ttv-RYDNty9wuspHd0LlHg4CLjs0kAUcgCH5_ZkFGgFTw_1emsa3dmjVwAruk7N_PCkmdlIDs5PHe2IIQxQMKZIzVVSJbIJAj5VmNwmvRrycQGfdn-qq1eSY9sSgEaBDJyQlJHNrlTj65G8lUaCLzYTp4nKgmiult1QkTi7Tn2cXuGWnetJqITFXi2UvRh02wVP3v9aEvs_NGzZA?width=640&height=480&cropmode=none"

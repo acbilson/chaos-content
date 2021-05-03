@@ -4,6 +4,7 @@ draft = true
 categories = ["technology"]
 date = "2020-09-23"
 description = "In which Alex describes how to configure a personal webhook server."
+comments = true
 tags = ["webhook", "hosting"]
 title = "Hosting a Webhook Server"
 [featuredImage]
