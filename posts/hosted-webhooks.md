@@ -3,9 +3,9 @@ category = "technology"
 draft = true
 categories = ["technology"]
 date = "2020-09-23"
-description = "In which Alex describes how to configure a personal webhook server."
+description = "In which Alex describes how to configure a personal webhook server for git-flow-esque automation."
 comments = true
-tags = ["webhook", "hosting"]
+tags = ["webhook", "hosting", "git-flow", "hugo"]
 title = "Hosting a Webhook Server"
 [featuredImage]
   alt = ""
@@ -21,6 +21,10 @@ A webhook is a simple server that accepts a payload and runs a command on the se
 
 If you're familiar with software, you know there are infinite other ways you could achieve this. You might build your own custom server that receives HTTP requests and executes functions on your server. There are probably already libraries to plug into your code that will manage common tasks like working with Git repos. The webhook approach separates the server from the execution (which is in a script) and thus puts more burden on the admin to configure the file system instead of the developer to write the server code.
 
+# Installation
+
+TODO: Remove the security part and leave it for a section at the end. No need for an Nginx configuration example either.
+
 First, let's discuss the bare minimum to get this setup working. It's nice to have the bare minimum so you can test it for yourself. Then we'll review security practices you'll want to implement before you start using this webhook.
 
 To install webhook, I recommend you to the [source](https://github.com/adnanh/webhook/blob/master/README.md) since it's likely to be less out-of-date. All I had to do was install webhook from the package repository.
@@ -28,7 +32,7 @@ To install webhook, I recommend you to the [source](https://github.com/adnanh/we
 With webhook installed, we can choose to run it as a stand-alone server or to place it behind a reverse proxy. I'll show you my command for a stand-alone instance, then give you a simple template to configure an Nginx reverse proxy.
 
 ```
-sudo /usr/bin/webhook -hooks /var/www/alexbilson.dev/hooks/hooks.json -port 9732 -secure -cert /etc/letsencrypt/live/alexbilson.dev/fullchain.pem -key /etc/letsencrypt/live/alexbilson.dev/privkey.pem -verbose
+sudo /usr/bin/webhook -hooks /etc/webhook/hooks.json -port 9000 -secure -cert /etc/letsencrypt/live/mycoolsite/fullchain.pem -key /etc/letsencrypt/live/mycoolsite/privkey.pem -verbose
 ```
 
 Let's break this down.
@@ -39,23 +43,151 @@ The `-port` variable does what you expect, it runs the server on your specified 
 
 The `-secure` flag goes along with the `-cert` and `-key` variables enable SSL for your server. If you use a reverse proxy, you can configure SSL at that level and allow the webhook to run over HTTP since traffic won't leave your network unencrypted. However, if you do run webhook as a stand-alone server, DO ADD THIS! You don't want your Github header secret in plaintext.
 
-TODO: Test it out with curl.
+To confirm it's running, you can run a simple curl command like so:
 
 ```
-upstream webhook_server {
-  server 127.0.0.1:9732;
-  keepalive 300;
-}
+curl localhost:9000
+```
 
-limit_req_zone $request_uri zone=webhooklimit:10m rate 1r/s;
+If everything is good, you'll get an OK response.
 
-server {
-  root /var/www/webhook_server
+# Configuration
 
-  location /hooks/ {
-    proxy_pass http://webhook_server;
-    # adds a limit to the number of requests to protect against spam and poorly configured webhook setups
-    limit_req zone=webhooklimit burst=20;
+I host two systems, production and user-acceptance-testing (UAT), because I attempt service integrations that are painful to replicate without a close-to-production environment. I use a simplified [git-flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) approach where feature branches are merged into a release candidate, then the release candidate will be merged into the main branch.
+
+To automate my workflow, I want the following to happen:
+
+1. When commits are pushed to main, my production site should rebuild with the latest in main.
+2. When commits are pushed to a release branch, my uat site should rebuild with the latest in that branch.
+
+Let's look at my hooks.json configuration and I'll explain.
+
+```
+[
+	{
+		"id": "content-pull-webhook",
+		"execute-command": "/usr/local/bin/build-site.sh",
+    "pass-arguments-to-command": [
+    {
+      "source": "payload",
+      "name": "ref"
+    },
+    {
+      "source": "payload",
+      "name": "repository.name"
+    }
+    ],
+		"trigger-rule": {
+      "match": {
+        "type": "payload-hmac-sha1",
+        "secret": "mysillysecret",
+        "parameter": {
+          "source": "header",
+          "name": "X-Hub-Signature"
+        }
+      }
+    }
   }
-}
+]
+```
+
+This configuration listens for a Github event (in my case, a pull event), compares a hashed secret in the request header with a plaintext secret, then parses the HEAD reference and the repository name out of the request body and passes it as an argument to my shell script.
+
+For completeness, here's a screenshot of my Github webhook configuration:
+
+![github webhook configuration]({{< ref "/posts/data/github_webhook.png" >}})
+
+> If you're curious what's available in the request body, Github will display the complete JSON payload on the webhook page. You can also resend an event, which is perfect for testing!
+
+But wait, there's more! This post intends to be a complete example, so here's the build-site.sh script.
+
+```
+#!/bin/sh
+
+# Sets the arguments to variables
+REF=$1
+REPO=$2
+
+BRANCH=unset
+PATH=unset
+DIST_PATH=unset
+CONFIG_PATH=unset
+
+# Verifies that the repository is valid and sets its path
+####
+case $REPO in
+
+  chaos-content)
+    PATH=/mnt/chaos/content
+  ;;
+
+  *)
+    echo "$REPO was not a valid git repo"
+    echo "################"
+    return 1
+  ;;
+esac
+
+# Verifies that the branch reference matches and sets the correct distribution location
+####
+case $REF in
+
+  refs/heads/main)
+    BRANCH=main
+    DIST_PATH=/var/www/site
+    CONFIG_PATH=/etc/hugo/config-prod.toml
+  ;;
+
+  # use basename to strip the release number off the HEAD reference
+  refs/heads/release/*)
+    BRANCH="release/$(/usr/bin/basename $REF)"
+    DIST_PATH=/var/www/uat
+    CONFIG_PATH=/etc/hugo/config-uat.toml
+  ;;
+
+  *)
+    echo "$REF was not a valid git reference"
+    echo "################"
+    return 1
+esac
+
+echo "checking out $BRANCH for content"
+echo "################"
+cd /mnt/chaos/content
+/usr/bin/git fetch
+
+# Retrieves content based on which repo is requested
+#
+# This approach allows me to have a release candidate for one
+# repo and use master for the other, or the same release candidate
+# for both.
+####
+case $REPO in
+
+chaos-content)
+
+  echo "\nfetching content"
+  echo "################"
+  cd /mnt/chaos/content && /usr/bin/git fetch
+
+  echo "\nchecking out content on $BRANCH"
+  echo "################"
+  /usr/bin/git checkout $BRANCH
+
+  echo "\npulling latest from $BRANCH"
+  echo "################"
+  /usr/bin/git pull
+;;
+
+esac
+
+echo "\nbuilding site from $BRANCH to $DIST_PATH"
+echo "################"
+/usr/bin/hugo \
+  -d $DIST_PATH \
+  --config $CONFIG_PATH \
+  --contentDir /mnt/chaos/content \
+  --themesDir /mnt/chaos/themes \
+  --cleanDestinationDir
+
 ```
