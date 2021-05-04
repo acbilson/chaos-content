@@ -5,6 +5,7 @@ date = "2020-06-03"
 description = "In which Alex notates what he's learned about reconnaissance as an ethical hacker."
 displayInList = false
 toc = true
+comments = true
 dropcap = false
 tags = ["security", "reconnaissance"]
 title = "Ethical Hacker / Reconnaissance"

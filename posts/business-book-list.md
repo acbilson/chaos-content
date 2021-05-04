@@ -7,7 +7,7 @@ categories = ["Business","Resources"]
 tags = ["books"]
 dropcap = false
 toc = true
-
+comments = true
 [featuredImage]
   large = "https://fslslw.by.files.1drv.com/y4mqINpV25R_7UfkfpW-R5dJ2bypsYmNvt8gDHYU47ipm4lOo0hkueP7gtKU3j4brXv0-sU_0ZkfHwxhjDa0KAL6wel5t1O-gbjv-7f2GDKfzjyCcg_ga5USoU2Rn8L8ZdtIocviYnBAslFqRf9kMY6V6dSZlBsFFowShSiYLNMho6B5RGIEk6Bza0BVPRUylezr1qA6kBrseuLMla3bnu1kA?width=1024&height=768&cropmode=none"
   small = "https://fslslw.by.files.1drv.com/y4mqINpV25R_7UfkfpW-R5dJ2bypsYmNvt8gDHYU47ipm4lOo0hkueP7gtKU3j4brXv0-sU_0ZkfHwxhjDa0KAL6wel5t1O-gbjv-7f2GDKfzjyCcg_ga5USoU2Rn8L8ZdtIocviYnBAslFqRf9kMY6V6dSZlBsFFowShSiYLNMho6B5RGIEk6Bza0BVPRUylezr1qA6kBrseuLMla3bnu1kA?width=256&height=192&cropmode=none"

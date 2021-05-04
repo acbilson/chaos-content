@@ -5,6 +5,7 @@ date = "2020-10-28"
 draft = true
 description = "In which Alex describes his process for full stack development."
 categories = ["technology"]
+comments = true
 tags = ["full-stack"]
 [featuredImage]
   large = ""

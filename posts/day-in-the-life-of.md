@@ -5,7 +5,7 @@ date = "2021-02-27"
 description = "In which Alex describes an average, if not typical, day."
 tags = ["children", "routine", "review", "schedule"]
 title = "A Day in the Life"
-
+comments = true
 [featuredImage]
   alt = "Playing with Graham and Royal"
   large = "https://by3301files.storage.live.com/y4mw2kQ8r-0DWiNfr8XJXWnKsBd0nVwy3kz-L21oNYTtD1euMxl2hQtZFOCyHdq2FYXds1on6p1n3YirZ9GS6h0ZIZiLpAzIvDeEfU9cTKl78Mo4LTKN5H4Wlsv0-q5BVdmIu_cOcvC3xHpeEVFncfBH9mpmp479papwF0YhHY4_YCSmB0di2qtf5YG1a9BnKSV?width=768&height=1024&cropmode=none"

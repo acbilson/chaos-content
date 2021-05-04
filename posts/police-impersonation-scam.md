@@ -5,6 +5,7 @@ categories = ["business","technology"]
 citations = ["Bilson, Alex. Optimum Joy Clinical Counseling: Observations, Analysis and Recommendations (2020)."]
 description = "In which Alex describes a sophisticated social engineering attack."
 dropCap = false
+comments = true
 tags = ["security", "social-engineering", "thesis"]
 title = "CPD Impersonation"
 

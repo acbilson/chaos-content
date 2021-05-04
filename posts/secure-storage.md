@@ -5,6 +5,7 @@ title = "Secure Cloud Storage"
 description = "In which Alex explains how tar, gzip, and gpg can keep your data secure in the cloud."
 categories = ["personal", "technology"]
 tags = ["security", "cloud"]
+comments = true
 [featuredImage]
   large = "https://images.unsplash.com/photo-1484043937869-a468066a4fbd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
   small = "https://images.unsplash.com/photo-1484043937869-a468066a4fbd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"

@@ -5,7 +5,7 @@ categories = ["personal", "business"]
 description = "In which Alex shares one of his favorite tools to make sense of his week; the time budget."
 tags = ["productivity"]
 title = "Order Your Week"
-
+comments = true
 [featuredImage]
   alt = "Graham in the Pantry"
   large = "https://d3scaw.by.files.1drv.com/y4mlMDmtimehtHbYwt8tVFhkRujECs4tmFL6l_Ukdk-rueQ7BEOUYWpP3-JjXBKUUrAx0kSEhU031nIwgsh1DRDNWM1cRQis6hspY15pL10MjMCqTDbkGB9EZtNq138nbxrJKZg4_Z6AGDQE_X5ax6abqQ_yXH7mYglGTUpxbMEcSiHgGkGvjRfmMTsttqytZAp_0C9BCK4eVuqOFUZ8N1o1g?width=768&height=1024&cropmode=none"

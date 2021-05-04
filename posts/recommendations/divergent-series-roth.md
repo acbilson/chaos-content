@@ -4,10 +4,10 @@ date = "2020-12-19"
 categories = ["personal"]
 description = "A book recommendation for Veronica Roth's Divergent series"
 dropcap = false
+comments = true
 tags = ["evolution", "genetics", "virtue"]
 title = "Recommend: Divergent Series"
 citations = ["Roth, Veronica. Divergent Series Ultimate Four-Book Collection: Divergent; Insurgent; Allegiant; Four. Katherine Tegen Books. 2011"]
-
 [featuredImage]
   alt = "woman in lab"
   large = "https://images.unsplash.com/photo-1582719366767-dbbb6c6bf4aa?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"

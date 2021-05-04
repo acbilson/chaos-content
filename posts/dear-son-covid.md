@@ -5,6 +5,7 @@ date = "2020-07-01"
 description = "In which Alex documents a historic moment for his sons."
 dropCap = true
 categories = ["personal"]
+comments = true
 tags = ["pandemic", "coronavirus"]
 [featuredImage]
   large = "https://gazipa.by.files.1drv.com/y4mB7gJO9qfBx1eVh7uENoWLsRO_zlv7U33ZXTzjNMHLsQOoFFJZ53Yvy7t9Vj46rPoNTBcDox2oHTKUATI4aK5bYDvYrzYbnZgVPHMjufRk_HNRjdbhiOVIYm37Can_7vdCNIyl6GSLOxV1oM3EPxmeRVpMfrHqmmmDPu-3Ej3lB0y6udzr8EJ_ukbxfwIYMaCZdzqbB0vfod1GXKI4IcUlA?width=768&height=1024&cropmode=none"

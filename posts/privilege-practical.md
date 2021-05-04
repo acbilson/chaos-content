@@ -5,7 +5,7 @@ categories = ["personal", "business"]
 description = "In which Alex shares what he's done with his privilege on behalf of the vulnerable."
 tags = ["privilege", "chicago"]
 title = "Privilege: Practical Steps"
-
+comments = true
 [featuredImage]
   alt = "Column-lined Room"
   large = "https://rgso0w.by.files.1drv.com/y4mKPbHyfYJgPvBWdw2HkDwGnToaFZS4IaihrLAzKEsyUAxzPLWAFP8oc9zMsrnY1s0rMWsxRGNHnV-h6J8ExbtQMI2J6liZy-gMNoYF2NRxMGSiTRm9SebFGpqRdLqNku3lYWTVD6HPw-draCvgbz7wlFd9G2KuNX4fRLG52hT1ZJzRChgdDpx9XPDJS7ocnyfB-DMRWdRrquZAj6ZG9XeXw?width=1024&height=768&cropmode=none"

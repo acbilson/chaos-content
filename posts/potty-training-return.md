@@ -5,6 +5,7 @@ title = "Return of the Potty"
 description = "In which Alex writes about regressions in potty training."
 dropCap = true
 categories = ["personal"]
+comments = true
 tags = ["children","potty-training"]
 [featuredImage]
   large = "https://uwrrja.by.files.1drv.com/y4mhZgdlhAGKb9CJ7zFzlC2XYNHAJ_BftWHYKJGLlPDU61FOvhDxmUaK6CYogI70PvjKlVS92pIIuRBP0E-VvnnpasLEItq63yz3LaCeYc_rQpiVGqrLLUE7fO_qCL-eoMAj7367MGVKRJqeEtwRv2qCdX2UnLZ7Y96BXoNM5fsdx2d-9_LtQbpgBUYifqmM6HypxUwfRMfc-paae4Y4jYkBA?width=768&height=1024&cropmode=none"

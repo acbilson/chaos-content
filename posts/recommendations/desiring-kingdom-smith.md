@@ -5,6 +5,7 @@ categories = ["spiritual"]
 description = "A book recommendation for Dr. Smith's book, Desiring the Kingdom"
 draft = true
 dropCap = false
+comments = true
 tags = ["formation","discipleship"]
 title = "Maybe: Desiring the Kingdom"
 citations = ["Burkett, Larry. Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006"]

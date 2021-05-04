@@ -5,7 +5,7 @@ date = "2020-11-24"
 description = "In which Alex explores the etymology of Todderish, or the language of toddlers."
 tags = ["children","language"]
 title = "Todderish"
-
+comments = true
 [featuredImage]
   alt = "Graham with Pumpkins"
   large = "https://by3301files.storage.live.com/y4mo4cWa4tOmEp3ayzKdzbzYaqxtkgm9kj3GsOznwtjjFRal_zyWDRQYFVKZlEZb9AWfVyN_IsFPTOMiBANUaAhQqir9BJhUoW1xRR0YsdXAmKV6m8wZ6PTLJpTzqRl2tniZAR1yEe1TPjPefubZFwAeEZ1A45ewdmsykfjX9yrU29eWhN2RT9fZQdXDD-ypw1g?width=768&height=1024&cropmode=none"

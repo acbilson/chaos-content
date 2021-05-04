@@ -5,6 +5,7 @@ date = "2020-04-30"
 description = "In which Alex publishes his 2020 MBA thesis."
 tags = ["thesis", "consulting"]
 title = "MBA Consulting Thesis"
+comments = true
 [featuredImage]
   alt = "Lighthouse"
   large = "https://ehgkhg.by.files.1drv.com/y4mvmGTup_9XUwKCRV7rpXJEjyav8EnxUCcMqZkrshQp8knipSbARbnXqkRXxTrVB9uvEt-2K8tkk3TDckmfTIWIgP1WQ61wAd3ZCqt1s8F74JnI9WnIMNvuY1h_HkiEeYHgYGrcqot_ueKEIIBDmQRfBcoXe52bQEcu6HO5MoyBCeb5zaEwDC0XI8w0fnPf8HcnfGDQXwZV4VINXsZB9SD-g?width=768&height=1024&cropmode=none"

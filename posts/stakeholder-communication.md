@@ -5,6 +5,7 @@ date = "2020-03-18"
 description = "In which Alex argues that project managers should inform stakeholders early, often, and with simple clarity."
 categories = ["business"]
 tags = ["project-management","communication"]
+comments = true
 citations = ["Campbell, Clark A and Mick Campbell. The New One-Page Project Manager: Communicate and Manage Any Project With A Single Sheet of Paper. 2nd Edition. Wiley. 2012"]
 [featuredImage]
   large = "https://twtexg.by.files.1drv.com/y4m5CNPRCrL1-fH9JJKblkSULAs6K8y1K1jb7w6oXhXjCsxI6-Bg2b0wow35RHaw1JnN_m4BH_3nSVoFdrj9ha21q9h737NfodxbzcFrMDpvYisohAXHZFB_6aoDIVx1SARMWtspsl3D6zceux5rZjN2bQV4gBXftOincLYUt8ZJVyBUvE28O3DLeNQjO8BXMR63CRcCbXJOnqrUVuJrcv5hQ?width=768&height=1024&cropmode=none"
