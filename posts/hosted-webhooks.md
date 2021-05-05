@@ -95,7 +95,7 @@ This configuration listens for a Github event (in my case, a pull event), compar
 
 For completeness, here's a screenshot of my Github webhook configuration:
 
-![github webhook configuration]({{< ref "/posts/data/github_webhook.png" >}})
+![github webhook configuration](/posts/data/github_webhook.png)
 
 > If you're curious what's available in the request body, Github will display the complete JSON payload on the webhook page. You can also resend an event, which is perfect for testing!
 
