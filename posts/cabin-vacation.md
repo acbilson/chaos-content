@@ -31,7 +31,6 @@ We’d never been to Kettle Moraine State Park, so our first rest stop lands us 
 
 ![Hiking with Graham and Royal](https://ujb6xq.by.files.1drv.com/y4mGloQQhsjrxtlhNLTm6SaWNA5F2s-YH5QXN5hpNGBsae3gf4ouLNTB2VrBYr2Z61plkvdpONsligGnT3MuqRZbIamDNvapryjLW7k0ShnvKJBcPhhfgCiZofUUbcuKZA6YqKj6QPcQq1iLlZcPnP3yFm31JBpi7soor99WP0zTbI61W0lSzNrXYFRvYqYI4_GtvOeipDG-N_x22V9i4lF3w?width=1024&height=768&cropmode=none")
 
-
 Lunch is next, so we stop at a local restaurant in Fond Du Lac. In the waiting area, perusing a menu, we hear a thwack! - like dropping a two-by-four on a wood pallet. Oh God, please let it be wood.
 
 Nope, that was Graham’s chin.

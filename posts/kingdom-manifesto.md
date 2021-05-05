@@ -57,7 +57,7 @@ Let's turn to the subject. When you consider how a Kingdom community might orien
 
 These four exist in tension, like rubber bands holding an object in suspension. A community that entirely lacks one of these bands may still suspend in the air, but it means the other bands must exert greater tension to maintain the center. Remove two and the community may suspend off-center; three and it dangles helplessly in space. The four meetings ought to stretch and contract to fit the cultural and circumstantial needs of the geographical location in which the Kingdom community resides. While communities that lack one or more of these meetings exist as true Kingdom communities, the over-stretched nature of their existing communities puts them at greater risk of malformation.
 
-<img src="../data/kingdom-community-diagram.svg" />
+![kingdom-diagram](/posts/data/kingdom-community-diagram.svg)
 
 ## Friendship
 

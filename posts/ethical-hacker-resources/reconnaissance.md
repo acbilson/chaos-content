@@ -11,10 +11,12 @@ tags = ["security", "reconnaissance"]
 title = "Ethical Hacker / Reconnaissance"
 
 +++
+{{< raw >}}
 <p class="muted-text">
 These are notes under the umbrella post titled: <a href="{{< ref "/posts/ethical-hacker-resources.md" >}}">Ethical Hacker
 Resources</a>. Check there for a master list of notes taken for the Ethical Hacker certification.
 </p>
+{{< / raw >}}
 
 # Definition
 
@@ -47,11 +49,11 @@ Anything has potential value for a hacker. Machine information gives them data t
 ## Search Engines
 Google has sophisticated search options a hacker can use to pull up exposed files. Some are particularly helful:
 
-**site:** limits query to the target site.<br />
-**cache:** returns cached versions of the site.<br />
-**links:** sites that contain hyperlinks to the target site.<br />
-**intitle:** cached files with this title.<br />
-**inurl:** cached files that have this string in the url.
+- **site:** limits query to the target site.
+- **cache:** returns cached versions of the site.
+- **links:** sites that contain hyperlinks to the target site.
+- **intitle:** cached files with this title.
+- **inurl:** cached files that have this string in the url.
 
 `[google] intitle:"index of"`
 
