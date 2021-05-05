@@ -55,16 +55,19 @@ Some in our nation will assume these men were somehow guilty. When confronted, m
 
 Where news coverage bows it’s head in despairing silence over a land wracked with human evil, we who pledge our allegiance to King Jesus raise our eyes to a horizon of hope. Today we pray and act to bring into reality that beatific vision which our Lord Jesus set before himself on his march into the jaws of evil - the renewal of all things which is called the Kingdom of our God. Here’s a foretaste:
 
-<iframe width="100%" height="315px" src="https://www.youtube.com/embed/kdxMgmN9NpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< video "https://www.youtube.com/embed/kdxMgmN9NpA" >}}
 
-The abuses against the black community receive the most press coverage today, but I am convinced Asian, Mediterranean, Latinx (edit: &#x1F9E1; Stephanie) and Native American populations could enumerate their own lists of racially charged events. If you possess or know of such a list, <a href="mailto:acbilson@gmail.com">email me</a>.
+The abuses against the black community receive the most press coverage today, but I am convinced Asian, Mediterranean, Latinx (edit: &#x1F9E1; Stephanie) and Native American populations could enumerate their own lists of racially charged events. If you possess or know of such a list, [email me](mailto:acbilson@gmail.com).
 
-To consider how you might respond, check my related series on <a href="{{< ref "/posts/privilege-definition.md" >}}">privilege</a>.
+To consider how you might respond, check my related series on [privilege](/posts/privilege-definition).
 
 Thanks be to God for Miles McPherson’s [plea to raise our voices](https://www.kusi.com/pastor-miles-mcpherson-on-race-relations-police-brutality-and-life-of-george-floyd/), for Amy Buerke’s social media integrity, and her source, [John Pavlovitz](https://johnpavlovitz.com/2020/05/07/white-americans-need-to-condemn-white-racism-in-america/?fbclid=IwAR2iWKlMfrlLVvMmK5zje909nbC_9w4hu7LdVKpfXhIXU4TCwsuJwxHjHjE).
 
-_May your Kingdom come,_<br />
-_may your will be done,_<br />
-_as in heaven, so on the earth_<br />
-
-_Amen_
+{{< raw >}}
+<blockquote>
+May your Kingdom come,<br />
+may your will be done,<br />
+as in heaven, so on the earth<br /><br />
+Amen
+</blockquote>
+{{< / raw >}}

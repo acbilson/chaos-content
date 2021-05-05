@@ -12,7 +12,7 @@ comments = true
   large = ""
   small = ""
 +++
-How hard is it to choose a <abbr title="Content Management System">CMS</abbr>? Turns out, nigh impossible.
+How hard is it to choose a {{< acronym CMS "Content Management System" >}}? Turns out, nigh impossible.
 
 My fictious client wants to write content on the Internet. They
 

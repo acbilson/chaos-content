@@ -22,7 +22,7 @@ At a time where digital resource management is being aggregated into a few globa
 
 My first website in 2014 was hosted by a third-party provider. I managed the site through a web interface and left the server management to the provider. After the ease of a hosted service, the thought of running my server was daunting. Then I heard about the Raspberry Pi.
 
-A <acronym title="Do It Yourself">DIY</acronym> Raspberry Pi 4 package cost me ~$100 on Amazon.com. Armed only with the instructions in the package and the invaluable tutorials on the [official website](https://projects.raspberrypi.org/en/), I had the machine running in an evening. How cool is that!
+A {{< acronym DIY "Do It Yourself" >}} Raspberry Pi 4 package cost me ~$100 on Amazon.com. Armed only with the instructions in the package and the invaluable tutorials on the [official website](https://projects.raspberrypi.org/en/), I had the machine running in an evening. How cool is that!
 
 ![Raspberry Pi](https://he0fgq.by.files.1drv.com/y4mWwRLP3c_WnEqlokOOJS2VF2ubhAmXJawy2m3ivvQ73O7ztDlTGsPDm8ljA-Saf-4cAbLbviEpoSxUkFYqdUu8tnP9sYMFuPfo1a0e_nYqPxff9wKkfOdi_RQ8_GmpT86iSJILffTWNdDsoWP-2WM8YZ2pVRqtV1qEPu5VnUbgASh1pOMZ3Zi5P2I5VNTvsYytRwOMUbKsqAdVaDz5UbOGg?width=1024&height=768&cropmode=none)
 
@@ -38,7 +38,7 @@ Note: my Amazon.com package also came with a handy SD Card adapter so I could pl
 
 ## Server Accessibility
 
-A server is hardly worth the name unless it's part of a network. Before we make our website available to the world wide web (<acronym title="Wide Area Network">WAN</acronym>), let's get it running on our local network (<acronym title="Local Area Network">LAN</acronym>).
+A server is hardly worth the name unless it's part of a network. Before we make our website available to the world wide web ({{< acronym WAN "Wide Area Network" >}}), let's get it running on our local network ({{< acronym LAN "Local Area Network" >}}).
 
 I added the server to my LAN by plugging the Raspberry Pi directly into an available ethernet port on my wireless router. The router assigns an IP address to the Raspberry Pi. To retrieve the IP address, log into your router and look for the attached Raspberry Pi under its attached devices. Every router provider is different, but you can figure it out.
 
@@ -57,7 +57,7 @@ You're in!
 
 ## Server Access Security
 
-It would be a shame to run your website only to have it hacked. Or worse. Follow the official [security guidelines](https://www.raspberrypi.org/documentation/configuration/security.md) to harden <acronym title="Secure SHell">SSH</acronym> access.
+It would be a shame to run your website only to have it hacked. Or worse. Follow the official [security guidelines](https://www.raspberrypi.org/documentation/configuration/security) to harden {{< acronym SSH "Secure SHell" >}} access.
 
 I recommend you do not proceed until you have configured SSH access to accept only key-based authentication and set a lengthy private key passphrase. Your server, the one on your home network, will be accessible from anywhere in the world; think about it. If you're not familiar with SSH keys, check out the manual [here](https://www.ssh.com/ssh/keygen).
 
@@ -116,21 +116,21 @@ To confirm that requests are being forwarded, you'll need your router's public I
 
 ## Purchase A Domain Name
 
-At this point, you _could_ send your router's public IP address to a friend on the opposite side of the world and she could view your website. But who is going to remember a numeric address? And what happens if your <acronym title="Internet Service Provider">ISP</acronym> changes your public address? Let's buy a domain name.
+At this point, you _could_ send your router's public IP address to a friend on the opposite side of the world and she could view your website. But who is going to remember a numeric address? And what happens if your {{< acronym ISP "Internet Service Provider">}} changes your public address? Let's buy a domain name.
 
 Choose a domain name to fit the content of your website. There are several domain name registrars, and all of them have suggestions for selecting a website domain name and a search bar to check that name's availability. At the time of writing, a dotcom address costs about $10/year.
 
 Follow the registrar's instructions to configure an A Record that points to your router's public IP address. You may have to wait for a bit, but in time you can enter your new domain name (e.g. http://thisismycoolsite.com/) and get back the website hosted from your home office!
 
-> If you're familiar with DNS records, you'll notice that for the rest of this post I'll presume you have configured a bare domain name (i.e. no prepended www dot). This is for simplicity; tweak my examples to suit your site's DNS configuration.<br /><br />
+> If you're familiar with DNS records, you'll notice that for the rest of this post I'll presume you have configured a bare domain name (i.e. no prepended www dot). This is for simplicity; tweak my examples to suit your site's DNS configuration.
 
-> Technically, if your ISP assigns a new IP address to your router, your hostname won't resolve until you've updated the A Record to the new IP address. The AAAA Record allows server software, such as ddclient, to dynamically update the record address. Dynamic configuration not required to continue, and some ISPs recycle addresses so infrequently that manual updates aren't arduous.
+Technically, if your ISP assigns a new IP address to your router, your hostname won't resolve until you've updated the A Record to the new IP address. The AAAA Record allows server software, such as ddclient, to dynamically update the record address. Dynamic configuration not required to continue, and some ISPs recycle addresses so infrequently that manual updates aren't arduous.
 
 ## Configure HTTPS
 
-You've probably noticed that security is a theme. Your site may not require in-transit encryption today, but why wait until it does? Let's configure your site for <acronym title="Hyper-Text Transfer Protocol, Secure">HTTPS</acronym>.
+You've probably noticed that security is a theme. Your site may not require in-transit encryption today, but why wait until it does? Let's configure your site for {{< acronym HTTPS "Hyper-Text Transfer Protocol, Secure" >}}.
 
-> These notes include more manual steps than you may require. Between ISP restrictions and a lack of registrar support, I had to perform the certificate configuration manually. We'll be using <a href="https://letsencrypt.org/">Let's Encrypt</a> as our certificate authority.
+> These notes include more manual steps than you may require. Between ISP restrictions and a lack of registrar support, I had to perform the certificate configuration manually. We'll be using [Let's Encrypt](https://letsencrypt.org/) as our certificate authority.
 
 First, we need to install certbot on our Raspberry Pi. Log in and run the following command:
 
@@ -138,9 +138,9 @@ First, we need to install certbot on our Raspberry Pi. Log in and run the follow
 sudo apt-get install certbot python-certbot-nginx -y
 {{< / highlight >}}
 
-> This installs the certbot software that we'll use to register a certificate and helper software to update our Nginx configuration.<br /><br />
+> This installs the certbot software that we'll use to register a certificate and helper software to update our Nginx configuration.
 
-> The helper software didn't update my Nginx configuration properly. If this happens to you, see the Nginx docs for <a href="https://nginx.org/en/docs/http/configuring_https_servers.html">configuring HTTPS servers</a>.
+The helper software didn't update my Nginx configuration properly. If this happens to you, see the Nginx docs for [configuring HTTPS servers](https://nginx.org/en/docs/http/configuring_https_servers.html).
 
 Then we'll run the following command:
 
@@ -150,10 +150,12 @@ sudo certbot certonly --manual --preferred-challenges dns -d thisismycoolsite.co
 
 Follow the prompts. When you get to a question about adding a DNS TXT record, add a TXT record in your registrar's interface with the key certbot displays in your terminal. It might look like this:
 
+{{< raw >}}
 &emsp;Type: TXT Record<br />
 &emsp;Host: acme-challenge<br />
 &emsp;Value: { enter key here }<br />
 &emsp;<acronym title="Time To Live">TTL</acronym>: Automatic
+{{< / raw >}}
 
 > Some registrars require that you append your domain name to the host value. Follow your registrar's instructions for TXT records.
 
@@ -161,7 +163,7 @@ Finally, you'll need to add a new port forwarding record to your router. HTTPS i
 
 > To limit your site's attack surface, when you can successfully navigate to your website with HTTPS (e.g. https://thisismycoolsite.com/), remove the port forwarding rule for port 80. All traffic can and should travel over HTTPS port 443.
 
-# Final&#0101;&#769;
+# Finalé
 
 If you made it this far, congratulations! When I said it was simple, I meant that you won't need in-depth knowledge of every technology, not that you won't need to know something about _many_ technologies.
 
