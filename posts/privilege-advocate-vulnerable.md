@@ -12,9 +12,11 @@ comments = true
   alt = "Willis Tower from Below"
 
 +++
+{{< raw >}}
 <p class="muted-text">
 This is part two in a series on the subject of privilege. Review the <a href = "{{< ref "/posts/privilege-definition.md" >}}">definition of privilege</a> for context.
 </p>
+{{< / raw >}}
 
 I'd made little progress digesting the numerous privileges given me until I learned more about justice. Thanks to the invaluable efforts of [The Bible Project](https://bibleproject.com/about/) and their [Justice Series episodes](https://bibleproject.com/podcast/series/justice-series/)), a link between the call for justice in the Bible and the responsibility of the privileged has begun to form in my consciousness. I'll brief you until you can listen to the episodes yourself.
 
@@ -51,4 +53,4 @@ These passages, along with countless others, juxtapose the word 'justice' with d
 
 When I discovered that restorative justice is the primary mode God has in mind, the responsibility of privilege became clear in my mind. Privilege confers advantages in a variety of contexts, and I'm obligated to advocate for those who, by the absence of privilege, struggle to be equitably treated.
 
-To conclude, <a href="{{< ref "/posts/privilege-practical.md" >}}">practical steps</a>.
+To conclude, [practical steps](/posts/privilege-practical).

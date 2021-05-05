@@ -15,25 +15,25 @@ comments = true
 
 When my raspberry pi arrived two years ago, I opened it with excited trepidation. Will I overcome the hurdles to self-hosting on an unfamiliar architecture and operating system? How performant will it be? What tools will I learn, or give up, to achieve my goals?
 
-Once I had figured out the [steps to self-hosting]({{< ref "/posts/steps-to-self-hosting.md" >}}), I felt confident hosting my own static blog. But it wasn't long before I began to dream of more. What if I could publish content to my static site from anywhere, and not only when I have network access? What if I want to integrate other services into my website, like a daily memorial of covid-related deaths in Cook County?
+Once I had figured out the [steps to self-hosting](/posts/steps-to-self-hosting), I felt confident hosting my own static blog. But it wasn't long before I began to dream of more. What if I could publish content to my static site from anywhere, and not only when I have network access? What if I want to integrate other services into my website, like a daily memorial of covid-related deaths in Cook County?
 
 My first project after a working static site was to create a way to continuously publish. The coolest writing tools already have this functionality, so why can't I? My site's content is stored on Github, so it was fairly simple to use Github hooks, a webhook server, and a little client-side JavaScript to accomplish the same workflow. To improve security I ended up writing my own publishing server, but that's another story.
 
-Still amazed that my publishing server works, I discovered this amazing data publishing tool called [datasette](https://github.com/simonw/datasette). Simon's examples got me dreaming of what I might do with a plug-n-play sqlite web interface, and I landed on [displaying the daily covid-related deaths in Cook county]({{< ref "/posts/data-journalism.md" >}}).
+Still amazed that my publishing server works, I discovered this amazing data publishing tool called [datasette](https://github.com/simonw/datasette). Simon's examples got me dreaming of what I might do with a plug-n-play sqlite web interface, and I landed on [displaying the daily covid-related deaths in Cook county](/posts/data-journalism).
 
-Somewhere between running my static site and creating a publishing server, I became nervous that all my tinkering would be demolished if my raspberry pi's SD card were corrupted. Time to [learn Ansible]({{< ref "/posts/learning-ansible.md" >}})!
+Somewhere between running my static site and creating a publishing server, I became nervous that all my tinkering would be demolished if my raspberry pi's SD card were corrupted. Time to [learn Ansible](/posts/learning-ansible)!
 
 Ansible turned out to be a time-saver. Not only did it give me disaster recovery, it also simplified standardization. For example, when I began to secure my services by running each as a distinct non-root user, the boilerplate user/group setup was simple and replicable via Ansible. It would have been more error prone and annoying if I'd done each service by hand, one at a time.
 
 > If you're going to use Ansible to manage server configurations (which you totally should), don't mix-and-match with direct updates. As soon as you start making configurations directly on the server you become nervous about using automated configuration lest you accidentally overwrite your work! #lessonslearned
 
-Now I have a few services running on my raspberry pi, but <acronym title="Fear Of Missing Out">FOMO</acronym> is rising - is it time to go full container, kubernetes style? There's even [k3s](https://k3s.io/), a light-weight version of kubernetes that's designed for my raspberry pi!
+Now I have a few services running on my raspberry pi, but {{< acronym FOMO "Fear Of Missing Out" >}} is rising - is it time to go full container, kubernetes style? There's even [k3s](https://k3s.io/), a light-weight version of kubernetes that's designed for my raspberry pi!
 
 # Container CI/CD Diversion
 
 I manage my services with supervisord and enjoy the freedom to configure each aspect. I can limit system access, configure logs, and manage ingress without much trouble. Linux services enjoy inherent stability and add little overhead. I've used Ansible to deploy my growing configurations so the fear that I'll lose it all is reduced. But it's still a lot to review and configure. Wouldn't it be cool if I were running k3s with a cluster of containerized services instead of a "normal" machine with boring old systemd services?
 
-When I began to chart this course, I uncovered an assumption in my existing workflow. I conceptualized my existing setup as a single production deployment with several services, but when I tried to map each service to a container it became obvious that there are two distinct service types - <acronym title="Continuous Integration / Continuous Deployment">CI/CD</acronym> and production. For example, I imagined running my webhook service in a single container but soon realized that every time the service created a new page on my static site it would need to generate a new static site container and replace it in the same cluster. A container that replaces other containers in the same cluster? This smells fishy to me.
+When I began to chart this course, I uncovered an assumption in my existing workflow. I conceptualized my existing setup as a single production deployment with several services, but when I tried to map each service to a container it became obvious that there are two distinct service types - {{< acronym "CI/CD" "Continuous Integration / Continuous Deployment" >}} and production. For example, I imagined running my webhook service in a single container but soon realized that every time the service created a new page on my static site it would need to generate a new static site container and replace it in the same cluster. A container that replaces other containers in the same cluster? This smells fishy to me.
 
 So I pondered alternatives and came to the conclusion that larger kubernetes instances likely run separate clusters for CI/CD and production. So it seems I'd have to run two clusters to make my workflow happen - not awesome. All this to replace a small set of tiny Linux services that haven't given me a hiccup in over a year?
 
@@ -47,17 +47,13 @@ When I came back to the problem, I decided to create a network diagram to descri
 
 A diagram is worth ten thousand words, so here's what I've modeled. First, my existing architecture.
 
-{{< raw >}}
-<img style="background-color: white; padding: 10px 0;" src="../data/arch/bare-metal_deployment.svg" />
-{{< / raw >}}
+{{< image "/posts/data/arch/bare-metal_deployment.svg" "diagram" >}}
 
 Notice how simple it is. When I push an update to my site, my webhook service pulls the update and compiles the site for nginx to serve. If I send an update with my publishing service, it stores the new file in my content repo, pushes a change, and the same webhook process fires. To load data onto my static site I run a datasette instance. Simple and effective.
 
 Then, my proposed kubernetes cluster architecture.
 
-{{< raw >}}
-<img style="background-color: white; padding: 10px 0;" src="../data/arch/k3s_deployment.svg" />
-{{< / raw >}}
+{{< image "/posts/data/arch/k3s_deployment.svg" "diagram" >}}
 
 I've split the deployment into two because my site does not depend upon the data server to operate, but it does depend upon my build and publish server to manage my own CD process. I've also moved from a model where every time I publish it stores a new file, pushes it to my repo, and rebuilds to a scheduled build. I've kept the publish and buld processes separate so that I can still support either or both options, but I've found that I don't care that much about seeing what I publish immediately render on my site.
 

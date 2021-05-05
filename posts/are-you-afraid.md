@@ -14,7 +14,7 @@ tags = ["racism"]
 
 Have you watched this?
 
-<iframe width="100%" height="315px" src="https://www.youtube.com/embed/sb9_qGOa9Go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< video "https://www.youtube.com/embed/sb9_qGOa9Go" >}}
 
 I'm glad you have now. Ms. Jones is right - we should be thankful that the Black community rarely seeks revenge for their oppression. If you're in a position of privilege, as I am, you should be afraid. But not of the Black community.
 
@@ -31,8 +31,3 @@ When Pharaoh began to oppress the children of Israel, he did it for fear that th
 The Egyptians did not hold authority, but all of their firstborn were lost, and Yahweh looted them and gave their riches to the children of Israel. Though you and I don't make the decisions that lead to the oppression of our fellow humans, this does not preclude us from paying for the sins of our nation. What say we pay now, out of a generous and repentant heart, instead of later by the just hand of God?
 
 Thank you Kimberly Jones for your bravery in sharing this video, and for David Jones' decision to release it on Youtube in June instead of waiting for the documentary.
-
-
-
-
-
