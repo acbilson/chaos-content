@@ -1,5 +1,4 @@
 +++
-draft = true
 category = "technology"
 categories = ["technology"]
 tags = ["cms","consulting","writing"]
@@ -8,9 +7,9 @@ title = "An Analysis of CMS Options"
 description = "In which Alex shares a search for his client's perfect CMS."
 comments = true
 [featuredImage]
-  alt = ""
-  large = ""
-  small = ""
+  alt = "Graham and Royal Play in Water"
+  large = "https://bn02pap001files.storage.live.com/y4mOUc_9tDmNc7G5jgUwSEW-ZzfF42f86wDBYdEeyncPnO1n56KwqeQU6jBYFQNeip0bUD-h1Xud4jPJEtoNo7E-Hs2DWEhlg8U2mp448i1KYYO-vUtBPxma99rrw4MPxn92GCXH-O6w_bTRLUYmWIkdA33k0hEVhrNTDZ7tWUcOmqh0w5MO7fJEoiCcJEO4IDC?width=768&height=1024&cropmode=none"
+  small = "https://bn02pap001files.storage.live.com/y4mOUc_9tDmNc7G5jgUwSEW-ZzfF42f86wDBYdEeyncPnO1n56KwqeQU6jBYFQNeip0bUD-h1Xud4jPJEtoNo7E-Hs2DWEhlg8U2mp448i1KYYO-vUtBPxma99rrw4MPxn92GCXH-O6w_bTRLUYmWIkdA33k0hEVhrNTDZ7tWUcOmqh0w5MO7fJEoiCcJEO4IDC?width=192&height=256&cropmode=none"
 +++
 How hard is it to choose a {{< acronym CMS "Content Management System" >}}? Turns out, nigh impossible.
 
