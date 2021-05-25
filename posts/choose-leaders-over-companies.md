@@ -3,7 +3,7 @@ category = "business"
 date = "2020-11-11"
 categories = ["Business"]
 description = "In which Alex demonstrates that a leader affects one's happiness far more than the company logo."
-tags = ["leadership"]
+tags = ["leadership","management","happiness"]
 title = "Choose Leaders Over Companies"
 comments = true
 [featuredImage]

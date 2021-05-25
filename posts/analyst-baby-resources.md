@@ -4,7 +4,7 @@ categories = ["resources"]
 date = "2020-02-20"
 description = "In which Alex shares his analytical family's favorite online baby resources."
 draft = false
-tags = ["children"]
+tags = ["children","recommendation","analysis","link"]
 title = "The Analyst's List of Baby Resources"
 comments = true
 [featuredImage]
