@@ -1,6 +1,6 @@
 +++
 author = "Alex Bilson"
-category = ["spiritual"]
+category = "spiritual"
 categories = ["spiritual"]
 date = "2021-05-21"
 description = "A book recommendation for Thomas Merton's book, The Seven Storey Mountain"
