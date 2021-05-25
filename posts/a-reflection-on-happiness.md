@@ -5,7 +5,7 @@ category = "spiritual"
 categories = ["spiritual"]
 date = "2021-05-21"
 description = "In which Alex reflects on a quote from Thomas Merton about happiness."
-tags = [""]
+tags = ["happiness"]
 comments = true
 title = "A Reflection on Happiness"
 [featuredImage]

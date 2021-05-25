@@ -3,7 +3,7 @@ category = "technology"
 date = "2021-06-01"
 categories = ["technology"]
 description = "In which Alex presents his latest Angular project."
-tags = ["angularjs", "architecture", "diagrams", "database"]
+tags = ["angular", "architecture", "diagrams", "database","project"]
 title = "Angular Architecture"
 comments = true
 [featuredImage]

@@ -1,7 +1,7 @@
 +++
 category = "technology"
 categories = ["technology"]
-tags = ["cms","consulting","writing"]
+tags = ["cms","consulting","writing","recommendation"]
 date = "2021-07-21"
 title = "An Analysis of CMS Options"
 description = "In which Alex shares a search for his client's perfect CMS."
