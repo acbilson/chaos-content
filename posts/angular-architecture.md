@@ -1,4 +1,10 @@
 +++
+backlinks = [
+{ ref = "/posts/container-communication/", content = "This is the a segment that references this post." },
+{ ref = "/posts/container-communication/", content = "This is another reference to this content. The content should not go longer than 100 chars probably, so this will..."},
+{ ref = "/posts/container-communication/", content = "This is a third [[reference]], whoopie."},
+{ ref = "/posts/container-communication/", content = "And, a fourth."},
+]
 category = "technology"
 date = "2021-06-01"
 categories = ["technology"]

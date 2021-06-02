@@ -1,4 +1,9 @@
 +++
+backlinks = [
+{ ref = "/posts/privilege-advocate-vulnerable", content = "This is part two in a series on the subject of privilege. Review the [[definition of privilege]] for context."},
+{ ref = "/posts/privilege-practical", content = "This is part three in a series on the subject of privilege. Review the [[definition of privilege]] and [[responsibility of privilege]] for context."},
+{ ref = "/posts/your-kingdom-come", content = "For another take on the exaltation of the marginalized, see my series on [[privilege]]. There will be an upcoming series on Amie and my favorite approach to bible study."}
+]
 category = "personal"
 title = "Privilege: What is It?"
 date = "2020-04-01"

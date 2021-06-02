@@ -1,4 +1,8 @@
 +++
+backlinks = [
+{ ref = "/posts/potty-training-aftermath", content = "This is part two in a series about potty training. See where [[it all began]]."},
+{ ref = "/posts/potty-training-return", content = "This is the final installment in a series about potty training. See where [[it all began]]."}
+]
 category = "personal"
 categories = ["personal"]
 date = "2020-02-15"

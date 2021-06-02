@@ -13,6 +13,8 @@ comments = true
 
 +++
 {{< raw >}}
+<a name="/posts/privilege-definition"></span>
+<a name="/posts/privilege-advocate-vulnerable"></span>
 <p class="muted-text">
 This is part three in a series on the subject of privilege. Review the <a href="{{< ref "/posts/privilege-definition.md" >}}">definition of privilege</a> and <a href="{{< ref "/posts/privilege-advocate-vulnerable.md" >}}">responsibility of privilege</a> for context.
 </p>

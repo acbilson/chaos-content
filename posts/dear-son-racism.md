@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/posts/open-letter-baby-food", content = "These questions may already plague your conscience, and I submit to you that I don't have a better answer. It may have been inevitable. I may be reacting from the same shock over our country's brokenness that's struck me through 2020 until today, some of which I've written about [[elsewhere]]. It's in the media's hands now; may they report with both transparency and sensitivity the details you've begun to expose."}
+]
 category = "personal"
 title = "American Racism"
 date = "2020-05-29"

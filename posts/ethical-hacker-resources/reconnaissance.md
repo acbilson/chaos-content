@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/posts/ethical-hacker-resources", content = "[[Reconnaissance]], also referred to as footprinting, is the first step a hacker takes in their path to hacking your system." }
+]
 category = "resources"
 categories = ["resources"]
 date = "2020-06-03"

@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/posts/privilege-practical", content = "This is part three in a series on the subject of privilege. Review the [[definition of privilege]] and [[responsibility of privilege]] for context."}
+]
 category = "personal"
 date = "2020-04-15"
 title = "Privilege: An Advocate for the Vulnerable"
@@ -13,6 +16,7 @@ comments = true
 
 +++
 {{< raw >}}
+<a name="0"></span>
 <p class="muted-text">
 This is part two in a series on the subject of privilege. Review the <a href = "{{< ref "/posts/privilege-definition.md" >}}">definition of privilege</a> for context.
 </p>

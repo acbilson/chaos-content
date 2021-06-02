@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/posts/ethical-hacker-resources", content = "[[Session Hijacking]] happens when a hacker steals identifying information from a user's session to access their data, impersonate them, or hinder their access."}
+]
 category = "resources"
 categories = ["resources"]
 date = "2020-06-03"
