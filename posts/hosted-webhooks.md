@@ -13,7 +13,7 @@ title = "Hosting a Webhook Server"
   small = ""
 +++
 
-If you've followed the steps to <a href="{{< ref "/posts/steps-to-self-hosting.md">}}">host your own website</a>, you've got a static site you can build and deploy to your local server. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?
+If you've followed the steps to {{< backref "/posts/steps-to-self-hosting" "host your own website," >}} you've got a static site you can build and deploy to your local server. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?
 
 Yes, you can! Enter the magic of webhooks.
 

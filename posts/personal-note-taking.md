@@ -64,4 +64,4 @@ Who says I need to automate? Yes, it'll balloon out of control if I'm adding not
 
 # Conclusion
 
-There isn't one. I'm not sure which route to take, and will simply have to experiment until a solution emerges.
+(add the decision to use hugo shortcodes and handle this by hand for now)

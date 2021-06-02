@@ -11,7 +11,7 @@ comments = true
   large = "https://gnvtpa.by.files.1drv.com/y4mXsbev3ihrZnv_4QGpEVrnPv7iLh_aKrSAd_pw-RWzVUVowX5HWi7eXBU7Zjm6M0hb7Bt4ZLbXeni1sUlBeMo5zD3gdSiRmCONpDtWyNziNDlaFl9EFBW1grUHiyjArHxK2laZS9MfjhKAYjbM84mRn-TT5_6FjA35MROBzGpgaEYaBcVV_bwj7Po_A7ZQerawviJaXqdCFGepY0MXMyJrQ?width=768&height=1024&cropmode=none"
   small = "https://gnvtpa.by.files.1drv.com/y4mXsbev3ihrZnv_4QGpEVrnPv7iLh_aKrSAd_pw-RWzVUVowX5HWi7eXBU7Zjm6M0hb7Bt4ZLbXeni1sUlBeMo5zD3gdSiRmCONpDtWyNziNDlaFl9EFBW1grUHiyjArHxK2laZS9MfjhKAYjbM84mRn-TT5_6FjA35MROBzGpgaEYaBcVV_bwj7Po_A7ZQerawviJaXqdCFGepY0MXMyJrQ?width=192&height=256&cropmode=none"
 +++
-If you've read my post about <a href="{{< ref "/posts/your-kingdom-come.md" >}}">Jesus' Kingdom</a>, you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale.
+If you've read my post about {{< backref "/posts/your-kingdom-come" "Jesus' Kingdom" >}} then you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale.
 
 What tenents should a team who yearns for community transformation follow to witness fruit? This is the question I propose, and to which I shall attempt to enumerate an answer.
 
