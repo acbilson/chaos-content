@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/posts/ethical-hacker-resources", content = "[[Scanning]] is the next step after reconnaissance. While reconnaissance is silent and does not require any direct connection to the target network, scanning does access the target network." }
+]
 category = "resources"
 categories = ["resources"]
 date = "2020-06-03"

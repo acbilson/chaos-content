@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/posts/ethical-hacker-resources", content = "Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about [[Chicago Police Department Impersonation]]."}
+]
 category = "business"
 date = "2020-05-06"
 categories = ["business","technology"]
