@@ -14,13 +14,13 @@ tags = ["security", "scanning"]
 title = "Ethical Hacker / Scanning"
 
 +++
-<p class="muted-text">
-These are notes under the umbrella post titled: <a href="{{< ref "/posts/ethical-hacker-resources.md" >}}">Ethical Hacker Resources</a>. Check there for a master list of notes taken for the Ethical Hacker certification.
-</p>
+{{< raw >}}<p class="muted-text">{{< / raw >}}
+These are notes under the umbrella post titled: {{< backref "/posts/ethical-hacker-resources.md" "Ethical Hacker Resources." >}} Check there for a master list of notes taken for the Ethical Hacker certification.
+{{< raw >}}</p>{{< / raw >}}
 
 # Definition
 
-Scanning is the second step a hacker takes to hacking a system. To read about the first, check out [Reconnaissance]({{< ref "/posts/ethical-hacker-resources/reconnaissance.md">}}).
+Scanning is the second step a hacker takes to hacking a system. To read about the first, check out {{< backref "/posts/ethical-hacker-resources/reconnaissance.md" "Reconnaissance" >}}.
 
 Hackers scan to build out a more complete picture than recon, and especially to add information about the current status of the network and not only its infrastructure. This may be open ports, the running services, and which machines are online. The line between recon and scanning can be blurred, but I think recon tends towards passive data retrieval while scanning is active.
 
@@ -32,10 +32,11 @@ Hackers scan to build out a more complete picture than recon, and especially to 
 
 # Manipulating the 3-way Handshake
 
-Computers communicate over a network via two primary protocols, <acronym title="Transmission Control Protocol">TCP</acronym> and <acronym title="User Datagram Protocol">UDP</acronym>. TCP performs a three-step verification process called the 3-way handshake to ensure a connection has been made and that data was received. A hacker can manipulate TCP flags to trick a computer into divulging information.
+Computers communicate over a network via two primary protocols, {{< acronym TCP "Transmission Control Protocol" >}} and{{< acronym UDP. "User Datagram Protocol" >}} TCP performs a three-step verification process called the 3-way handshake to ensure a connection has been made and that data was received. A hacker can manipulate TCP flags to trick a computer into divulging information.
 
 The TCP handshake operates like this:
 
+{{< raw >}}
 <svg width="100%" height="90px">
   <text x="15"  y="50" fill="blue"> Bob's Machine</text>
   <text x="410" y="50" fill="green">Jill's Machine</text>
@@ -55,9 +56,10 @@ The TCP handshake operates like this:
   <line x1="390" y1="67" x2="399" y2="75" style="stroke:red;stroke-width:2"></line>
   <line x1="390" y1="83" x2="399" y2="75" style="stroke:red;stroke-width:2"></line>
 </svg>
+{{< / raw >}}
 
-1. Bob's computer sends a TCP packet with a <acronym title="Sync, pronounced 'sin'">SYN</acronym> flag with a sequence number (#403).
-2. Jill's computer receives Bob's TCP packet and responds with two flags: a SYN and an <acronym title="Acknowlege">ACK</acronym>. The SYN flag passes Bob's sequence number, incremented by one (#404) and the ACK flag sends Bob's sequence number (#356).
+1. Bob's computer sends a TCP packet with a {{< acronym SYN "Sync, pronounced 'sin'" >}} flag with a sequence number (#403).
+2. Jill's computer receives Bob's TCP packet and responds with two flags: a SYN and an {{< acronym ACK. "Acknowlege" >}} The SYN flag passes Bob's sequence number, incremented by one (#404) and the ACK flag sends Bob's sequence number (#356).
 3. Bob's computer receives Jill's TCP response and responds with an ACK flag with Bob's incremented sequence number (#357).
 
 Hackers can manipulate this process by sending a flag that's not expected. For example, Bob's computer could begin with a SYN/ACK.
@@ -76,6 +78,7 @@ The nmap command line utility enumerates over a target IP range to gather compre
 
 Scans the IP address range for active machines and checks the status of the top ten most common ports on each machine. Here's a table-formatted example of the output for one machine:
 
+{{< raw >}}
 <table>
 <tr><th>PORT</th><th>STATE</th><th>SERVICE</th></tr>
 <tr><td>21/tcp </td><td>closed</td><td>ftp</td></tr>
@@ -88,6 +91,7 @@ Scans the IP address range for active machines and checks the status of the top 
 <tr><td>445/tcp</td><td>closed</td><td>microsoft-ds</td></tr>
 <tr><td>3389/tcp</td><td>closed</td><td>ms-wbt-server</td></tr>
 </table>
+{{< / raw >}}
 
 ## hping3
 
@@ -95,7 +99,7 @@ The hping3 command line utility expands typical ping functionality.
 
 `> hping3 -l 192.168.1.x --rand-dest -I eth0`
 
-Sends an ICMP requests to hosts in the specified IP address range from the eth0 <acronym title="Network Interface Card">NIC</acronym>.
+Sends an ICMP requests to hosts in the specified IP address range from the eth0 {{< acronym NIC. "Network Interface Card" >}}
 
 ## Fing
 

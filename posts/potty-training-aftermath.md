@@ -13,9 +13,9 @@ comments = true
   small = "https://twtbxg.by.files.1drv.com/y4mPsPx_X9Y3k8D3SE_rWf6wwvje1EXz3O6ZpIYcSkRP4CidE1UGHFx7zymxmg2R7IBP2PXcn7_qLz9bhZWxkd2iIsB7DuEySSs82KJ7sW_PATNdT7v2O7bRrNzmOIBLaX9Ew2KERKy6ymFMuCyUMrP8GMsr2-EK2KhthIzrwx4L5kj6hHhKMio0stuP1CLXjYjCqlinzroztu6fthF0g7pwQ?width=192&height=256&cropmode=none"
 
 +++
-<p class="muted-text">
-This is part two in a series about potty training. See where <a href="{{< ref "/posts/potty-training.md" >}}">it all began</a>.
-</p>
+{{< raw >}}<p class="muted-text">{{< / raw >}}
+This is part two in a series about potty training. See where {{< backref "/posts/potty-training" "it all began." >}}
+{{< raw >}}</p>{{< / raw >}}
 
 Two weeks have passed since we launched Graham's [potty training program](https://www.littleones.co/). The first three days were horrific, but we've settled into a routine everyone can live with. Here are four discoveries we made along the way.
 
@@ -23,6 +23,7 @@ Two weeks have passed since we launched Graham's [potty training program](https:
 
 **There are numerous accomplishments.** Thanks to the Little One's program I knew we'd have more than one hurdle to overcome, but I didn't comprehend how many steps it would take. There are _way_ more overlapping steps involved in using the restroom. Here's an incomplete list of Graham's accomplishments in no particular order:
 
+{{< raw >}}
 <table>
 <tr><td>Become comfortable with changes in one's routine</td><td>1-4 hours</td></tr>
 <tr><td>Make the connection between accidents and the potty</td><td>6-12 hours</td></tr>
@@ -31,6 +32,7 @@ Two weeks have passed since we launched Graham's [potty training program](https:
 <tr><td>Discover the event can be extended beyond 0.5 seconds </td><td>3-5 days</td></tr>
 <tr><td>Retain all poo to release only at sleep times </td><td>from day 1</td></tr>
 </table>
+{{< / raw >}}
 
 **Nothing is safe.** The floors will be doused, the furniture will be soaked, and any item below or near Graham is in the target range. With great effort, we protected a few large items, but that didn't save my office chair or the light jacket I'd draped over it.
 

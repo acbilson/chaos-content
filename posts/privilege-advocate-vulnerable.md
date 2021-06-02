@@ -15,12 +15,9 @@ comments = true
   alt = "Willis Tower from Below"
 
 +++
-{{< raw >}}
-<a name="0"></span>
-<p class="muted-text">
-This is part two in a series on the subject of privilege. Review the <a href = "{{< ref "/posts/privilege-definition.md" >}}">definition of privilege</a> for context.
-</p>
-{{< / raw >}}
+{{< raw >}}<p class="muted-text">{{< / raw >}}
+This is part two in a series on the subject of privilege. Review the {{< backref "/posts/privilege-definition" "definition of privilege" >}} for context.
+{{< raw >}}</p>{{< / raw >}}
 
 I'd made little progress digesting the numerous privileges given me until I learned more about justice. Thanks to the invaluable efforts of [The Bible Project](https://bibleproject.com/about/) and their [Justice Series episodes](https://bibleproject.com/podcast/series/justice-series/)), a link between the call for justice in the Bible and the responsibility of the privileged has begun to form in my consciousness. I'll brief you until you can listen to the episodes yourself.
 

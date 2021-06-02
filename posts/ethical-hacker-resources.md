@@ -20,14 +20,14 @@ To purchase the official study guide, visit [this site](https://www.wiley.com/en
 
 Below are links to posts with content specific to an ethical hacking subject.
 
-<a href="{{< ref "/posts/ethical-hacker-resources/reconnaissance.md" >}}">Reconnaissance</a>, also referred to as footprinting, is the first step a hacker takes in their path to hacking your system.
+{{< backref "/posts/ethical-hacker-resources/reconnaissance" "Reconnaissance," >}} also referred to as footprinting, is the first step a hacker takes in their path to hacking your system.
 
-<a href="{{< ref "/posts/ethical-hacker-resources/scanning.md" >}}">Scanning</a> is the next step after reconnaissance. While reconnaissance is silent and does not require any direct connection to the target network, scanning does access the target network.
+{{< backref "/posts/ethical-hacker-resources/scanning" Scanning >}} is the next step after reconnaissance. While reconnaissance is silent and does not require any direct connection to the target network, scanning does access the target network.
 
 Enumeration, is a hacker's methodical data gathering from individual machines that make up the target network. While scanning should begin a netowrk map, enumeration fills it out with user accounts, machine names, OSes, and more.
 
 Denial of Service (DoS) floods a network service with requests to overload the target system and ensure other's can't receive the service. One machine is rarely sufficient, so DoS attacks are almost always distributed (DDoS).
 
-Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about <a href="{{< ref "/posts/police-impersonation-scam.md" >}}">Chicago Police Department Impersonation</a>.
+Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about {{< backref "/posts/police-impersonation-scam" "Chicago Police Department Impersonation." >}}
 
-<a href="{{< ref "/posts/ethical-hacker-resources/session-hijacking.md" >}}">Session Hijacking</a> happens when a hacker steals identifying information from a user's session to access their data, impersonate them, or hinder their access.
+{{< backref "/posts/ethical-hacker-resources/session-hijacking" "Session Hijacking" >}} happens when a hacker steals identifying information from a user's session to access their data, impersonate them, or hinder their access.

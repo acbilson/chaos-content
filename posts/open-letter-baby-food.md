@@ -54,7 +54,7 @@ Thank you for publishing your findings. It's not acceptable to have even 4.0 ppb
 
 Nevertheless, I wish you'd handled this report with more care, for the sake of many who can't think deeply about this subject right now. You've had access to this data since November 2019 - would it have been possible to consider the wider audience of your publication?
 
-These questions may already plague your conscience, and I submit to you that I don't have a better answer. It may have been inevitable. I may be reacting from the same shock over our country's brokenness that's struck me through 2020 until today, some of which I've written about [elsewhere]({{< ref "/posts/dear-son-racism.md" >}}). It's in the media's hands now; may they report with both transparency and sensitivity the details you've begun to expose.
+These questions may already plague your conscience, and I submit to you that I don't have a better answer. It may have been inevitable. I may be reacting from the same shock over our country's brokenness that's struck me through 2020 until today, some of which I've written about {{< backref "/posts/dear-son-racism" elsewhere. >}} It's in the media's hands now; may they report with both transparency and sensitivity the details you've begun to expose.
 
 Your Obedient Servant,
 
