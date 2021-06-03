@@ -1,4 +1,5 @@
 +++
+aliases = ["/comments/20201008-210602/"]
 categories = ["technology"]
 date = "2020-10-08T21:06:02"
 tags = ["makefile","html","testing","link"]

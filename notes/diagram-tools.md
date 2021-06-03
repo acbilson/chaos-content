@@ -1,4 +1,5 @@
 +++
+aliases = ["/comments/20210106-112526/"]
 categories = ["technology"]
 date = "2021-01-06T11:25:26"
 tags = ["plantuml","diagram","design","recommendation"]

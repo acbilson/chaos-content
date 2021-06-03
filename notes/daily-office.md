@@ -1,4 +1,5 @@
 +++
+aliases = ["/comments/20210519-173007/"]
 author = "Alex Bilson"
 categories = ["spiritual"]
 date = "2021-05-19T17:30:07"
