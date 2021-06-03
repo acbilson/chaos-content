@@ -1,6 +1,0 @@
-+++
-categories = ["personal"]
-date = "2020-06-27T13:21:46+01:00"
-tags = ["update"]
-+++
-This is my first comment made from my mobile device. How cool is that!
