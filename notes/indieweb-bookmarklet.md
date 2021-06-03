@@ -1,0 +1,7 @@
++++
+aliases = ["/comments/2020-07-14_20:46:12/"]
+categories = ["technology"]
+tags = ["indieweb","bookmark"]
+date = "2020-07-14T20:46:12+01:00"
++++
+Wow, [Max's](https://mxb.dev/blog/indieweb-link-sharing/) bookmarklet is such a smooth experience! Now I want one for myself...
