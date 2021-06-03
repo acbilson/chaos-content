@@ -6,7 +6,7 @@ date = "2021-05-29T14:26:07"
 tags = ["note-taking","purpose","design"]
 comments = true
 +++
-I've thought more about the structure of my site, and what's developing hardens back to my original post on [purpose]({{<ref "/posts/purpose.md" >}}).
+I've thought more about the structure of my site, and what's developing hardens back to my original post on {{< backref "/posts/resources/purpose.md" purpose. >}}
 
 The first category is writing for myself. This will comprise a collection of notes and a series of articles.
 

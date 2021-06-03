@@ -15,7 +15,7 @@ tags = ["children","potty-training"]
 
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
-This is the final installment in a series about potty training. See where {{< backref "/posts/potty-training" "it all began." >}}
+This is the final installment in a series about potty training. See where {{< backref "/posts/insights/potty-training" "it all began." >}}
 {{< raw >}}</p>{{< / raw >}}
 
 We were less than one week from potty training graduation and the event gave me mixed feelings. I knew there might be temporary regressions, but I thought it'd happen at a later transition; perhaps the birth of his younger brother. Then one night, just before Graham's bedtime routine was over, a traumatic incident set him back to the early days.
