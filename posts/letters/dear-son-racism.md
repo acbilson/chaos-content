@@ -63,7 +63,7 @@ Where news coverage bows it’s head in despairing silence over a land wracked w
 
 The abuses against the black community receive the most press coverage today, but I am convinced Asian, Mediterranean, Latinx (edit: &#x1F9E1; Stephanie) and Native American populations could enumerate their own lists of racially charged events. If you possess or know of such a list, [email me](mailto:acbilson@gmail.com).
 
-To consider how you might respond, check my related series on {{< backref "/posts/privilege-definition" privilege. >}}
+To consider how you might respond, check my related series on {{< backref "/posts/insights/privilege-definition" privilege. >}}
 
 Thanks be to God for Miles McPherson’s [plea to raise our voices](https://www.kusi.com/pastor-miles-mcpherson-on-race-relations-police-brutality-and-life-of-george-floyd/), for Amy Buerke’s social media integrity, and her source, [John Pavlovitz](https://johnpavlovitz.com/2020/05/07/white-americans-need-to-condemn-white-racism-in-america/?fbclid=IwAR2iWKlMfrlLVvMmK5zje909nbC_9w4hu7LdVKpfXhIXU4TCwsuJwxHjHjE).
 

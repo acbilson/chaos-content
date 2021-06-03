@@ -10,17 +10,9 @@ To narrow your search, you may filter by article type.
 
 ## Types
 
-- [Achievement]({{< ref "/posts/achievement/" >}})
-- [Insight]({{< ref "/posts/insight/" >}})
-- [Letter]({{< ref "/posts/letter/" >}})
-- [Recommendation]({{< ref "/posts/recommendation/" >}})
-- [Resource]({{< ref "/posts/resource/" >}})
-- [Story]({{< ref "/posts/story/" >}})
-
-A selection of article types are available by broad category. You'll discover articles of several types, but the content is applicable to the selected category.
-
-## Categories
-
-- [Business]({{< ref "/categories/business" >}})
-- [Software Development]({{< ref "/categories/software" >}})
-- [Parenting]({{< ref "/categories/parenting" >}})
+- [Achievement]({{< ref "/posts/achievements/" >}})
+- [Insight]({{< ref "/posts/insights/" >}})
+- [Letter]({{< ref "/posts/letters/" >}})
+- [Recommendation]({{< ref "/posts/recommendations/" >}})
+- [Resource]({{< ref "/posts/resources/" >}})
+- [Story]({{< ref "/posts/stories/" >}})

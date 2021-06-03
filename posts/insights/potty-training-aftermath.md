@@ -15,7 +15,7 @@ comments = true
 
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
-This is part two in a series about potty training. See where {{< backref "/posts/potty-training" "it all began." >}}
+This is part two in a series about potty training. See where {{< backref "/posts/insights/potty-training" "it all began." >}}
 {{< raw >}}</p>{{< / raw >}}
 
 Two weeks have passed since we launched Graham's [potty training program](https://www.littleones.co/). The first three days were horrific, but we've settled into a routine everyone can live with. Here are four discoveries we made along the way.

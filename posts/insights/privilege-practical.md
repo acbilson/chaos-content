@@ -14,7 +14,7 @@ comments = true
 
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
-This is part three in a series on the subject of privilege. Review the {{< backref "/posts/privilege-definition" "definition of privilege" >}} and {{< backref "/posts/privilege-advocate-vulnerable" "responsibility of privilege" >}} for context.
+This is part three in a series on the subject of privilege. Review the {{< backref "/posts/insights/privilege-definition" "definition of privilege" >}} and {{< backref "/posts/insights/privilege-advocate-vulnerable" "responsibility of privilege" >}} for context.
 {{< raw >}}</p>{{< / raw >}}
 
 In the American tech workplace, women and minorities are often marginalized. As a member of the technology marketplace, it's my responsibility to advocate for the fair treatment of my colleagues. As a privileged person, I don't have to overcome many of the obstacles that my colleagues face, but I can help tear those obstacles down. There are two ways I've offered an opportunity to others at work.
