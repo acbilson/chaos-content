@@ -1,4 +1,5 @@
 +++
+aliases = ["/comments/20201216-220004/"]
 categories = ["personal"]
 date = "2020-12-16T22:00:04"
 tags = ["update","genetics","kingdom","anger"]

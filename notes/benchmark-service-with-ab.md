@@ -1,4 +1,5 @@
 +++
+aliases = ["/comments/20201006-103000/"]
 categories = ["technology"]
 date = "2020-10-06T10:30:00"
 tags = ["cli","link","benchmark"]

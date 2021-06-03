@@ -1,4 +1,5 @@
 +++
+aliases = ["/comments/20210210-155431/"]
 categories = ["technology"]
 date = "2021-02-10T15:54:31"
 tags = ["in-reply-to","python","errors","software"]
