@@ -1,5 +1,6 @@
 +++
 categories = ["personal"]
+title = "Why Write Duplicate Content?"
 tags = ["writing"]
 date = "2020-06-29T04:20:27+01:00"
 +++

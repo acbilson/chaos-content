@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/20200917-020932/"]
+title = "Privacy Paper"
 categories = ["technology"]
 date = "2020-09-17T02:09:32"
 tags = ["privacy", "link"]

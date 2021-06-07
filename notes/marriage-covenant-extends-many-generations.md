@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-07-12_13:49:02/"]
+title = "Marriage Covenant Extends Many Generations"
 categories = ["personal"]
 tags = ["marriage", "children", "covenant", "book"]
 date = "2020-07-12T13:49:03+01:00"

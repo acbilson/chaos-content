@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-07-25_18:49:39/"]
+title = "SSG is a Developer Tool"
 categories = ["technology"]
 tags = ["static-site", "hosting", "in-reply-to", "indieweb"]
 date = "2020-07-25T18:49:39+01:00"

@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/20201203-015511/"]
+title = "Ways to Define the Bible"
 categories = ["personal"]
 date = "2020-12-03T01:55:11"
 tags = ["story","bible","book","review"]

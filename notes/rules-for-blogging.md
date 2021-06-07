@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/20201002-144533/"]
+title = "Rules for Blogging"
 categories = ["personal"]
 date = "2020-10-02T14:45:33"
 tags = ["writing","link"]
