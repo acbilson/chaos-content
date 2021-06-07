@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/20210106-111709"]
+title = "Raspberry Pi Zero"
 categories = ["technology"]
 date = "2021-01-06T11:17:09"
 tags = ["raspberrypi","link"]

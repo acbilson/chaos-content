@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/20210221-012457/"]
+title = "Obedience is Not Jesus' First Priority"
 categories = ["spiritual"]
 date = "2021-02-21T01:24:57"
 tags = ["children","kingdom","obedience"]

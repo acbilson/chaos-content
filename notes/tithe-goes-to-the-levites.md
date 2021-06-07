@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-07-17_03:28:56/"]
+title = "Tithe Goes to the Levites"
 categories = ["spiritual"]
 tags = ["tithe","bible"]
 date = "2020-07-17T03:28:56+01:00"

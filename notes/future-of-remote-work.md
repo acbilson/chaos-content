@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-07-27_01:09:08/"]
+title = "Future of Remote Work"
 categories = ["business"]
 tags = ["remote-work", "overwork", "in-reply-to"]
 date = "2020-07-27T01:09:08+01:00"

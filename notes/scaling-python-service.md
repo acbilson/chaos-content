@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-07-22_13:02:02/"]
+title = "Scaling Python Service"
 categories = ["technology"]
 tags = ["python", "flask", "architecture"]
 date = "2020-07-22T13:02:02+01:00"

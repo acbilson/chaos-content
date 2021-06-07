@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/20201124-160010/"]
+title = "Unoffice Hours"
 categories = ["personal"]
 date = "2020-11-24T16:00:10"
 tags = ["office-hours","idea"]

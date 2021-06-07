@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-08-05_13:21:17/"]
+title = "Prayer Transcends Spacetime"
 categories = ["spiritual"]
 tags = ["prayer", "spacetime"]
 date = "2020-08-05T13:21:17+01:00"

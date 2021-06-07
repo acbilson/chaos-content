@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-08-03_15:08:24/"]
+title = "Epistles Are Real Correspondence"
 categories = ["spiritual"]
 tags = ["interpretation","bible","gratitude"]
 date = "2020-08-03T15:08:24+01:00"

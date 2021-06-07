@@ -1,5 +1,6 @@
 +++
 aliases = ["/comments/2020-07-25_14:37:07/"]
+title = "Learn Cybersecurity in a Lab"
 categories = ["technology"]
 tags = ["security", "hosting"]
 date = "2020-07-25T14:37:07+01:00"
