@@ -1,17 +1,15 @@
 +++
 aliases = ["/posts/first-anniversary/"]
-category = "personal"
-title = "First Anniversary"
+category = "family"
+comments = true
 date = "2020-07-12"
 description = "In which Alex remembers in detail his first wedding anniversary."
-categories = ["personal"]
-comments = true
 tags = ["marriage", "gratitude"]
+title = "First Anniversary"
 [featuredImage]
+alt = "Alex and Amie on Water"
 large = "https://gxvx0g.by.files.1drv.com/y4mZjzcI4ttv-RYDNty9wuspHd0LlHg4CLjs0kAUcgCH5_ZkFGgFTw_1emsa3dmjVwAruk7N_PCkmdlIDs5PHe2IIQxQMKZIzVVSJbIJAj5VmNwmvRrycQGfdn-qq1eSY9sSgEaBDJyQlJHNrlTj65G8lUaCLzYTp4nKgmiult1QkTi7Tn2cXuGWnetJqITFXi2UvRh02wVP3v9aEvs_NGzZA?width=640&height=480&cropmode=none"
 small = "https://gxvx0g.by.files.1drv.com/y4mZjzcI4ttv-RYDNty9wuspHd0LlHg4CLjs0kAUcgCH5_ZkFGgFTw_1emsa3dmjVwAruk7N_PCkmdlIDs5PHe2IIQxQMKZIzVVSJbIJAj5VmNwmvRrycQGfdn-qq1eSY9sSgEaBDJyQlJHNrlTj65G8lUaCLzYTp4nKgmiult1QkTi7Tn2cXuGWnetJqITFXi2UvRh02wVP3v9aEvs_NGzZA?width=256&height=192&cropmode=none"
-salt = "Alex and Amie on Water"
-
 +++
 
 To celebrate our sixth wedding anniversary (woot!) I thought it'd be fun to recount our first from a journal entry I'd written two days after, with a few comments.

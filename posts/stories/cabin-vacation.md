@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/cabin-vacation/"]
-category = "personal"
-categories = ["personal"]
+category = "family"
+comments = true
 date = "2020-08-12"
 description = "In which Alex remembers a recent family vacation."
 tags = ["children", "vacation"]
 title = "Cabin Vacation"
-comments = true
 [featuredImage]
   alt = "Momma and Royal"
   large = "https://udb2xq.by.files.1drv.com/y4myeGfAl2NxyQaelrcVsP2a4ii9AtUj7qFQbFNHS0slIdH6-OlK9bBYawGrjxfoKKGsFSNjIXqeuzt1vgwTBEbwUe5ruEACT-wuF-HoUntY_n8Ko0gW5JI0lxv58O86Do3J5S0a4rbaFVQPnubkuM0eOt5UQ_aigF2sITZnKTFU4TD9Ug25Qz6woWsaYk9mqKD5n3kMkwe4rz-ac6gaEyLBg?width=769&height=1024&cropmode=none"
