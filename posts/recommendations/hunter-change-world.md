@@ -1,17 +1,16 @@
 +++
+addendum = ["From the context, Hunter's point seems to be that culture is not an ephemeral thing, a mist that surrounds us, but that culture also comprises the concrete institutions and processes that manufacture the 'mist.'", "Hunter lambasts the concept that it was the 'great men' who created culture in history. It was the networks these men led and participated in."]
 aliases = ["/posts/recommendations/change-world-hunter/"]
-draft = true
 category = "spiritual"
-date = "2021-01-01"
-categories = ["spiritual"]
-description = "A book recommendation for James Hunter's book, To Change the World"
-dropcap = false
+citations = ["Hunter, James Davison. To Change the World: The Irony, Tragedy, and Possibility of Christianity in the Late Modern World. Oxford University Press. 2010"]
 comments = true
+date = "2021-01-01"
+description = "A book recommendation for James Hunter's book, To Change the World"
+draft = true
+dropcap = false
 tags = ["integration","modernism","culture"]
 title = "Consider: To Change the World"
 toc = true
-addendum = ["From the context, Hunter's point seems to be that culture is not an ephemeral thing, a mist that surrounds us, but that culture also comprises the concrete institutions and processes that manufacture the 'mist.'", "Hunter lambasts the concept that it was the 'great men' who created culture in history. It was the networks these men led and participated in."]
-citations = ["Hunter, James Davison. To Change the World: The Irony, Tragedy, and Possibility of Christianity in the Late Modern World. Oxford University Press. 2010"]
 [featuredImage]
   alt = ""
   large = ""

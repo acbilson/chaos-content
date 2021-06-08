@@ -2,11 +2,10 @@
 aliases = ["/posts/recommendations/merton-seven-storey-mountain/"]
 author = "Alex Bilson"
 category = "spiritual"
-categories = ["spiritual"]
+comments = true
 date = "2021-05-21"
 description = "A book recommendation for Thomas Merton's book, The Seven Storey Mountain"
 tags = ["recommendation","gratitude","monastery","book"]
-comments = true
 title = "Recommend: The Seven Storey Mountain"
 [featuredImage]
   alt = "Seven Storey Mountain Book Cover"

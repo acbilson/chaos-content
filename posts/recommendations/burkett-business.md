@@ -1,14 +1,13 @@
 +++
 aliases = ["/posts/recommendations/burkett-business/"]
 category = "business"
+citations = ["Burkett, Larry. Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006"]
+comments = true
 date = "2020-05-27"
-categories = ["business","spiritual"]
 description = "A book recommendation for Larry Burkett's book, Business by the Book"
 dropcap = false
-comments = true
 tags = ["integration","ethics"]
 title = "Reject: Business by the Book"
-citations = ["Burkett, Larry. Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006"]
 [featuredImage]
   alt = "Business by the Book Cover"
   large = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fprodimage.images-bn.com%2Fpimages%2F9781418513399_p0_v2_s1200x630.jpg&f=1&nofb=1"

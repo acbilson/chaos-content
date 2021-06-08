@@ -1,19 +1,17 @@
 +++
 aliases = ["/posts/recommendations/color-accounting-frampton/"]
 category = "business"
+citations = ["Frampton, Peter and Robilliard, Mark. Color Accounting: The new graphical system that makes understanding accounting easy and quick. Accounting Comes Alive International. 2014"]
+comments = true
 date = "2020-04-22"
-categories = ["business"]
 description = "A book recommendation for Frampton and Robilliard's book, Color Accounting"
 dropcap = false
 tags = ["accounting", "cli"]
-comments = true
 title = "Recommend: Color Accounting"
-citations = ["Frampton, Peter and Robilliard, Mark. Color Accounting: The new graphical system that makes understanding accounting easy and quick. Accounting Comes Alive International. 2014"]
 [featuredImage]
   alt = "Color Accounting Book Cover"
   large = "https://www.coloraccounting.com/uploads/2/4/8/0/24801950/9675057.jpeg?445"
   small = "https://www.coloraccounting.com/uploads/2/4/8/0/24801950/9675057.jpeg?445"
-
 +++
 
 If you'd asked me at the start of my MBA program what courses I'd enjoy most, accounting would not have made the top five. This book and an engaged professor (thank you Clarke!) launched accounting to my top three.
