@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/open-letter-baby-food/"]
 category = "business"
-categories = ["business"]
+comments = true
 date = "2021-02-09"
 description = "In which Alex responds to a report about baby food toxicity published by a Congressional Oversight Committee."
 tags = ["children", "safety", "letter"]
 title = "Baby Food Open Letter"
-comments = true
 [featuredImage]
   alt = "Baby Food Container and Spoon"
   large = "https://bn02pap001files.storage.live.com/y4md_xyMmHYAbVi6df86mxLRdZPM8PG9tD1lH5Op3xS0W2qgeKYSvTMWa4kveaS22VuLDlQRYCSCGXl6sEn9s9bfX17lW5tczup7L4guo9L-omvJno03Unh1t4bDubj7mFdvnBJbGdrmW9SY5VcT93KCIOeu8IR5MMqXSmJo8D8N-BgBLm6zpMoNnCGj-fgvf0X?width=768&height=1024&cropmode=none"

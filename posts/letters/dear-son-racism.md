@@ -1,19 +1,18 @@
 +++
+aliases = ["/posts/dear-son-racism/"]
 backlinks = [
 { ref = "/posts/open-letter-baby-food", content = "These questions may already plague your conscience, and I submit to you that I don't have a better answer. It may have been inevitable. I may be reacting from the same shock over our country's brokenness that's struck me through 2020 until today, some of which I've written about [[elsewhere]]. It's in the media's hands now; may they report with both transparency and sensitivity the details you've begun to expose."}
 ]
-aliases = ["/posts/dear-son-racism/"]
-category = "personal"
-title = "American Racism"
+category = "family"
+comments = true
 date = "2020-05-29"
 description = "In which Alex exposes a chronic American injustice."
-categories = ["personal"]
-comments = true
 tags = ["racism", "justice"]
+title = "American Racism"
 [featuredImage]
+  alt   = "Photo by David Ramos on Unsplash"
   large = "https://images.unsplash.com/photo-1590715487984-2c0331f2292c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
   small = "https://images.unsplash.com/photo-1590715487984-2c0331f2292c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-  alt   = "Photo by David Ramos on Unsplash"
 +++
 {{<photoref "David Ramos" "https://unsplash.com/@davravid" >}}
 
