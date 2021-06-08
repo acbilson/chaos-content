@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/writing-getting-started/"]
 category = "business"
-date = "2021-02-05"
-title = "How To Start Writing"
-description = "In which Alex describes how to get started writing your own online content."
-categories = ["Business"]
-tags = ["writing", "consulting"]
 comments = true
+date = "2021-02-05"
+description = "In which Alex describes how to get started writing your own online content."
+tags = ["writing", "consulting"]
+title = "How To Start Writing"
 [featuredImage]
   large = "https://by3302files.storage.live.com/y4mRMZxFjSlXDz595547grJ2Kdu_3Wkbmr3aSaExC1738tG81aB-NV3mgKtNH-Bsc4pC8rG27KnnVXfLRzZ42R1pO8ATj_O6jHfKIrvS9rLXyksqALGl4vXn0Cx7lxB4Wia7Vay0ptqjS4LkXMlY_tkpcBZOpZyfj-BHK9Q5xPVvTFdrfKDDjEzyMJKjS2R8uuo?width=768&height=1024&cropmode=none"
   small = "https://by3302files.storage.live.com/y4mRMZxFjSlXDz595547grJ2Kdu_3Wkbmr3aSaExC1738tG81aB-NV3mgKtNH-Bsc4pC8rG27KnnVXfLRzZ42R1pO8ATj_O6jHfKIrvS9rLXyksqALGl4vXn0Cx7lxB4Wia7Vay0ptqjS4LkXMlY_tkpcBZOpZyfj-BHK9Q5xPVvTFdrfKDDjEzyMJKjS2R8uuo?width=192&height=256&cropmode=none"
