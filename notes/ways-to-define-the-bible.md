@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20201203-015511/"]
-title = "Ways to Define the Bible"
-categories = ["personal"]
 date = "2020-12-03T01:55:11"
-tags = ["story","bible","book","review"]
+tags = ["story","bible","book"]
+title = "Ways to Define the Bible"
 +++
 I’ve finished “Blue Parakeet” by Scot McKnight.
 

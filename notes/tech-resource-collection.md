@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20201005-094000/"]
-title = "Tech Resource Collection"
-categories = ["resources"]
 date = "2020-10-05T21:39:57"
-tags = ["recommendation", "networking","link"]
+tags = ["networking"]
+title = "Tech Resource Collection"
 +++
 There are so many new links from this weekend that I saved them for just one (long) comment:
 

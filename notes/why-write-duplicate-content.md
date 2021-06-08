@@ -1,8 +1,8 @@
 +++
-categories = ["personal"]
-title = "Why Write Duplicate Content?"
-tags = ["writing"]
+aliases = ["/comments/20200629-202701/"]
 date = "2020-06-29T04:20:27+01:00"
+tags = ["writing"]
+title = "Why Write Duplicate Content?"
 +++
 What a [great answer](https://dev.to/samborick/comment/114ka) from Sam Borick to why it’s important to write, even when it seems like someone else has done or could have done better:
 

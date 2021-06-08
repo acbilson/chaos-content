@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/2020-07-17_03:28:56/"]
-title = "Tithe Goes to the Levites"
-categories = ["spiritual"]
-tags = ["tithe","bible"]
 date = "2020-07-17T03:28:56+01:00"
+tags = ["tithe", "bible"]
+title = "Tithe Goes to the Levites"
 +++
 Everything belongs to the LORD. To eleven of Israel’s tribes, the LORD gives an inheritance of land and its fruits. To the Levite, 10% of the land’s produce is given as an inheritance. The Levite receives no land because his work is not farming, but the tabernacle ministry.
 

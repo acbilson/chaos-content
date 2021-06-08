@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20210106-111709"]
-title = "Raspberry Pi Zero"
-categories = ["technology"]
 date = "2021-01-06T11:17:09"
-tags = ["raspberrypi","link"]
+tags = ["raspberrypi"]
+title = "Raspberry Pi Zero Resources"
 +++
 Here’s a collection of Raspberry Pi articles I’ve found helpful while I consider what to do with my new Raspberry Pi Zero W.
 

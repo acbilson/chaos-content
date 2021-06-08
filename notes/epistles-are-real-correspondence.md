@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/2020-08-03_15:08:24/"]
-title = "Epistles Are Real Correspondence"
-categories = ["spiritual"]
-tags = ["interpretation","bible","gratitude"]
 date = "2020-08-03T15:08:24+01:00"
+tags = ["interpretation","bible","letters"]
+title = "Epistles Are Real Correspondence"
 +++
 The New Testament letters have fit into my mental model as a synopsis of the whole Bible, and the Old Testament primarily as historical background. If the Bible were written as I imagine, the letters would be the treatise, and the Old Testament would be an appendix.
 

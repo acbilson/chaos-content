@@ -1,11 +1,10 @@
 +++
 aliases = ["/comments/20210529-044142/"]
-title = "My Site Content Types"
 author = "Alex Bilson"
-categories = ["personal"]
+comments = true
 date = "2021-05-29T04:41:42"
 tags = ["note-taking","design"]
-comments = true
+title = "My Site Content Types"
 +++
 I may need to rethink the types of content on my site. It began as an outlet for business and parenting, with traditional blog posts. I've added a hodge podge of other writings in this comments section.
 

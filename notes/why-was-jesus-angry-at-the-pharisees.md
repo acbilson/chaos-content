@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20201216-220004/"]
-title = "Why was Jesus Angry at the Pharisees?"
-categories = ["personal"]
 date = "2020-12-16T22:00:04"
-tags = ["update","genetics","kingdom","anger"]
+tags = ["genetics","kingdom","anger"]
+title = "Why was Jesus Angry at the Pharisees?"
 +++
 It's been a thought-provoking day. I guess it comes from reading "Adam and the Genome" by Dennis Venema and Scot McKnight at 4:00 a.m. while letting Royal sleep on my chest. Here's a couple to revisit.
 

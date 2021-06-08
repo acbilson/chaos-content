@@ -1,11 +1,10 @@
 +++
 aliases = ["/comments/20210523-043104/"]
-title = "Meaning of Life"
 author = "Alex Bilson"
-categories = ["personal"]
-date = "2021-05-23T04:31:04"
-tags = ["meaning","reflection"]
 comments = true
+date = "2021-05-23T04:31:04"
+tags = ["meaning","purpose"]
+title = "Meaning of Life"
 +++
 What gives life meaning?
 
