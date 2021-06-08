@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/bible-interpretation-example/"]
 category = "spiritual"
-categories = ["spiritual"]
+comments = true
 date = "2020-09-02"
 description = "In which Alex walks through an exercise in biblical interpretation from Romans 14:17."
 tags = ["discovery", "interpretation", "bible"]
 title = "Biblical Interpretation Example"
-comments = true
 [featuredImage]
   alt = "Reading with Royal"
   large = "https://vdbmuw.by.files.1drv.com/y4mJq8iLof53OrjdR1BIBh2faAVoXtwI9dAwUb9Lqlwq2qbRKFvmRKOTvkm7m9m05HWzcMFjXWrB5Z91jygQNHG4hk9I1b80zJtuLlE3zAlovh6lT3bau2bvbCe8wJEwenrOWH__SV7HMutE99DWX9r-aKd6S9t4Z6O2yoqkeQ6jIx8F9UdofRzBf_y44rqM54BVhDuWh6HPqTK82Pc6LYGOQ?width=768&height=1024&cropmode=none"

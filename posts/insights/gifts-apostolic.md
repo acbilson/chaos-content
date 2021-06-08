@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/gifts-apostolic/"]
-category = "personal"
-categories = ["personal"]
+category = "spiritual"
+comments = true
 date = "2020-09-27"
 description = "In which Alex shares his uncomfortable spiritual gift."
 tags = ["spiritual-gifts"]
 title = "My Gifting"
-comments = true
 [featuredImage]
   alt = "Royal Opens A Package"
   large = "https://by3301files.storage.live.com/y4m2Lt7J8xSg8FaNKRnIX9Kw7oWDeLxCjtLHjhGkNkLq39YIi_pbIC4u5nu2GO7l-dIxOaLM844tT-cp9rV6rqvm9udQgcL3B98maZzPG6Y73t5hv6Ege2V0-haOY-od0OFzQvSuRTXW9WoYcawlQZ_n-QSSizQepKAxXKAJiCOIsLZ39e6NhNlBVJO4aZ0oLth?width=768&height=1024&cropmode=none"

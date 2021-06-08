@@ -1,16 +1,15 @@
 +++
 aliases = ["/posts/are-you-afraid/"]
-category = "personal"
-title = "Are You Afraid?"
+category = "family"
+comments = true
 date = "2020-09-09"
 description = "In which Alex responds to a shocking video that exposes missing American history."
-categories = ["personal"]
-comments = true
 tags = ["racism","video","privilege","history","bible","gratitude"]
+title = "Are You Afraid?"
 [featuredImage]
+  alt   = "open Bible in a park"
   large = "https://dntgpq.by.files.1drv.com/y4mg5g8BFwx0ZBCcRKmb-nluGkRW-qAvxvbuTPG50H7s4VteKHTdPxya6ot2iRDMCDwboVhz2o91AMxc9OmC4mKuNAm9DtgOhllDzXVm0jGnFqnCR_f1g86JYJxFPcVaBp-7_DCdp19PEt40gVof-k4oas7JYrBGJIHEmrBYcxwrXheGveiA4mPWYvdylzG68VuLhf128sJB6_JFgpvW4o28Q?width=1024&height=768&cropmode=none"
   small = "https://dntgpq.by.files.1drv.com/y4mg5g8BFwx0ZBCcRKmb-nluGkRW-qAvxvbuTPG50H7s4VteKHTdPxya6ot2iRDMCDwboVhz2o91AMxc9OmC4mKuNAm9DtgOhllDzXVm0jGnFqnCR_f1g86JYJxFPcVaBp-7_DCdp19PEt40gVof-k4oas7JYrBGJIHEmrBYcxwrXheGveiA4mPWYvdylzG68VuLhf128sJB6_JFgpvW4o28Q?width=256&height=192&cropmode=none"
-  alt   = "open Bible in a park"
 +++
 
 Have you watched this?

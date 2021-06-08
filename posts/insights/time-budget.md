@@ -1,17 +1,15 @@
 +++
 aliases = ["/posts/time-budget/"]
-category = "personal"
+category = "business"
+comments = true
 date = "2020-04-08"
-categories = ["personal", "business"]
 description = "In which Alex shares one of his favorite tools to make sense of his week; the time budget."
 tags = ["productivity"]
 title = "Order Your Week"
-comments = true
 [featuredImage]
   alt = "Graham in the Pantry"
   large = "https://d3scaw.by.files.1drv.com/y4mlMDmtimehtHbYwt8tVFhkRujECs4tmFL6l_Ukdk-rueQ7BEOUYWpP3-JjXBKUUrAx0kSEhU031nIwgsh1DRDNWM1cRQis6hspY15pL10MjMCqTDbkGB9EZtNq138nbxrJKZg4_Z6AGDQE_X5ax6abqQ_yXH7mYglGTUpxbMEcSiHgGkGvjRfmMTsttqytZAp_0C9BCK4eVuqOFUZ8N1o1g?width=768&height=1024&cropmode=none"
   small = "https://d3scaw.by.files.1drv.com/y4mlMDmtimehtHbYwt8tVFhkRujECs4tmFL6l_Ukdk-rueQ7BEOUYWpP3-JjXBKUUrAx0kSEhU031nIwgsh1DRDNWM1cRQis6hspY15pL10MjMCqTDbkGB9EZtNq138nbxrJKZg4_Z6AGDQE_X5ax6abqQ_yXH7mYglGTUpxbMEcSiHgGkGvjRfmMTsttqytZAp_0C9BCK4eVuqOFUZ8N1o1g?width=192&height=256&cropmode=none"
-
 +++
 
 I was recently inspired by Sharon Ello's  <a href="https://coffeetalkcounseling.com/blog/f/quarantine-question-of-the-day---1">Quarantine Question of the Day</a> to update my time budget, and it occurred to me that others might benefit from this tool. Many have lost their daily structure under the executive stay-at-home order and could use a visual aid to wrangle their schedules back into order.

@@ -1,17 +1,15 @@
 +++
 category = "spiritual"
+comments = true
 date = "2020-08-26"
-categories = ["business", "spiritual"]
 description = "In which Alex meditates on what effect a hope of reward beyond the grave has on work."
 draft = true
 tags = ["hope", "kingdom"]
 title = "Expectation of Reward"
-comments = true
 [featuredImage]
   alt = ""
   large = ""
   small = ""
-
 +++
 Biblical Insight: Expectation of heavenly reward makes us better workers.
 

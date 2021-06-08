@@ -1,17 +1,15 @@
 +++
 aliases = ["/posts/parent-relationship-sickness/"]
-category = "personal"
-categories = ["personal"]
+category = "family"
+comments = true
 date = "2020-02-07"
 description = "In which Alex considers how parenthood changes his relationship with sickness."
 tags = ["children", "parenthood"]
 title = "A Parent's Relationship with Sickness"
-comments = true
 [featuredImage]
   alt = "Graham Plays with Animals"
   large = "https://5uorna.by.files.1drv.com/y4m4mrB0wQ8bwk9I2O2izw91xZVxkAryNBPI8WPgSLX3SaCBr9sbHfAqffY4rdHuI4loOed59ht56kyXjnTZFbq78RNPujAFdDtMnSdv1sjgDugSXN9HUDoVCeLF4o8K5TotFIU82CLzf93Kgeg2AG4zDrFKsWtXE0hVB0reRvAu7rFaKnUPpr1xUGcq9PQVKJzx80GJ1yU1izNq3OriccbtQ?width=768&height=1024&cropmode=none"
   small = "https://5uorna.by.files.1drv.com/y4m4mrB0wQ8bwk9I2O2izw91xZVxkAryNBPI8WPgSLX3SaCBr9sbHfAqffY4rdHuI4loOed59ht56kyXjnTZFbq78RNPujAFdDtMnSdv1sjgDugSXN9HUDoVCeLF4o8K5TotFIU82CLzf93Kgeg2AG4zDrFKsWtXE0hVB0reRvAu7rFaKnUPpr1xUGcq9PQVKJzx80GJ1yU1izNq3OriccbtQ?width=192&height=256&cropmode=none"
-
 +++
 
 If I was sick more than once a year, I don't remember it. Excluding periods of childhood and the occasional hospitalization, for over a decade I'd never been sick more than once per year; the kind of sick where I'd think, "I should stay home and recover from this." All that changed with Graham.

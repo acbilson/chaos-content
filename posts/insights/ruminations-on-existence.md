@@ -1,16 +1,15 @@
 +++
 aliases = ["/posts/ruminations-on-existence/"]
 category = "spiritual"
-date = "2021-05-24"
-title = "Ruminations on Reality"
-description = "In which Alex ruminates on human identity with Thomas Merton."
-categories = ["spiritual","personal"]
-tags = ["merton", "purpose", "humanity","God","quotes"]
 comments = true
+date = "2021-05-24"
+description = "In which Alex ruminates on human identity with Thomas Merton."
+tags = ["merton", "purpose", "humanity","God","quotes"]
+title = "Ruminations on Reality"
 [featuredImage]
+  alt   = "Lone Tree in Early Spring"
   large = "https://bn02pap001files.storage.live.com/y4m0M6ZTLGYakSY4bTAM-L3OFV9_KgeV04e7dHkzPXQNZ9kPSW19ccdTPTh-oQn92vu-eubcfIeUrNRwzg79t3LZoVosDCJOjxg69ip5ZrenWxGIrTlUEZcBg87Y5gdOMUp4kS3R_fyJSxyQCq7lxRBzC6V_p7VYCU6d2G1_mSOqSP3UXIgGXirFSWpHS8WNejq?width=768&height=1024&cropmode=none"
   small = "https://bn02pap001files.storage.live.com/y4m0M6ZTLGYakSY4bTAM-L3OFV9_KgeV04e7dHkzPXQNZ9kPSW19ccdTPTh-oQn92vu-eubcfIeUrNRwzg79t3LZoVosDCJOjxg69ip5ZrenWxGIrTlUEZcBg87Y5gdOMUp4kS3R_fyJSxyQCq7lxRBzC6V_p7VYCU6d2G1_mSOqSP3UXIgGXirFSWpHS8WNejq?width=192&height=256&cropmode=none"
-  alt   = "Lone Tree in Early Spring"
 +++
 In prayerful meditation over my lunch walk, the Spirit and I ruminated over Thomas Merton's words in the opening fifty pages of _New Seeds of Contemplation_. The waters are very deep and I am at great risk of misinterpretation, but this is what light I seem to have gained:
 

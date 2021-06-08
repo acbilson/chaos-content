@@ -1,23 +1,20 @@
 +++
+aliases = ["/posts/police-impersonation-scam/"]
 backlinks = [
 { ref = "/posts/ethical-hacker-resources", content = "Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about [[Chicago Police Department Impersonation]]."}
 ]
-aliases = ["/posts/police-impersonation-scam/"]
 category = "business"
-date = "2020-05-06"
-categories = ["business","technology"]
 citations = ["Bilson, Alex. Optimum Joy Clinical Counseling: Observations, Analysis and Recommendations (2020)."]
+comments = true
+date = "2020-05-06"
 description = "In which Alex describes a sophisticated social engineering attack."
 dropCap = false
-comments = true
 tags = ["security", "social-engineering", "thesis"]
 title = "CPD Impersonation"
-
 [featuredImage]
   alt = "Photo by Fred Moon on Unsplash"
   large = "https://images.unsplash.com/photo-1556474835-47da4fcf709c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80"
   small = "https://images.unsplash.com/photo-1556474835-47da4fcf709c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80"
-
 +++
 {{<photoref "Fred Moon" "https://unsplash.com/@fwed?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" >}}
 

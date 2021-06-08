@@ -1,13 +1,12 @@
 +++
 aliases = ["/posts/my-biggest-fans/"]
 category = "technology"
-categories = ["technology"]
+comments = true
 date = "2021-02-01"
 description = "In which Alex shares a list of IP addresses from his top 100 website requestors."
 draft = false
 tags = ["surveillance", "bots"]
 title = "My Biggest Fans"
-comments = true
 [featuredImage]
   alt = "Graham and Royal stare at the camera"
   large = "https://by3301files.storage.live.com/y4mN_GhVWz_8uh-6BdmW7NAdFbvrdqiZ64kXd1nLfoytWZPCGcfyPM1ax-gfSs-CjGr5j45l7-j8V32rc-hmJr7E09RI4HV5WLUdYRr4cMfS4GUBOhEQvtyAIZpJXOqxKywE482HOqav943mdSsWcXROG5RlnVmyVqsmGrY63IcsD_gaCnRkweJC6d7GRXhAefq?width=1024&height=768&cropmode=none"

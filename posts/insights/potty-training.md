@@ -1,21 +1,19 @@
 +++
+aliases = ["/posts/potty-training/"]
 backlinks = [
 { ref = "/posts/potty-training-aftermath", content = "This is part two in a series about potty training. See where [[it all began]]."},
 { ref = "/posts/potty-training-return", content = "This is the final installment in a series about potty training. See where [[it all began]]."}
 ]
-aliases = ["/posts/potty-training/"]
-category = "personal"
-categories = ["personal"]
+category = "family"
+comments = true
 date = "2020-02-15"
 description = "In which Alex reflects on six days of potty training."
 tags = ["children", "potty-training"]
 title = "Potty Training"
-comments = true
 [featuredImage]
   alt = "Graham With His Potty"
   large = "https://rgqvmq.by.files.1drv.com/y4mZ57rv8npbqqR_tY6zdMgJXcJqyvHbWwbL8PHUZlnQC8IDvMXoZv64ihE0b2Xn9SF383KAOzSn-SKqFvp5bN4iAmEC1w-mFn4snSCE302KlaHBZoOnbVN5Ixjis4URI4a1rnLV7m0jsVb-ZEswwIhlwGE1ubt7Vd9zvfYDnqcE3Ys54Absoj10DFPFflyjd_Y_jriI_0jE51nH3EZzcj8Jg?width=768&height=1024&cropmode=none"
   small = "https://rgqvmq.by.files.1drv.com/y4mZ57rv8npbqqR_tY6zdMgJXcJqyvHbWwbL8PHUZlnQC8IDvMXoZv64ihE0b2Xn9SF383KAOzSn-SKqFvp5bN4iAmEC1w-mFn4snSCE302KlaHBZoOnbVN5Ixjis4URI4a1rnLV7m0jsVb-ZEswwIhlwGE1ubt7Vd9zvfYDnqcE3Ys54Absoj10DFPFflyjd_Y_jriI_0jE51nH3EZzcj8Jg?width=192&height=256&cropmode=none"
-
 +++
 Today marks round five in a six-day potty training plan. It's been rough.
 

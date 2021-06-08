@@ -1,20 +1,18 @@
 +++
+aliases = ["/posts/privilege-advocate-vulnerable/"]
 backlinks = [
 { ref = "/posts/privilege-practical", content = "This is part three in a series on the subject of privilege. Review the [[definition of privilege]] and [[responsibility of privilege]] for context."}
 ]
-aliases = ["/posts/privilege-advocate-vulnerable/"]
-category = "personal"
-date = "2020-04-15"
-title = "Privilege: An Advocate for the Vulnerable"
-description = "In which Alex ponders the responsibility of the privileged to advocate for the vulnerable."
-categories = ["personal"]
-tags = ["privilege","chicago"]
+category = "family"
 comments = true
+date = "2020-04-15"
+description = "In which Alex ponders the responsibility of the privileged to advocate for the vulnerable."
+tags = ["privilege","chicago"]
+title = "Privilege: An Advocate for the Vulnerable"
 [featuredImage]
+  alt = "Willis Tower from Below"
   large = "https://islduw.by.files.1drv.com/y4m3k0tDIlGbpvOnx1hDTsBcjAL7dwA8-C_-5ixvx26Ejx1RSXV3NBaOgtvF9wCU-XX53BYrLN-UYn1AjSKgVCznvrDl1UyBaEvl9031rE3FvowFwApbcr6iVm1zxSwGQxsH1lQYOmUFzVTy-I2-qUoaj88CPyIbRFMD1Oo5UWvR2st1WG1-82tLUACUnH6ARztsHfaHb2GEO1jfMHCAeVpjA?width=768&height=1024&cropmode=none"
   small = "https://islduw.by.files.1drv.com/y4m3k0tDIlGbpvOnx1hDTsBcjAL7dwA8-C_-5ixvx26Ejx1RSXV3NBaOgtvF9wCU-XX53BYrLN-UYn1AjSKgVCznvrDl1UyBaEvl9031rE3FvowFwApbcr6iVm1zxSwGQxsH1lQYOmUFzVTy-I2-qUoaj88CPyIbRFMD1Oo5UWvR2st1WG1-82tLUACUnH6ARztsHfaHb2GEO1jfMHCAeVpjA?width=192&height=256&cropmode=none"
-  alt = "Willis Tower from Below"
-
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
 This is part two in a series on the subject of privilege. Review the {{< backref "/posts/insights/privilege-definition" "definition of privilege" >}} for context.

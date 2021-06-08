@@ -1,18 +1,16 @@
 +++
 aliases = ["/posts/potty-training-return/"]
-category = "personal"
+category = "family"
+comments = true
 date = "2020-03-25"
-title = "Return of the Potty"
 description = "In which Alex writes about regressions in potty training."
 dropCap = true
-categories = ["personal"]
-comments = true
 tags = ["children","potty-training"]
+title = "Return of the Potty"
 [featuredImage]
+  alt = "Toilet Seat on Graham's Head"
   large = "https://uwrrja.by.files.1drv.com/y4mhZgdlhAGKb9CJ7zFzlC2XYNHAJ_BftWHYKJGLlPDU61FOvhDxmUaK6CYogI70PvjKlVS92pIIuRBP0E-VvnnpasLEItq63yz3LaCeYc_rQpiVGqrLLUE7fO_qCL-eoMAj7367MGVKRJqeEtwRv2qCdX2UnLZ7Y96BXoNM5fsdx2d-9_LtQbpgBUYifqmM6HypxUwfRMfc-paae4Y4jYkBA?width=768&height=1024&cropmode=none"
   small = "https://uwrrja.by.files.1drv.com/y4mhZgdlhAGKb9CJ7zFzlC2XYNHAJ_BftWHYKJGLlPDU61FOvhDxmUaK6CYogI70PvjKlVS92pIIuRBP0E-VvnnpasLEItq63yz3LaCeYc_rQpiVGqrLLUE7fO_qCL-eoMAj7367MGVKRJqeEtwRv2qCdX2UnLZ7Y96BXoNM5fsdx2d-9_LtQbpgBUYifqmM6HypxUwfRMfc-paae4Y4jYkBA?width=192&height=256&cropmode=none"
-  alt = "Toilet Seat on Graham's Head"
-
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
 This is the final installment in a series about potty training. See where {{< backref "/posts/insights/potty-training" "it all began." >}}

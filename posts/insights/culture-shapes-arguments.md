@@ -1,18 +1,17 @@
 +++
 aliases = ["/posts/culture-shapes-arguments/"]
 category = "business"
-title = "Culture Shapes Arguments"
+citations = ["Asimov, Isaac. Foundation. Bantam Dell. 1951", "Meyer, Erin. The Culture Map (INTL ED): Decoding How People Lead, Think, and Get Things Done Across Cultures. Public Affairs. 2016", "Pink, Daniel. To Sell Is Human: The Surprising Truth About Moving Others. Riverhead Books. 2012"]
+comments = true
 date = "2020-10-08"
 description = "In which Alex argues that a person's intellectual background shapes what arguments persuade them."
-categories = ["business"]
-comments = true
 tags = ["culture","selling"]
-citations = ["Asimov, Isaac. Foundation. Bantam Dell. 1951", "Meyer, Erin. The Culture Map (INTL ED): Decoding How People Lead, Think, and Get Things Done Across Cultures. Public Affairs. 2016", "Pink, Daniel. To Sell Is Human: The Surprising Truth About Moving Others. Riverhead Books. 2012"]
+title = "Culture Shapes Arguments"
 in-reply-to = "http://interconnected.org/home/2020/10/07/orthogonal"
 [featuredImage]
+  alt   = "Photo by Fabe on Unsplash"
   large = "https://images.unsplash.com/photo-1601882190735-729e8b314d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
   small = "https://images.unsplash.com/photo-1601882190735-729e8b314d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-  alt   = "Photo by Fabe on Unsplash"
 +++
 {{<photoref "Fabe" "https://linktr.ee/fabecollage?utm_medium=referral&utm_source=unsplash" >}}
 

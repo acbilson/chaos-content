@@ -1,12 +1,11 @@
 +++
-draft = true
 category = "spiritual"
-categories = ["spiritual"]
+comments = true
 date = "2020-11-04"
 description = "In which Alex desribes hindrances to the discovery process."
+draft = true
 tags = ["bible", "interpretation"]
 title = "Hindrances to Discovery"
-comments = true
 [featuredImage]
   alt = ""
   large = ""

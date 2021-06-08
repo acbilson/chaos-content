@@ -1,18 +1,16 @@
 +++
 aliases = ["/posts/stakeholder-communication/"]
 category = "business"
-title = "Stakeholder Communication"
+citations = ["Campbell, Clark A and Mick Campbell. The New One-Page Project Manager: Communicate and Manage Any Project With A Single Sheet of Paper. 2nd Edition. Wiley. 2012"]
+comments = true
 date = "2020-03-18"
 description = "In which Alex argues that project managers should inform stakeholders early, often, and with simple clarity."
-categories = ["business"]
 tags = ["project-management","communication"]
-comments = true
-citations = ["Campbell, Clark A and Mick Campbell. The New One-Page Project Manager: Communicate and Manage Any Project With A Single Sheet of Paper. 2nd Edition. Wiley. 2012"]
+title = "Stakeholder Communication"
 [featuredImage]
+  alt = "One-Page Project Manager Book"
   large = "https://twtexg.by.files.1drv.com/y4m5CNPRCrL1-fH9JJKblkSULAs6K8y1K1jb7w6oXhXjCsxI6-Bg2b0wow35RHaw1JnN_m4BH_3nSVoFdrj9ha21q9h737NfodxbzcFrMDpvYisohAXHZFB_6aoDIVx1SARMWtspsl3D6zceux5rZjN2bQV4gBXftOincLYUt8ZJVyBUvE28O3DLeNQjO8BXMR63CRcCbXJOnqrUVuJrcv5hQ?width=768&height=1024&cropmode=none"
   small = "https://twtexg.by.files.1drv.com/y4m5CNPRCrL1-fH9JJKblkSULAs6K8y1K1jb7w6oXhXjCsxI6-Bg2b0wow35RHaw1JnN_m4BH_3nSVoFdrj9ha21q9h737NfodxbzcFrMDpvYisohAXHZFB_6aoDIVx1SARMWtspsl3D6zceux5rZjN2bQV4gBXftOincLYUt8ZJVyBUvE28O3DLeNQjO8BXMR63CRcCbXJOnqrUVuJrcv5hQ?width=192&height=256&cropmode=none"
-  alt = "One-Page Project Manager Book"
-
 +++
 
 Project managers (PMs) are detail-oriented people. They live in a world of statistics, charts, graphs, timelines, and schedules. With the success of the project on their shoulders, they put all their effort towards managing an on-time, on-budget project. When in this mindset, PMs can minimize stakeholder reports, which seem irrelevant to the project's completion ([Campbell C. and Campbell M.](#citations), pg. 15). Yet stakeholders will ultimately decide the project’s success or failure and can halt the project or add resources. Wise project managers recognize that they are accountable to stakeholders and see collaboration as a necessary part of the project’s success. The best PMs communicate early about the project’s objectives, submit regular updates, and do so with empathy for the stakeholder's competing demands.

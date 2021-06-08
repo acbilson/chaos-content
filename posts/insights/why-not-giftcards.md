@@ -1,16 +1,15 @@
 +++
 aliases = ["/posts/why-not-giftcards/"]
 category = "business"
-title = "Buy Pizzas, Not Gift Cards"
+comments = true
 date = "2020-03-18"
 description = "In which Alex explains why gift cards won't help restaurants with COVID-19"
-categories = ["business"]
 tags = ["accounting"]
-comments = true
+title = "Buy Pizzas, Not Gift Cards"
 [featuredImage]
+  alt   = "Gino's East Gift Card"
   large = "https://gqad1a.by.files.1drv.com/y4m0VYQjw15tDUJJ0-Kzz452iSR7Cr0LnEk1nBcCMjVcfMDRNryZZcb4IYzwSTuzoFwGmzdeARmFTPMJ27JsUkqPq6IaLUXS-wNeiHf8ESMruCnyzkROJgI61GszeL2ibvwoV4ojN92ZXJk_yorihpY3f8ATovC7iWxTWzY7cNUjwSE3_bp99xUmVc0W8YRyYLkvSzmLqrUBwPoyZ8-yCyYLA?width=768&height=1024&cropmode=none"
   small = "https://gqad1a.by.files.1drv.com/y4m0VYQjw15tDUJJ0-Kzz452iSR7Cr0LnEk1nBcCMjVcfMDRNryZZcb4IYzwSTuzoFwGmzdeARmFTPMJ27JsUkqPq6IaLUXS-wNeiHf8ESMruCnyzkROJgI61GszeL2ibvwoV4ojN92ZXJk_yorihpY3f8ATovC7iWxTWzY7cNUjwSE3_bp99xUmVc0W8YRyYLkvSzmLqrUBwPoyZ8-yCyYLA?width=192&height=256&cropmode=none"
-  alt   = "Gino's East Gift Card"
 +++
 There's misinformation swirling as the COVID-19 pandemic escalates. This is my small way to combat the spread with a topic I know something about.
 

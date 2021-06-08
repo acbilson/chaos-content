@@ -1,18 +1,16 @@
 +++
 aliases = ["/posts/potty-training-aftermath/"]
-category = "personal"
-categories = ["personal"]
+category = "family"
+comments = true
 date = "2020-03-04"
 description = "In which Alex recounts two weeks of potty training."
 dropCap = false
 tags = ["children", "potty-training"]
 title = "Potty Training: Aftermath"
-comments = true
 [featuredImage]
   alt = "Two Week Sticker Chart"
   large = "https://twtbxg.by.files.1drv.com/y4mPsPx_X9Y3k8D3SE_rWf6wwvje1EXz3O6ZpIYcSkRP4CidE1UGHFx7zymxmg2R7IBP2PXcn7_qLz9bhZWxkd2iIsB7DuEySSs82KJ7sW_PATNdT7v2O7bRrNzmOIBLaX9Ew2KERKy6ymFMuCyUMrP8GMsr2-EK2KhthIzrwx4L5kj6hHhKMio0stuP1CLXjYjCqlinzroztu6fthF0g7pwQ?width=768&height=1024&cropmode=none"
   small = "https://twtbxg.by.files.1drv.com/y4mPsPx_X9Y3k8D3SE_rWf6wwvje1EXz3O6ZpIYcSkRP4CidE1UGHFx7zymxmg2R7IBP2PXcn7_qLz9bhZWxkd2iIsB7DuEySSs82KJ7sW_PATNdT7v2O7bRrNzmOIBLaX9Ew2KERKy6ymFMuCyUMrP8GMsr2-EK2KhthIzrwx4L5kj6hHhKMio0stuP1CLXjYjCqlinzroztu6fthF0g7pwQ?width=192&height=256&cropmode=none"
-
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
 This is part two in a series about potty training. See where {{< backref "/posts/insights/potty-training" "it all began." >}}

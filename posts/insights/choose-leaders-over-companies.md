@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/choose-leaders-over-companies/"]
 category = "business"
+comments = true
 date = "2020-11-11"
-categories = ["Business"]
 description = "In which Alex demonstrates that a leader affects one's happiness far more than the company logo."
 tags = ["leadership","management","happiness"]
 title = "Choose Leaders Over Companies"
-comments = true
 [featuredImage]
   alt = "Relativity Fest 2018"
   large = "https://f3umrw.by.files.1drv.com/y4mzl4XntFKsM7umDp27qhNtkBg6DYS6_bnjiwPiXJpdaDjseB6LlHkOW0Qr1EtD5rUPH84IvignV5T29ST5KQXzJvBz71YdgQ-nHEQRi5MTwsR4xhgKE1ki3r56XhWcf75fOtJ497QxkzOUFVn2WF1UksOw7SYPFfLyNUiwdbZw13CfNda-K3iNih8h_1oR0j1Qc3GDkwweJNQx4O7SZbDZQ?width=1024&height=614&cropmode=none"

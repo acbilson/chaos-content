@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/strace-debug/"]
 category = "technology"
-categories = ["technology"]
+comments = true
 date = "2020-10-03"
 description = "In which Alex describes a debugging moment."
 tags = ["debug", "strace", "cli"]
 title = "Debugging keychain with strace"
-comments = true
 [featuredImage]
   alt = "strace output"
   large = "https://vzbzfg.by.files.1drv.com/y4mNACbUB9fk3tBZ-XNN1yayYhr7fqP9rWjgSmByo4z7ZjBeckIx4uoRiZ56cm1EZgPC8IZVnUOID9bOrO29Owr1eMschMOPhFQyuCXsqz1Yx_DFJIrepY-IO6THq5_9oAL6UZK0ynOE88_KI8Z5JbyN5gY32HnsNjoutEVC4PGjAf5oDeCLYDIq3PWaQXz_ngbHhPG9LMxFdVx6_leR3Mb6A?width=1024&height=711&cropmode=none"
