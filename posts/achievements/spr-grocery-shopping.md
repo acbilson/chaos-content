@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/spr-grocery-shopping/"]
 category = "technology"
-categories = ["technology"]
+comments = true
 date = "2020-02-10"
 description = "In which Alex learns about the Microsoft Computer Vision API by using it to make a grocery list."
 tags = ["azure", "powershell", "cli"]
 title = "Computerized Grocery Shopping"
-comments = true
 [featuredImage]
   alt = "A Bushel of Gala Apples"
   large = "https://rwsvva.by.files.1drv.com/y4mG1dj3clozplLe8z2rLxauo3jJPexEPsCuF3XYapzethaKNeqefSd_O6Aabcmf3GKhqjixlRFDENmbXMtSd7FKqXrL3HVUSjnL1QcnvAZIBUmg901y-37By6b6DOhEkAYmu5H7kvrV1v_O3NLh5ISa7sugCYLhqFA3tcW93h8fnpDAVe9q4XqCiw-u4lkOF6VhF9y_9Sr9sMzURXVxplB_w?width=768&height=1024&cropmode=none"

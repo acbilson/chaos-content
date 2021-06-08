@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/achieve/achieve-wedding-planning/"]
-category = "personal"
-title = "Wedding Planning"
+category = "business"
+comments = true
 description = ""
 draft = true
-comments = true
-categories = ["Personal"]
 tags = ["consulting"]
+title = "Wedding Planning"
 [featuredImage]
   large = ""
   small = ""

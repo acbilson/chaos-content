@@ -1,13 +1,12 @@
 +++
 aliases = ["/posts/achieve/achieve-jordan/"]
-category = "personal"
-title = "Jordan Field Support"
+category = "business"
+comments = true
 description = ""
 draft = true
 dropCap = true
-comments = true
-categories = ["Personal"]
 tags = ["consulting"]
+title = "Jordan Field Support"
 [featuredImage]
   large = ""
   small = ""
