@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20201008-210602/"]
-title = "Self-Documenting Makefile"
-categories = ["technology"]
 date = "2020-10-08T21:06:02"
-tags = ["makefile","html","testing","link"]
+tags = ["makefile","html","testing"]
+title = "Self-Documenting Makefile"
 +++
 Two links from Victoria Drake proved extremely helpful for my static site, [a self-documenting makefile](https://victoria.dev/blog/how-to-create-a-self-documenting-makefile/) and [a portable makefile](https://victoria.dev/blog/a-portable-makefile-for-continuous-delivery-with-hugo-and-github-pages/). The second had a reference to a tool called [htmlProofer](https://github.com/gjtorikian/html-proofer), which examines my compiled site for html mistakes! Thanks Victoria and Garen!
 

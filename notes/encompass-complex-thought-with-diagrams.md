@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20210106-112526/"]
-title = "Encompass Complex Thought With Diagrams"
-categories = ["technology"]
 date = "2021-01-06T11:25:26"
-tags = ["plantuml","diagram","design","recommendation"]
+tags = ["plantuml","diagram","design"]
+title = "Encompass Complex Thought With Diagrams"
 +++
 The software project I’ve been building has grown to the point that it’s no longer simple enough that I can reason about it without the assistance of a diagramming tool. To my surprise, there are a proliferation of such tools, but few open source versions I could spin up today. Then I discovered [PlantUML](https://plantuml.com/)!
 

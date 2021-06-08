@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/2020-07-25_18:49:39/"]
-title = "SSG is a Developer Tool"
-categories = ["technology"]
-tags = ["static-site", "hosting", "in-reply-to", "indieweb"]
 date = "2020-07-25T18:49:39+01:00"
+tags = ["static-site", "hosting", "indieweb"]
+title = "SSG is a Developer Tool"
 +++
 While I agree with much of Florens’ [critique](https://fvsch.com/static-site-generators), I think the static site concept has a different purpose than he suggests.
 

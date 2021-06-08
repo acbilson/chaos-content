@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20210210-155431/"]
-title = "HTTP Response Design"
-categories = ["technology"]
 date = "2021-02-10T15:54:31"
-tags = ["in-reply-to","python","errors","software"]
+tags = ["python","errors","design"]
+title = "HTTP Response Design"
 +++
 As Victoria mentions in her [post](https://victoria.dev/blog/do-i-raise-or-return-errors-in-python/), the type of code you're writing affects how you'll handle errors. Her example matches code that integrates with other systems on the same machine (and probably other cases).
 

@@ -1,9 +1,8 @@
 +++
 aliases = ["/comments/20201124-160010/"]
-title = "Unoffice Hours"
-categories = ["personal"]
 date = "2020-11-24T16:00:10"
-tags = ["office-hours","idea"]
+tags = ["office-hours"]
+title = "Unoffice Hours"
 +++
 In the spirit of intentional change, what if I implemented [unoffice hours](http://interconnected.org/home/2020/09/24/unoffice_hours)? My purpose is three-fold.
 

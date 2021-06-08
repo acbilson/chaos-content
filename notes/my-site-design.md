@@ -1,11 +1,10 @@
 +++
 aliases = ["/comments/20210529-142607/"]
-title = "My Site Design"
 author = "Alex Bilson"
-categories = ["personal"]
+comments = true
 date = "2021-05-29T14:26:07"
 tags = ["note-taking","purpose","design"]
-comments = true
+title = "My Site Design"
 +++
 I've thought more about the structure of my site, and what's developing hardens back to my original post on {{< backref "/posts/resources/purpose.md" purpose. >}}
 

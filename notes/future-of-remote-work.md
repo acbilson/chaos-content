@@ -1,8 +1,7 @@
 +++
 aliases = ["/comments/2020-07-27_01:09:08/"]
+tags = ["remote-work", "overwork"]
 title = "Future of Remote Work"
-categories = ["business"]
-tags = ["remote-work", "overwork", "in-reply-to"]
 date = "2020-07-27T01:09:08+01:00"
 +++
 My personality leans towards the “don’t bother me, I’m getting \*\*\*\* done” at times, but Sean makes clear a few hard truths about a remote work future:
