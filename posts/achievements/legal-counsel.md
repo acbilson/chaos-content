@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/achieve/legal-counsel/"]
-category = "personal"
-date = "2020-05-25"
-title = "Shared Case Notes"
-description = "In which Alex describes a consult to deliver a case notes tool for an English attorney."
-categories = ["Business"]
+category = "business"
 comments = true
+date = "2020-05-25"
+description = "In which Alex describes a consult to deliver a case notes tool for an English attorney."
 tags = ["consulting"]
+title = "Shared Case Notes"
 [featuredImage]
   large = "https://by3301files.storage.live.com/y4mqyv_VVEJy--OPpYyjROc2Cospc-e6RXeBeY_z1a-gzaDPP1Wq3MlGHmE9BIlNAh9Xjn-wbykqDzf0slDUTXLQA-qyyDRG42Zc5qWKaIUDPbstdzY9FogKCDqqNkBbUpACNGd_tv3Q_us_Tip4P4N6EMrT6dau5jmj-wfZaYZJttxJs7kxZ6a5M8jeRgV6LfE?width=768&height=1024&cropmode=none"
   small = "https://by3301files.storage.live.com/y4mqyv_VVEJy--OPpYyjROc2Cospc-e6RXeBeY_z1a-gzaDPP1Wq3MlGHmE9BIlNAh9Xjn-wbykqDzf0slDUTXLQA-qyyDRG42Zc5qWKaIUDPbstdzY9FogKCDqqNkBbUpACNGd_tv3Q_us_Tip4P4N6EMrT6dau5jmj-wfZaYZJttxJs7kxZ6a5M8jeRgV6LfE?width=192&height=256&cropmode=none"

@@ -1,12 +1,11 @@
 +++
 aliases = ["/posts/angular-architecture/"]
 category = "technology"
-date = "2021-06-01"
-categories = ["technology"]
-description = "In which Alex presents his latest Angular project."
-tags = ["angular", "architecture", "diagrams", "database","project"]
-title = "Angular Architecture"
 comments = true
+date = "2021-06-01"
+description = "In which Alex presents his latest Angular project."
+tags = ["angular", "architecture", "diagrams", "database", "project"]
+title = "Angular Architecture"
 [featuredImage]
   alt = "green trellis over brick"
   large = "https://bn02pap001files.storage.live.com/y4mFm61UCAEIWdJfkMIUTk_iWpevDghkeZddHRo26K01zUgxA47gEgyeS8d_gqPhjjyQMRSwS4H9t_PbLMu6a2mhdOUXC9HRLryZBarw3mpPK1F4h7Qxo2rhh1Wtbsemj1VnF5mbytTDY0NZABbpTqCNFWBMDgg5BDwriqmcPHigqigAwu35cAybCMaa0WzMB8a?width=1024&height=768&cropmode=none"
