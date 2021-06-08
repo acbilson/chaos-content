@@ -1,12 +1,11 @@
 +++
-draft = true
-category = "personal"
+category = "family"
+comments = true
 date = "2021-06-05"
-categories = ["personal"]
 description = "In which Alex ponders how to digitize thought-growth."
+draft = true
 tags = ["note-taking", "design"]
 title = "Personal Note-taking"
-comments = true
 [featuredImage]
   alt = ""
   large = ""

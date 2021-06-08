@@ -1,17 +1,16 @@
 +++
 aliases = ["/posts/light-in-the-cosmos/"]
 category = "spiritual"
-title = "Light in the Cosmos"
+citations = ["L'Engle, Madeliene. Dragons in the Waters (1976) found in The Polly O'Keefe Quartet.", "L'Engle, Madeliene. Paraphrase from Albert Einstein's The World As I See It (1949) as found in Madeliene L'Engle's Smith College 50th Reunion Speech (1991) in The Polly O'Keefe Quartet."]
+comments = true
 date = "2021-04-27"
 description = "In which Alex explores the cosmos with music and fiction."
-comments = true
-categories = ["personal", "spiritual"]
-citations = ["L'Engle, Madeliene. Dragons in the Waters (1976) found in The Polly O'Keefe Quartet.", "L'Engle, Madeliene. Paraphrase from Albert Einstein's The World As I See It (1949) as found in Madeliene L'Engle's Smith College 50th Reunion Speech (1991) in The Polly O'Keefe Quartet."]
 tags = ["faith", "stars", "doubt", "silicone-boone"]
+title = "Light in the Cosmos"
 [featuredImage]
+  alt   = "Photo by Greg Rakozy on Unsplash"
   large = "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
   small = "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-  alt   = "Photo by Greg Rakozy on Unsplash"
 +++
 {{<photoref "Greg Rakozy" "https://unsplash.com/@grakozy" >}}
 

@@ -1,18 +1,16 @@
 +++
 aliases = ["/posts/vanity-metrics/"]
 category = "business"
-categories = ["business"]
+citations = ["Ries, Eric. The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business. 2011"]
+comments = true
 date = "2020-02-12"
 description = "In which Alex explores the concept of 'vanity metrics.'"
 tags = ["entrepreneurship", "metrics"]
 title = "Beware Vanity Metrics"
-comments = true
-citations = ["Ries, Eric. The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business. 2011"]
 [featuredImage]
   alt = "Rubber Ducky Stares At Mirror"
   large = "https://rgru0w.by.files.1drv.com/y4mma0Ic8BJJXYnGyHoPCXIe9FhYRcvPl5wzck6oOlBYJRvINtgJo-mH9Wz0mdJ5PY2ObGmvilBNRZtbE8VWaAhD33nJSTtbZ7VLjB6-zsVazPlv-meuzLAxaKQ7dIlI0Iie_P7Vj-U8nlK2vlalSXrPSpOsX0zOK4dJA1aazbc-_23z7X0mtM9l-Bsi9LTbakue1tcC2k_XwQRpCmykWB_8A?width=768&height=1024&cropmode=none"
   small = "https://rgru0w.by.files.1drv.com/y4mma0Ic8BJJXYnGyHoPCXIe9FhYRcvPl5wzck6oOlBYJRvINtgJo-mH9Wz0mdJ5PY2ObGmvilBNRZtbE8VWaAhD33nJSTtbZ7VLjB6-zsVazPlv-meuzLAxaKQ7dIlI0Iie_P7Vj-U8nlK2vlalSXrPSpOsX0zOK4dJA1aazbc-_23z7X0mtM9l-Bsi9LTbakue1tcC2k_XwQRpCmykWB_8A?width=192&height=256&cropmode=none"
-
 +++
 
 "Vanity metrics" are any statistic that makes a business sound successful without informing stakeholders about performance and growth areas ([Ries](#citations), pg 143). Examples include:

@@ -1,14 +1,13 @@
 +++
 aliases = ["/posts/container-communication/"]
 category = "technology"
-categories = ["technology"]
+comments = true
 date = "2020-07-22"
 description = "In which Alex demonstrates a third way to manage multi-docker workflows."
-tags = ["docker","ssh","jenkins","architecture"]
-toc = true
 dropCap = false
+tags = ["docker","ssh","jenkins","architecture"]
 title = "Controller/Client Docker Connection"
-comments = true
+toc = true
 [featuredImage]
   alt = "Graham with flamingoes"
   large = "https://iskkpa.by.files.1drv.com/y4mkdmObmsu_UM2mLGV3_ae4616KwLRPGCHkC6EN98CEkroqnjsHTsEB3pZ3vpp9D5dOv_v8Pqd4HTqu30VrzAvMQpPpPNU2DlIQo1GLRIVY8HlIeOO2auVSpS1ruFuEs8A9lq7qqHRUruKofTTA3ecodGj_ojgAemYaZUEcuxanfeadp9hObsWJv9N2J5Jd2Pls1UAdanCKXKHDg70Ienggg?width=768&height=1024&cropmode=none"

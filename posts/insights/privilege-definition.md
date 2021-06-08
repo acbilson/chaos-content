@@ -1,25 +1,23 @@
 +++
+addendum = [
+  "By comparitive example, I mean the benefit gained from others like one's self publicly praised and promoted in society.",
+  "Privilege is most of the time static. An example of fluid privilege is education, which can be gained."
+]
+aliases = ["/posts/privilege-definition/"]
 backlinks = [
 { ref = "/posts/privilege-advocate-vulnerable", content = "This is part two in a series on the subject of privilege. Review the [[definition of privilege]] for context."},
 { ref = "/posts/privilege-practical", content = "This is part three in a series on the subject of privilege. Review the [[definition of privilege]] and [[responsibility of privilege]] for context."},
 { ref = "/posts/your-kingdom-come", content = "For another take on the exaltation of the marginalized, see my series on [[privilege]]. There will be an upcoming series on Amie and my favorite approach to bible study."}
 ]
-aliases = ["/posts/privilege-definition/"]
-category = "personal"
-title = "Privilege: What is It?"
+category = "family"
 date = "2020-04-01"
 description = "In which Alex defines for himself what it means to have privilege."
-categories = ["personal"]
 tags = ["privilege","chicago"]
-addendum = [
-  "By comparitive example, I mean the benefit gained from others like one's self publicly praised and promoted in society.",
-  "Privilege is most of the time static. An example of fluid privilege is education, which can be gained."
-]
+title = "Privilege: What is It?"
 [featuredImage]
+  alt = "Towering Chicago Buildings"
   large = "https://umt6rw.by.files.1drv.com/y4mZJak-BZsqp_wmi1yIhVsoRJ-mnWmDbFQRWZL4ynGVzjZ7VzIjrnxrqey_DCFNbDjWcgvwSiEdWwYT-sfCz7bhz5AJEh8DO20h8WFNHoLRY1DdgASSOcV8D2wtJrWthIbcGz4kGuu2tHEbxtKvvRVNn54kZG86o9qApwsgg6b6Y5qv6X4jprA1SkpmpISrywa0Cmyh0VpWJ7JX_xzFmAhJg?width=768&height=1024&cropmode=none"
   small = "https://umt6rw.by.files.1drv.com/y4mZJak-BZsqp_wmi1yIhVsoRJ-mnWmDbFQRWZL4ynGVzjZ7VzIjrnxrqey_DCFNbDjWcgvwSiEdWwYT-sfCz7bhz5AJEh8DO20h8WFNHoLRY1DdgASSOcV8D2wtJrWthIbcGz4kGuu2tHEbxtKvvRVNn54kZG86o9qApwsgg6b6Y5qv6X4jprA1SkpmpISrywa0Cmyh0VpWJ7JX_xzFmAhJg?width=192&height=256&cropmode=none"
-  alt = "Towering Chicago Buildings"
-
 +++
 
 Privilege is a common theme in the liberal-leaning city of Chicago, and exposure pressures me to consider my privilege and responsibility than if I lived elsewhere. I'm thankful for the pressure, though the subject is uncomfortable. Let's begin with a definition.

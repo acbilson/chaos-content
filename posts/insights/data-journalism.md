@@ -1,17 +1,16 @@
 +++
 aliases = ["/posts/data-journalism/"]
 category = "technology"
-title = "Visualizing COVID Deaths"
+comments = true
 date = "2020-11-05"
 description = "In which Alex combines two amazing discoveries in data journalism"
-toc = true
-categories = ["technology"]
-comments = true
 tags = ["journalism","visualization","datasette"]
+title = "Visualizing COVID Deaths"
+toc = true
 [featuredImage]
+  alt   = "Photo by Mayron on Unsplash"
   large = "https://images.unsplash.com/photo-1544813545-4827b64fcacb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
   small = "https://images.unsplash.com/photo-1544813545-4827b64fcacb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-  alt   = ""
 +++
 {{< raw >}}
 <style>

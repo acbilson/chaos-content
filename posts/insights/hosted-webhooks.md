@@ -1,10 +1,9 @@
 +++
 category = "technology"
-draft = true
-categories = ["technology"]
+comments = true
 date = "2020-09-23"
 description = "In which Alex describes how to configure a personal webhook server for git-flow-esque automation."
-comments = true
+draft = true
 tags = ["webhook", "hosting", "git-flow", "hugo"]
 title = "Hosting a Webhook Server"
 [featuredImage]

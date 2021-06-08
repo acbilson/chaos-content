@@ -1,16 +1,15 @@
 +++
-category = "personal"
-title = "Tend His Vineyard"
-draft = true
+category = "spiritual"
+comments = true
 date = "2020-10-14"
 description = "In which Alex digs into one of Jesus' parables and what it means for his life."
-categories = ["personal"]
+draft = true
 tags = ["family", "righteousness"]
-comments = true
+title = "Tend His Vineyard"
 [featuredImage]
+  alt   = ""
   large = ""
   small = ""
-  alt   = ""
 +++
 Tend His Vineyard Post
 

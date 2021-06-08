@@ -1,13 +1,12 @@
 +++
 aliases = ["/posts/community-discipleship/"]
 category = "spiritual"
+comments = true
 date = "2020-08-19"
-categories = ["spiritual"]
 description = "In which Alex introduces his approach to community discipleship and what he loves about it."
 draft = true
 tags = ["discipleship", "revival", "chicago"]
 title = "What I Love About Discovery"
-comments = true
 [featuredImage]
   alt = ""
   large = ""

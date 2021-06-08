@@ -1,12 +1,11 @@
 +++
-draft = true
 category = "technology"
-categories = ["technology"]
-date = "2021-03-19"
-title = "To Access A Podman Container from the Public Network"
-description = "In which Alex shares his analytical family's favorite online baby resources."
-tags = ["podman", "container", "networking", "ufw"]
 comments = true
+date = "2021-03-19"
+description = "In which Alex shares his analytical family's favorite online baby resources."
+draft = true
+tags = ["podman", "container", "networking", "ufw"]
+title = "To Access A Podman Container from the Public Network"
 [featuredImage]
   alt = ""
   large = ""

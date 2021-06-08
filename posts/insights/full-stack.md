@@ -1,12 +1,11 @@
 +++
 category = "technology"
-title = "Full Stack Development"
-date = "2020-10-28"
-draft = true
-description = "In which Alex describes his process for full stack development."
-categories = ["technology"]
 comments = true
+date = "2020-10-28"
+description = "In which Alex describes his process for full stack development."
+draft = true
 tags = ["full-stack"]
+title = "Full Stack Development"
 [featuredImage]
   large = ""
   small = ""

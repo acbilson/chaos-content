@@ -1,16 +1,15 @@
 +++
 aliases = ["/posts/learning-ansible/"]
 category = "technology"
-title = "Learning Ansible"
+comments = true
 date = "2020-07-29"
 description = "In which Alex shares his first foray into Ansible."
-categories = ["technology"]
 tags = ["ansible"]
-comments = true
+title = "Learning Ansible"
 [featuredImage]
+  alt   = "Royal studies a playmat"
   large = "https://imiigq.by.files.1drv.com/y4mybL004JUY7qjzKg-WxUEhIFeRiJDRMKjb7Eo0rHxzP6GLLx2iagJilJfwrz0vFY8IFinvHGxjPttOvjgTSuJTZQmtZkUUVb-vu3Yh_2XYkBWtLOXu6lrMADI04KdAc4LWc0uilJ8K-c__wTgYyfJ-jeSGGYurl79VRIukTZqZc9elEW06hjhl3v9dRvs3u1uRV52Im2A5vv6rimaNXtt2A?width=768&height=1024&cropmode=none"
   small = "https://imiigq.by.files.1drv.com/y4mybL004JUY7qjzKg-WxUEhIFeRiJDRMKjb7Eo0rHxzP6GLLx2iagJilJfwrz0vFY8IFinvHGxjPttOvjgTSuJTZQmtZkUUVb-vu3Yh_2XYkBWtLOXu6lrMADI04KdAc4LWc0uilJ8K-c__wTgYyfJ-jeSGGYurl79VRIukTZqZc9elEW06hjhl3v9dRvs3u1uRV52Im2A5vv6rimaNXtt2A?width=192&height=256&cropmode=none"
-  alt   = "Royal studies a playmat"
 +++
 I’ve been self-hosting my blog for nearly six months, and it’s become such a fun outlet that I want to be sure I could replicate it were something to happen. The source code is easy to store with tools like git, but I’ve felt increasingly uncertain that I’ll remember all my server configurations if I needed to deploy my site to a fresh box. At last, a real-world reason to learn an infrastructure-as-code tool!
 
