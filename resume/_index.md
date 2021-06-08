@@ -94,11 +94,11 @@ events="2016|pioneers the technical business analyst (TBA) position. Sets the ba
 
 <p>
 <span class="timeline-title">SPR Consulting</span>
-<b>2019:</b> crafts a <a href="{{< ref "/posts/multi-repository-madness.md" >}}">PowerShell script</a> that simplifies collaboration and prevents build conflicts across 8+ GitLab repositories.
+<b>2019:</b> crafts a <a href="{{< ref "/posts/achievements/multi-repository-madness" >}}">PowerShell script</a> that simplifies collaboration and prevents build conflicts across 8+ GitLab repositories.
 </p>
 
 <p>
-<b>2019:</b> conducts a 16-point consultation for Alexandra Hoerr's <a href="https://optimumjoyclinicalcounseling.com/">counseling startup</a>. The capstone of my <acronym title="Masters in Business Administration">MBA</acronym>, <a href="{{< ref "/posts/mba-thesis.md" >}}">the result</a> is 100-pages of observations, analysis, and recommendations.
+<b>2019:</b> conducts a 16-point consultation for Alexandra Hoerr's <a href="https://optimumjoyclinicalcounseling.com/">counseling startup</a>. The capstone of my <acronym title="Masters in Business Administration">MBA</acronym>, <a href="{{< ref "/posts/achievements/mba-thesis" >}}">the result</a> is 100-pages of observations, analysis, and recommendations.
 </p>
 
 <p>
