@@ -1,4 +1,7 @@
 +++
+backlinks = [
+{ ref = "/notes/angular-maxims", content = "This is an incomplete list of maxims I've gleaned while working on Angular development. - [[Favor Identifier Over Index]]" }
+]
 author = "Alex Bilson"
 comments = true
 date = "2021-06-09T21:06:30"
@@ -38,4 +41,4 @@ return rows.map((row) => {
 This example does not rely upon array order and is more explicit about how the total is calculated based on the column value's row.
 
 Thanks to Greg Nikitow for the tip!
-    
+
