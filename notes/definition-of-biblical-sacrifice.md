@@ -15,7 +15,8 @@ Thomas Merton has a clarifying definition which restores the purpose of sacrific
 
 > A sacrifice is an action which is objectively sacred, primarily of a social character, and what is important is no so much the pain or difficulty attached to it as the meaning, the sacred significance which not only conveys an idea but effects a divine and religious transformation in the worshipper, thus consecrating and uniting him more closely to God ("Life in Christ", pg. 167).
 
+TODO: Add note about 2 Samuel 24:24
+
 ### References
 
 - Merton, Thomas. (1961) _New Seeds of Contemplation_. Abbey of Gethsemani, Inc.
-    

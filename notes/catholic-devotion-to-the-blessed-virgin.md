@@ -16,4 +16,4 @@ Merton continues with a praise for Mary's hiddenness and humility. Mary is highl
 ### References
 
 - Merton, Thomas. (1961) _New Seeds of Contemplation_. Abbey of Gethsemani, Inc.
-    
+
