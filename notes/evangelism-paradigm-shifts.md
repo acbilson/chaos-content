@@ -13,3 +13,4 @@ Before the topic of evangelism can be explored we need multiple paradigm shifts.
 - {{< backref "/notes/evangelism-is-not-a-winners-game" "Evangelism is Not a Winner's Game" >}}
 - {{< backref "/notes/lone-converts-are-a-liability" "Lone Converts Are a Liability" >}}
 - {{< backref "/notes/allegiance-to-jesus-is-communal" "Allegiance to Jesus is Communal" >}}
+- {{< backref "/notes/evangelism-is-a-team-sport" "Evangelism is a Team Sport" >}}
