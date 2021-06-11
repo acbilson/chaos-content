@@ -30,3 +30,7 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 [Kathy Fisher](http://www.aspeckledtrout.com/) - Kathy most recently writes about a devastating trauma with such grace and honesty that it brings me to tears, but I've found you can pick any article from her archive and find a gem.
 
 [Simon Willison](https://simonwillison.net/) - Simon is a prolific technical writer. His work, particularly his investment in [datasette](https://docs.datasette.io/en/stable/), was my first introduction to the world of data journalism.
+
+[Maggie Appleton](https://maggieappleton.com/garden) - Maggie's digital garden is a visual wonderland full of surprises. From her epistemic gardening language to her intricate images and use of color, it's as enjoyable to peruse as a physical garden.
+
+[Andy Matuschak](https://notes.andymatuschak.org) - I find myself returning often to Andy's interlinked note system. His mature writing on digital notes and his custom navigation make a persuasive case to adopt his thinking approach.
