@@ -16,7 +16,7 @@ document.querySelector('textarea.content').addEventListener('keyup',
     var lastWord = txt.split(' ')?.slice(-1)[0];
 
     if (lastWord === 'backref') {
-      var replacedTxt = txt.slice(0, txt.length - 7).concat('{{< backref "" "">}}');
+      var replacedTxt = txt.slice(0, txt.length - 7).concat('{{</* backref "" "" */>}}');
       document.querySelector('textarea.content').value = replacedTxt;
     }
   });
