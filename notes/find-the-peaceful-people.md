@@ -15,5 +15,12 @@ Where they share the same goal, however, is in answer to the question, "Who am I
 
 The limitation in our culture's individualistic approach is that it ignores two axioms: {{< backref "/notes/lone-converts-are-a-liability" "Lone Converts Are a Liability" >}} and {{< backref "/notes/allegiance-to-jesus-is-communal" "Allegiance to Jesus is Communal" >}}.
 
+## WOOLy people
+
+When you're deciding which people to pursue further conversation, three characteristics guide your decisions. For memory, these can be remembered in a simple acronym, WOOLy.
+
+- W: Welcoming
+- OO: Opening their Oikos
+- L: Listening
 
 TODO: Add story about Lydia and Luke 10
