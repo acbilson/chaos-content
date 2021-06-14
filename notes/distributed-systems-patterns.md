@@ -1,6 +1,7 @@
 +++
 aliases = ["/comments/20201023-143723/"]
 date = "2020-10-23T14:37:23"
+draft = true
 title = "Distributed Systems Patterns"
 tags = ["design-patterns","distributed-systems"]
 +++

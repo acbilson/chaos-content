@@ -14,4 +14,4 @@ I believe healthy humans are never independent. Instead, a healthy human relies 
 For example, it's necessary for Graham to learn to tie his own shoes. He depends upon us for this task today, but it would be an unsightly dependence if he still needed our help at six years old. However, I don't want him to infer that he should not ask for help if it's something he can accomplish alone.
 
 I want Graham to be an adept at every skill adults need in our society, from shoe-tying to budgeting to conflict resolution, yet wise enough to ask for assistance and humble enough to receive help.
-    
+
