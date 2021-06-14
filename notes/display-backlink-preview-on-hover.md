@@ -73,4 +73,4 @@ internalLinks.forEach(function(link) {
 {{< / highlight >}}
 
 > The way I'm showing/hiding the popup is fragile. I'd recommend loading all popup content onto the page as hidden divs, then unhide the hovered content. This way there will only be one fetch per link and the style toggle will not likely hang if you drag your cursor over multiple links too quickly.
-    
+

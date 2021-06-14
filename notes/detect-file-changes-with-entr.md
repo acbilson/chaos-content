@@ -1,6 +1,7 @@
 +++
 aliases = ["/comments/2020-07-01_19:30:13"]
 date = "2020-07-01T19:30:13+01:00"
+draft = true
 title = "Detect File Changes With entr"
 tags = ["cli","devops"]
 +++

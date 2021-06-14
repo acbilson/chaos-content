@@ -14,4 +14,4 @@ Children have put a sharp edge to our need for one day in seven for rest and del
 > If something like the Orthodox Sabbath seems impossibly hard, or if you try to keep it but end up breaking it every week - as my Reform Jewish family did - then you should consider that perhaps, despite the propaganda of the palliatives, you are in a permanent state of emergency. (Benquo, [Sabbath as alarm](https://www.lesswrong.com/s/HXkpm9b8o964jbQ89/p/p7hW7E3fHF3PDzErk))
 
 We're discovering much about how actions can appear to be restful but are net-negative. I'd like to review Zvi's [hierarchy of the Shabbistic](https://www.lesswrong.com/s/HXkpm9b8o964jbQ89/p/ZoCitBiBv97WEWpX5) to glean more insights and perhaps write some of them here.
-    
+

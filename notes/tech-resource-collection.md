@@ -1,6 +1,7 @@
 +++
 aliases = ["/comments/20201005-094000/"]
 date = "2020-10-05T21:39:57"
+draft = true
 tags = ["networking"]
 title = "Tech Resource Collection"
 +++
