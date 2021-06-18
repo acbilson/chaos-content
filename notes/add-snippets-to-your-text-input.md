@@ -1,4 +1,7 @@
 +++
+backlinks = [
+    "/notes/craft-your-own-site"
+]
 author = "Alex Bilson"
 comments = false
 date = "2021-06-11T20:05:50"
