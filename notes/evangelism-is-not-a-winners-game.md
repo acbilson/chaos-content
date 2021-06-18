@@ -1,6 +1,6 @@
 +++
 backlinks = [
-{ ref = "/notes/evangelism-paradigm-shifts", content = "Before the topic of evangelism can be explored we need multiple paradigm shifts. - [[Evangelism is Not a Winner's Game]]" }
+    "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-10T09:02:00"
 tags = ["paradigm","kingdom","evangelism","winning"]

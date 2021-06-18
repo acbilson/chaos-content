@@ -1,7 +1,7 @@
 +++
 backlinks = [
-{ ref = "/notes/evangelism-paradigm-shifts", content = "Before the topic of evangelism can be explored we need multiple paradigm shifts. - [[Lone Converts Are a Liability]]" },
-{ ref = "/notes/find-the-peaceful-people", content = "The limitation in our culture's individualistic approach is that it ignores two axioms: [[Lone Converts Are a Liability]] and [[Allegiance to Jesus is Communal]]" }
+    "/notes/evangelism-paradigm-shifts",
+    "/notes/find-the-peaceful-people"
 ]
 date = "2021-06-10T09:02:00"
 tags = ["paradigm","kingdom","evangelism"]
