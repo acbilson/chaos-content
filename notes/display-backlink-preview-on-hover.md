@@ -5,72 +5,105 @@ date = "2021-06-11T20:43:55"
 tags = ["snippet","javascript","software","backlink","microformat","indieweb"]
 title = "Display Backlink Preview on Hover"
 +++
-The combination of microformat2 [h-entry](http://microformats.org/wiki/h-entry) and backlinks is potent. Each note page that's marked up with a `e-content` microformat2 property can be retrieved via `fetch()` and displayed as a preview elsewhere on the site. No database required; the website _is_ the API. Here's a JavaScript snippet to show how it works by reading only the first paragraph from the other page.
+The combination of microformat2 [h-entry](http://microformats.org/wiki/h-entry) and backlinks is potent. Each note page that's marked up with a `e-content` microformat2 property can be retrieved via `fetch()` and displayed as a preview elsewhere on the site. No database required; the website _is_ the API. With these two snippets you can implement dynamic backlink functionality on pretty much any webpage. With a little standardization (mostly complete by the microformat2 standard), one could support backlinks _across_ websites. Woah!
+
+First, here's a snippet to retrieve a popup of an internal link's comment. For each link marked with `class="internal"`, the first three elements or less will be retrieved from its `e-content` div element.
 
 {{< highlight js >}}
 
-// generate the popup element
-function createPopup(offsetTop, offsetLeft, contentElement) {
-
-  const popup = document.createElement('div');
-  popup.id = 'popup';
-  popup.classList.add('backlink-popup');
-  popup.style.top = `${offsetTop + 20}px`;
-  popup.style.left = `${offsetLeft}px`;
-  popup.appendChild(contentElement);
-
-  return popup;
-}
-
-// returns the child elements of the other page's e-content element or a missing message
 function parsePageContent(text) {
-
   var bodyDOM = new DOMParser().parseFromString(text, 'text/html');
   const contentElement = bodyDOM.querySelector('div.e-content');
 
   if (contentElement) {
-    return contentElement.firstElementChild;
+    const elementCount = contentElement.childElementCount < 3 ? contentElement.childElementCount : 3;
+    const contentSlice = Array.from(contentElement.children).slice(0, elementCount);
+
+    if (elementCount < contentElement.childElementCount) {
+      const ellipsisElement = document.createElement('p');
+      ellipsisElement.innerText = '...';
+      contentSlice.push(ellipsisElement);
+    }
+    return contentSlice;
+
   } else {
     const missing = document.createElement('p');
     missing.text = 'no content found';
-    return missing;
+    return [missing];
   }
 }
 
-// adds a popup containing the element children of the internal link's e-content element
-function showBacklink(event) {
+function createPopup(offsetTop, offsetLeft, contentElements) {
+  const popup = document.createElement('div');
 
-  const link = event.target;
+  popup.classList.add('backlink-popup', 'hide');
+  popup.style.top = `${offsetTop + 20}px`;
+  popup.style.left = `${offsetLeft}px`;
+  contentElements.forEach((el) => popup.appendChild(el));
 
-  fetch(link.href).then( (resp) => {
-    if (resp.status === 200) {
-      return resp.text();
-    } else {
-      return null;
-    }
-  }).then( (text) => {
-    if (text === null) { console.log('no content found'); }
-    const contentElement = parsePageContent(text);
-    const popup = createPopup(link.offsetTop, link.offsetLeft, contentElement);
-    document.body.appendChild(popup);
-  });
+  return popup;
 }
 
-// removes popup from the DOM
-function hideBacklink(event) {
-  const popup = document.getElementById('popup');
-  document.body.removeChild(popup);
+function appendLinkPopup(link) {
+  fetch(link.href)
+    .then((resp) => {
+      if (resp.status === 200) {
+        return resp.text();
+      } else {
+        return null;
+      }
+    })
+    .then((text) => {
+      if (text === null) { return null; }
+      const contentElements = parsePageContent(text);
+      const popupElement = createPopup(link.offsetTop, link.offsetLeft, contentElements);
+      link.appendChild(popupElement);
+    });
 }
 
-// adds backlink events to all links marked internal
+// adds backlink popup as a hidden child element to all links marked internal
 const internalLinks = document.querySelectorAll('a.internal');
 
-internalLinks.forEach(function(link) {
-  link.addEventListener('mouseover', showBacklink);
-  link.addEventListener('mouseout', hideBacklink);
+internalLinks.forEach((link) => {
+  appendLinkPopup(link);
 });
 
 {{< / highlight >}}
 
-> The way I'm showing/hiding the popup is fragile. I'd recommend loading all popup content onto the page as hidden divs, then unhide the hovered content. This way there will only be one fetch per link and the style toggle will not likely hang if you drag your cursor over multiple links too quickly.
+Second, here's a snippet to populate the context of a backlink. For each link marked with `class="backlink"`, the parent context of the link on the backlinked page will be appended to the link's parent element.
 
+{{< highlight >}}
+
+function parsePageContext(text) {
+  var bodyDOM = new DOMParser().parseFromString(text, 'text/html');
+  var urlParts = document.URL.split('/');
+  var backlinkName = urlParts[urlParts.length - 2];
+  var backlinkElement = bodyDOM.getElementsByName(backlinkName)[0];
+  return backlinkElement.parentElement;
+}
+
+function appendSourceContent(link) {
+  fetch(link.href)
+    .then((resp) => {
+      if (resp.status === 200) {
+        return resp.text();
+      } else {
+        return null;
+      }
+    })
+    .then((text) => {
+      if (text === null) { return null; }
+      const contextElement = parsePageContext(text);
+      const wrapper = document.createElement('p');
+      wrapper.appendChild(contextElement);
+      link.parentElement.appendChild(wrapper);
+    });
+}
+
+// retrieves content from all backlinks that reference this page
+const sourceLinks = document.querySelectorAll('a.backlink');
+
+sourceLinks.forEach((link) => {
+  appendSourceContent(link);
+});
+{{< / highlight >}}
