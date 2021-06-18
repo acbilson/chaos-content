@@ -14,3 +14,19 @@ Before the topic of evangelism can be explored we need multiple paradigm shifts.
 - {{< backref "/notes/lone-converts-are-a-liability" "Lone Converts Are a Liability" >}}
 - {{< backref "/notes/allegiance-to-jesus-is-communal" "Allegiance to Jesus is Communal" >}}
 - {{< backref "/notes/evangelism-is-a-team-sport" "Evangelism is a Team Sport" >}}
+
+# Parable
+
+To illustrate these paradigm shifts, let me tell you a fictitious story.
+
+{{< raw >}}
+<blockquote>
+
+  <p>The Smith family moved into the neighborhood last year. Jim works as an auto mechanic in an adjoining neighborhood. Sally works from part-time for an international firm. Their three-year-old daughter, Suzy, started preschool three months past. They frequent a church about fifteen minutes from their home.</p>
+
+  <p>Sally is grateful to be back to work now that Suzy is in school, but she's left with little free time. Jim's hours allow him to assist with dinner and bedtime, but Sally is on her own with Suzy for the first two-thirds of the day. They spend mornings at the park, the beach, or inside the apartment.</p>
+
+  <p>Both Jim and Sally love Jesus and </p>
+
+</blockquote>
+{{< / raw >}}
