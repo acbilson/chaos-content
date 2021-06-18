@@ -1,4 +1,8 @@
 +++
+backlinks = [
+    "/notes/craft-your-own-site",
+    "/notes/read-webpage-as-api"
+]
 author = "Alex Bilson"
 comments = false
 date = "2021-06-11T20:43:55"

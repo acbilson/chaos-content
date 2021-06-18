@@ -1,17 +1,18 @@
 +++
+backlinks = [
+  "/notes/craft-your-own-site"
+]
 category = "technology"
 comments = true
 date = "2020-09-23"
 description = "In which Alex describes how to configure a personal webhook server for git-flow-esque automation."
-draft = true
 tags = ["webhook", "hosting", "git-flow", "hugo"]
 title = "Hosting a Webhook Server"
 [featuredImage]
-  alt = ""
-  large = ""
-  small = ""
+  alt = "Graham Builds a Train Set"
+  large = "https://bn02pap001files.storage.live.com/y4mA_H-d0LrDzW4Xzahz6PI89jsuIztpY7-FO4tk77xfhteqAOdS1Z7VX44uJPGWJx6RQO0A1_laz9F48Bis85QW3ew_Z7RZ7riB5iHQx0z2rLAw8JejVqgW60V3O-N8K8YXTWrJrlGiCWdQMLNpioIOJdbZzp65Qf2EHZ7bTnkQ4eToOK38dInjx9VLQQUrmvL?width=768&height=1024&cropmode=none"
+  small = "https://bn02pap001files.storage.live.com/y4mA_H-d0LrDzW4Xzahz6PI89jsuIztpY7-FO4tk77xfhteqAOdS1Z7VX44uJPGWJx6RQO0A1_laz9F48Bis85QW3ew_Z7RZ7riB5iHQx0z2rLAw8JejVqgW60V3O-N8K8YXTWrJrlGiCWdQMLNpioIOJdbZzp65Qf2EHZ7bTnkQ4eToOK38dInjx9VLQQUrmvL?width=192&height=256&cropmode=none"
 +++
-
 If you've followed the steps to {{< backref "/posts/resources/steps-to-self-hosting" "host your own website," >}} you've got a static site you can build and deploy to your local server. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?
 
 Yes, you can! Enter the magic of webhooks.
@@ -22,17 +23,15 @@ If you're familiar with software, you know there are infinite other ways you cou
 
 # Installation
 
-TODO: Remove the security part and leave it for a section at the end. No need for an Nginx configuration example either.
-
 First, let's discuss the bare minimum to get this setup working. It's nice to have the bare minimum so you can test it for yourself. Then we'll review security practices you'll want to implement before you start using this webhook.
 
 To install webhook, I recommend you to the [source](https://github.com/adnanh/webhook/blob/master/README.md) since it's likely to be less out-of-date. All I had to do was install webhook from the package repository.
 
 With webhook installed, we can choose to run it as a stand-alone server or to place it behind a reverse proxy. I'll show you my command for a stand-alone instance, then give you a simple template to configure an Nginx reverse proxy.
 
-```
+{{< highlight sh >}}
 sudo /usr/bin/webhook -hooks /etc/webhook/hooks.json -port 9000 -secure -cert /etc/letsencrypt/live/mycoolsite/fullchain.pem -key /etc/letsencrypt/live/mycoolsite/privkey.pem -verbose
-```
+{{< / highlight >}}
 
 Let's break this down.
 
@@ -61,7 +60,7 @@ To automate my workflow, I want the following to happen:
 
 Let's look at my hooks.json configuration and I'll explain.
 
-```
+{{< highlight json >}}
 [
 	{
 		"id": "content-pull-webhook",
@@ -88,7 +87,7 @@ Let's look at my hooks.json configuration and I'll explain.
     }
   }
 ]
-```
+{{< / highlight >}}
 
 This configuration listens for a Github event (in my case, a pull event), compares a hashed secret in the request header with a plaintext secret, then parses the HEAD reference and the repository name out of the request body and passes it as an argument to my shell script.
 
@@ -100,7 +99,7 @@ For completeness, here's a screenshot of my Github webhook configuration:
 
 But wait, there's more! This post intends to be a complete example, so here's the build-site.sh script.
 
-```
+{{< highlight sh >}}
 #!/bin/sh
 
 # Sets the arguments to variables
@@ -189,4 +188,4 @@ echo "################"
   --themesDir /mnt/chaos/themes \
   --cleanDestinationDir
 
-```
+{{< / highlight >}}
