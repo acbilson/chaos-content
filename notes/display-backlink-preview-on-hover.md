@@ -72,7 +72,7 @@ internalLinks.forEach((link) => {
 
 Second, here's a snippet to populate the context of a backlink. For each link marked with `class="backlink"`, the parent context of the link on the backlinked page will be appended to the link's parent element.
 
-{{< highlight >}}
+{{< highlight js >}}
 
 function parsePageContext(text) {
   var bodyDOM = new DOMParser().parseFromString(text, 'text/html');
