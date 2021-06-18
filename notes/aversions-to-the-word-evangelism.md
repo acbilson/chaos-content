@@ -1,6 +1,6 @@
 +++
 backlinks = [
-{ ref = "/notes/evangelism-paradigm-shifts", content = "The term 'evangelism' prompts a variety of responses based on one's paradigm. Christians and non-Christians alike have [[aversions to the word 'evangelism']]"}
+    "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-08T02:37:00"
 tags = ["aversion","evangelism"]

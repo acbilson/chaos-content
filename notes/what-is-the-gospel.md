@@ -1,6 +1,6 @@
 +++
 backlinks = [
-{ ref = "/notes/evangelism-paradigm-shifts", content = "Before the topic of evangelism can be explored we need multiple paradigm shifts. - [[What is the Gospel?]]"}
+    "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-08T02:37:00"
 tags = ["paradigm","gospel","evangelism"]

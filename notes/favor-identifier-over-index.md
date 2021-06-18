@@ -1,6 +1,6 @@
 +++
 backlinks = [
-{ ref = "/notes/angular-maxims", content = "This is an incomplete list of maxims I've gleaned while working on Angular development. - [[Favor Identifier Over Index]]" }
+  "/notes/angular-maxims"
 ]
 author = "Alex Bilson"
 comments = true
