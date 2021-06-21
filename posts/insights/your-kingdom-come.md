@@ -1,6 +1,6 @@
 +++
 backlinks = [
-{ ref = "/posts/tenents-community-transformation", content = "If you've read my post about [[Jesus' Kingdom]], you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale."}
+  "/posts/insights/tenents-community-transformation"
 ]
 aliases = ["/posts/your-kingdom-come/"]
 category = "spiritual"

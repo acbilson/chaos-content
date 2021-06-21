@@ -1,7 +1,7 @@
 +++
 aliases = ["/posts/police-impersonation-scam/"]
 backlinks = [
-{ ref = "/posts/ethical-hacker-resources", content = "Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about [[Chicago Police Department Impersonation]]."}
+  "/posts/resources/ethical-hacker-resources"
 ]
 category = "business"
 citations = ["Bilson, Alex. Optimum Joy Clinical Counseling: Observations, Analysis and Recommendations (2020)."]

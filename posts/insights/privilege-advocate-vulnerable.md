@@ -1,7 +1,7 @@
 +++
 aliases = ["/posts/privilege-advocate-vulnerable/"]
 backlinks = [
-{ ref = "/posts/privilege-practical", content = "This is part three in a series on the subject of privilege. Review the [[definition of privilege]] and [[responsibility of privilege]] for context."}
+  "/posts/insights/privilege-practical"
 ]
 category = "family"
 comments = true

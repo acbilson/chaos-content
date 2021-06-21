@@ -1,8 +1,8 @@
 +++
 aliases = ["/posts/potty-training/"]
 backlinks = [
-{ ref = "/posts/potty-training-aftermath", content = "This is part two in a series about potty training. See where [[it all began]]."},
-{ ref = "/posts/potty-training-return", content = "This is the final installment in a series about potty training. See where [[it all began]]."}
+  "/posts/insights/potty-training-aftermath",
+  "/posts/insights/potty-training-return"
 ]
 category = "family"
 comments = true

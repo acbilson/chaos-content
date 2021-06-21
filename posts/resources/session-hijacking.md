@@ -1,7 +1,7 @@
 +++
 aliases = ["/posts/ethical-hacker-resources/session-hijacking/"]
 backlinks = [
-{ ref = "/posts/ethical-hacker-resources", content = "[[Session Hijacking]] happens when a hacker steals identifying information from a user's session to access their data, impersonate them, or hinder their access."}
+    "/posts/resources/ethical-hacker-resources"
 ]
 category = "technology"
 comments = true
