@@ -1,4 +1,7 @@
 +++
+backlinks = [
+    "/notes/craft-your-own-site"
+]
 aliases = ["/comments/20210529-044142/"]
 author = "Alex Bilson"
 comments = true

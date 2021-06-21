@@ -1,7 +1,8 @@
 +++
 aliases = ["/posts/steps-to-self-hosting/"]
 backlinks = [
-{ ref = "/posts/hosted-webhooks", content = "If you've followed the steps to [[host your own website]]. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?"}
+  "/notes/craft-your-own-site",
+  "/posts/insights/hosted-webhooks"
 ]
 category = "technology"
 comments = true

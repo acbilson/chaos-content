@@ -1,7 +1,7 @@
 +++
 aliases = ["/posts/ethical-hacker-resources/scanning/"]
 backlinks = [
-{ ref = "/posts/ethical-hacker-resources", content = "[[Scanning]] is the next step after reconnaissance. While reconnaissance is silent and does not require any direct connection to the target network, scanning does access the target network." }
+  "/posts/resources/ethical-hacker-resources"
 ]
 category = "technology"
 comments = true

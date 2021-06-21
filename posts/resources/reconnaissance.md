@@ -1,7 +1,7 @@
 +++
 aliases = ["/posts/ethical-hacker-resources/reconnaissance/"]
 backlinks = [
-{ ref = "/posts/ethical-hacker-resources", content = "[[Reconnaissance]], also referred to as footprinting, is the first step a hacker takes in their path to hacking your system." }
+  "/posts/resources/ethical-hacker-resources"
 ]
 category = "technology"
 comments = true

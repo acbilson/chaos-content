@@ -1,4 +1,7 @@
 +++
+backlinks = [
+    "/notes/craft-your-own-site"
+]
 aliases = ["/comments/2020-07-25_18:49:39/"]
 date = "2020-07-25T18:49:39+01:00"
 tags = ["static-site", "hosting", "indieweb"]
