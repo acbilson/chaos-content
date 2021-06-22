@@ -126,7 +126,15 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 <span class="timeline-title">Performance Trust Capital Partners</span>
 <span style="display: block; margin-top: 1em;"><b>2020:</b> crafts a seven-page requirements document, a deployment estimate of twenty-two weeks, and a statement of work for his first project.
 </span></p>
+{{< / raw >}}
 
+{{< raw >}}
+<p>
+<b>2021:</b> completes the initial requirements for my first project on time. If you're curious about what that entails, see <a href="{{< ref "/posts/achievements/angular-architecture" >}}">Angular Architecture</a>. It was a fun project!
+</p>
+{{< / raw >}}
+
+{{< raw >}}
 </section>
 
 <section>
