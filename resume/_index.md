@@ -241,9 +241,9 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 
 </ul>
 </section>
-{{< / raw >}}
 
 You have more questions? <a href=mailto:acbilson@gmail.com">Email me</a> and your question may be featured here!
+{{< / raw >}}
 
 Ta ta for now! &#128075;&#127995;
 
