@@ -12,9 +12,9 @@ title = ""
   <div class="title-body">
       <p>Welcome! You can call me Alex.</p>
 
-      <p>If you're here to work together, check out my <a href="{{< ref "/resume/#card" >}}">card</a>.</p>
+      <p>If you're here to work together, check out my <a href="{{< ref "/resume/#card" >}}">business card</a>.</p>
 
-      <p>If you're here to read my writing, you'll want my <a href="{{< ref "/posts" >}}">posts</a>. I suggest the <a href="{{< ref "/posts/insights">}}">Insights</a> section to get started.</p>
+      <p>If you're here to read my writing, you'll want my <a href="{{< ref "/posts" >}}">posts</a>. I suggest the <a href="{{< ref "/posts/insights">}}">Insights</a> section to get started, or you can perform a fulltext <a href="{{< ref "/search" >}}">search</a>. I publish partial and incomplete writing as <a href="{{< ref "/notes" >}}">notes</a>.</p>
 
       <p>If you want to see what I'm reading, thinking or doing, check out my <a href="{{< ref "/logs" >}}">ship's log</a>.</p>
 
