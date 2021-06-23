@@ -8,3 +8,4 @@ title = "Angular Maxims"
 This is an incomplete list of maxims I've gleaned while working on Angular development.
 
 - {{< backref "/notes/favor-identifier-over-index" "Favor Identifier Over Index" >}}
+- {{< backref "/notes/simplify-loop-with-iterator-swap" "Simplify Loop With Iterator Swap" >}}
