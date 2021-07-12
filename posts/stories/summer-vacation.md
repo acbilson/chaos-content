@@ -74,7 +74,15 @@ We met friends and family at Storybook Island the day after we arrived in Rapid.
 
 ![Storybook Train](https://bn02pap001files.storage.live.com/y4mZ1wDng3wOwmX-Gkm3Asrt4uVdY46HRmn1pGluARNqSaEb_IL0dJWqlTOY2VfzUUgUUtMK03N12APT2_H2EdWdkUsxN6jI2Fm3JZsEKDgLhlUUFQwOWblaf4mP8rcMa8JHT5rgvxX1WWbe5w5mD7y5aNDPmP87A7W3FUKRwBNr_qlT07VGjiLcrlF-BYaGNuw?width=495&height=660&cropmode=none)
 
-# Palmer's Gultch
+## Splash Pad
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4mEznGeww6wZyenMbZGavNmXm_Ckg5BVwZpT-ml6Ra5KFHALbPapdAZtrpCkIpmp-zlvOAH0vbYhw3GUJoSM9yEOzwQmIFU2ziUknQmxhvQhEggqPsgiBZXoXSmCMgUYx5Rr2p6VV3-mRsWiPgZFMZT4I7XDh9bkzxy-nAwUDZ4gdMX4gltPVV9w2GvpPdJPUx?width=660&height=495&cropmode=none" alt="Family at the Splash Pad" />
+<img src="https://bn02pap001files.storage.live.com/y4mxqPnshGPVWI2-96S5I0kDahDzC6M6reL18vk5nj8PcZ4l5MW60M_Doi0HsZ48woVZPI30tErO1KAI_ZX6kgyEADORaVEH0UbG0IKVCVMdEP72vrNYy02MT4WWOG5tCnsc62y4qtuI3HhCMP8cw1tEAkf0dB7ys5DehUn-OWZeywL-cN_sybd5vYXcI_R4W4F?width=495&height=660&cropmode=none" alt="Julie and Royal" />
+<img src="https://bn02pap001files.storage.live.com/y4mTym4QyTXvyI4kKAozSj-JaB7EPd8djF1p3AaB2A1mcA3oczlcV8exaX2OZ1bIsOaFuuPPNfc_wcUKoo9ztoI0yffNauAS1uXlXc7f7M7PfsvuKLWm-g_9g_omTKtmO6qbCRQF6228O9tgK07g1xWZ97twvHU00ejsjyFhh4dFF4FT0hU3p70Wc7W4XPXVcFI?width=496&height=660&cropmode=none" alt="Mama and Papa Funny Faces" />
+{{< / raw >}}
+
+## Palmer's Gultch
 
 I was skeptical about camping, but Amie was certain that we'd enjoy a couple days at a campsite called Palmer's Gultch. She was right!
 
@@ -100,6 +108,60 @@ Royal crashed hard. Those divets are from playground pebbles.
 
 ## 1880 Train
 
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4mZ2a40rWGWFzzTuudYpApIbXnf9nyjkA8qFWVL7d2EKTXsSV1aOlRrkO7AMleTpdUGQ1FZClFPZ0DH6Q-EI8d3fHsaHR9xKfPXjtjWnBcO_WXBwuAAriFNNeZieUY-ix0LX5POuWy9iohs6EI8Jz1Fx_bN4sP4lFRjZA7t7fhoj6W1SxAU1NCUs0MOd4XQH3f?width=660&height=495&cropmode=none" alt="Graham and Papa on Train" />
+<img src="https://bn02pap001files.storage.live.com/y4mnAyCI3TiAKIFIxdOWBNSZLrywfL0jaoe4-fFVtEnqZoVe8i7VGMCjVIj11bTU54KQf2u3mtUO7j6Y6hUTx_S9Z_dYXLMkwwB6UXX5ZjdJnFTcAeG4facfHcSyY5a_4KjFud34yfPclGDwhkh-SmggoFfWRpWTQA6YbWt4fcJutZxWlN9vddmDd4BqWKfspMi?width=495&height=660&cropmode=none" alt="Graham Hangs from Train" />
+<img src="https://bn02pap001files.storage.live.com/y4mHMwqKiJmIfgAOn-miUoz44oNqWzwlJs2x6oSstiCzhBYtcnByaOt960Foi3WAFt3gdiGGON508HAFlxbl37JvdzLvURtnbOKV_lMlIb3HJxPDS8yZYd1FqqRNgTYA7VKCd-IvW7JdaNUWD8TelMNVUwq13KQmBBqdSVOVK0gD9QP0tNA6wETc_jUczITHtfU?width=495&height=660&cropmode=none" alt="1880 Train" />
+{{< / raw >}}
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4m_GQj7IU4blt0ZJ_KASM-w5AWSVqGF6vZz383A3uxExKG2F5aDJwM2290ei9ctvzOG2tv99hWSzc6RIQKBc3-pqxS7BCJB9KFPJdTIUpsWr0LLhng4vFiNyMsZcKHA7XwF2v9gpUVypDAui3S_RqknatDm3XBQ7Xk67NynnK3NzT5oY53x_egvi_HNOu7R0mo?width=660&height=495&cropmode=none" alt="Mama Papa and Graham with Train" />
+<img src="https://bn02pap001files.storage.live.com/y4mvhuVv7BCt3kuuhDAAaOfV1NHPW2VX5mIFdH23y54t65O0gKGI8qiUALHBo5VVTDmXX8UeCcTObTc48gdZ_gLXiTHX9AXaTzPRJ6MOmk7j8rYEnryYSnmreSADu3G1SGA1WWzuL_sHlAVKf1srIZAe4vgk8uVmpok5YaDNLELoeEPTPpnMmAyhpH1V9XF8fNy?width=495&height=660&cropmode=none" alt="Graham with Conductor" />
+<img src="https://bn02pap001files.storage.live.com/y4mjo63leRIpSS0BrEEmsbV0zBcqi_k_-RIPoY4rBY18hn-_nr9I1JCfzu0G3i0AHOta1qngdN2WSCwd50-5o0jUb4vtpDjqyWnzmapqPV0agDpWiMVZEAybVcxk-AHg2eDqyisgPEtPRAnUfhubCWWvPGWt7S1dXF4eBDJrzCcklrBIIwTqNExn4pTEcUj9obL?width=495&height=660&cropmode=none" alt="Graham and Water Tower" />
+{{< / raw >}}
+
+## Hill City
+
+After Amie, Graham and I rode the 1880 train we met back up with Grandma and Royal to wade in the nearby creek.
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4mtArYzC3Hf3m-NkNpHTE1Jm5A9FPof5MJhT5HcFJ5Bjz0Sn_IIPV4NUaAlByyxGrnhWkopqVon3RenVWDGwlrD79xToSRSkH_PLaHtz7z6P4doK4aPZeez0C6hT_XDDUAkJdsfWJ3Dw1HDpPW9DkorwrPQ6B6vZuzG4Fe4v8LU1DnMyoaIdse7uIM76CFc4Nw?width=495&height=660&cropmode=none" alt="Graham and Royal in Creek" />
+<img src="https://bn02pap001files.storage.live.com/y4mitFhTzqzHvRWDTH4nMRFWu8HfXBnDD5LNSSbHu1WaGjc2VbocYiQwBcyLzoUgUqaBoqQ2pnW2QpP978JpR-h-QnVvOQp5r2NtgXUNrcnwbz1BGBkfNFupRd9tQerT3iJ_5AS0yTHwBtm7In9_ClsyMkTOao7vYv4B0GApJUy_Jwm426ax00jOboJIBOW59_n?width=495&height=660&cropmode=none" alt="Papa and Graham in Creek" />
+<img src="https://bn02pap001files.storage.live.com/y4mY3Rb3bvJPgyVfko92JJlvrTq1VEym5btbMwqhP4Uczlltgf3l3MhB72oDNGR1GMOgZluD4OoVESPsFGiQwAkDTNXl5JcBasaPRgAcJqyvNd_brLxEO-GxCPCA3a1keYoZjGSuHg4LXjjH16h6xkFLIJoW-VCDWUuZrcePcqJ8dEh73QS182h0h0eCvk5CU5Q?width=495&height=660&cropmode=none" alt="Royal in Creek" />
+{{< / raw >}}
+
+## Sylvan Lake
+
+We spent two afternoons at Sylvan Lake. The first was with Graham and Royal; the second was just Amie and I. Graham and Royal didn't want to go hiking so we spent the whole time at the beach. So thankful Amie and I got to hike around the lake later on!
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4m6TmCm028WoZAYSs_4uBIHKFWCTnKlvKcAaPAhR5A7UywrymlODhd_O6Sh41mDWiRIvstsoWQ06HTqmU_txDjdQ3EQdzqHt9kqB2-SFOJg8sfH5geoNdr4LQ3M9249AdelwoFiKAKvBPkcjbQal2qnQCE60-VbAw-IEQVfO7U4t-HiYP5Yl_cGA8QaGhNE7mH?width=495&height=660&cropmode=none" alt="Graham and Royal in Lake" />
+<img src="https://bn02pap001files.storage.live.com/y4mD70ogjm947Q1lxkmxi__LhVOxkmqmHHavSUGzr2FrHTzRALcqTGp9o6FjPviHrP_q4lC1Cxasn0CUc_C75qDwhW1U0dMjAI3kBVXEN3nvOfidRPjwP6r-LrBfd3lTY7XXqSIFyyD4U-OoMVebUwkt_EXBOjbLIcUcgB3WHzziiye5CZwLjvnTRcXxw4h8xuO?width=495&height=660&cropmode=none" alt="Papa and Royal with Trees" />
+<img src="https://bn02pap001files.storage.live.com/y4miQEqgLYCmc3eH76jGWLxqnYLtpyXlbYobmNPQVqKtBwcicC8RHazV1u8yZC0nWwYBk7JCUtq40msCCcmLUPRuwCmTK0eVsXqmC3TpOWWUKIAhtla4v8uRBqvOZpSckXtSk8JLu-uGfQtdg9yk3fwSRp6s-cS5FdDGtt3WiWE3tVSiX3-Oyz1J_NuYuI_XvDG?width=660&height=495&cropmode=none" alt="Graham at Sylvan" />
+{{< / raw >}}
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4mOCMBTOaWd79rIanLkU3OBsNLXMgieoTNu7KEIyQmT4a31iBDbL0cPTpi1xX8ZmbutJs4FnJbUQ4t2qm4ck85sRWw89SXMMfqRDMZiih3b2N5pFvnZpBtdo9wo8WNJUlqVeFd0S_sS_ySgXpryRbFBSAwtfaukLx_I73xlkzyb-j4jQrVXvbcxZCldu4NKrz1?width=496&height=660&cropmode=none" alt="Amie and Alex at Lake" />
+<img src="https://bn02pap001files.storage.live.com/y4moZR2TP9lFrnqh2DTgReaD6bAZXoSlnETFu5eb1beadxeV2P0_sdSI1pw_MwYSuqB3cT-wP6XnwNHRKg6pOvFIOmSoawYJ4nDTB9MEzUh6DImLfsOSe1c-RuANoJX54fWaau94l2DcvGideBiaSDnGjiqKol-DJH5ed4O9-nNdPcozrdWAss0Mpvu3YSWK9EA?width=495&height=660&cropmode=none" alt="Alex in Cave" />
+<img src="https://bn02pap001files.storage.live.com/y4mEkNsB4WnehGG-h9qqKvcjz8hR96YXOG6bDts9hkuR2O7gcs80Gpit4k1HYAgtGVtDZAUNwbz_9h2Opo6xpqyjBp8CUxcJPpYUm01i2gEqYJNtKRQcHauXj166TtS-ZYjNU3ejtFsGt5eWCD3BItDm4uA7WWt23-sYo68qn1H-ooSjtvk-UnS-UxSR0BplBvY?width=660&height=495&cropmode=none" alt="Sylvan Lake Dam" />
+{{< / raw >}}
+
+## Rapid City Parks
+
+We visited three parks with the boys that were really fun. Here are a few photos.
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4m8VPOCe0kyxJh0LYvEw2PqWLuNck_4S2acETHTNbV7UStWzmxJXvcTcVRRmPnJtf73kpwfHi329AzvNlQqlE_mEgqW77vZ2ThAdw7om5ODXOOnHjn-JoiSplAI4de7YsPlnUzZMsRNn6LxNUP10r5bq8KDzT2g9piYVDYy0hYsrBcFuUF9Ih6GWBz89KNbLbQ?width=495&height=660&cropmode=none" alt="Papa Graham Royal Wading at Park" />
+<img src="https://bn02pap001files.storage.live.com/y4mY6EdSi_-P2pvvSzHNKMyKzD5N3LwzQSvGsZoZavjahuepvXpBfN56XniUF-L6soThDffkW-PdSh5aFYjIwOXOnJ_5F-mOZBdIUGEJf5Je7w5RVAdc2ksUyW7-zb1uic9k0k2lITZxzPEVa16lesqY3oOvPEBDKXW27w-_VlJoGVg74kIZGBLzNayiq55rRsT?width=660&height=495&cropmode=none" alt="Family Riding a Teeter Totter" />
+<img src="https://bn02pap001files.storage.live.com/y4mNnraEHI4lXTxaRDOBXn7K8a6AiYmnsxa42xqS0NqvL_ueCsREi8HBt7ksR0HYvAs_KZQbMEf6GxyozCDyJTMdWYEYZK608qWrdAd6K-EnzqiAk6dxoy0Phg6thtqy2EIoxjkli5DyCwuk9lrF-BMqBEz8yQvxPIn9OxXyY5WrtXNzShyegPMVIq907xs8N0g?width=660&height=495&cropmode=none" alt="Papa and Graham on Rocks" />
+{{< / raw >}}
+
+{{< raw >}}
+<img src="https://bn02pap001files.storage.live.com/y4mHHzMZlioV5iGRVy53SnyrxRSF-M0khRYo4go1DyvsDZ0YRdeMWXQMYAtS5OwmnBLwdtPjqj1o-sVI5EIIy9ED7vvelI6UXlc2G6j6_KXXj5mYRcfKTJLQ446HW2ovTL-cPCl8_K-4xx0k8YZSX9D-8r7t5M4JF1gARHoR6dcTOxA_h1GO-Oh9CKdLAfmqNyP?width=495&height=660&cropmode=none" alt="Graham on Stegosaurus" />
+<img src="https://bn02pap001files.storage.live.com/y4myIoBRRn-77h9J-CsUCSt0waZG2gTafFDsg2rIGgO1kCaGlsPaQSzGDlb8_hnqMo_0nZHH2Cs667rNPbdYg1mJJ9mq_fTVO5RG5GDTl5HTJGHpisbijNEg-mNKYn5XbUDRhPiLneC9Q5t0MA2Q4Uhx6Gvbvr3xaFnxPf8nT1sRI9lyIQ7SLvIjEmwTn6COrec?width=495&height=660&cropmode=none" alt="Royal and Graham at Dinosaur Park" />
+<img src="https://bn02pap001files.storage.live.com/y4mbrIesHeV2sMeXJ4Mlm_zLIje9eZhIXzrjstrZpJw8hIf7nnsDiYHak-SzykcvETjwmTCm4dFW1wB15ee1MkNjBbuPYOuXSB74J0phymWR0WRolhBC2U_5-cJtvjgq8DzHHiyDxef5H91azBKZWjN1zasOgF_7buncgULwhlsDOI75CjYHMvy17bwHfRZw3gE?width=496&height=660&cropmode=none" alt="Graham and Mama" />
+{{< / raw >}}
+
 ## Grandpa's House
 
 The boys loved bathtime with the minions. Amie does a great minion impression :)
@@ -108,6 +170,10 @@ The boys loved bathtime with the minions. Amie does a great minion impression :)
 
 ![Waiting for Dinner](https://bn02pap001files.storage.live.com/y4mMyq_6KzsxVBcguklDa2DYjRfTtNwwgBu-jBOv7NDP3NGsotJnpnui8D5bu19K8EwCZlczpKmFgCX06McneayOXONxkhxdA2-Hd9KuhrZZV9D14iAnsVDrbhjjtl3UH1F0Uhpnibiv9j6423pauz_ducibC1j6H4wQoss_duC7a1KAX8x--PegrpM0JmFeA2B?width=495&height=660&cropmode=none)
 
+![Playing on the Floor with Family](https://bn02pap001files.storage.live.com/y4mHMh3vj71akc7SO1KcnjeZe294Cx7zavLNkFPNcJrzJ9a-LFrxfiIP--0eyAoi0FpPm0z3UikiIuEtTy3JZOgMR5_6XLt25aJnwtCaCj5YAGHUEiiZf73UKeys3eCp-KnCzwlBGwuSqSG5QV8JLlJJlD8O0ReEDI3HBCy5QXMvMZGzb4r9NMzs3aM1M7CmVt0?width=768&height=1024&cropmode=none)
+
+![Graham on Landing](https://bn02pap001files.storage.live.com/y4m6RrakLn3UwlDCLAm3e8MnLbNi-d80TlEghppRqbYhbgcAZeh8fuwkISM5QwEIS1MUmUgSvtJR0BePVhdQ7sYURuZyEXqkHqR_81vEPp61VYH79kGf8jno3oxbXC6bdlZ51VGSvwGO84Bw5gkDmrraUAQzlL8k2A3iEHOPZqIF-Q-9vw2_WUU3zSdPH9Zty7s?width=768&height=1024&cropmode=none)
+
 ## Grandma's House
 
 Royal was so happy to meet Zibby, but he'd run whenever the dog got close. Maybe he didn't like the wet kisses?
@@ -115,3 +181,13 @@ Royal was so happy to meet Zibby, but he'd run whenever the dog got close. Maybe
 ![Royal and Zibby](https://bn02pap001files.storage.live.com/y4mltJlA4MexW8ZegELnCsC9_8ucUIJbO3uNK8AmddZwi0hJj_wy0BF159cHNxDisKG4dzMvVirX5TC8I3ZPi7pUc0OTw-dGRRyXN4cWzb3GNHrhVDxHlbxgjYaxCLvrwjJBsYhqpReSVAy612Qq6WehGsCrwTRwG6AFmO8dQ_FV5RsZN-yG9Sj2uWBl17p0fsB?width=495&height=660&cropmode=none)
 
 ![Grandma and Royal with Sandwich](https://bn02pap001files.storage.live.com/y4miOIFVkpJVRtYteOc_svidnHZ3S8lNhNuZIHJXbwOEp65urmZHGfuaYev2vwFVMCVT9VIEgpsHYw7OgP_R1P2OQlrLbz2zgFNybORT77M1QIouWDLKoK4H76acz0IYe1Y-WSPRG6ka5NAJCr7Y4nIPKIc3DTp6SV9uOG3yvC1JOAEfslNuFVn6Fk6jNOj18uR?width=495&height=660&cropmode=none)
+
+# The Drive Back to Evanston
+
+The day before our trip home the check engine light came on. We called five different auto mechanics, but no one could get us in until the day we left; most couldn't get us in until next week! I sent an emergency prayer request, then called the Toyota dealership back. Miraculously, I scheduled a 1:00 p.m. appointment!
+
+We left early after picking up breakfast at Black Hills Bagels.
+
+![Black Hills Bagels](https://bn02pap001files.storage.live.com/y4mcwTusrbwJNIr6BLN5jhdWSJBE6cZ0GHAOn5pmzgBmRDfWYKK_LmJieDIhUTN89x7SRYfrEmTj06xcekZ8GW6sCuivxyp8kZ8h_63jNAvc284nNyi_nsG-DHJmwOPUd_ciBTvPKRF1tGFYroYrajo8nOmLu8t-yLlwRrx6PcZt9biogEo2gC0Y06UhqI7c4ux?width=660&height=495&cropmode=none)
+
+As we approached Wall, SD, about 60 miles from Rapid City, the check engine light returned. We visited a mechanic in Wall, called Toyota, and turned around.
