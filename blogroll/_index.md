@@ -34,3 +34,15 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 [Maggie Appleton](https://maggieappleton.com/garden) - Maggie's digital garden is a visual wonderland full of surprises. From her epistemic gardening language to her intricate images and use of color, it's as enjoyable to peruse as a physical garden.
 
 [Andy Matuschak](https://notes.andymatuschak.org) - I find myself returning often to Andy's interlinked note system. His mature writing on digital notes and his custom navigation make a persuasive case to adopt his thinking approach.
+
+[Joschua's Garden](https://joschuasgarden.com) - Joschua keeps a digital garden with novel ideas around note taking and Bible study.
+
+[Winnie Lim](https://winnielim.org/curated/) - Winnie's curated articles are beautifully crafted and thought-provoking.
+
+[Salman Ansari](https://salman.io/blog/) - Salman is a fellow polymath with a bent towards business innovation and self-expression.
+
+[Buster Benson](https://busterbenson.com) - Buster doesn't keep a website so much as a place to link public documents, but his writing is highly refined and fascinating to read.
+
+[Brendan Schlagel](https://brendanschlagel.com) - Brendan has several thoughtful posts about the subject of writing on the web.
+
+[Barns Worth Burning](https://barnesworthburning.net) - I honestly don't know what to make of this site, but I _love_ the way it operates. Magical.
