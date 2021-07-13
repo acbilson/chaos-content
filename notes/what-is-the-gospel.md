@@ -24,9 +24,6 @@ One's definition of the gospel is fundamental to their content and approach to e
 
 then your message centers on synopses of the final moments in the Gospel narratives and your approach is to ensure that hearers receive your bullet-point narrative. For whatever reason, this definition seems more prevalent among conservative Evangelical circles.
 
-Another definition of the gospel is integrated with social justice. The gospel is a not-yet utopia, often called the kingdom, which humans strive with God to bring about on the earth. If this is your message...
-
-
 TODO: reference The King Jesus Gospel by Scot McKnight
 
 TODO: Add examples of gospeling from the book of Acts. Philip shared, and the Ethiopian wanted to be baptized. Paul shared his apocalypse with Jesus. Jesus offered the Samaritan woman living water.
