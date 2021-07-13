@@ -56,8 +56,6 @@ We saw Laura Clark, a long-time friend of Amie's, along with her husband Tim and
 
 Graham rode his first horse! Okay, technically it was a small pony, but to him it was a HUGE horse!
 
-{{< video "https://bn02pap001files.storage.live.com/y4mD3wM5UbTZpSqyqOQ55hvlH45MSmOrIZsXSjKMs1I6W1dLXAnakJv3JZd8x3jG2kPwcl0B3oUu42ef1bhlgViSOm6cXIi6UZx-7etGYmJF0TrPVSZVSJe8Q0xHki5AP37UL1BS9p87DDtBvaTe5BlqusJNPCjc4PaU7zTxwVeWoRA8Uf69Y6wiwGlUy3po_Jn?width=1088&height=1920&cropmode=none" >}}
-
 ## Champlain, SD
 
 With three hours left, everyone was itching to finish the journey. But we couldn't pass the Dignity statue without a brief stop. What a powerful memorial to the endurance of human image-bearers.
