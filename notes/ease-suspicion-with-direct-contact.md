@@ -24,7 +24,7 @@ Say we start a legal firm in Lahore, Pakistan.  We offer sound legal counsel at 
 
 In order to be more personal, I may choose to visit corporations and offer my service to them in person.  If I’ve invested in the language, I’ll be able to communicate to them in the language they’re most familiar with.  I can explain how my services differ from others that are available, such as price differences and anti-bribery policies.  Coming into direct contact with the people who will benefit from my services also gives me valuable feedback from which to modify the business to better meet their needs.
 
-### References
+## References
 
 - Isenberg, Daniel. (2013) _Worthless, Impossible, and Stupid: How Contrarian Entrepreneurs Create and Capture Extraordinary Value_. Harvard Business Review Press.
 

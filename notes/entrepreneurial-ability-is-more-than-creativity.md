@@ -16,6 +16,6 @@ This is important to recognize, especially in our culture, for the confidence th
 
 This realization gives me hope that I too could be an entrepreneur.  Pressure to invent a solution to the needs of a population is daunting, especially when it must be something no one has thought of.  Adapting an existing idea for a new market, such as the case with Cinemex, is something I could in fact accomplish (Isenberg, chapter 2, pg. 16).  As economies grow in other countries, the needs of the population expand to include goods and services already accepted in a place like America.  Where this can be re-worked for another location, value can be created.
 
-### References
+## References
 
 - Isenberg, Daniel. (2013) _Worthless, Impossible, and Stupid: How Contrarian Entrepreneurs Create and Capture Extraordinary Value_. Harvard Business Review Press.
