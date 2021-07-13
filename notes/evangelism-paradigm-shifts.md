@@ -14,6 +14,7 @@ Before the topic of evangelism can be explored we need multiple paradigm shifts.
 - {{< backref "/notes/lone-converts-are-a-liability" "Lone Converts Are a Liability" >}}
 - {{< backref "/notes/allegiance-to-jesus-is-communal" "Allegiance to Jesus is Communal" >}}
 - {{< backref "/notes/evangelism-is-a-team-sport" "Evangelism is a Team Sport" >}}
+- {{< backref "/notes/evangelism-is-a-process" "Evangelism is a Process" >}}
 
 # Parable
 
