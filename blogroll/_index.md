@@ -35,7 +35,7 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 
 [Andy Matuschak](https://notes.andymatuschak.org) - I find myself returning often to Andy's interlinked note system. His mature writing on digital notes and his custom navigation make a persuasive case to adopt his thinking approach.
 
-[Joschua's Garden](https://joschuasgarden.com) - Joschua keeps a digital garden with novel ideas around note taking and Bible study.
+[Joschua Glau](https://joschuasgarden.com) - Joschua keeps a digital garden with novel ideas around note taking and Bible study.
 
 [Winnie Lim](https://winnielim.org/curated/) - Winnie's curated articles are beautifully crafted and thought-provoking.
 
