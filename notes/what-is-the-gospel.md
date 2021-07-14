@@ -3,6 +3,7 @@ backlinks = [
     "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-08T02:37:00"
+lastmod = "2021-07-14"
 tags = ["paradigm","gospel","evangelism"]
 title = "What is the Gospel?"
 +++
@@ -24,6 +25,9 @@ One's definition of the gospel is fundamental to their content and approach to e
 
 then your message centers on synopses of the final moments in the Gospel narratives and your approach is to ensure that hearers receive your bullet-point narrative. For whatever reason, this definition seems more prevalent among conservative Evangelical circles.
 
-TODO: reference The King Jesus Gospel by Scot McKnight
+# The Gospel as Story
 
+[Evangelism as Three Stories](https://mikefrost.net/evangelism-the-lost-art-of-telling-three-stories-not-one/)
+
+TODO: reference The King Jesus Gospel by Scot McKnight
 TODO: Add examples of gospeling from the book of Acts. Philip shared, and the Ethiopian wanted to be baptized. Paul shared his apocalypse with Jesus. Jesus offered the Samaritan woman living water.
