@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-07-13"
+lastmod = "2021-07-14"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -16,3 +16,5 @@ title = "Top of Mind"
 - Write a note from one of the pages on formilab [Formilab](https://fourmilab.ch)
 
 - Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
+
+- add 🌱 🌿 🪴  (seedling, sprout, potted plant) before notes to indicate their publication maturity. There's both epistemic (i.e. how confident I am) and complete, but I think one symbol is sufficient to represent both for now.
