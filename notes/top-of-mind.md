@@ -17,4 +17,8 @@ title = "Top of Mind"
 
 - Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
 
-- add 🌱 🌿 🪴  (seedling, sprout, potted plant) before notes to indicate their publication maturity. There's both epistemic (i.e. how confident I am) and complete, but I think one symbol is sufficient to represent both for now.
+- Add 🌱 🌿 🪴  (seedling, sprout, potted plant) before notes to indicate their publication maturity. There's both epistemic (i.e. how confident I am) and complete, but I think one symbol is sufficient to represent both for now.
+
+- Define composite notes and leaf notes. A common practice in Obsidian is to append "MOC" to a composite note. Andy uses the '§' symbol. I could also add it to the front matter and filter them into a separate list.
+
+- Determine my promotion-to-post guidelines. Some of my notes equal my posts in quality, length, and completeness. How to decide when a note about programming becomes an insight post?
