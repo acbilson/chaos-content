@@ -9,3 +9,6 @@ These are Bible-based business insights from my MBA program.
 
 - {{< backref "/notes/expect-divine-strength-and-miracles" "Expect Divine Strength and Miracles" >}}
 - {{< backref "/notes/loss-of-social-meaning-drives-overwork" "Loss of Social Meaning Drives Overwork" >}}
+- {{< backref "/notes/a-stunted-view-of-god-limits-imitation" "A Stunted View of God Limits Imitation" >}}
+- {{< backref "/notes/heavenly-reward-makes-better-workers" "Heavenly Reward Makes Better Workers" >}}
+- {{< backref "/notes/corporate-growth-disperses-spiritual-foundations" "Corporate Growth Disperses Spiritual Foundations" >}}

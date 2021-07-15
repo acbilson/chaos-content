@@ -17,6 +17,12 @@ Before the topic of evangelism can be explored we need multiple paradigm shifts.
 - {{< backref "/notes/evangelism-is-a-team-sport" "Evangelism is a Team Sport" >}}
 - {{< backref "/notes/evangelism-is-a-process" "Evangelism is a Process" >}}
 
+Formation happens before belief. People begin to follow Jesus by doing what he did before they're sure about who he is or what he means to them.
+
+Evangelism is not debate/apologetics
+
+Encounters with Jesus can happen through prayer, beauty, generosity, etc. But people follow Jesus' ways, wounds, and words. You can only discover a fraction of God apart from this.
+
 # Parable
 
 To illustrate these paradigm shifts, let me tell you a fictitious story.
@@ -25,4 +31,24 @@ To illustrate these paradigm shifts, let me tell you a fictitious story.
 
 > Sally is grateful to be back to work now that Suzy is in school, but she's left with little free time. Jim's hours allow him to assist with dinner and bedtime, but Sally is on her own with Suzy for the first two-thirds of the day. They spend mornings at the park, the beach, or inside the apartment.
 
-> Both Jim and Sally love Jesus and...
+# Notes
+
+1. Mobilizing Evanston Vineyard
+
+BE DIRECT!!!
+- not precise message; a Jesus story
+- not a lone practice; something done together with friends
+- not until they listen; to find those who listen
+
+  - story of 'evangelism' small group -> Shay
+
+2. What to do with the new, interested folks
+
+- conversion is a process, not an event -> facilitate discovery, not answers
+- obedience begins before we know who Jesus is
+- new people have fewer hangups to sharing than we do
+- story of Grant, Katie G, Bronson & Alexis
+
+3. What if? Dreaming
+
+- Bronson starts a new community
