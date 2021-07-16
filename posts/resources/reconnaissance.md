@@ -14,7 +14,7 @@ tags = ["security", "reconnaissance"]
 title = "Ethical Hacker / Reconnaissance"
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
-These are notes under the umbrella post titled: {{< backref "/posts/resources/ethical-hacker-resources" "Ethical Hacker Resources." >}} Check there for a master list of notes taken for the Ethical Hacker certification.
+These are notes under the umbrella post titled: {{< backref "/posts/resources/ethical-hacker-resources" >}}. Check there for a master list of notes taken for the Ethical Hacker certification.
 {{< raw >}}</p>{{< / raw >}}
 
 # Definition

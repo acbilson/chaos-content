@@ -14,4 +14,4 @@ This oneline snippet uses the Mozilla's Fetch API to read the content from one o
 fetch('/notes/aversions-to-the-word-evangelism').then((response) => response.text()).then((text) => { var mydom = new DOMParser().parseFromString(text, 'text/html'); var el = mydom.querySelector('div.e-content'); console.log(el.innerHTML.trim()); });
 {{< / highlight >}}
 
-I've used the same philosophy to {{< backref "/notes/display-backlink-preview-on-hover" "Display Backlink Preview on Hover." >}}
+I've used the same philosophy to {{< backref "/notes/display-backlink-preview-on-hover" >}}

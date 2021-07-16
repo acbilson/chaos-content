@@ -15,7 +15,7 @@ title = "Privilege: An Advocate for the Vulnerable"
   small = "https://islduw.by.files.1drv.com/y4m3k0tDIlGbpvOnx1hDTsBcjAL7dwA8-C_-5ixvx26Ejx1RSXV3NBaOgtvF9wCU-XX53BYrLN-UYn1AjSKgVCznvrDl1UyBaEvl9031rE3FvowFwApbcr6iVm1zxSwGQxsH1lQYOmUFzVTy-I2-qUoaj88CPyIbRFMD1Oo5UWvR2st1WG1-82tLUACUnH6ARztsHfaHb2GEO1jfMHCAeVpjA?width=192&height=256&cropmode=none"
 +++
 {{< raw >}}<p class="muted-text">{{< / raw >}}
-This is part two in a series on the subject of privilege. Review the {{< backref "/posts/insights/privilege-definition" "definition of privilege" >}} for context.
+This is part two in a series on the subject of privilege. Review my first post, {{< backref "/posts/insights/privilege-definition" >}}, for context.
 {{< raw >}}</p>{{< / raw >}}
 
 I'd made little progress digesting the numerous privileges given me until I learned more about justice. Thanks to the invaluable efforts of [The Bible Project](https://bibleproject.com/about/) and their [Justice Series episodes](https://bibleproject.com/podcast/series/justice-series/)), a link between the call for justice in the Bible and the responsibility of the privileged has begun to form in my consciousness. I'll brief you until you can listen to the episodes yourself.

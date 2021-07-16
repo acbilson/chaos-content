@@ -111,7 +111,7 @@ In some circles there's a tendency to diminish the contributions of new Christia
 
 One way I've undermined this tendency is to honor those least likely to be recognized in our small groups. On one occasion, Amie and I were prompted by the Holy Spirit to offer the role of group facilitator to the person who felt least qualified. She managed the role with excellence and was honored in the sight of all, which had the wonderful effect of boosting her confidence in her contributions (from which all benefited).
 
-> For another take on the exaltation of the marginalized, see my series on {{< backref "/posts/insights/privilege-definition" privilege >}}. There will be an upcoming series on Amie and my favorite approach to bible study.
+> For another take on the exaltation of the marginalized, see my series on privilege that starts with {{< backref "/posts/insights/privilege-definition" >}}. There will be an upcoming series on Amie and my favorite approach to bible study.
 
 **What would happen if the marginalized in your neighborhood were exalted?**
 
