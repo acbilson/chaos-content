@@ -21,3 +21,5 @@ ngOnInit(): void {
     .subscribe(([fedId, periodId, categoryId]) => this.refreshViewModel(fedId, periodId, categoryId));
 }
 ```
+
+TODO: add current example

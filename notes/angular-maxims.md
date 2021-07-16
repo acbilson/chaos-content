@@ -10,6 +10,8 @@ This is an incomplete list of maxims I've gleaned while working on Angular devel
 - {{< backref "/notes/favor-identifier-over-index" "Favor Identifier Over Index" >}}
 - {{< backref "/notes/simplify-loop-with-iterator-swap" "Simplify Loop With Iterator Swap" >}}
 - {{< backref "/notes/organize-subscription-chains-with-pipes" "Organize Subscription Chains With Pipes" >}}
+- {{< backref "/notes/one-subscription-per-resource" "One Subscription Per Resource" >}}
+- {{< backref "/notes/smart-components-observe-state-over-input" "Smart Components Observe State Over Input" >}}
 
 I may add a maxim about using observables. They are extremely helpful; however, the observable.subscribe() pattern hides whether the call is expected to return once or multiple times. It's important to distinguish when there will be a single update and when there will be a series. Series observables usually belong in the onInit() method and drive component behavior when they receive dispatches. One-time observables are merely getting data. The methods to interact with each are different.
 
