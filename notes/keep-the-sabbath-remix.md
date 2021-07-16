@@ -1,4 +1,7 @@
 +++
+backlinks = [
+  "/notes/bible-discoveries"
+]
 author = "Alex Bilson"
 comments = true
 date = "2021-06-11T16:27:53"

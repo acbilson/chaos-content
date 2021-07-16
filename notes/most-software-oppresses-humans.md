@@ -1,4 +1,7 @@
 +++
+backlinks = [
+  "/notes/entrepreneurial-business-insights"
+]
 aliases = ["/comments/20210510-180030/"]
 comments = true
 date = "2021-05-10T18:00:30"

@@ -1,4 +1,7 @@
 +++
+backlinks = [
+  "/notes/bible-discoveries"
+]
 aliases = ["/comments/20201203-015511/"]
 date = "2020-12-03T01:55:11"
 tags = ["story","bible","book"]
