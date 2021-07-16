@@ -14,9 +14,11 @@ title = ""
 
       <p>If you're here to work together, check out my <a href="{{< ref "/resume/#card" >}}">business card</a>.</p>
 
-      <p>If you're here to read my writing, you'll want my <a href="{{< ref "/posts" >}}">posts</a>. I suggest the <a href="{{< ref "/posts/insights">}}">Insights</a> section to get started, or you can perform a fulltext <a href="{{< ref "/search" >}}">search</a>. I publish partial and incomplete writing as <a href="{{< ref "/notes" >}}">notes</a>.</p>
+      <p>If you're here to read my writing, you'll want my <a href="{{< ref "/posts" >}}">posts</a>. I suggest the <a href="{{< ref "/posts/insights">}}">Insights</a> section to get started, or you can perform a <a href="{{< ref "/search" >}}">fulltext search</a>. I publish partial and incomplete writing as <a href="{{< ref "/notes" >}}">notes</a>.</p>
 
       <p>If you want to see what I'm reading, thinking or doing, check out my <a href="{{< ref "/logs" >}}">ship's log</a>.</p>
+
+      <p>If you want to review what I've written on a specic topic, try a <a href="{{< ref "/search" >}}">fulltext search</a> or see the <a href="{{< ref "/network" >}}">network of interconnected topics</a>.</p>
 
       <p>If you'd like to see other independent writers I follow, see my <a href="{{< ref "/blogroll/_index.md" >}}">blog roll</a>.</p>
   </div>
