@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-07-14"
+lastmod = "2021-07-16"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -22,3 +22,5 @@ title = "Top of Mind"
 - Define composite notes and leaf notes. A common practice in Obsidian is to append "MOC" to a composite note. Andy uses the '§' symbol. I could also add it to the front matter and filter them into a separate list.
 
 - Determine my promotion-to-post guidelines. Some of my notes equal my posts in quality, length, and completeness. How to decide when a note about programming becomes an insight post?
+
+- Revise evangelism paradigm notes, there's a lot of cruft.
