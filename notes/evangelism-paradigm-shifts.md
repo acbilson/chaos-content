@@ -4,18 +4,18 @@ lastmod = "2021-07-14"
 tags = ["paradigm","kingdom","evangelism"]
 title = "Evangelism Paradigm Shifts"
 +++
-The term "evangelism" prompts a variety of responses based on one's paradigm. Christians and non-Christians alike have {{< backref "/notes/aversions-to-the-word-evangelism" "aversions to the word 'evangelism'." >}} Business has co-opted the term to describe marketing strategy, and the noun form, "evangelist," is used as a placeholder for salespeople.
+The term "evangelism" prompts a variety of responses based on one's paradigm. Christians and non-Christians alike have {{< backref "/notes/aversions-to-the-word-evangelism" >}} Business has co-opted the term to describe marketing strategy, and the noun form, "evangelist," is used as a placeholder for salespeople.
 
 Before the topic of evangelism can be explored we need multiple paradigm shifts.
 
-- {{< backref "/notes/what-is-the-gospel" "What is the Gospel?" >}}
-- {{< backref "/notes/when-are-they-converted" "When Are They Converted?" >}}
-- {{< backref "/notes/find-the-peaceful-people" "Find the Peaceful People" >}}
-- {{< backref "/notes/evangelism-is-not-a-winners-game" "Evangelism is Not a Winner's Game" >}}
-- {{< backref "/notes/lone-converts-are-a-liability" "Lone Converts Are a Liability" >}}
-- {{< backref "/notes/allegiance-to-jesus-is-communal" "Allegiance to Jesus is Communal" >}}
-- {{< backref "/notes/evangelism-is-a-team-sport" "Evangelism is a Team Sport" >}}
-- {{< backref "/notes/evangelism-is-a-process" "Evangelism is a Process" >}}
+- {{< backref "/notes/what-is-the-gospel" >}}
+- {{< backref "/notes/when-are-they-converted" >}}
+- {{< backref "/notes/find-the-peaceful-people" >}}
+- {{< backref "/notes/evangelism-is-not-a-winners-game" >}}
+- {{< backref "/notes/lone-converts-are-a-liability" >}}
+- {{< backref "/notes/allegiance-to-jesus-is-communal" >}}
+- {{< backref "/notes/evangelism-is-a-team-sport" >}}
+- {{< backref "/notes/evangelism-is-a-process" >}}
 
 Formation happens before belief. People begin to follow Jesus by doing what he did before they're sure about who he is or what he means to them.
 
