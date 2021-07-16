@@ -3,7 +3,7 @@ backlinks = [
     "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-08T02:37:00"
-lastmod = "2021-07-14"
+lastmod = "2021-07-16"
 tags = ["paradigm","gospel","evangelism"]
 title = "What is the Gospel?"
 +++
@@ -27,7 +27,7 @@ then your message centers on synopses of the final moments in the Gospel narrati
 
 # The Gospel as Story
 
-[Evangelism as Three Stories](https://mikefrost.net/evangelism-the-lost-art-of-telling-three-stories-not-one/)
+{{< outref "https://mikefrost.net/evangelism-the-lost-art-of-telling-three-stories-not-one/" "Evangelism as Three Stories" >}}
 
 TODO: reference The King Jesus Gospel by Scot McKnight
 TODO: Add examples of gospeling from the book of Acts. Philip shared, and the Ethiopian wanted to be baptized. Paul shared his apocalypse with Jesus. Jesus offered the Samaritan woman living water.
