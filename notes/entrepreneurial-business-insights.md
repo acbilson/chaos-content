@@ -24,3 +24,6 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref "/notes/danger-signals-are-outside-customer-base" "Danger Signals Are Outside Customer Base" >}}
 - {{< backref "/notes/societal-views-on-business-are-cyclical" "Societal Views on Business Are Cyclical" >}}
 - {{< backref "/notes/teams-excel-the-best-entrepreneur" "Teams Excel the Best Entrepreneur" >}}
+- {{< backref "/notes/lean-startups-fit-uncertain-markets" "Lean Startups Fit Uncertain Markets" >}}
+- {{< backref "/notes/vanity-metrics-obscure-true-performance" "Vanity Metrics Obscure True Performance" >}}
+- {{< backref "/notes/every-venture-needs-a-strong-leader" "Every Venture Needs A Strong Leader" >}}
