@@ -1,4 +1,7 @@
 +++
+backlinks = [
+    "/notes/bible-discoveries"
+]
 aliases = ["/comments/20201216-220004/"]
 date = "2020-12-16T22:00:04"
 tags = ["genetics","kingdom","anger"]

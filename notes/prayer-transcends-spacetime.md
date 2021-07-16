@@ -1,4 +1,7 @@
 +++
+backlinks = [
+  "/notes/what-i-love-about-jesus"
+]
 aliases = ["/comments/2020-08-05_13:21:17/"]
 date = "2020-08-05T13:21:17+01:00"
 tags = ["prayer", "spacetime"]

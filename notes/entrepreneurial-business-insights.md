@@ -7,6 +7,8 @@ title = "Entrepreneurial Business Insights"
 +++
 These are entrepreneurship-based business insights from my MBA program.
 
+- {{< backref "/notes/most-software-oppresses-humans" >}}
+- {{< backref "/notes/encompass-complex-thought-with-diagrams" >}}
 - {{< backref "/notes/entrepreneurial-ability-is-more-than-creativity" >}}
 - {{< backref "/notes/felt-needs-are-startup-opportunities" >}}
 - {{< backref "/notes/corporation-definition" >}}

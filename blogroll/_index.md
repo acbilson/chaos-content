@@ -46,3 +46,5 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 [Brendan Schlagel](https://brendanschlagel.com) - Brendan has several thoughtful posts about the subject of writing on the web.
 
 [Barns Worth Burning](https://barnesworthburning.net) - I honestly don't know what to make of this site, but I _love_ the way it operates. Magical.
+
+[Laura Kalbag](https://laurakalbag.com/) - I haven't spent a lot of time on her personal site (yet), but Laura's work for the {{< outref "https://small-tech.org/" "Small Technology Foundation" >}} has definitely influenced me.

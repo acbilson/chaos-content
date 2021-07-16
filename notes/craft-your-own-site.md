@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-18T19:39:00"
+lastmod = "2021-07-16"
 tags = ["software","selfhost","design","javascript","html","css"]
 title = "Craft Your Own Site"
 +++
@@ -18,10 +19,16 @@ If you're just getting started but have enough technical acumen to follow the pr
 # Build Tool Examples
 - {{< backref "/notes/self-documenting-makefile" >}}
 - {{< backref "/posts/insights/hosted-webhooks" >}}
+- {{< backref "/notes/detect-file-changes-with-entr" >}}
+- Automate Tasks With CLI Kung-Fu = {{< outref "http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" "CLI Kung Fu" >}}
 
 # Tooling Thoughts
 - {{< backref "/notes/ssg-is-a-developer-tool" >}}
+- Compress Images For Speed and Space - {{< outref "http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" "imagemagick" >}}
 
 # Design Thoughts
 - {{< backref "/notes/my-site-design" >}}
 - {{< backref "/notes/my-site-content-types" >}}
+
+# Practice Thoughts
+- Reduce Development Friction - {{< outref "https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" "Technical Ergonomics" >}}

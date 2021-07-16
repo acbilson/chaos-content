@@ -1,4 +1,7 @@
 +++
+backlinks = [
+  "/notes/entrepreneurial-business-insights"
+]
 aliases = ["/comments/20210106-112526/"]
 date = "2021-01-06T11:25:26"
 tags = ["plantuml","diagram","design"]
