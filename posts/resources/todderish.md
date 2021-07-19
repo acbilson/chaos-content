@@ -3,6 +3,7 @@ aliases = ["/posts/todderish/"]
 category = "family"
 comments = true
 date = "2020-11-24"
+lastmod = "2021-07-19"
 description = "In which Alex explores the etymology of Todderish, or the language of toddlers."
 tags = ["children","language"]
 title = "Todderish"
@@ -32,6 +33,22 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bēsh"
   match="Beach"
   example="Go beesh?"
+>}}
+
+{{< vocab
+  word="Bubblies"
+  term="noun"
+  phonetic="bublēs"
+  match="Bubbles"
+  example="I got pee bubblies!"
+>}}
+
+{{< vocab
+  word="Cwars"
+  term="noun"
+  phonetic="cwhars"
+  match="Cars"
+  example="(I wanna) play with my cwhars."
 >}}
 
 {{< vocab
