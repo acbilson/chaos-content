@@ -1,6 +1,6 @@
 +++
 date = "2021-07-16"
-lastmod = "2021-07-16"
+lastmod = "2021-07-19"
 tags = ["writing"]
 title = "Why Write"
 +++
@@ -17,3 +17,7 @@ Habits have been a challenge for me all my life. A new habit develops, sticks, t
 ### I'm a Polymath; deal with it
 
 - {{< backref "/notes/embracing-my-polymath-identity" >}}
+
+### Don't repeat yourself, write it down and share it
+
+It's part of programmer philosophy to write a function once and share it across the project instead of duplicating it. This same philosophy applies to ideas.

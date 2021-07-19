@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16"
-lastmod = "2021-07-16"
+lastmod = "2021-07-19"
 tags = ["bible","discovery"]
 title = "Bible Discoveries"
 +++

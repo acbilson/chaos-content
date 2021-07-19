@@ -4,11 +4,10 @@ backlinks = [
 ]
 aliases = ["/comments/20201203-015511/"]
 date = "2020-12-03T01:55:11"
+lastmod = "2021-07-19"
 tags = ["story","bible","book"]
 title = "Ways to Define the Bible"
 +++
-I’ve finished “Blue Parakeet” by Scot McKnight.
-
 The return of my understanding of the Bible as Story began with _The Bible Project_, and this book gives fresh appreciation for the subtle but crucial importance of the Story vs the many other approaches one might take to the Book. For posterity, I’ll list the others:
 
 1. Morsels of Law. To learn how to behave and to think. The Bible as foremost a book to learn how to submit and obey, and to spot rebellion and disobedience.
@@ -21,3 +20,6 @@ The return of my understanding of the Bible as Story began with _The Bible Proje
 
 5. Maestros. To learn how to be like our favorite hero. This might be Jesus, but as likely it’s Paul. Their work is elevated above the other writers and is the lens from which the rest of the Book must be viewed and translated.
 
+## References
+
+McKnight, Scot. (2008) _Blue Parakeet, 2nd Ed._ Chapter 3: Inkblots and Puzzles
