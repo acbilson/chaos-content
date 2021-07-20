@@ -1,7 +1,6 @@
 +++
 aliases = ["/comments/2020-07-28_13:26:45/"]
 date = "2020-07-28T13:26:45+01:00"
-draft = true
 tags = ["overwork","value"]
 title = "Overwork in Response to Value Production"
 +++

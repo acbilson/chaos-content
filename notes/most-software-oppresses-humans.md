@@ -5,7 +5,6 @@ backlinks = [
 aliases = ["/comments/20210510-180030/"]
 comments = true
 date = "2021-05-10T18:00:30"
-draft = true
 tags = ["security","monopoly","surveillance"]
 title = "Most Software Oppresses Humans"
 +++
