@@ -4,7 +4,8 @@ backlinks = [
 ]
 aliases = ["/comments/20201203-015511/"]
 date = "2020-12-03T01:55:11"
-lastmod = "2021-07-19"
+epistemic = "plant"
+lastmod = "2021-07-20 15:29:34"
 tags = ["story","bible","book"]
 title = "Ways to Define the Bible"
 +++
