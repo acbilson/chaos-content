@@ -3,7 +3,7 @@ backlinks = [
   "/notes/god-shares-the-sustaining-of-creation-with-others"
 ]
 tags = ["creation","identity"]
-title = "God Created The Heavens And The Earth"
+title = "God Creates The Heavens And The Earth"
 ref = "Genesis 1:1-2:4"
 +++
 In the beginning, God created the heavens and the earth.
