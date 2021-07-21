@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-01"
+epistemic = "seedling"
 tags = ["culture","business","society"]
 title = "Dominant Culture Affects Corporate Design"
 +++

@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2017-09-01"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","creativity","success"]
 title = "Entrepreneurial Ability Is More Than Creativity"
 +++

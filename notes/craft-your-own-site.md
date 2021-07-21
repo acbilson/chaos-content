@@ -2,7 +2,8 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-18T19:39:00"
-lastmod = "2021-07-19"
+lastmod = "2021-07-21 07:07:25"
+epistemic = "plant"
 tags = ["software","selfhost","design","javascript","html","css"]
 title = "Craft Your Own Site"
 +++

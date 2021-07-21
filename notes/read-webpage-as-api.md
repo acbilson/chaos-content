@@ -3,6 +3,7 @@ backlinks = [
     "/notes/craft-your-own-site"
 ]
 date = "2020-10-02T14:45:33"
+epistemic = "plant"
 tags = ["writing","javascript"]
 title = "Read Webpage As API"
 +++

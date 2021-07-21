@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2017-09-03"
+epistemic = "sprout"
 tags = ["bible","business","meaning","overwork"]
 title = "Loss of Social Meaning Drives Overwork"
 +++

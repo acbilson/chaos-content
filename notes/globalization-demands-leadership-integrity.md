@@ -5,6 +5,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-01"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","globalization","character"]
 title = "Globalization Demands Leadership Integrity"
 +++

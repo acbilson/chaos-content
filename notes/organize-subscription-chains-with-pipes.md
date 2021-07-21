@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-07-12T21:06:30"
+epistemic = "plant"
 tags = ["software","observables","subscriptions","angular"]
 title = "Organize Subscription Chains With Pipes"
 +++

@@ -1,6 +1,7 @@
 +++
 aliases = ["/comments/20210210-155431/"]
 date = "2021-02-10T15:54:31"
+epistemic = "sprout"
 tags = ["python","errors","design"]
 title = "HTTP Response Design"
 +++

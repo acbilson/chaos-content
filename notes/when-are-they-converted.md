@@ -4,6 +4,7 @@ backlinks = [
     "/notes/evangelism-is-not-a-winners-game"
 ]
 date = "2021-06-08T02:37:00"
+epistemic = "seedling"
 tags = ["paradigm","conversion","evangelism"]
 title = "When Are They Converted?"
 +++

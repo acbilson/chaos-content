@@ -4,6 +4,7 @@ backlinks = [
 ]
 aliases = ["/comments/20201216-220004/"]
 date = "2020-12-16T22:00:04"
+epistemic = "seedling"
 tags = ["genetics","kingdom","anger"]
 title = "Genetic Repair in the New Creation"
 +++

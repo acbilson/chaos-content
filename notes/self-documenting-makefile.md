@@ -4,6 +4,7 @@ backlinks = [
 ]
 aliases = ["/comments/20201008-210602/"]
 date = "2020-10-08T21:06:02"
+epistemic = "plant"
 tags = ["makefile","html","testing"]
 title = "Self-Documenting Makefile"
 +++

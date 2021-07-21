@@ -6,6 +6,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = false
 date = "2021-06-11T20:43:55"
+epistemic = "plant"
 tags = ["snippet","javascript","software","backlink","microformat","indieweb"]
 title = "Display Backlink Preview on Hover"
 +++

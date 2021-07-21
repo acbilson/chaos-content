@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-07-01"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","lean-startup","business-model"]
 title = "Lean Startups Fit Uncertain Markets"
 +++

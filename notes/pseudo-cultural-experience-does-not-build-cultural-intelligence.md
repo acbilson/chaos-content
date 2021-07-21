@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-05"
+epistemic = "sprout"
 tags = ["culture","business","society"]
 title = "Pseudo-Cultural Experience Does Not Build Cultural Intelligence"
 +++

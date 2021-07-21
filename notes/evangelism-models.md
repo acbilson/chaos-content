@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16T17:35:58"
+epistemic = "seedling"
 tags = ["evangelism","model"]
 title = "Evangelism Models"
 +++

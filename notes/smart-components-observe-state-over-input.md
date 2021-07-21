@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = false
 date = "2021-06-11T20:05:50"
+epistemic = "seedling"
 tags = ["snippet","javascript","software","state","observable","rxjs"]
 title = "Smart Components Observe State Over Input"
 +++

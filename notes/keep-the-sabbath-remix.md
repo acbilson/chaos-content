@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-06-11T16:27:53"
+epistemic = "sprout"
 tags = ["sabbath","rest","bible","remix"]
 title = "Keep the Sabbath Remix"
 +++

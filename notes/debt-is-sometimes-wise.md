@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-09"
+epistemic = "sprout"
 tags = ["bible","business","debt"]
 title = "Debt is Sometimes Wise"
 +++

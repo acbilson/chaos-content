@@ -1,6 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-21"
+epistemic = "plant"
 tags = ["god","attributes"]
 title = "Attributes of God"
 +++

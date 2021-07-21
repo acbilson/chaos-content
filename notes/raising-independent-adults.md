@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-11T16:04:51"
+epistemic = "sprout"
 tags = ["parenting","independence","interdependence"]
 title = "Raising Independent Adults"
 +++

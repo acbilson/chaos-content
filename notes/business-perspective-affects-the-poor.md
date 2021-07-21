@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-11"
+epistemic = "sprout"
 tags = ["bible","business","debt"]
 title = "Business Perspective Affects the Poor"
 +++

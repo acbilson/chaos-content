@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-03"
+epistemic = "sprout"
 tags = ["bible","business","character"]
 title = "Heavenly Reward Makes Better Workers"
 +++

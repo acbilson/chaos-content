@@ -3,6 +3,7 @@ backlinks = [
     "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-10T09:02:00"
+epistemic = "seedling"
 tags = ["paradigm","kingdom","evangelism","teamwork"]
 title = "Evangelism is a Team Sport"
 +++

@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-09"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","risk"]
 title = "Danger Signals Are Outside Customer Base"
 +++

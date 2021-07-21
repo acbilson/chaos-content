@@ -5,6 +5,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-07-01"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","leadership"]
 title = "Every Venture Needs A Strong Leader"
 +++
