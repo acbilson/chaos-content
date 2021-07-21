@@ -1,7 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-19"
-lastmod = "2021-07-19 16:14:59"
+lastmod = "2021-07-21 07:16:25"
+epistemic = "sprout"
 tags = ["bible","spiritual-practices","ritual","tradition"]
 title = "Spiritual Rituals"
 +++

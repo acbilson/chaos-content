@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2017-09-01"
+epistemic = "sprout"
 tags = ["bible","business"]
 title = "Biblical Business Insights"
 +++

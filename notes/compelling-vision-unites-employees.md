@@ -5,6 +5,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-07"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","direction","vision"]
 title = "Compelling Vision Unites Employees"
 +++

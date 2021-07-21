@@ -1,6 +1,7 @@
 +++
 date = "2021-06-08T02:37:00"
-lastmod = "2021-07-14"
+lastmod = "2021-07-21 07:09:46"
+epistemic = "sprout"
 tags = ["paradigm","kingdom","evangelism"]
 title = "Evangelism Paradigm Shifts"
 +++

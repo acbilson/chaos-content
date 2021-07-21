@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-07-12T19:51:07"
+epistemic = "plant"
 tags = ["polymath","renaissance","identity"]
 title = "Embracing My Polymath Identity"
 +++

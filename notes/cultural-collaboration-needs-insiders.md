@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2017-09-05"
+epistemic = "sprout"
 tags = ["culture","business","insiders"]
 title = "Cultural Collaboration Needs Insiders"
 +++

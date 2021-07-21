@@ -3,6 +3,7 @@ backlinks = [
     "/notes/evangelism-paradigm-shifts"
 ]
 date = "2021-06-08T02:37:00"
+epistemic = "seedling"
 tags = ["paradigm","gospel","evangelism"]
 title = "Evangelism is a Process"
 +++

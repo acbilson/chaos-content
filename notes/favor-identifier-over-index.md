@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-06-09T21:06:30"
+epistemic = "plant"
 tags = ["software","iteration","table","angular"]
 title = "Favor Identifier Over Index"
 +++

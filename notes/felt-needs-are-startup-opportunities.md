@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2017-09-01"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","opportunity"]
 title = "Felt Needs Are Startup Opportunities"
 +++

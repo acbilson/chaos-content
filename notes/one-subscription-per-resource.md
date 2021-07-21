@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = false
 date = "2021-06-11T20:05:50"
+epistemic = "plant"
 tags = ["snippet","javascript","software","subscription","observable","rxjs"]
 title = "One Subscription Per Resource"
 +++

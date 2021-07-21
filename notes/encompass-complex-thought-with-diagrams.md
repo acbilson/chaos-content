@@ -4,6 +4,7 @@ backlinks = [
 ]
 aliases = ["/comments/20210106-112526/"]
 date = "2021-01-06T11:25:26"
+epistemic = "sprout"
 tags = ["plantuml","diagram","design"]
 title = "Encompass Complex Thought With Diagrams"
 +++

@@ -1,6 +1,7 @@
 +++
 date = "2021-07-16"
-lastmod = "2021-07-16"
+lastmod = "2021-07-21 07:12:12"
+epistemic = "seedling"
 tags = ["privacy"]
 title = "Liken Digital Privacy to Physical"
 +++

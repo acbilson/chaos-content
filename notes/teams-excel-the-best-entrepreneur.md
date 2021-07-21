@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-11"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","teamwork"]
 title = "Teams Excel the Best Entrepreneur"
 +++

@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-07"
+epistemic = "sprout"
 tags = ["bible","business","business-model","mercy"]
 title = "God Has Mercy For Many Methods"
 +++

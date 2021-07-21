@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-07-01"
+epistemic = "sprout"
 tags = ["entrepreneurship","business","metrics"]
 title = "Vanity Metrics Obscure True Performance"
 +++

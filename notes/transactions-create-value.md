@@ -4,6 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-05"
+epistemic = "sprout"
 tags = ["bible","business","wealth"]
 title = "Transactions Create Value"
 +++

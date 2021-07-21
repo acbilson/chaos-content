@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-06-18T19:32:11"
+epistemic = "plant"
 tags = ["vim","backlink","markdown"]
 title = "Navigate Source Backlinks in Vim"
 +++
@@ -41,4 +42,4 @@ autocmd FileType markdown setlocal includeexpr=substitute(v:fname,'^\/','','g')
 Add these three lines to your .vimrc file and navigate your source content like you would from the browser!
 
 Thanks to [Edwin](https://www.edwinwenink.xyz/posts/42-vim_notetaking/) for the idea.
-    
+

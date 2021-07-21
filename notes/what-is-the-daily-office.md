@@ -3,6 +3,7 @@ aliases = ["/comments/20210519-173007/"]
 author = "Alex Bilson"
 comments = true
 date = "2021-05-19T17:30:07"
+epistemic = "sprout"
 tags = ["daily-office","spiritual-practice"]
 title = "What is the Daily Office?"
 +++

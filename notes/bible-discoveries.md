@@ -2,7 +2,8 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16"
-lastmod = "2021-07-19"
+lastmod = "2021-07-21 07:06:22"
+epistemic = "sprout"
 tags = ["bible","discovery"]
 title = "Bible Discoveries"
 +++

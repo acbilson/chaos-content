@@ -1,6 +1,7 @@
 +++
 date = "2021-07-16"
-lastmod = "2021-07-19"
+lastmod = "2021-07-21 07:18:07"
+epistemic = "sprout"
 tags = ["writing"]
 title = "Why Write"
 +++

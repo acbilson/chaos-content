@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-06-10T15:07:06"
+epistemic = "plant"
 tags = ["catholic","faith","devotion","mary","jesus","humility"]
 title = "Catholic Devotion to the Blessed Virgin"
 +++

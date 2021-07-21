@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-06-10T16:41:22"
+epistemic = "sprout"
 tags = ["sacrifice","bible","worship"]
 title = "Definition of Biblical Sacrifice"
 +++

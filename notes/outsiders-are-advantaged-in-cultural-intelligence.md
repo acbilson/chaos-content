@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2017-09-03"
+epistemic = "sprout"
 tags = ["culture","business","cultural-intelligence"]
 title = "Outsiders Are Advantaged in Cultural Intelligence"
 +++

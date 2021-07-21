@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2017-09-01"
+epistemic = "plant"
 tags = ["leadership","business"]
 title = "Leadership Business Insights"
 +++
