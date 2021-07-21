@@ -4,6 +4,7 @@ backlinks = [
 ]
 tags = ["creation","identity"]
 title = "God Created The Heavens And The Earth"
+ref = "Genesis 1:1-2:4"
 +++
 In the beginning, God created the heavens and the earth.
 
@@ -25,30 +26,22 @@ And God said, "Let the earth bring forth living creatures according to their kin
 
 Then God said, "Let us make man{{< superset "2" "#notes" >}} in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth."
 
-{{< raw >}}
-<div style="font-style: italic; margin-left: 3%;">
-  <p style="margin: 0px;">So God created man in his own image,</p>
-  <p style="margin: 0px;">in the image of God he created him;</p>
-  <p style="margin: 0px;">male and female he created them.</p>
-</div>
-{{< / raw >}}
+{{< poetry >}}
+  So God created man in his own image,
+  in the image of God he created him;
+  male and female he created them.
+{{< /poetry >}}
 
 And God blessed them. And God said to them, "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth." And God said, "Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food. And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food." And it was so. And God saw everything that he had made, and behold, it was very good. And there waas evening and there was morning, the sixth day.
 
 Thus the heavens and the earth were finished, and all the host of them. And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
 
-{{< raw >}}
-<div style="font-style: italic; margin-left: 3%;">
-  <p style="margin: 0px;">These are the generations</p>
-  <p style="margin: 0px;">of the heavens and the earth when they were created,</p>
-  <p style="margin: 0px;">in the day that the LORD God made the earth and the heavens.</p>
-</div>
-{{< / raw >}}
+{{< poetry >}}
+  These are the generations
+  of the heavens and the earth when they were created,
+  in the day that the LORD God made the earth and the heavens.
+{{< /poetry >}}
 
-(_ESV_, Genesis 1:1-2:4)
-
-{{< raw >}}
-<h3 id="notes">Language Notes</h3>
-{{< / raw >}}
-1. Or "wild and waste"
-2. Not gender specific. Humanity.
+{{< raw >}} <h3 id="notes">Language Notes</h3> {{< / raw >}}
+1. Or "wild and waste."
+2. Not gender specific. "Let us make _humanity_ in our image..."
