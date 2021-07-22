@@ -4,7 +4,6 @@ backlinks = [
   "/posts/resources/ethical-hacker-resources"
 ]
 category = "business"
-citations = ["Bilson, Alex. Optimum Joy Clinical Counseling: Observations, Analysis and Recommendations (2020)."]
 comments = true
 date = "2020-05-06"
 description = "In which Alex describes a sophisticated social engineering attack."
@@ -31,6 +30,10 @@ In late 2019, a person impersonating a Chicago police officer left a voice mail 
 
 When the therapist replayed the events, she recognized the clues that this was not a real police officer. Still, the stress of the moment revealed many misconceptions about how the court should give a real summons. The therapist was trained to keep client information confidential and was expecting that, if this were false, the fake officer would be after client information. Because the fake officer was careful not to ask for or divulge any client information, the therapist's warning signals were silent until she was too upset to make rational decisions.<br /> <br />
 
-- (<a href="#citations">Bilson</a>, Chapter 7: Legal Strategies, pg. 46)
+- (<a href="#citation">Bilson</a>, Chapter 7: Legal Strategies, pg. 46)
 </blockquote>
 {{< / raw >}}
+
+{{< citation >}}
+Bilson, Alex. (2020) Narnian Clinical Counseling: Observations, Analysis and Recommendations
+{{< /citation >}}

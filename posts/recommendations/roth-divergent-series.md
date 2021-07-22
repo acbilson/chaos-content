@@ -1,7 +1,6 @@
 +++
 aliases = ["/posts/recommendations/divergent-series-roth/"]
 category = "family"
-citations = ["Roth, Veronica. Divergent Series Ultimate Four-Book Collection: Divergent; Insurgent; Allegiant; Four. Katherine Tegen Books. 2011"]
 comments = true
 date = "2020-12-19"
 description = "A book recommendation for Veronica Roth's Divergent series"
@@ -26,3 +25,7 @@ Roth explores virtue through two characters set in a dystopian landscape. Her ch
 Since reading this book I've also begun "Adam and the Genome" by Dennis Venema and Scot McKnight and realized that Roth's work also explores how genetic discoveries and the diversity of virtue in a population interact. Perhaps this is even her primary intent? In her first two books, genetics are implied, and in the third they're explicit. The tests to determine one's faction presupposes a genetic disposition, and the option for children to select out of their existing factions demonstrates mutation. The system of genetic sorting is questioned in the second book and overthrown, but with an uneasiness about what alternative might surface. This unease is capitalized on in the third book, where Roth raises the question whether humans ought to think in genetic categories in the first place. The third book also questions whether it is ethical to prevent genetic damage from persisting through reproduction.
 
 I suppose that, with any novel, one gets what one puts into it. Roth's books have been an entryway into deeper thought about genetics in a flourishing society, and for that I'm grateful.
+
+{{< citation >}}
+Roth, Veronica. (2011) Divergent Series Ultimate Four-Book Collection: Divergent; Insurgent; Allegiant; Four. Katherine Tegen Books.
+{{< /citation >}}

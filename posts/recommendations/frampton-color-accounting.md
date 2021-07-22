@@ -1,7 +1,6 @@
 +++
 aliases = ["/posts/recommendations/color-accounting-frampton/"]
 category = "business"
-citations = ["Frampton, Peter and Robilliard, Mark. Color Accounting: The new graphical system that makes understanding accounting easy and quick. Accounting Comes Alive International. 2014"]
 comments = true
 date = "2020-04-22"
 description = "A book recommendation for Frampton and Robilliard's book, Color Accounting"
@@ -18,7 +17,7 @@ If you'd asked me at the start of my MBA program what courses I'd enjoy most, ac
 
 Frampton and Robilliard's [Color Accounting](https://www.coloraccounting.com/books.html) revolutionized the way I conceive of the flow of capital. Their imagery and definitions exposed me to the fascinating business story that the movement of capital tells and how double-entry accounting documents that story with precision and simplicity.
 
-If you have any responsibility for a budget, this book will equip you to understand the essence of accounting and the accounting reports you need to evaluate your business. If you keep a home budget and find that basic tools aren't giving you a confident view of your spending and financial forecast, this is your introduction to a better way. It's the best primer I've discovered for double-entry accounting ([Frampton and Robilliard](#citations)).
+If you have any responsibility for a budget, this book will equip you to understand the essence of accounting and the accounting reports you need to evaluate your business. If you keep a home budget and find that basic tools aren't giving you a confident view of your spending and financial forecast, this is your introduction to a better way. It's the best primer I've discovered for double-entry accounting {{< cite name="Frampton and Robilliard" >}}.
 
 # Tool Suggestion - ledger-cli
 
@@ -33,3 +32,7 @@ After you've read the book a couple of times, practice double-entry accounting w
   Expenses:Gift                                            $32.24
   Assets:MyBank:Checking                                  -$57.36
 {{< / highlight >}}
+
+{{< citation >}}
+Frampton, Peter and Robilliard, Mark. (2014) Color Accounting: The new graphical system that makes understanding accounting easy and quick. Accounting Comes Alive International.
+{{< /citation >}}
