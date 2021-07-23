@@ -17,3 +17,5 @@ These are Bible-based business insights from my MBA program.
 - {{< backref src="/notes/god-has-mercy-for-many-methods" >}}
 - {{< backref src="/notes/debt-is-sometimes-wise" >}}
 - {{< backref src="/notes/business-perspective-affects-the-poor" >}}
+- {{< backref src="/notes/apostles-and-entrepreneurs-share-characteristics" >}}
+- {{< backref src="/notes/leadership-begins-and-ends-at-home" >}}

@@ -14,3 +14,4 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/globalization-demands-leadership-integrity" >}}
 - {{< backref src="/notes/every-venture-needs-a-strong-leader" >}}
 - {{< backref src="/notes/leadership-growth-requires-vulnerability" >}}
+- {{< backref src="/notes/leadership-begins-and-ends-at-home" >}}
