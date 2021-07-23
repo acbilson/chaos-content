@@ -10,7 +10,7 @@ As my content grows, so does my need to make adjustments across dozens of files.
 
 {{< highlight sh >}}
 rg -il '< backref' | xargs sed -i "" -e 's/backref "\(.*\)"/backref src="\1"/g'
-{{< highlight sh >}}
+{{< /highlight >}}
 
 First, you retrieve the relative file path of the files you want to change. Technically, you could run the command against every file and it would only operate on content that matches, but there's no reason to be so inefficient. A nifty feature of `rg` is that it automatically skips `.git` folders, so if you use it's predecessor, `grep`, be sure to skip that folder.
 
@@ -22,7 +22,4 @@ The above is Mac-specific because sed's `-i` flag works differently than others.
 
 {{< highlight sh >}}
 rg -il '< backref' | xargs sed -i 's/backref "\(.*\)"/backref src="\1"/g'
-{{< highlight sh >}}
-
-
-    
+{{< /highlight >}}
