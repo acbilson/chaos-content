@@ -21,11 +21,11 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref "/notes/self-documenting-makefile" >}}
 - {{< backref "/posts/insights/hosted-webhooks" >}}
 - {{< backref "/notes/detect-file-changes-with-entr" >}}
-- Automate Tasks With CLI Kung-Fu = {{< outref "http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" "CLI Kung Fu" >}}
+- Automate Tasks With CLI Kung-Fu = {{< outref src="http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" name="CLI Kung Fu" >}}
 
 # Tooling Thoughts
 - {{< backref "/notes/ssg-is-a-developer-tool" >}}
-- Compress Images For Speed and Space - {{< outref "http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" "imagemagick" >}}
+- Compress Images For Speed and Space - {{< outref src="http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" name="imagemagick" >}}
 
 # Practice Thoughts
-- Reduce Development Friction - {{< outref "https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" "Technical Ergonomics" >}}
+- Reduce Development Friction - {{< outref src="https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" name="Technical Ergonomics" >}}
