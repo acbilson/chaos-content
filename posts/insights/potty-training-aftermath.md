@@ -12,9 +12,9 @@ title = "Potty Training: Aftermath"
   large = "https://twtbxg.by.files.1drv.com/y4mPsPx_X9Y3k8D3SE_rWf6wwvje1EXz3O6ZpIYcSkRP4CidE1UGHFx7zymxmg2R7IBP2PXcn7_qLz9bhZWxkd2iIsB7DuEySSs82KJ7sW_PATNdT7v2O7bRrNzmOIBLaX9Ew2KERKy6ymFMuCyUMrP8GMsr2-EK2KhthIzrwx4L5kj6hHhKMio0stuP1CLXjYjCqlinzroztu6fthF0g7pwQ?width=768&height=1024&cropmode=none"
   small = "https://twtbxg.by.files.1drv.com/y4mPsPx_X9Y3k8D3SE_rWf6wwvje1EXz3O6ZpIYcSkRP4CidE1UGHFx7zymxmg2R7IBP2PXcn7_qLz9bhZWxkd2iIsB7DuEySSs82KJ7sW_PATNdT7v2O7bRrNzmOIBLaX9Ew2KERKy6ymFMuCyUMrP8GMsr2-EK2KhthIzrwx4L5kj6hHhKMio0stuP1CLXjYjCqlinzroztu6fthF0g7pwQ?width=192&height=256&cropmode=none"
 +++
-{{< raw >}}<p class="muted-text">{{< / raw >}}
+{{< muted >}}
 This is part two in a series about potty training. To start from the beginning, go to {{< backref "/posts/insights/potty-training" >}}.
-{{< raw >}}</p>{{< / raw >}}
+{{< /muted >}}
 
 Two weeks have passed since we launched Graham's [potty training program](https://www.littleones.co/). The first three days were horrific, but we've settled into a routine everyone can live with. Here are four discoveries we made along the way.
 

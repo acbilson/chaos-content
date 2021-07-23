@@ -12,9 +12,9 @@ title = "Return of the Potty"
   large = "https://uwrrja.by.files.1drv.com/y4mhZgdlhAGKb9CJ7zFzlC2XYNHAJ_BftWHYKJGLlPDU61FOvhDxmUaK6CYogI70PvjKlVS92pIIuRBP0E-VvnnpasLEItq63yz3LaCeYc_rQpiVGqrLLUE7fO_qCL-eoMAj7367MGVKRJqeEtwRv2qCdX2UnLZ7Y96BXoNM5fsdx2d-9_LtQbpgBUYifqmM6HypxUwfRMfc-paae4Y4jYkBA?width=768&height=1024&cropmode=none"
   small = "https://uwrrja.by.files.1drv.com/y4mhZgdlhAGKb9CJ7zFzlC2XYNHAJ_BftWHYKJGLlPDU61FOvhDxmUaK6CYogI70PvjKlVS92pIIuRBP0E-VvnnpasLEItq63yz3LaCeYc_rQpiVGqrLLUE7fO_qCL-eoMAj7367MGVKRJqeEtwRv2qCdX2UnLZ7Y96BXoNM5fsdx2d-9_LtQbpgBUYifqmM6HypxUwfRMfc-paae4Y4jYkBA?width=192&height=256&cropmode=none"
 +++
-{{< raw >}}<p class="muted-text">{{< / raw >}}
+{{< muted >}}
 This is the final installment in a series about potty training. To start from the beginning, go to {{< backref "/posts/insights/potty-training" >}}.
-{{< raw >}}</p>{{< / raw >}}
+{{< /muted >}}
 
 We were less than one week from potty training graduation and the event gave me mixed feelings. I knew there might be temporary regressions, but I thought it'd happen at a later transition; perhaps the birth of his younger brother. Then one night, just before Graham's bedtime routine was over, a traumatic incident set him back to the early days.
 
