@@ -10,9 +10,9 @@ There's so much to love about Jesus. Here's my endlessly growing list of loves, 
 
 ## Loves
 
-- He meets us anywhere, anytime because he's in the past, present, and future. Actually there, not just by memory. See {{< backref "/notes/prayer-transcends-spacetime" >}}
-- {{< backref "/notes/obedience-is-not-jesus-first-priority" >}}
+- He meets us anywhere, anytime because he's in the past, present, and future. Actually there, not just by memory. See {{< backref src="/notes/prayer-transcends-spacetime" >}}
+- {{< backref src="/notes/obedience-is-not-jesus-first-priority" >}}
 
 ## Curiosities
 
-- {{< backref "/notes/why-was-jesus-angry-at-the-pharisees" >}}
+- {{< backref src="/notes/why-was-jesus-angry-at-the-pharisees" >}}

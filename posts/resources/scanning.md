@@ -14,12 +14,12 @@ title = "Ethical Hacker / Scanning"
 toc = true
 +++
 {{< muted >}}
-These are notes under the umbrella post titled: {{< backref "/posts/resources/ethical-hacker-resources" >}}. Check there for a master list of notes taken for the Ethical Hacker certification.
+These are notes under the umbrella post titled: {{< backref src="/posts/resources/ethical-hacker-resources" >}}. Check there for a master list of notes taken for the Ethical Hacker certification.
 {{< /muted >}}
 
 # Definition
 
-Scanning is the second step a hacker takes to hacking a system. To read about the first, check out {{< backref "/posts/resources/reconnaissance" >}}.
+Scanning is the second step a hacker takes to hacking a system. To read about the first, check out {{< backref src="/posts/resources/reconnaissance" >}}.
 
 Hackers scan to build out a more complete picture than recon, and especially to add information about the current status of the network and not only its infrastructure. This may be open ports, the running services, and which machines are online. The line between recon and scanning can be blurred, but I think recon tends towards passive data retrieval while scanning is active.
 
