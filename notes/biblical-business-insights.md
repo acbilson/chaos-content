@@ -8,12 +8,12 @@ title = "Biblical Business Insights"
 +++
 These are Bible-based business insights from my MBA program.
 
-- {{< backref "/notes/expect-divine-strength-and-miracles" >}}
-- {{< backref "/notes/loss-of-social-meaning-drives-overwork" >}}
-- {{< backref "/notes/a-stunted-view-of-god-limits-imitation" >}}
-- {{< backref "/notes/heavenly-reward-makes-better-workers" >}}
-- {{< backref "/notes/corporate-growth-disperses-spiritual-foundations" >}}
-- {{< backref "/notes/transactions-create-value" >}}
-- {{< backref "/notes/god-has-mercy-for-many-methods" >}}
-- {{< backref "/notes/debt-is-sometimes-wise" >}}
-- {{< backref "/notes/business-perspective-affects-the-poor" >}}
+- {{< backref src="/notes/expect-divine-strength-and-miracles" >}}
+- {{< backref src="/notes/loss-of-social-meaning-drives-overwork" >}}
+- {{< backref src="/notes/a-stunted-view-of-god-limits-imitation" >}}
+- {{< backref src="/notes/heavenly-reward-makes-better-workers" >}}
+- {{< backref src="/notes/corporate-growth-disperses-spiritual-foundations" >}}
+- {{< backref src="/notes/transactions-create-value" >}}
+- {{< backref src="/notes/god-has-mercy-for-many-methods" >}}
+- {{< backref src="/notes/debt-is-sometimes-wise" >}}
+- {{< backref src="/notes/business-perspective-affects-the-poor" >}}

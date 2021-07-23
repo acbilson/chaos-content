@@ -6,7 +6,7 @@ epistemic = "plant"
 tags = ["notes","epistemic"]
 title = "Epistemic Notes Reveal Growth"
 +++
-Of the many cool features of Maggie Appleton's {{< outref "https://maggieappleton.com/garden" "personal site" >}}, one of my favorite is the use of plants as epistemological indicators. I've adopted my own slightly modified version. Here's how it works:
+Of the many cool features of Maggie Appleton's {{< outref src="https://maggieappleton.com/garden" name="personal site" >}}, one of my favorite is the use of plants as epistemological indicators. I've adopted my own slightly modified version. Here's how it works:
 
 If my content is new, it gets a 🌱 (seedling). This communicates that, not only is the content unfinished, it's also not fully conceived. It could grow into a substantial idea, I may prune the note entirely, or I may later contradict the core idea.
 

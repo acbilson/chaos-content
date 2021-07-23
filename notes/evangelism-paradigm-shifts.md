@@ -5,18 +5,18 @@ epistemic = "sprout"
 tags = ["paradigm","kingdom","evangelism"]
 title = "Evangelism Paradigm Shifts"
 +++
-The term "evangelism" prompts a variety of responses based on one's paradigm. Christians and non-Christians alike have {{< backref "/notes/aversions-to-the-word-evangelism" >}} Business has co-opted the term to describe marketing strategy, and the noun form, "evangelist," is used as a placeholder for salespeople.
+The term "evangelism" prompts a variety of responses based on one's paradigm. Christians and non-Christians alike have {{< backref src="/notes/aversions-to-the-word-evangelism" >}} Business has co-opted the term to describe marketing strategy, and the noun form, "evangelist," is used as a placeholder for salespeople.
 
 Before the topic of evangelism can be explored we need multiple paradigm shifts.
 
-- {{< backref "/notes/what-is-the-gospel" >}}
-- {{< backref "/notes/when-are-they-converted" >}}
-- {{< backref "/notes/find-the-peaceful-people" >}}
-- {{< backref "/notes/evangelism-is-not-a-winners-game" >}}
-- {{< backref "/notes/lone-converts-are-a-liability" >}}
-- {{< backref "/notes/allegiance-to-jesus-is-communal" >}}
-- {{< backref "/notes/evangelism-is-a-team-sport" >}}
-- {{< backref "/notes/evangelism-is-a-process" >}}
+- {{< backref src="/notes/what-is-the-gospel" >}}
+- {{< backref src="/notes/when-are-they-converted" >}}
+- {{< backref src="/notes/find-the-peaceful-people" >}}
+- {{< backref src="/notes/evangelism-is-not-a-winners-game" >}}
+- {{< backref src="/notes/lone-converts-are-a-liability" >}}
+- {{< backref src="/notes/allegiance-to-jesus-is-communal" >}}
+- {{< backref src="/notes/evangelism-is-a-team-sport" >}}
+- {{< backref src="/notes/evangelism-is-a-process" >}}
 
 Formation happens before belief. People begin to follow Jesus by doing what he did before they're sure about who he is or what he means to them.
 

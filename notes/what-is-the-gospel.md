@@ -28,7 +28,7 @@ then your message centers on synopses of the final moments in the Gospel narrati
 
 # The Gospel as Story
 
-{{< outref "https://mikefrost.net/evangelism-the-lost-art-of-telling-three-stories-not-one/" "Evangelism as Three Stories" >}}
+{{< outref src="https://mikefrost.net/evangelism-the-lost-art-of-telling-three-stories-not-one/" name="Evangelism as Three Stories" >}}
 
 TODO: reference The King Jesus Gospel by Scot McKnight
 TODO: Add examples of gospeling from the book of Acts. Philip shared, and the Ethiopian wanted to be baptized. Paul shared his apocalypse with Jesus. Jesus offered the Samaritan woman living water.

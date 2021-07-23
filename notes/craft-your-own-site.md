@@ -9,23 +9,23 @@ title = "Craft Your Own Site"
 +++
 Web development tools are the most comprehensive and flexible set of Lego blocks any adult might desire. These are all the fun things I've thought to try recently. Some of them you may find implemented on this site, others are only ideas or proof-of-concepts.
 
-If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref "/posts/resources/steps-to-self-hosting" >}}
+If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref src="/posts/resources/steps-to-self-hosting" >}}
 
 # Coding Examples
-- {{< backref "/notes/add-snippets-to-your-text-input" >}}
-- {{< backref "/notes/display-backlink-preview-on-hover" >}}
-- {{< backref "/notes/read-webpage-as-api" >}}
-- {{< backref "/notes/navigate-source-backlinks-in-vim" >}}
+- {{< backref src="/notes/add-snippets-to-your-text-input" >}}
+- {{< backref src="/notes/display-backlink-preview-on-hover" >}}
+- {{< backref src="/notes/read-webpage-as-api" >}}
+- {{< backref src="/notes/navigate-source-backlinks-in-vim" >}}
 
 # Build Tool Examples
-- {{< backref "/notes/self-documenting-makefile" >}}
-- {{< backref "/posts/insights/hosted-webhooks" >}}
-- {{< backref "/notes/detect-file-changes-with-entr" >}}
-- Automate Tasks With CLI Kung-Fu = {{< outref "http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" "CLI Kung Fu" >}}
+- {{< backref src="/notes/self-documenting-makefile" >}}
+- {{< backref src="/posts/insights/hosted-webhooks" >}}
+- {{< backref src="/notes/detect-file-changes-with-entr" >}}
+- Automate Tasks With CLI Kung-Fu = {{< outref src="http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" name="CLI Kung Fu" >}}
 
 # Tooling Thoughts
-- {{< backref "/notes/ssg-is-a-developer-tool" >}}
-- Compress Images For Speed and Space - {{< outref "http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" "imagemagick" >}}
+- {{< backref src="/notes/ssg-is-a-developer-tool" >}}
+- Compress Images For Speed and Space - {{< outref src="http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" name="imagemagick" >}}
 
 # Practice Thoughts
-- Reduce Development Friction - {{< outref "https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" "Technical Ergonomics" >}}
+- Reduce Development Friction - {{< outref src="https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" name="Technical Ergonomics" >}}

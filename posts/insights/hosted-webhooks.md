@@ -13,7 +13,7 @@ title = "Hosting a Webhook Server"
   large = "https://bn02pap001files.storage.live.com/y4mA_H-d0LrDzW4Xzahz6PI89jsuIztpY7-FO4tk77xfhteqAOdS1Z7VX44uJPGWJx6RQO0A1_laz9F48Bis85QW3ew_Z7RZ7riB5iHQx0z2rLAw8JejVqgW60V3O-N8K8YXTWrJrlGiCWdQMLNpioIOJdbZzp65Qf2EHZ7bTnkQ4eToOK38dInjx9VLQQUrmvL?width=768&height=1024&cropmode=none"
   small = "https://bn02pap001files.storage.live.com/y4mA_H-d0LrDzW4Xzahz6PI89jsuIztpY7-FO4tk77xfhteqAOdS1Z7VX44uJPGWJx6RQO0A1_laz9F48Bis85QW3ew_Z7RZ7riB5iHQx0z2rLAw8JejVqgW60V3O-N8K8YXTWrJrlGiCWdQMLNpioIOJdbZzp65Qf2EHZ7bTnkQ4eToOK38dInjx9VLQQUrmvL?width=192&height=256&cropmode=none"
 +++
-If you've followed the {{< backref "/posts/resources/steps-to-self-hosting" >}}, you've got a static site you can build and deploy to your local server. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?
+If you've followed the {{< backref src="/posts/resources/steps-to-self-hosting" >}}, you've got a static site you can build and deploy to your local server. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?
 
 Yes, you can! Enter the magic of webhooks.
 

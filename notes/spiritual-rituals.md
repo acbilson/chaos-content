@@ -14,7 +14,7 @@ Bridgeport Church breaks their rituals into three headings. These don't encompas
 - Become Like Jesus
 - Do What Jesus Did
 
-These notes are taken verbatim from Bridgeport's subsidiary website, {{< outref "https://practicingtheway.org" "Practicing the Way">}}, on July 19th, 2021. By collapsing the basic content to one page, I find it easier to review the whole.
+These notes are taken verbatim from Bridgeport's subsidiary website, {{< outref src="https://practicingtheway.org" name="Practicing the Way">}}, on July 19th, 2021. By collapsing the basic content to one page, I find it easier to review the whole.
 
 The additional rituals which aren't listed under the three headings I've included under "Other". Based on the practice headings, there's some overlap with the three, but not everything. Some of the links actually go to different pages. I presume this is also a work in progress.
 

@@ -13,11 +13,9 @@ toc = true
   large = "https://iskkpa.by.files.1drv.com/y4mkdmObmsu_UM2mLGV3_ae4616KwLRPGCHkC6EN98CEkroqnjsHTsEB3pZ3vpp9D5dOv_v8Pqd4HTqu30VrzAvMQpPpPNU2DlIQo1GLRIVY8HlIeOO2auVSpS1ruFuEs8A9lq7qqHRUruKofTTA3ecodGj_ojgAemYaZUEcuxanfeadp9hObsWJv9N2J5Jd2Pls1UAdanCKXKHDg70Ienggg?width=768&height=1024&cropmode=none"
   small = "https://iskkpa.by.files.1drv.com/y4mkdmObmsu_UM2mLGV3_ae4616KwLRPGCHkC6EN98CEkroqnjsHTsEB3pZ3vpp9D5dOv_v8Pqd4HTqu30VrzAvMQpPpPNU2DlIQo1GLRIVY8HlIeOO2auVSpS1ruFuEs8A9lq7qqHRUruKofTTA3ecodGj_ojgAemYaZUEcuxanfeadp9hObsWJv9N2J5Jd2Pls1UAdanCKXKHDg70Ienggg?width=192&height=256&cropmode=none"
 +++
-{{< raw >}}
-<p class="muted-text">
-For the complete, working example, check out the code: <a href="https://github.com/acbilson/connected-containers">connected-containers</a>.
-</p>
-{{< / raw >}}
+{{< muted >}}
+For the complete, working example, check out the code: {{< outref src="https://github.com/acbilson/connected-containers" name="connected-containers" >}}.
+{{< /muted >}}
 
 # Introduction
 

@@ -6,7 +6,6 @@ date = "2020-03-11"
 description = "In which Alex shares about his experience building a feature across eight interconnected Git repositories."
 tags = ["powershell", "git"]
 title = "Repository Madness"
-addendum = ["I say, \"our velocity,\" but one of my takeaways from this process was how important it is to get buy-in for a tool before I invest. I thought that, if I made the script useful and user-friendly, everyone would adopt it. In reality, each member used portions of the script at best."]
 [featuredImage]
   alt = "Terminal Output"
   large = "https://raw.githubusercontent.com/acbilson/ps-git-sync/aim/images/action-branch.png"
@@ -50,6 +49,10 @@ The developers who worked on this code every day had personal processes which ma
 
 The first was to add .gitignore files to exclude the massive number of generated files from the local build process. We didn't receive authorization right away, so I wrote a quick and dirty PowerShell script to explicitly restore or delete the irrelevant files. This script became irrelevant once a configured .gitignore file was added to our branch.
 
-With the forest of changes tamed, I built a PowerShell script to automate many Git tasks that reduced the likelihood of branch mistakes and mismatched repos. My script could switch to the same branch across every repository, pull the latest changes everywhere, or print a comprehensive file status. The script didn't ensure we'd never see any of these issues again, but it did speed up our velocity{{< superset 1 "#addendum" >}} and cut down on mistakes.
+With the forest of changes tamed, I built a PowerShell script to automate many Git tasks that reduced the likelihood of branch mistakes and mismatched repos. My script could switch to the same branch across every repository, pull the latest changes everywhere, or print a comprehensive file status. The script didn't ensure we'd never see any of these issues again, but it did speed up our velocity{{< superset 1 >}} and cut down on mistakes.
 
 Are you interested in how I implemented the PowerShell script, or need a copy for your own? Check out the source code for the [ps-git-sync script](https://github.com/acbilson/ps-git-sync.git)!
+
+{{< addendum >}}
+I say, "our velocity," but one of my takeaways from this process was how important it is to get buy-in for a tool before I invest. I thought that, if I made the script useful and user-friendly, everyone would adopt it. In reality, each member used portions of the script at best.
+{{< /addendum >}}
