@@ -8,9 +8,9 @@ title = "Leadership Business Insights"
 +++
 These are leadership-based business insights from my MBA program.
 
-- {{< backref "/notes/leaders-focus-on-strengths" >}}
-- {{< backref "/notes/humility-excels-confidence" >}}
-- {{< backref "/notes/compelling-vision-unites-employees" >}}
-- {{< backref "/notes/globalization-demands-leadership-integrity" >}}
-- {{< backref "/notes/every-venture-needs-a-strong-leader" >}}
-- {{< backref "/notes/leadership-growth-requires-vulnerability" >}}
+- {{< backref src="/notes/leaders-focus-on-strengths" >}}
+- {{< backref src="/notes/humility-excels-confidence" >}}
+- {{< backref src="/notes/compelling-vision-unites-employees" >}}
+- {{< backref src="/notes/globalization-demands-leadership-integrity" >}}
+- {{< backref src="/notes/every-venture-needs-a-strong-leader" >}}
+- {{< backref src="/notes/leadership-growth-requires-vulnerability" >}}

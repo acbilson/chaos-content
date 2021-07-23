@@ -13,9 +13,9 @@ tags = ["security", "session-hijacking"]
 title = "Ethical Hacker / Session Hijacking"
 toc = true
 +++
-{{< raw >}}<p class="muted-text">{{< / raw >}}
-These are notes under the umbrella post titled: {{< backref "/posts/resources/ethical-hacker-resources" >}}. Check there for a master list of notes taken for the Ethical Hacker certification.
-{{< raw >}}</p>{{< / raw >}}
+{{< muted >}}
+These are notes under the umbrella post titled: {{< backref src="/posts/resources/ethical-hacker-resources" >}}. Check there for a master list of notes taken for the Ethical Hacker certification.
+{{< /muted >}}
 
 # Definition
 

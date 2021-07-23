@@ -1,7 +1,6 @@
 +++
 aliases = ["/posts/recommendations/burkett-business/"]
 category = "business"
-citations = ["Burkett, Larry. Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006"]
 comments = true
 date = "2020-05-27"
 description = "A book recommendation for Larry Burkett's book, Business by the Book"
@@ -23,4 +22,8 @@ The enforcement of biblical principles that Burkett prescribes would create unne
 
 Were I to select literature for the managers of my company to read, I would take pains to ensure 'Business by the Book' never made the list.  If my employees are not convinced we should treat our employees fairly, should pay taxes, or should think ahead then I'm in more trouble than this book can save save me from!
 
-In place of this burdensome book, I will instead maintain a concise description of our vision and character as a company.  These concise bullet points will describe what our business looks like when it's functioning well. When the values are not useful for my employees to settle matters I will re-word or remove them so that they are, but I will not keep adding constraints until there's a 224-page manual for business practices ([Burkett](#citations)).
+In place of this burdensome book, I will instead maintain a concise description of our vision and character as a company.  These concise bullet points will describe what our business looks like when it's functioning well. When the values are not useful for my employees to settle matters I will re-word or remove them so that they are, but I will not keep adding constraints until there's a 224-page manual for business practices.
+
+{{< citation >}}
+Burkett, Larry. (2006) Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006
+{{< /citation >}}

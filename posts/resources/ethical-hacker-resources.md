@@ -19,14 +19,14 @@ To purchase the official study guide, visit [this site](https://www.wiley.com/en
 
 Below are links to posts with content specific to an ethical hacking subject.
 
-{{< backref "/posts/resources/reconnaissance" >}} also referred to as footprinting, is the first step a hacker takes in their path to hacking your system.
+{{< backref src="/posts/resources/reconnaissance" >}} also referred to as footprinting, is the first step a hacker takes in their path to hacking your system.
 
-{{< backref "/posts/resources/scanning" >}} is the next step after reconnaissance. While reconnaissance is silent and does not require any direct connection to the target network, scanning does access the target network.
+{{< backref src="/posts/resources/scanning" >}} is the next step after reconnaissance. While reconnaissance is silent and does not require any direct connection to the target network, scanning does access the target network.
 
 Enumeration, is a hacker's methodical data gathering from individual machines that make up the target network. While scanning should begin a netowrk map, enumeration fills it out with user accounts, machine names, OSes, and more.
 
 Denial of Service (DoS) floods a network service with requests to overload the target system and ensure other's can't receive the service. One machine is rarely sufficient, so DoS attacks are almost always distributed (DDoS).
 
-Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about {{< backref "/posts/insights/police-impersonation-scam" >}}.
+Social Engineering is the art of manipulating humans to act abnormally in order to gain access to their networks. For a practical example, see my post about {{< backref src="/posts/insights/police-impersonation-scam" >}}.
 
-{{< backref "/posts/resources/session-hijacking" >}} happens when a hacker steals identifying information from a user's session to access their data, impersonate them, or hinder their access.
+{{< backref src="/posts/resources/session-hijacking" >}} happens when a hacker steals identifying information from a user's session to access their data, impersonate them, or hinder their access.

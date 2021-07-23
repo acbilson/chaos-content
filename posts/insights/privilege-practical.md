@@ -12,9 +12,9 @@ title = "Privilege: Practical Steps"
   small = "https://rgso0w.by.files.1drv.com/y4mKPbHyfYJgPvBWdw2HkDwGnToaFZS4IaihrLAzKEsyUAxzPLWAFP8oc9zMsrnY1s0rMWsxRGNHnV-h6J8ExbtQMI2J6liZy-gMNoYF2NRxMGSiTRm9SebFGpqRdLqNku3lYWTVD6HPw-draCvgbz7wlFd9G2KuNX4fRLG52hT1ZJzRChgdDpx9XPDJS7ocnyfB-DMRWdRrquZAj6ZG9XeXw?width=256&height=192&cropmode=none"
 
 +++
-{{< raw >}}<p class="muted-text">{{< / raw >}}
-This is part three in a series on the subject of privilege. Review my first post, {{< backref "/posts/insights/privilege-definition" >}}, and second post, {{< backref "/posts/insights/privilege-advocate-vulnerable" >}} for context.
-{{< raw >}}</p>{{< / raw >}}
+{{< muted >}}
+This is part three in a series on the subject of privilege. Review my first post, {{< backref src="/posts/insights/privilege-definition" >}}, and second post, {{< backref "/posts/insights/privilege-advocate-vulnerable" >}} for context.
+{{< /muted >}}
 
 In the American tech workplace, women and minorities are often marginalized. As a member of the technology marketplace, it's my responsibility to advocate for the fair treatment of my colleagues. As a privileged person, I don't have to overcome many of the obstacles that my colleagues face, but I can help tear those obstacles down. There are two ways I've offered an opportunity to others at work.
 

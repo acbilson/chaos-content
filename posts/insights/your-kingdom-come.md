@@ -5,15 +5,12 @@ backlinks = [
 aliases = ["/posts/your-kingdom-come/"]
 category = "spiritual"
 date = "2020-05-12"
+lastmod = "2021-07-22 15:07:12"
 title = "Your Kingdom Come"
 description = "In which Alex ponders the meaning of the prayer, 'your Kingdom come.'"
 categories = ["Spiritual"]
 tags = ["kingdom", "prayer"]
 comments = true
-addendum = [
-  "Matthew marks section bookends at Matthew 4:23 and 9:35. Both verses are nearly identical. This is strong evidence that the content between the bookends elaborate on the summary of Jesus' teaching and acts."
-]
-
 [featuredImage]
   large = "https://te9jxg.by.files.1drv.com/y4mhHOd8JI50Jy8LIVlK5DccCrA7NekZzM-1aGDITBgmuqgmMmGL7gQEOsgmn4zyUeXMpY4A9Ky-hfxRXMIl2WoYtAmENKgU8e5egoq8d7Sl6Eun4WDSBAk0zA7YEhkWt0PB6ZtXy0wcD43FLgZ_XvIulu7kKvd-pQrAV9cliyB6QU0jGeyYAVcFqiAjyQ8QF-Rj_kW9URyHAmQMbeuTgJp2A?width=1024&height=768&cropmode=none"
   small = "https://te9jxg.by.files.1drv.com/y4mhHOd8JI50Jy8LIVlK5DccCrA7NekZzM-1aGDITBgmuqgmMmGL7gQEOsgmn4zyUeXMpY4A9Ky-hfxRXMIl2WoYtAmENKgU8e5egoq8d7Sl6Eun4WDSBAk0zA7YEhkWt0PB6ZtXy0wcD43FLgZ_XvIulu7kKvd-pQrAV9cliyB6QU0jGeyYAVcFqiAjyQ8QF-Rj_kW9URyHAmQMbeuTgJp2A?width=256&height=192&cropmode=none"
@@ -24,19 +21,17 @@ What does it mean to pray, "[let] your Kingdom come?"
 
 These famous words, couched in the most repeated prayer in history, come from Jesus' answer to his disciples' request, "Teach us to pray."
 
-{{< accordion prayer "Luke 11:2-4" >}}
-
-<p>Father, hallowed be your name.</p>
-<p>Your kingdom come.</p>
-<p>Give us each day our daily bread,</p>
-<p>and forgive us our sins, for we ourselves forgive everyone who is indebted to us.</p>
-<p>And lead us not into temptation.</p>
-
-{{< /accordion >}}
+{{< poetry >}}
+Father, hallowed be your name.
+Your kingdom come.
+Give us each day our daily bread,
+and forgive us our sins, for we ourselves forgive everyone who is indebted to us.
+And lead us not into temptation.
+{{< /poetry >}}
 
 One of the central requests Jesus taught his disciples to pray is "your Kingdom come." I think he meant his disciples to know what they asked, and to recognize the answer. Do we?
 
-Matthew enshrines a version of Jesus' prayer in his synopsis of Jesus' teaching and acts<sup>[1](#addendum)</sup>. For this reason, I expect Matthew will illuminate what Kingdom looks like in teaching and action between chapters five and nine. By no means exhaustive, here are three examples to set fire to your imagination.
+Matthew enshrines a version of Jesus' prayer in his synopsis of Jesus' teaching and acts{{< superset 1 >}}. For this reason, I expect Matthew will illuminate what Kingdom looks like in teaching and action between chapters five and nine. By no means exhaustive, here are three examples to set fire to your imagination.
 
 ## When the Kingdom comes, the sick are healed.
 
@@ -111,10 +106,14 @@ In some circles there's a tendency to diminish the contributions of new Christia
 
 One way I've undermined this tendency is to honor those least likely to be recognized in our small groups. On one occasion, Amie and I were prompted by the Holy Spirit to offer the role of group facilitator to the person who felt least qualified. She managed the role with excellence and was honored in the sight of all, which had the wonderful effect of boosting her confidence in her contributions (from which all benefited).
 
-> For another take on the exaltation of the marginalized, see my series on privilege that starts with {{< backref "/posts/insights/privilege-definition" >}}. There will be an upcoming series on Amie and my favorite approach to bible study.
+> For another take on the exaltation of the marginalized, see my series on privilege that starts with {{< backref src="/posts/insights/privilege-definition" >}}. There will be an upcoming series on Amie and my favorite approach to bible study.
 
 **What would happen if the marginalized in your neighborhood were exalted?**
 
 ---
 
 Next time you pray, "your Kingdom come," may these images and your own witness fill your mind.
+
+{{< addendum >}}
+Matthew marks section bookends at Matthew 4:23 and 9:35. Both verses are nearly identical. This is strong evidence that the content between the bookends elaborate on the summary of Jesus' teaching and acts.
+{{< /addendum >}}

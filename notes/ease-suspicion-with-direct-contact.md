@@ -5,7 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2017-09-01"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["culture","business","trust"]
 title = "Ease Suspicion With Direct Contact"
 +++
