@@ -17,7 +17,7 @@ Habits have been a challenge for me all my life. A new habit develops, sticks, t
 
 ### I'm a Polymath; deal with it
 
-- {{< backref "/notes/embracing-my-polymath-identity" >}}
+- {{< backref src="/notes/embracing-my-polymath-identity" >}}
 
 ### Don't repeat yourself, write it down and share it
 
