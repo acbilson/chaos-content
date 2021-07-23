@@ -13,9 +13,9 @@ toc = true
 tags = ["security", "reconnaissance"]
 title = "Ethical Hacker / Reconnaissance"
 +++
-{{< raw >}}<p class="muted-text">{{< / raw >}}
+{{< muted >}}
 These are notes under the umbrella post titled: {{< backref "/posts/resources/ethical-hacker-resources" >}}. Check there for a master list of notes taken for the Ethical Hacker certification.
-{{< raw >}}</p>{{< / raw >}}
+{{< /muted >}}
 
 # Definition
 
