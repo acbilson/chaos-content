@@ -11,9 +11,9 @@ Habits have been a challenge for me all my life. A new habit develops, sticks, t
 
 ### Duplication is welcome; there's plenty of room
 
-> The internet isn't like a crowded room. When you're saying something, it's not like you're talking over someone else. There is actually room for everyone to say however much they want. {{< outref "https://dev.to/samborick/comment/114ka" "Sam Borick" >}}
+> The internet isn't like a crowded room. When you're saying something, it's not like you're talking over someone else. There is actually room for everyone to say however much they want. {{< outref src="https://dev.to/samborick/comment/114ka" name="Sam Borick" >}}
 
-- {{< outref "http://interconnected.org/home/2020/09/10/streak" "15 Rules for Blogging" >}}
+- {{< outref src="http://interconnected.org/home/2020/09/10/streak" name="15 Rules for Blogging" >}}
 
 ### I'm a Polymath; deal with it
 
