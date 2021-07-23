@@ -30,3 +30,4 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/lean-startups-fit-uncertain-markets" >}}
 - {{< backref src="/notes/vanity-metrics-obscure-true-performance" >}}
 - {{< backref src="/notes/every-venture-needs-a-strong-leader" >}}
+- {{< backref src="/notes/business-discovery-is-uncomfortable" >}}
