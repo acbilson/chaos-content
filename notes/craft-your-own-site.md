@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-18T19:39:00"
-lastmod = "2021-07-21 07:07:25"
+lastmod = "2021-07-27 14:19:01"
 epistemic = "plant"
 tags = ["software","selfhost","design","javascript","html","css"]
 title = "Craft Your Own Site"
@@ -16,6 +16,8 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/notes/display-backlink-preview-on-hover" >}}
 - {{< backref src="/notes/read-webpage-as-api" >}}
 - {{< backref src="/notes/navigate-source-backlinks-in-vim" >}}
+- {{< backref src="/notes/replace-text-across-all-content" >}}
+- {{< backref src="/notes/verify-your-rss-feed" >}}
 
 # Build Tool Examples
 - {{< backref src="/notes/self-documenting-makefile" >}}

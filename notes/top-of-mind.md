@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-07-19 09:15:05"
+lastmod = "2021-07-26 11:33:28"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -13,8 +13,6 @@ title = "Top of Mind"
 
 # Site Updates
 
-- Add 🌱 🌿 🪴  (seedling, sprout, potted plant) before notes to indicate their publication maturity. There's both epistemic (i.e. how confident I am) and complete, but I think one symbol is sufficient to represent both for now.
-
 - Define composite notes and leaf notes. A common practice in Obsidian is to append "MOC" (Maps Of Content) to a composite note. Andy uses the '§' symbol. I could also add it to the front matter and filter them into a separate list.
 
 - Determine my promotion-to-post guidelines. Some of my notes equal my posts in quality, length, and completeness. How to decide when a note about programming becomes an insight post?
@@ -22,3 +20,7 @@ title = "Top of Mind"
 - Revise evangelism paradigm notes, there's a lot of cruft.
 
 - Add notes from Roy Moran's _Spent Matches_.
+
+# Writing Ideas
+
+- Add a list of commonly used software tools. This could include entries for Vim and exa as well as tools I'm still learning to integrate into my workflows like fzf and fish.

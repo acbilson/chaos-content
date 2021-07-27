@@ -1,8 +1,12 @@
 +++
+backlinks = [
+    "/notes/craft-your-own-site"
+]
 author = "Alex Bilson"
 comments = false
 date = "2021-07-27T17:04:15"
-epistemic = "seedling"
+lastmod = "2021-07-27 14:18:12"
+epistemic = "sprout"
 tags = ["rss","javascript","snippet"]
 title = "Verify Your RSS Feed"
 +++
@@ -25,4 +29,4 @@ fetch('https://my-url-here.com')
 	return Array.from(items).map(item => item.querySelector('title').textContent);
 }).then(titles => console.log(titles));
 {{< /highlight >}}
-    
+
