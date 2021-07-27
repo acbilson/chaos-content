@@ -1,6 +1,7 @@
 +++
 backlinks = [
-  "/notes/entrepreneurial-business-insights"
+  "/notes/entrepreneurial-business-insights",
+  "/notes/the-church-must-learn-new-forms"
 ]
 author = "Alex Bilson"
 date = "2018-06-09"
