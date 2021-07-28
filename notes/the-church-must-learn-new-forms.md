@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-27"
-lastmod = "2021-07-27 15:47:05"
+lastmod = "2021-07-27 16:03:12"
 epistemic = "sprout"
 tags = ["entrepreneurship","model","risk"]
 title = "The Church Must Learn New Forms"
@@ -18,9 +18,9 @@ We don't need a new move of the Spirit. Ok, yes, we _do_ need a new move of the 
 
 We need new forms. New moulds into which the Spirit can pour another wave of Jesus-loving, God-fearing humans from every corner of our cities into a multi-generational, multi-ethnic, multi-cultural assembly.
 
-The business world is a ripe analogy. New business forms emerge, not from incumbent enterprises, but out of countless failures by discontent entrepreneurs who labor quietly on the fringes for years. The "instant" successes of Starbucks, Uber, and others are fabricated stories disseminated after years of failure and learning.
+The business world is a ripe analogy. New business forms emerge, not from incumbent enterprises, but out of countless failures by discontent entrepreneurs who labor quietly on the fringes for years. The "instant" successes of Starbucks, Uber, and others are fabricated stories disseminated after years of failure and learning. They found success, not because they refined an existing product or added a new feature, but because they met a need that existing businesses coudn't see. Starbucks discovered a huge need, not for better coffee, but for a "third space".
 
-We desperately need more holy discontents in America who will make hundreds of mistakes to discover our new forms.
+We desperately need more holy discontents in America who will make hundreds of mistakes to discover our new forms. Incumbent churches will, at best, ignore their efforts. At worst, they'll mock and persecute them, just as the Jerusalem leadership forbade Peter and John, two untrained men, from speaking about Jesus outside their synagogue and scribe model.
 
 ### References
 
