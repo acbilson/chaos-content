@@ -3,7 +3,7 @@ author = "Alex Bilson"
 category = "parenting"
 comments = true
 date = "2021-07-28"
-lastmod = "2021-07-28 14:17:27"
+lastmod = "2021-07-28 15:19:15"
 description = "In which Alex wrestles with how to make his children do what he wants."
 tags = ["parenting","independence","obedience"]
 title = "How to Enforce Obedience"
@@ -26,7 +26,7 @@ First, let's review how Tim thinks parents teach children to obey. I think a quo
 
 I dug through Tim's archives for a few minutes and unearthed two additional articles that I found helpful: {{< outref src="https://www.challies.com/articles/momentary-obedience-forever-honor/" name="Momentary Obedience, Forever Honor" >}} and {{< outref src="https://www.challies.com/articles/use-the-rod-lose-the-child/" name="Use the Rod, Lose the Child?" >}}
 
-I found several synonyms to the word "require" in these articles, such as "enforce," "force," and "demand." Tim uses strong language, but that doesn't mean he advocates abusive forms of power. In fact, he believes his readers already know that he doesn't mean "anger-filled beatings but restrained, physical discipline that is done out of love and never tips into abuse" (Use the Rod, Lose the Child?). His use of procative physical language seems to be focused on shaking parents out of a stupor, but he does draw a correlation between the use of physical discipline and a child learning how to obey. Which leads into the next question...
+I found several synonyms to the word "require" in these articles, such as "enforce," "force," and "demand." Tim uses strong language, but that doesn't mean he advocates abusive forms of power. In fact, he believes his readers already know that he doesn't mean "anger-filled beatings but restrained, physical discipline that is done out of love and never tips into abuse" (Use the Rod, Lose the Child?). His use of provocative physical language seems to be focused on shaking parents out of a stupor, but he does draw a correlation between the use of physical discipline and a child learning how to obey. Which leads into the next question...
 
 # Intended Audience
 
@@ -56,7 +56,7 @@ I agree that enforced consequences are crucial for the well-being of my children
 
 I disagree that physical discipline is an approach worth fighting to uphold. On a personal level, while I can theorize that parents exist who always supply "restrained, physical discipline that is done out of love and never tips into abuse," I get too irate to promise myself I'll never tip over. I'm also playing the long game, and I don't see physical discipline as a viable option as my children become too big for me to wrangle or as an effective approach in the reformation of adults.
 
-In summary, I do not believe that obedience can be enforced, only consequences. I don't fully understand why the LORD does not enforce His commands directly, but I trust His policy is good even as I groan under the combined weight of both centuries-old consequences and those solely brought upon by my own foolhardy decisions. I do not entertain physical discipline because I am restraining myself for my children's sake, and because it has a abysmal track record in the long-term.
+In summary, I do not believe that obedience can be enforced, only consequences. I don't fully understand why the LORD does not enforce His commands directly, but I trust His policy is good even as I groan under the combined weight of both centuries-old consequences and those solely brought upon by my own foolhardy decisions. I do not entertain physical discipline because I am restraining myself for my children's sake, and because it has an abysmal track record in the long-term.
 
 # Final Comment
 
