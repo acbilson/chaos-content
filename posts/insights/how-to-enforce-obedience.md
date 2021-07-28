@@ -3,7 +3,7 @@ author = "Alex Bilson"
 category = "parenting"
 comments = true
 date = "2021-07-28"
-lastmod = "2021-07-28 11:58:14"
+lastmod = "2021-07-28 14:07:38"
 description = "In which Alex wrestles with how to make his children do what he wants."
 tags = ["parenting","independence","obedience"]
 title = "How to Enforce Obedience"
@@ -20,13 +20,13 @@ In addition, here's a link to a Tim Challies article titled {{< outref src="http
 
 For me there are two burning questions: how do we teach children to be obedient, and what kind of parent is Tim addressing?
 
-# Requiring Obedience
+# Teaching Obedience
 
-I want to zero in on a quote at the end of Tim's article, "If we love our children too much to require them to do what is right, then we have not really loved them enough," and an underlying thought that the LORD himself demonstrates his love through enforced obedience. I particularly want to challenge the latter conclusion by asking, "How does God require obedience?"
+First, let's review how Tim thinks parents teach children to obey. I think a quote from Bryan Chapell at the end of his article presents a summary, "If we love our children too much to require them to do what is right, then we have not really loved them enough." There's also an underlying thought here; that the LORD himself demonstrates his love through enforced obedience. I particularly want to challenge the latter conclusion by asking, "How does God require obedience?," but let's keep looking at Tim's writing.
 
 I dug through Tim's archives for a few minutes and unearthed two additional articles that I found helpful: {{< outref src="https://www.challies.com/articles/momentary-obedience-forever-honor/" name="Momentary Obedience, Forever Honor" >}} and {{< outref src="https://www.challies.com/articles/use-the-rod-lose-the-child/" name="Use the Rod, Lose the Child?" >}}
 
-I found several synonyms to the word "require" in these articles, such as "enforce," "force," and "demand." Tim uses strong language, but that doesn't mean he advocates abusive forms of power. In fact, he believes his readers already know that he doesn't mean "anger-filled beatings but restrained, physical discipline that is done out of love and never tips into abuse" (Use the Rod, Lose the Child?). His use of procative physical language seems to be focused on shaking parents out of a stupor. Which leads into the next question...
+I found several synonyms to the word "require" in these articles, such as "enforce," "force," and "demand." Tim uses strong language, but that doesn't mean he advocates abusive forms of power. In fact, he believes his readers already know that he doesn't mean "anger-filled beatings but restrained, physical discipline that is done out of love and never tips into abuse" (Use the Rod, Lose the Child?). His use of procative physical language seems to be focused on shaking parents out of a stupor, but there he appears to draw a correlation between the use of physical discipline and a child learning how to obey. Which leads into the next question...
 
 # Intended Audience
 
@@ -38,9 +38,9 @@ Tim and I share much in common. We both long for our children to reap the benefi
 
 # Does God Enforce Obedience?
 
-The first opportunity to learn about God's approach to obedience is in Genesis 3. The LORD has given humans a command, "don't eat fruit from this tree" and a consequence, "you will die." Then what happens?
+The first opportunity to learn about God's approach to obedience is in Genesis 3, when {{< backref src="/notes/humanity-disregards-gods-wisdom-for-a-lie" >}}. The LORD has given humans a command, "don't eat fruit from this tree" and a consequence, "you will die." Then what happens?
 
-If Tim and Bryan were retelling the story, God might demonstrate his love for humanity by stepping in to enforce their obedience. Maybe grab ahold of Eve's hand before she bites, or shout "STOP!". But He doesn't. He finds them after they've disobeyed and engages them in conversation about their actions and elaborates on the subsequent consequences. He also supplies what was never asked; a promise that he will give humans victory over their deceiver.
+If Tim and Bryan were retelling the story, God might demonstrate his love for humanity by stepping in to enforce their obedience. Maybe grab ahold of Eve's hand before she bites, or shout "STOP!". But He doesn't. He finds them after they've disobeyed, engages them in conversation about their actions and elaborates on the subsequent consequences. He also supplies what was never asked; a promise that he will give humans victory over their deceiver.
 
 # We're Saying the Same Thing
 
