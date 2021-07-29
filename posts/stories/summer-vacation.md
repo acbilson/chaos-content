@@ -2,6 +2,7 @@
 category = "family"
 comments = true
 date = "2021-07-12"
+lastmod = "2021-07-29 14:14:37"
 description = "In which Alex shares his family's summer vacation."
 tags = ["children", "vacation", "south-dakota"]
 title = "Summer Vacation"
@@ -10,7 +11,7 @@ title = "Summer Vacation"
   large = "https://bn02pap001files.storage.live.com/y4mvOfCrNin6lnvYk3uCH8B-8w2G6iOqnglRW-kC8lGHtwQMxXghR0sZNsj6HkoXkqwkISlpg2du6wVXZSqNgBZd6TJ1zcqTn6Uv-xIUjCctwUKP9vIA4RrKSNncRrUuo-kkQhA5_WVuVZLgNPKY99zG5a6yLWNYAzsXLw-A_2Mbg508fWBtBX_B33wH3L0kjDM?width=768&height=1024&cropmode=none"
   small = "https://bn02pap001files.storage.live.com/y4mvOfCrNin6lnvYk3uCH8B-8w2G6iOqnglRW-kC8lGHtwQMxXghR0sZNsj6HkoXkqwkISlpg2du6wVXZSqNgBZd6TJ1zcqTn6Uv-xIUjCctwUKP9vIA4RrKSNncRrUuo-kkQhA5_WVuVZLgNPKY99zG5a6yLWNYAzsXLw-A_2Mbg508fWBtBX_B33wH3L0kjDM?width=192&height=256&cropmode=none"
 +++
-With the arrival of our second child, Amie and I began to consider whether Christmas is still the best time to visit family. Four plane tickets, crowded airports, and weather delays were a few reasons why summertime was beginning to be a more attractive option. So we purchased a cross-country-travel-friendly vehicle, packed up our bags and kids, and headed to South Dakota at the end of July.
+With the arrival of our second child, Amie and I began to consider whether Christmas is still the best time to visit family. Four plane tickets, crowded airports, and weather delays were a few reasons why summertime was beginning to be a more attractive option. So we purchased a cross-country-travel-friendly vehicle, packed up our bags and kids, and headed to South Dakota at the end of June.
 
 # The Drive To Rapid City
 
@@ -50,13 +51,13 @@ The second leg of the trip had gone so well that we decided a trip to De Smet to
 <img src="https://bn02pap001files.storage.live.com/y4mV525Jof5GMfYSY7_yvKqy_NR-ULeYTbLSjTy5bkQY7GsLFhZ5qxiV6rQ2n5GDY4MXnbZDRWB9eTK1Lh5hy4rPwu0GRdex0fbz7QDQD9AiIGThRoa_VOf_UfEAEA6xa7S25s6vNHiuCtl4ilXCOOJEl-N7aqEu0Ga6jmaWzeomi_964lwPN0zCwQkFQX_Y1pH?width=1024&height=768&cropmode=none" alt="Graham Pets a Cat" />
 {{< / raw >}}
 
-We saw Laura Clark, a long-time friend of Amie's, along with her husband Tim and two boys TODO:name and Wilder.
+We saw Laura Clark, a long-time friend of Amie's, along with her husband Tim and two boys Weston and Wilder.
 
 ![Group Picture with the Clark's](https://bn02pap001files.storage.live.com/y4mGg3EMD5xlIBCw6mvgSMooXKA84FtlhcEHF8SYsRXHvTkrMiZFRPhpGd6CUZVhCl5V7v0R4jijvQk7uq74RrqTV0xBoAwce-65wdutcv0e9xQLBEgbyse1ahho1I-tjQzhK6SKZ6hGHYxSEZC5dvkwrJoxUxpko0AiFT2kKu2PdG9GYHNfN9AYomKuO5fRV-k?width=768&height=1024&cropmode=none)
 
 Graham rode his first horse! Okay, technically it was a small pony, but to him it was a HUGE horse!
 
-## Champlain, SD
+## Chamberlain, SD
 
 With three hours left, everyone was itching to finish the journey. But we couldn't pass the Dignity statue without a brief stop. What a powerful memorial to the endurance of human image-bearers.
 
