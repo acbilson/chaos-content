@@ -5,7 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = false
 date = "2021-06-11T20:05:50"
-lastmod = "2021-08-02 15:25:16"
+lastmod = "2021-08-03 09:47:23"
 epistemic = "seedling"
 tags = ["snippet","javascript","software","state","observable","rxjs"]
 title = "Smart Components Observe State Over Input"
@@ -16,7 +16,7 @@ Dumb components benefit from the explicit interface created by a clear set of in
 
 To enable smart components to respond to changes without hard dependencies upon each other, they should subscribe to state changes. One piece of state which is always available are route parameters.
 
-{{< highlight js >}]
+{{< highlight js >}}
 ngOnInit(): void {
 combineLatest([
   this.route.params.pipe(map(params => Number(params.categoryId))),
@@ -41,4 +41,4 @@ combineLatest([
   this.model = model;
 });
 
-{{< /highlight >}]
+{{< /highlight >}}
