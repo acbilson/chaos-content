@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-07-26 11:33:28"
+lastmod = "2021-08-02 15:27:53"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -18,8 +18,6 @@ title = "Top of Mind"
 - Determine my promotion-to-post guidelines. Some of my notes equal my posts in quality, length, and completeness. How to decide when a note about programming becomes an insight post?
 
 - Revise evangelism paradigm notes, there's a lot of cruft.
-
-- Add notes from Roy Moran's _Spent Matches_.
 
 # Writing Ideas
 

@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-18T19:39:00"
-lastmod = "2021-07-27 14:19:01"
+lastmod = "2021-08-02 14:59:16"
 epistemic = "plant"
 tags = ["software","selfhost","design","javascript","html","css"]
 title = "Craft Your Own Site"
@@ -23,6 +23,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/notes/self-documenting-makefile" >}}
 - {{< backref src="/posts/insights/hosted-webhooks" >}}
 - {{< backref src="/notes/detect-file-changes-with-entr" >}}
+- {{< backref src="/notes/install-a-friendly-terminal-shell" >}}
 - Automate Tasks With CLI Kung-Fu = {{< outref src="http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" name="CLI Kung Fu" >}}
 
 # Tooling Thoughts
