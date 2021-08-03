@@ -21,6 +21,8 @@ title = ""
       <p>If you want to review what I've written on a specic topic, try a <a href="{{< ref "/search" >}}">fulltext search</a> or see the <a href="{{< ref "/network" >}}">network of interconnected topics</a>.</p>
 
       <p>If you'd like to see other independent writers I follow, see my <a href="{{< ref "/blogroll/_index.md" >}}">blog roll</a>.</p>
+
+      <p>And, finally, if you want to subscribe to updates, I publish separate <abbr title="Really Simple Syndication">RSS</abbr> feeds for <a href="https://alexbilson.dev/logs/index.xml">logs</a>, <a href="https://alexbilson.dev/notes/index.xml">notes</a>, and <a href="https://alexbilson.dev/posts/index.xml">posts</a>.</p>
   </div>
 </div>
 {{< / raw >}}
