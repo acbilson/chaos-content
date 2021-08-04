@@ -2,288 +2,273 @@
 category = "spiritual"
 comments = true
 date = "2020-07-24"
+lastmod = "2021-08-04 13:24:59"
 description = "In which Alex publishes a poem he wrote after his deployment to Afghanistan."
 tags = ["poetry","jesus","dark-night-of-the-soul"]
 title = "An Afghan Poem"
 [featuredImage]
-  alt = ""
-  large = ""
-  small = ""
+  alt = "New Delhi, India Mosque"
+  large = "https://by3302files.storage.live.com/y4mxliGMVlBN_zMqNua6psWhvCJ3suycaOCybxw9Ql7AmHWMP34eGTpK_rqNOpGXLVKXXEj7ovaK1aQ8XKe-Zlpbu7lF4PLVhfTcbBEeW4snBn2WFP2LTjl_HLFh-uPqgMjQc0dVg6Ys0DOiaynoGGxmGC2-csdT8JoMhlJYdLXLPTVwpkyBKuyzNcVMBcz0JKi?width=768&height=1024&cropmode=none"
+  small = "https://by3302files.storage.live.com/y4mxliGMVlBN_zMqNua6psWhvCJ3suycaOCybxw9Ql7AmHWMP34eGTpK_rqNOpGXLVKXXEj7ovaK1aQ8XKe-Zlpbu7lF4PLVhfTcbBEeW4snBn2WFP2LTjl_HLFh-uPqgMjQc0dVg6Ys0DOiaynoGGxmGC2-csdT8JoMhlJYdLXLPTVwpkyBKuyzNcVMBcz0JKi?width=192&height=256&cropmode=none"
 +++
 After my deployment to Afghanistan in the U.S. Navy, I had a lot to process. Poetry was the result.
 
 > My interpretation of what happened in Afghanistan has deepened since I wrote this poetry. Don't assume you understand my current theology because you've found misunderstanding in a poem I penned in 2011.
 
-{{< raw >}}
+###Beginning
 
-<style>
-
-  h3 {
-    text-decoration: italic;
-  }
-
-  p {
-    text-decoration: italic;
-  }
-
-</style>
-
-<h3>Beginning</h3>
-
-<p>
+{{< poetry >}}
 Swift sailing through the sea of life
 Weather diverse but He is near
 Spirit close calms every fear
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Waves crash vain upon my bow
 Shall circumstances rock my hold
 Upon the Lord of grace foretold?
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Nay, victory is mine through Christ
 Almighty conqueror of death
 The world’s released its bated breath
-</p>
+{{< /poetry >}}
 
-<h3>Trickery</h3>
+###Trickery
 
-<p>
+{{< poetry >}}
 The worse is past now no more work
 I think I’ll take some time to rest
 Comfort seems to me the best
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Lay my head on Ease’s lap
 Complacency bids me to sleep
 “Hush now, there’s no watch to keep”
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Cool breeze lulls my eyes to droop
 Dreams of glory, honor, power
 Only I, man of the hour
-</p>
+{{< /poetry >}}
 
-<h3>Withdrawal</h3>
+###Withdrawal
 
-<p>
+{{< poetry >}}
 Self-exalted, basement fails
 Structure crumbles with a crash
 Wood and stubble turn to ash
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 (Respite reveals the heart of man
 When labor turns to selfish ease
 Corrupt affections to appease)
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Wake in dread, the sails have stilled
 Windless, caught without a breeze
 Trapped within the glassy seas
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Face of God has turned away,
 Temptation raises banner high
 Without help I’ll surely die
-</p>
+{{< /poetry >}}
 
-<h3>Lament</h3>
+###Lament
 
-<p>
+{{< poetry >}}
 Empty thoughts devoid of light
 Stretch the hold to nearly burst
 Abundant water, always thirst
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Now my daily sustenance
 Leaves me empty, incomplete
 Tasteless is the Godly meat
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 What my soul had once refused
 Worldly bread I once had known
 In my stomach turns to stone
-</p>
+{{< /poetry >}}
 
-<h3>Questions</h3>
+###Questions
 
-<p>
+{{< poetry >}}
 Accusations fill my lips
 Questions swirl within my head
 Am I counted as the dead?
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Is my strength akin to stones?
 Does my flesh consist of brass?
 Are not all my days as grass?
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Do I have an arm like God?
 Present at the start of time?
 Creator each after their kind?
-</p>
+{{< /poetry >}}
 
-<h3>Help?</h3>
+###Help?
 
-<p>
+{{< poetry >}}
 I’ve no strength cannot progress
 Fate hinges on holy wind
 Word speaks, “He must condescend”
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Spirit of the Living God
 I have no handle on Thee
 Hope only on Your mercy
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 I can’t draw the love of God
 No bucket, and the well is deep
 Within Joseph’s well to sleep
-</p>
+{{< /poetry >}}
 
-<h3>Repentance</h3>
+###Repentance
 
-<p>
+{{< poetry >}}
 Who am I to complain thus?
 My iniquity ascends
 Far above lofty heavens
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 I was raised in countless sins
 Every day I add the cost
 To Jesus’ flesh upon the cross
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 My just lot is death in hell
 If were not for His mercy
 As He hung upon the tree
-</p>
+{{< /poetry >}}
 
-<h3>Resolved</h3>
+###Resolved
 
-<p>
+{{< poetry >}}
 If I know not Christ in God
 There is nowhere else to turn
 I shall seek Jesus - or burn
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Am I not Thy purchased prize?
 Make me so despite my life
 Thou art greater than all strife
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 You deserve my every breath
 Poured out for Your endless praise
 Even if my soul won’t raise
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 To life endless in Your love
 Under Thy judgment I must
 Say, “Lord all you speak is just”
-</p>
+{{< /poetry >}}
 
-<h3>Return</h3>
+###Return
 
-<p>
+{{< poetry >}}
 Humility floods through my soul
 Limbs splayed out upon the deck
 Nothing left now to protect
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Honesty pours grimly forth
 From a heart without a pulse
 The hull begins to convulse
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 What is this! slips from my mouth
 Sails snap to my great surprise
 I can feel the breeze arise!
-</p>
+{{< /poetry >}}
 
-<h3>Exultation</h3>
+###Exultation
 
-<p>
+{{< poetry >}}
 God has heard my desperate prayer
 Healing on His outspread wings
 Mercy great my heart now sings!
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Restored at the foot of Christ
 Heart leaps in renewed delight
 Jesus, Jesus fills my sight!
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Knowing what it means to feel
 Separated from the Lord
 Leaving twice I can’t afford
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Strive to walk in holy fear
 Truly this is the start of
 Wisdom, knowledge from above
-</p>
+{{< /poetry >}}
 
-<h3>Advance</h3>
+###Advance
 
-<p>
+{{< poetry >}}
 In your Spirit daily march
 Mortifying flesh by grace
 Gazing always on Your face
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Jesus take the conning wheel
 Steer the ship as you see fit
 Riding into bright sunset
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Where lie the celestial shores
 Promised to fathers of old
 To their sons continually told
-</p>
+{{< /poetry >}}
 
-<h3>Longing</h3>
+###Longing
 
-<p>
+{{< poetry >}}
 When I reach the crystal shore
 Leaping from the soggy planks
 I’ll join Your people on the banks
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Of Jordan where the faithful cross
 To meet our Husband in the air
 The virgin bride, His love all fair
-</p>
+{{< /poetry >}}
 
-<p>
+{{< poetry >}}
 Sing grateful hallelujahs
 To the Lamb upon the throne
 Oh, I can’t wait to be home!
-</p>
-
-{{< / raw >}}
+{{< /poetry >}}
