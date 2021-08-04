@@ -2,7 +2,7 @@
 category = "family"
 comments = true
 date = "2021-07-12"
-lastmod = "2021-07-29 14:14:37"
+lastmod = "2021-08-04 13:56:09"
 description = "In which Alex shares his family's summer vacation."
 tags = ["children", "vacation", "south-dakota"]
 title = "Summer Vacation"
@@ -19,17 +19,29 @@ We spaced the 16-hour drive from Evanston, IL to Rapid City, SD over three days 
 
 ## Sparta, WI
 
-Our first stop was in Sparta, WI. Why Sparta? We couldn't get a hotel room in La Crosse because they were all booked for college graduation. The boys enjoyed a morning swim at the hotel pool, then we set off for Rochester, MN. On the way we picked up coffee at [Moka](http://www.mymokacoffee.com/) - so good.
+Our first stop was in Sparta, WI. Why Sparta? We couldn't get a hotel room in La Crosse because they were all booked for college graduation. The boys enjoyed a morning swim at the hotel pool, then we set off for Rochester, MN. On the way we picked up coffee at {{< outref src="http://www.mymokacoffee.com/" name="Moka" >}} - so good.
 
 ## Rochester, MN
 
-We arrived in Rochester before afternoon naps, so we stopped to get food and let the boys run. Amie discovered an incredible playzone called [Spark](http://www.sparkrochestermn.org/). Royal squealed with delight the entire time and Graham was _dedicated_ to the water table. They both slept like rocks over naptime.
+We arrived in Rochester before afternoon naps, so we stopped to get food and let the boys run. Amie discovered an incredible playzone called {{< outref src="http://www.sparkrochestermn.org/" name="Spark" >}}. Royal squealed with delight the entire time and Graham was _dedicated_ to the water table. They both slept like rocks over naptime.
 
-{{< raw >}}
-<img src="https://bn02pap001files.storage.live.com/y4mYunje7Ps5pTlKWXvzNovYS0y4Oemfv5RDbyug0hRyK-ILG3pw9pDiZg6w4wwtFzj3jKDT8ex4GF0e9-rkbAUADIyeBeJFDYkXTHfByIl0dn6xZt3T8EqtIsbJycCuYZgDYb5pqGPGI9x5QUttmPYuztKAN-VHBjmP_uy25W_acp3NVgutzihWT6m0jFQf5c_?width=768&height=1024&cropmode=none" alt="Royal Plays in Diamond" />
-<img src="https://bn02pap001files.storage.live.com/y4mnjKoaRrjbCVcR3G1L6DnciweAtLdw1dxa6gNwAVKF9iEphnQqAAmphBgxbj11bSTWUBOvZLrYjPpOP_DdoRgY90e0jWZLOqQo9uZWSTB0yixaxkHJ3Cy4RtMCk3Gil8rwjUs8qs2qQbHdyQyYis778OVTcM6fweMlJgC7Eu_6kr63cVXm85-lWB4fPglfAVQ?width=768&height=1024&cropmode=none" alt="Graham in a Prism" />
-<img src="https://bn02pap001files.storage.live.com/y4moO5FQYi0Sdnt15g54rFRmwCLZT0wlc6nIz70NrEM9TGTHsfl_gBQvZ1uhE_66qXgWbSFnxXaFUpz-Egavr8dVHZ_TXIGGJow0onfYnsCQE_GR-dTphdpaJdIetpLniMk32qQXG0hnTP5ut0CktjbGgSK3R25mTTl6ckhqPKpKfSDYtZKlEFdpJnlYg6bAHKc?width=768&height=1024&cropmode=none" alt="Royal Plays in Water" />
-{{< / raw >}}
+{{< caption
+src="https://bn02pap001files.storage.live.com/y4mYunje7Ps5pTlKWXvzNovYS0y4Oemfv5RDbyug0hRyK-ILG3pw9pDiZg6w4wwtFzj3jKDT8ex4GF0e9-rkbAUADIyeBeJFDYkXTHfByIl0dn6xZt3T8EqtIsbJycCuYZgDYb5pqGPGI9x5QUttmPYuztKAN-VHBjmP_uy25W_acp3NVgutzihWT6m0jFQf5c_?width=768&height=1024&cropmode=none"
+alt="Royal Plays in Diamond"
+caption=""
+>}}
+
+{{< caption
+src="https://bn02pap001files.storage.live.com/y4mnjKoaRrjbCVcR3G1L6DnciweAtLdw1dxa6gNwAVKF9iEphnQqAAmphBgxbj11bSTWUBOvZLrYjPpOP_DdoRgY90e0jWZLOqQo9uZWSTB0yixaxkHJ3Cy4RtMCk3Gil8rwjUs8qs2qQbHdyQyYis778OVTcM6fweMlJgC7Eu_6kr63cVXm85-lWB4fPglfAVQ?width=768&height=1024&cropmode=none"
+alt="Graham in a Prism"
+caption="This triangular prism was trippy. Each wall is a mirror, so the reflections seem to go forever, in all directions."
+>}}
+
+{{< caption
+src="https://bn02pap001files.storage.live.com/y4moO5FQYi0Sdnt15g54rFRmwCLZT0wlc6nIz70NrEM9TGTHsfl_gBQvZ1uhE_66qXgWbSFnxXaFUpz-Egavr8dVHZ_TXIGGJow0onfYnsCQE_GR-dTphdpaJdIetpLniMk32qQXG0hnTP5ut0CktjbGgSK3R25mTTl6ckhqPKpKfSDYtZKlEFdpJnlYg6bAHKc?width=768&height=1024&cropmode=none"
+alt="Royal Plays in Water"
+caption="Graham spent almost the entire time at this water station. Royal might have, but we needed to move him along; he was soaked in moments!"
+>}}
 
 ## Green Earth, MN
 
