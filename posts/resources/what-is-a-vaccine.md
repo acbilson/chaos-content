@@ -3,7 +3,7 @@ draft = true
 category = "family"
 comments = true
 date = "2021-08-10"
-lastmod = "2021-08-05 17:19:53"
+lastmod = "2021-08-06 12:33:58"
 description = "In which Alex investigates what a vaccine is and how it works."
 tags = ["vaccine","covid","safety"]
 title = "What is a Vaccine?"
@@ -18,7 +18,7 @@ There are numerous resources on the subject of vaccinology, but I learn best whe
 
 Before we look at vaccines, let's consider the problem: viruses. What is a virus? No virus has received more recent attention than SARS-CoV-2, so let's focus on it.
 
-> A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. ({{< outref name="Wikipedia" src="https://en.wikipedia.org/wiki/Virus")
+> A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. ({{< outref name="Wikipedia" src="https://en.wikipedia.org/wiki/Virus" >}})
 
 A SARS-CoV-2 virus, pre-infection, consists of:
 
@@ -34,7 +34,7 @@ The short answer is, replication inside crucial cells.
 
 If you remember back to high school, there are four nucleobases: Adenine, Thymine, Guanine, and Cytosine (ATGC). Adenine pairs with Thymine, Guanine with Cytosine. Since we're talking about RNA, however, we swap Thymine for Uracil (AUGC).
 
-Like other viruses, SARS-CoV-2 replicates at an extreme pace. As a {{< acronym +ssRNA "positive-sense single-stranded RNA" >}}, it replicates inside living cells by attracting opposite nucleobases to form a double strand of base pairs, separates, and the opposite strand attracts a duplicate nucleobase set.
+Like other viruses, SARS-CoV-2 replicates at an extreme pace. As a {{< acronym "+ssRNA" "positive-sense single-stranded RNA" >}}, it replicates inside living cells by attracting opposite nucleobases to form a double strand of base pairs, separates, and the opposite strand attracts a duplicate nucleobase set.
 
 Let's say this chain of nucleobases aref part of the SARS-CoV-2 RNA strand:
 
