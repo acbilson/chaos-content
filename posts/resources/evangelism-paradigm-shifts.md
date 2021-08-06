@@ -1,19 +1,19 @@
 +++
-draft = true
 category = "spiritual"
 comments = true
-date = "2021-08-04"
-description = "In which Alex enumerates seven paradigm shifts in the subject of evangelism."
-tags = ["evangelism","jesus"]
+date = "2021-08-06"
+lastmod = "2021-08-06 14:52:13"
+description = "In which Alex enumerates a few paradigm shifts in the subject of evangelism."
+tags = ["evangelism","jesus","discipleship"]
 title = "Evangelism Paradigm Shifts"
 [featuredImage]
-  alt = ""
-  large = ""
-  small = ""
+  alt = "Worried Expressions"
+  large = "https://by3301files.storage.live.com/y4mrPbJnaebK2CVOAzpEhi-mjyBEMfNeEt8LJt-Zu2GrWXFNEdKxO-d0K5dlgTUGfq0dJJ0ySi-Ynf1x5pMzdC0p3kWyfqIfedviuNBLgHQPZb_w0tX4ZHq7r5n_Cmqu0958KY6KQVGpW6fT6QyZzTvDZ6j-ZhoPpf5fR1jd6Sw1jMNCexgR3t3kGwU4ItpPKPk?width=1024&height=768&cropmode=none"
+  small = "https://by3301files.storage.live.com/y4mrPbJnaebK2CVOAzpEhi-mjyBEMfNeEt8LJt-Zu2GrWXFNEdKxO-d0K5dlgTUGfq0dJJ0ySi-Ynf1x5pMzdC0p3kWyfqIfedviuNBLgHQPZb_w0tX4ZHq7r5n_Cmqu0958KY6KQVGpW6fT6QyZzTvDZ6j-ZhoPpf5fR1jd6Sw1jMNCexgR3t3kGwU4ItpPKPk?width=256&height=192&cropmode=none"
 +++
-The most common reaction to the word "evangelism" is discomfort. This can range from the mild discomfort of shame that you're not doing enough of it to an allergic reaction that anyone would foist their views on another. Generally, it's not a word that elicits excitement, wonder, or joy. Those are my feelings about the topic, and I'd like to help you see why. Come with me through seven paradigm shifts and see if, perhaps, we can reduce your discomfort.
+The most common reaction to the word "evangelism" is discomfort. This can range from the mild discomfort of shame that you're not doing enough of it to an allergic reaction that anyone would foist their views on another. Generally, it's not a word that elicits excitement, wonder, or joy. Come with me through a few paradigm shifts and see if, perhaps, we can reduce your discomfort and grow your joy.
 
-# Evangelism isn't delivering a packaged product called "the gospel"; it's an introduction to Jesus, your closest friend
+# Evangelism isn't delivering a packaged product called "the gospel"; it's an introduction to Jesus, your closest friend and Ruler of the Universe
 
 American's love to reduce complex concepts into byte-sized marketing messages. Many Christians think of a verse or two written by Paul when they hear the word "gospel." A few hear gospel hallelujahs, or a message printed on the back of a gospel tract. Even fewer think of the first four books in the New Testament.
 

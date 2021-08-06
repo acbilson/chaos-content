@@ -3,7 +3,7 @@ draft = true
 category = "family"
 comments = true
 date = "2021-08-10"
-lastmod = "2021-08-06 12:33:58"
+lastmod = "2021-08-06 14:43:49"
 description = "In which Alex investigates what a vaccine is and how it works."
 tags = ["vaccine","covid","safety"]
 title = "What is a Vaccine?"
@@ -78,7 +78,7 @@ The protein envelope on a virus has an affinity for specific cell enzymes. SARS-
 
 Humans have two immune responses when foreign invaders are detected, the innate and adaptive.
 
-Skin, snot and white blood cells (leukosytes) fall into the innate category. These are generalists who prevent or destroy any intruder not recognized as a healthy human cell.
+Skin, snot and white blood cells (leukosytes) fall into the innate category. These are generalists who prevent or absorb any intruder not recognized as a healthy human cell.
 
 B and T cells are in the adaptive category. These are ~specialists~ assassins which activate only when a specific antigen trigger is received.
 
