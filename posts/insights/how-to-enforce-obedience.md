@@ -3,7 +3,7 @@ author = "Alex Bilson"
 category = "parenting"
 comments = true
 date = "2021-07-28"
-lastmod = "2021-07-29 07:36:37"
+lastmod = "2021-08-03 09:00:37"
 description = "In which Alex wrestles with how to make his children do what he wants."
 tags = ["parenting","independence","obedience"]
 title = "How to Enforce Obedience"
@@ -63,3 +63,76 @@ In summary, I do not believe that obedience can be enforced, only consequences. 
 One last comment. There exist scenarios where the use of physical means does equate with love. When my son walks blindly into the street it is parental love to pluck him up and carry him out of harm's way (and give him a stern talk and establish a consequence afterward). Some consequences, like being hit by a car, are my loving responsibility to shield him from until his brain develops enough to make his own choices about safety.
 
 I'm eager to learn how I can assist my children (and myself for that matter) to delight in obedience to Jesus. What have you found helpful?
+
+{{< raw >}}
+<!--
+##Erin Leck 7-29-2021 @ 11:53 PM
+
+Janet Lansbury’s approach to toddler discipline is the most Christ-like I’ve ever read. As a society we are painfully lacking in understanding child development. We have standards that are too high and we unintentionally shame children who are simply exploring in developmentally appropriate ways by enforcing “consequences” which are often just another word for punishment.
+
+A relationship-based approach to parenting is how Jesus – IMO – relates to us. He does not relate to us through “do this or this happens”. I’m not saying life does not have consequences or that we leave our children alone without guidance. But how we do that in a way that is respectful and not abusing our power as parents and not enforcing disconnected consequences is a world all its own to discover.
+
+Physical punishment of any kind IS abuse because it is an abuse of our parental power. Christians who give parenting advice with no regard for the 1000s of studies that prove the harm in spanking – even so called “restrained” spanking (even as little as once/week) – and are not educated in child development, should NOT be giving advice. I can barely pick up a Christian parenting resource without cringing. Even authors who explain their methods and then say it isn’t punishment are sadly deeply lost. Most advice I see from Christians is not loving – it is about controlling a child’s behavior. As you noted, that isn’t God’s approach with us at all. His approach is his relationship with us.
+
+Children learn by modeling. Do we want our children to clean up? Then we clean up and they learn by watching us. If it is very important to you that your children pick up their toys or help, perhaps it becomes a game, maybe you clean up and he helps. Or doesn’t. This is another developmental question – is it appropriate to expect a toddler (0-5yrs) to clean up toys?
+
+I could go on. I am very passionate about this topic. I am heartbroken by the way the church – generally speaking – talks about children and treats them. I believe it is a huge problem.
+
+## - Alex Bilson 7-30-2021 @ 9:00 AM
+
+  Thanks Erin! We’ve regularly been helped by Janet Lansbury’s podcast. Your insight into tongue ties and sleep training (https://www.littleones.co/) have both been life-savers.
+
+  The subject of expectations has also been on my mind. Every once in a while, when I’m exasperated by Graham’s actions or perceived unwillingness to listen, Amie reminds me that he’s only three years old. My standards have gotten even higher now that he has a younger brother. As you might imagine, their conflict resolution and style of relating are… less than ideal.
+
+  However, I’ve also been stunned by the high expectations that the LORD exhibits towards humanity. For example, He fully expects all the Israelites to become a host of royal priests (Exodus 19:6), even though there’s little in their family track record to encourage such hope. I mean, hasn’t He read the Bible (lol)? There’s something honoring about genuinely high expectations, paired with mercy and presence, that I’d like to emulate.
+
+  For example, I’m always playing catch-up with Graham’s skill level. A couple days ago I was sweeping up dinner crumbs and told Graham he could go play with trucks after he picked up his cup and plate. In a burst of inspiration, I asked if he’d like to help me sweep. He enthusiastically agreed and went on to sweep the entire dining room; even afterward picking up a few scattered pieces he’d missed. My expectations of what he could do were too low, and I noticed after I’d asked that he felt it was an honor to be invited to sweep; an honor I had denied him in part because I underestimated his ability and willingness.
+
+## - - Alex Bilson 7-30-2021 @ 9:53 AM
+
+    On the flip side; however, being a parent has given me first-hand experience of the fears, the stresses, and the chaos of parenting. Out of love for my children, a need for control, and sleep deprivation, I am very susceptible to whatever everyone else is doing; family and friends. After all, if it works for them, why not?
+
+    My family’s decisions about physical discipline were made in a homogeneous culture, without the resources to take a break and reflect, and little validated exposure to competing ideas. I’m fairly certain that, were my place swapped with my mother’s, I could not have done better.
+
+    It’s a sign of our new environment that most of the best parenting advice I’ve discovered has come from New Zealand. What?!
+
+## - - - Erin Leck 8-2-2021 @ 8:40 PM
+
+      I love hearing your insights and viewpoints, as usual. Thank you for sharing! I hope my comment about cleaning up didn’t come across too pointed – I was more piggy backing off your example to point out the idea of expectations and child development. Where do our expectations keep us from understanding and relating to our children in a way that respects where they are?
+      This is a question I come back to often. Current example – Xander has become quite explosive at seemingly nothing toward guests when they first enter the house. I don’t want to shame or punish this behavior because I know that it is impulsive. He doesn’t know WHY he’s doing it and certainly can’t control it (to what degree, I’m not sure). He’s almost 3.5 so he’s entering into being able to problem solve with us and his empathy is now developing, but he’s still very much a baby and cannot control his actions. So how do I teach him societal rules without making it about him and his behavior? Today I simply stated the facts: “people don’t like being yelled at. If you want Aunt Kelly to let you sit in that chair, you could ask her.”
+      A lot of it is in the delivery for me.
+
+      Anyway, that’s my current and most constant question of “how do I do this?!” It’s very difficult!!!
+
+## - - - - Erin Leck 8-2-2021 @ 8:47 PM
+
+        Lastly, I have trouble with Christian circles making our relationship with our children somehow a parallel to that of ours with God. It simply cannot be the case because we are relating to God as adult children, not as actual children. So, much of what we see God doing in our lives just doesn’t make sense with kids. That seems obvious enough, but I think we stop short of thinking through it more. This is something I really want to talk to you guys about bc I’m been struggling to accept any Christian viewpoint when it comes to kids. The only thing I need is “children are first in God’s kingdom”. That alone is enough for me to throw out many of the Christian voices I hear and have experienced. At the risk of sounding intense, much of main stream parenting just feels like another system of oppression to me!
+
+        Anyway, I’m 41 weeks pregnant so I’m not sure when we’ll be able to Zoom call – LOL. But I’ll email you guys. We miss you both so much! I love that we can still talk virtually. Hope to speak soon.
+
+## - - - - - Alex Bilson 8-3-2021 @ 8:49 AM
+
+          No need to apologize. Numerous perspectives read my writing and I want to invite them into the conversation. Unlike Facebook, my aim is to have an open floor for dialog. More than a moderator, I’m hoping to be a facilitator.
+
+          I’ve not read many parenting books, but I have felt nauseous paging through ‘Christian’ parenting books at Barnes & Noble. Amie and I have been listening to the Bible Project’s Family of God series, and that’s stirred conversation about parenting and sibling rivalry (something to look forward to 😃 ). First episode here.
+
+## Erin Leck 7-29-2021 @ 11:57 PM
+
+…I would love to discuss further if it interests you and Amie! I have so many thoughts, as well as my own experiences being brought up in a Christian home that used physical punishment as a way to “teach”. I’m so glad to see you thinking deeply about this stuff. Too many people do not dig deep enough…then cycles are repeated.
+
+## - Alex Bilson 7-30-2021 @ 9:03 AM
+
+  Amie and I would love that! Let’s find a time via email.
+
+## Erin Leck 7-30-2021 @ 12:07 AM
+
+Lastly, you may enjoy this resource
+http://www.flourishinghomesandfamilies.com
+If you use Facebook or Instagram, they also have a presence there that is great.
+
+## - Alex Bilson 7-30-2021 @ 9:04 AM
+
+  Thanks!
+
+-->
+{{< /raw >}}

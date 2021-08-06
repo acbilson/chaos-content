@@ -1,7 +1,10 @@
 +++
+backlinks = [
+  "/notes/craft-your-own-site"
+]
 author = "Alex Bilson"
 date = "2021-07-29T16:52:25"
-lastmod = "2021-07-29 12:13:25"
+lastmod = "2021-08-02 14:59:07"
 epistemic = "plant"
 tags = ["shell","fish","terminal"]
 title = "Install a Friendly Terminal Shell"

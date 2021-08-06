@@ -5,6 +5,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-06-10T16:41:22"
+lastmod = "2021-08-02 15:16:27"
 epistemic = "sprout"
 tags = ["sacrifice","bible","worship"]
 title = "Definition of Biblical Sacrifice"
@@ -18,8 +19,6 @@ Sacrifice does relate to cost, but not as its primary meaning. It happens that t
 Thomas Merton has a clarifying definition which restores the purpose of sacrifice to its core of worship.
 
 > A sacrifice is an action which is objectively sacred, primarily of a social character, and what is important is no so much the pain or difficulty attached to it as the meaning, the sacred significance which not only conveys an idea but effects a divine and religious transformation in the worshipper, thus consecrating and uniting him more closely to God ("Life in Christ", pg. 167).
-
-TODO: Add note about 2 Samuel 24:24
 
 ### References
 

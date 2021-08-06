@@ -71,7 +71,7 @@ events="2015|leads the team's migration from LeanKit to Jira. Meets with team me
 
 {{< raw >}}
 <p>
-<b>2015:</b> designs the <acronym title="Minimum Viable Product">MVP</acronym> for a Relativity-based <acronym title="Freedom Of Information Act">FOIA</acronym> application from two conversations and a 400-page government spec. In Deloitte's hands it goes on to win the <a href="https://relativityfest.com/archive/2018/innovation-awards/#tech" >2018 Solution Provider Innovation Award</a>. Way to go <a href="https://www.linkedin.com/in/johnfuex/">John Fuex</a> and <a href="https://www.linkedin.com/in/john-tibbetts-2812a06/">John Tibbetts</a>!
+<b>2015:</b> designs the <abbr title="Minimum Viable Product">MVP</abbr> for a Relativity-based <abbr title="Freedom Of Information Act">FOIA</abbr> application from two conversations and a 400-page government spec. In Deloitte's hands it goes on to win the <a href="https://relativityfest.com/archive/2018/innovation-awards/#tech" >2018 Solution Provider Innovation Award</a>. Way to go <a href="https://www.linkedin.com/in/johnfuex/">John Fuex</a> and <a href="https://www.linkedin.com/in/john-tibbetts-2812a06/">John Tibbetts</a>!
 </p>
 {{< / raw >}}
 
@@ -98,7 +98,7 @@ events="2016|pioneers the technical business analyst (TBA) position. Sets the ba
 </p>
 
 <p>
-<b>2019:</b> conducts a 16-point consultation for Alexandra Hoerr's <a href="https://optimumjoyclinicalcounseling.com/">counseling startup</a>. The capstone of my <acronym title="Masters in Business Administration">MBA</acronym>, <a href="{{< ref "/posts/achievements/mba-thesis" >}}">the result</a> is 100-pages of observations, analysis, and recommendations.
+<b>2019:</b> conducts a 16-point consultation for Alexandra Hoerr's <a href="https://optimumjoyclinicalcounseling.com/">counseling startup</a>. The capstone of my <abbr title="Masters in Business Administration">MBA</abbr>, <a href="{{< ref "/posts/achievements/mba-thesis" >}}">the result</a> is 100-pages of observations, analysis, and recommendations.
 </p>
 
 <p>
@@ -221,7 +221,7 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 
 <li>
 <p class="question">Q: What's your favorite OS?</p>
-<p>A: I spend my days on the command line, so Linux has become my happiest home. I appreciate the simplicity of the folder structure and the many command line tools available. When I'm on Windows, I install Gow at the minimum, and <acronym title="Windows Subsystem for Linux">WSL</acronym> 2 with Debian if I can. The Mac terminal experience is decent, so I guess it's alright.</p>
+<p>A: I spend my days on the command line, so Linux has become my happiest home. I appreciate the simplicity of the folder structure and the many command line tools available. When I'm on Windows, I install Gow at the minimum, and <abbr title="Windows Subsystem for Linux">WSL</abbr> 2 with Debian if I can. The Mac terminal experience is decent, so I guess it's alright.</p>
 </li>
 
 <li>

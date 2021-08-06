@@ -3,6 +3,7 @@ aliases = ["/posts/dbs-stories/"]
 category = "spiritual"
 comments = true
 date = "2020-08-05"
+lastmod = "2021-08-04 16:07:42"
 description = "In which Alex shares a litany of DBS stories."
 tags = ["dbs","small-group","community"]
 title = "Discovery Bible Study Stories"
@@ -12,10 +13,6 @@ title = "Discovery Bible Study Stories"
   small = "https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=256&height=192&cropmode=none"
 +++
 Powerful innovation happens when an innovator takes a concept developed from one discipline and transfers its principles to another domain. Elon Musk is reported to do this himself. By studying a broad range of subjects he utilizes the greatest innovations in one discipline to solve challenges in another. The biochemist may not realize how her chemical innovation might revolutionize space travel because she doesn't know the challenges of that domain. An astronaut might.
-
-This is how I feel about Discovery Bible Study (DBS). This short video gives you a taste of the context in which DBS was born; a missions paradigm called Disciple Making Movements (DMM).
-
- <iframe width="100%" height="315px" src="https://www.youtube.com/embed/2jrok2GE8I8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 DBS is an innovation from the missionary discipline, which means the average church leader is unfamiliar with it. Because it's been relegated to the evangelist or missionary silo, the church leader is unlikely to consider how the principles might solve the challenges in the traditional church. I believe the principles of DBS address many of the obstacles that plague traditional churches, but it may take a paradigm shift to apply them.
 
