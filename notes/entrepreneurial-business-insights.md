@@ -33,3 +33,5 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/business-discovery-is-uncomfortable" >}}
 - {{< backref src="/notes/startups-produce-models-over-solutions" >}}
 - {{< backref src="/notes/model-validation-can-be-part-time" >}}
+- {{< backref src="/notes/innovate-by-model-combination" >}}
+- {{< backref src="/notes/models-make-complex-ideas-sharable" >}}
