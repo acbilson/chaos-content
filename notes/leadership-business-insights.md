@@ -19,3 +19,4 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/we-need-global-leaders" >}}
 - {{< backref src="/notes/favor-respect-over-positional-authority" >}}
 - {{< backref src="/notes/leadership-determines-corporate-size" >}}
+- {{< backref src="/notes/unteachable-leaders-are-doomed" >}}
