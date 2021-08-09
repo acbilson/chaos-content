@@ -17,3 +17,5 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/leadership-begins-and-ends-at-home" >}}
 - {{< backref src="/notes/leaders-develop-over-decades" >}}
 - {{< backref src="/notes/we-need-global-leaders" >}}
+- {{< backref src="/notes/favor-respect-over-positional-authority" >}}
+- {{< backref src="/notes/leadership-determines-corporate-size" >}}
