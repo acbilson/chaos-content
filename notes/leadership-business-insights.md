@@ -16,3 +16,4 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/leadership-growth-requires-vulnerability" >}}
 - {{< backref src="/notes/leadership-begins-and-ends-at-home" >}}
 - {{< backref src="/notes/leaders-develop-over-decades" >}}
+- {{< backref src="/notes/we-need-global-leaders" >}}
