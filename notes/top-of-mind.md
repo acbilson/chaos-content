@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-08-06 12:37:15"
+lastmod = "2021-08-09 15:57:26"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -17,10 +17,8 @@ title = "Top of Mind"
 
 - Determine my promotion-to-post guidelines. Some of my notes equal my posts in quality, length, and completeness. How to decide when a note about programming becomes an insight post?
 
-- Revise evangelism paradigm notes, there's a lot of cruft.
+- ~Revise evangelism paradigm notes, there's a lot of cruft.~ Write a new post that sums up my notes.
 
 - Figure out what kind of process would be helpful to review notes for further thinking. If these are primarily to help me innovate through aggregating and networking thought, it would be helpful to periodically _look_ at the whole corpus.
 
 # Writing Ideas
-
-- Add a list of commonly used software tools. This could include entries for Vim and exa as well as tools I'm still learning to integrate into my workflows like fzf and fish.
