@@ -1,4 +1,5 @@
 +++
+draft = true
 backlinks = [
   "/notes/entrepreneurial-business-insights",
   "/notes/the-church-must-learn-new-forms"
