@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-08-09 15:57:26"
+lastmod = "2021-08-16 14:41:24"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -17,8 +17,6 @@ title = "Top of Mind"
 
 - Determine my promotion-to-post guidelines. Some of my notes equal my posts in quality, length, and completeness. How to decide when a note about programming becomes an insight post?
 
-- ~Revise evangelism paradigm notes, there's a lot of cruft.~ Write a new post that sums up my notes.
-
 - Figure out what kind of process would be helpful to review notes for further thinking. If these are primarily to help me innovate through aggregating and networking thought, it would be helpful to periodically _look_ at the whole corpus.
 
-# Writing Ideas
+- Use Tailscale to tunnel services I want to use privately, anywhere. Inspired by {{< outref src="https://jlelse.blog/thoughts/2021/08/tailscale" name="Jan-Lukas">}}.
