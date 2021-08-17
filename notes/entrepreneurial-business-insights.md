@@ -30,3 +30,10 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/lean-startups-fit-uncertain-markets" >}}
 - {{< backref src="/notes/vanity-metrics-obscure-true-performance" >}}
 - {{< backref src="/notes/every-venture-needs-a-strong-leader" >}}
+- {{< backref src="/notes/business-discovery-is-uncomfortable" >}}
+- {{< backref src="/notes/startups-produce-models-over-solutions" >}}
+- {{< backref src="/notes/model-validation-can-be-part-time" >}}
+- {{< backref src="/notes/innovate-by-model-combination" >}}
+- {{< backref src="/notes/models-make-complex-ideas-sharable" >}}
+- {{< backref src="/notes/remote-work-supports-global-entrepreneurship" >}}
+- {{< backref src="/notes/remote-workers-blame-themselves-first" >}}

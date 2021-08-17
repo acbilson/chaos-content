@@ -14,4 +14,6 @@ These are culture-based business insights from my MBA program.
 - {{< backref src="/notes/dominant-culture-affects-corporate-design" >}}
 - {{< backref src="/notes/pseudo-cultural-experience-does-not-build-cultural-intelligence" >}}
 - {{< backref src="/notes/convergence-is-a-startup-opportunity" >}}
-
+- {{< backref src="/notes/corruption-threatens-international-investment" >}}
+- {{< backref src="/notes/we-need-global-leaders" >}}
+- {{< backref src="/notes/empathy-exposes-cultural-bias" >}}
