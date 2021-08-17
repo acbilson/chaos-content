@@ -1,5 +1,4 @@
 +++
-draft = true
 backlinks = [
   "/notes/biblical-business-insights"
 ]
