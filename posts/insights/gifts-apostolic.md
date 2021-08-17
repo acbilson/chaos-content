@@ -1,10 +1,14 @@
 +++
+backlinks = [
+  "/posts/insights/embracing-my-polymath-identity"
+]
 aliases = ["/posts/gifts-apostolic/"]
 category = "spiritual"
 comments = true
 date = "2020-09-27"
+lastmod = "2021-08-17 16:15:37"
 description = "In which Alex shares his uncomfortable spiritual gift."
-tags = ["spiritual-gifts"]
+tags = ["spiritual-gifts","identity"]
 title = "My Gifting"
 [featuredImage]
   alt = "Royal Opens A Package"
@@ -33,3 +37,5 @@ In the last couple years I've been coming to terms with the way I'm geared. I ha
 When I consider the role of an apostle, however, I realize that it's crucial to be a broad amateur. To plant communities of Jesus followers it's important that all gifts operate in healthy ways to build up the community. It's not my role to take the teacher's position in an established church, but I should equip a new teaching-gifted disciple with the basics of their discipline so that they can go on to be an effective teacher in their community. I shouldn't be the evangelist, but I should be able to model what it looks like to share Jesus with others and help an evangelist remain tethered to the church. I ought not be the pastor, but I should encourage the pastorally-gifted to fulfill their charge to serve and protect the flock with honor. I'm the board member, not a member of the C suite.
 
 The truth is, I'm the least of all the church. I can teach, but I'm a novice compared to a teacher. I can share, but it's hard to notice next to an evangelist. I care deeply for the community, but my love looks cold compared to a pastor. I fit nowhere, but spend my time everywhere. With this in mind, my claim to be apostolically gifted feels less like a mantle of authority and more like only another expression of God's amazing gifts poured out upon humanity.
+
+There could be an overlap with {{< backref src="/posts/insights/embracing-my-polymath-identity" >}}.
