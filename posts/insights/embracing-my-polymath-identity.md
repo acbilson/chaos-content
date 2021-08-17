@@ -1,13 +1,20 @@
 +++
+draft = true
 backlinks = [
-  "/notes/why-write"
+  "/notes/why-write",
+  "/posts/insights/gifts-apostolic"
 ]
 author = "Alex Bilson"
 comments = true
-date = "2021-07-12T19:51:07"
-epistemic = "plant"
+date = "2021-08-17"
+lastmod = "2021-08-17 16:17:53"
+description = "In which Alex explores his identity as a polymath."
 tags = ["polymath","renaissance","identity"]
 title = "Embracing My Polymath Identity"
+[featuredImage]
+  alt = ""
+  large = ""
+  small = ""
 +++
 It's a wearisome struggle to be myself. To be who I am requires that I must constantly fit my octagonal personality into the square holes the world affords. In the past year I've begun to reconcile that my path will not lead to expertise. I will never be an expert by any measurement, for I am incapable of remaining entirely in one field for 10,000 hours. Perhaps all my interests will converge in expertise across many domains around my eightieth birthday, but not before.
 
@@ -23,4 +30,4 @@ Salman's experience echoes my own:
 
 I write software, but not as skillfully as those younger than I who have no other consuming passion. And those burgeoning experts don't know what it's like to live on an Army base in Afghanistan, learn ancient Greek, or complete a 100-page MBA thesis. They don't spend sleepless nights building systems for wide-spread Christian revival or read about sociology, theology, and general relativity. So when I'm among my work colleagues, most of myself is hidden in shadow. But also in my Church community and family too.
 
-It is a growing realization that to be myself is to be known by God alone.
+It is a growing realization that to be myself is to be known by God alone. Just like {{< backref src="/posts/insights/gifts-apostolic" name="Being Apostlically Gifted" >}}.
