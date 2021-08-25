@@ -1,6 +1,7 @@
 +++
 backlinks = [
-  "/notes/biblical-business-insights"
+  "/notes/biblical-business-insights",
+  "/notes/apostolic-ministry"
 ]
 author = "Alex Bilson"
 date = "2018-07-01"
