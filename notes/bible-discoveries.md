@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16"
-lastmod = "2021-07-21 07:06:22"
+lastmod = "2021-08-25 15:24:22"
 epistemic = "sprout"
 tags = ["bible","discovery"]
 title = "Bible Discoveries"
@@ -40,3 +40,11 @@ Most money goes to fund other things than the people who serve in what we'd call
 ### There are numerous views on the Bible and its composition
 
 Who knew there were so many, but the way you view the Bible has a dramatic affect on what you expect from it. See {{< backref src="/notes/ways-to-define-the-bible" >}}
+
+### All biblical roles and gifts are expressions of the Imago Dei
+
+- {{< backref src="/notes/all-biblical-roles-and-gifts-express-imago-dei" >}}
+
+### Jesus fulfills the Imago Dei in surprising ways
+
+- {{< backref src="/notes/jesus-fulfills-the-roles-and-gifts" >}}
