@@ -1,6 +1,7 @@
 +++
 backlinks = [
-  "/notes/biblical-business-insights"
+  "/notes/biblical-business-insights",
+  "/notes/apostolic-ministry"
 ]
 author = "Alex Bilson"
 date = "2018-07-01"
@@ -18,8 +19,8 @@ There is a strong correlation between the characteristics of apostles in the New
 
 Let us assume for a moment that God gives a calling and gift-set to every person alive.  Exercising the gifts and pursuing the calling in obedience to God is what Christians mean when we speak about being faithful to what God's given us.
 
-- David was faithful as a warrior and later king to defend the people of Israel at God's direction.  
-- Saul was unfaithful as a king who used his gifts for personal ends and did not listen to God's direction.  
+- David was faithful as a warrior and later king to defend the people of Israel at God's direction.
+- Saul was unfaithful as a king who used his gifts for personal ends and did not listen to God's direction.
 
 Whether an individual is submitted to God or not, they are equipped with gifts and a calling.  The entrepreneur who succeeds in launching startups may be the same who, were they submitted to God, the Church would consider apostolic.  This doesn't mean to obey God they ought to have abandoned business and planted churches, but it does mean their work had the potential to expand the frontier of God's kingdom and bring Him glory.
 

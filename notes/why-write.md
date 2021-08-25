@@ -1,6 +1,6 @@
 +++
 date = "2021-07-16"
-lastmod = "2021-07-21 07:18:07"
+lastmod = "2021-08-25 16:06:25"
 epistemic = "sprout"
 tags = ["writing"]
 title = "Why Write"
@@ -17,7 +17,7 @@ Habits have been a challenge for me all my life. A new habit develops, sticks, t
 
 ### I'm a Polymath; deal with it
 
-- {{< backref src="/notes/embracing-my-polymath-identity" >}}
+- {{< backref src="/posts/insights/embracing-my-polymath-identity" >}}
 
 ### Don't repeat yourself, write it down and share it
 
