@@ -1,8 +1,11 @@
 +++
+backlinks = [
+  "/notes/church-for-a-new-generation"
+]
 author = "Alex Bilson"
 comments = true
 date = "2021-08-25"
-lastmod = "2021-08-25 15:38:10"
+lastmod = "2021-08-25 15:58:37"
 epistemic = "sprout"
 tags = ["apostolic"]
 title = "Apostolic Ministry"

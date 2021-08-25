@@ -1,7 +1,10 @@
 +++
+backlinks = [
+  "/notes/church-for-a-new-generation"
+]
 author = "Alex Bilson"
 date = "2021-07-27"
-lastmod = "2022-11-23 08:40:27"
+lastmod = "2022-11-23 08:41:10"
 epistemic = "sprout"
 tags = ["entrepreneurship","model","risk"]
 title = "The Church Must Learn New Forms"
