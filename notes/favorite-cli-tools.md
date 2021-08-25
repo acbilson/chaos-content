@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-06"
-lastmod = "2021-08-06 08:29:02"
+lastmod = "2021-08-25 15:44:29"
 epistemic = "plant"
 tags = ["cli"]
 title = "Favorite CLI Tools"
@@ -23,3 +23,7 @@ I don't find the default output helpful, so I always alias `ls` with the `-l` fl
 # Ripgrep
 
 Nearly every day I ask the question, "does a certain text exist in this or these files?" The magic of `grep` allows me to find out without having to open and scan every file. It can use full regular expressions to find complex text in relation to other text, can look recursively through directories, and ignore certain types of files. If you've used it for a little while and for more than a simple word search, it gets clunky. `ripgrep` brings sensible defaults, highlighted output, and automatic ignore for the .git folder.
+
+# Git
+
+Version control is one of those ideas which, once you begin using it, you want for _everything_. I've typed the common git commands so often that, if you watched my hands closely while I slept–which would be weird, please don't–my fingers would be moving to the pattern of `git status`. This is how I keep a history of anything with text: this post, the theme that displays it, the server code that publishes it. Everything.
