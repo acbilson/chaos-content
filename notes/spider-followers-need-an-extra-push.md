@@ -1,7 +1,10 @@
 +++
+backlinks = [
+  "/notes/church-for-a-new-generation"
+]
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-08-25 10:45:29"
+lastmod = "2021-08-25 16:02:36"
 epistemic = "sprout"
 tags = ["organization","leadership"]
 title = "Spider Followers Need An Extra Push"

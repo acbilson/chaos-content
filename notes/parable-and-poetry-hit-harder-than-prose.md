@@ -1,4 +1,7 @@
 +++
+backlinks = [
+  "/notes/church-for-a-new-generation"
+]
 author = "Alex Bilson"
 comments = false
 date = "2021-08-23T19:39:48"
@@ -60,4 +63,4 @@ To children ardent for some desperate glory,
 The old Lie: _Dulce et decorum est
 Pro patria mori._
 {{< /poetry >}}
-    
+
