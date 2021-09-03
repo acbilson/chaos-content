@@ -148,7 +148,7 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 title="Programming Languages"
 headers="Language|Acumen"
 rows="C#|9^Python|8^JavaScript|8^T-SQL|7^Rust|4"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^PyLexLib|https://github.com/acbilson/py-lex-lib^statement-converter|https://github.com/acbilson/statement_converter^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
+examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub|https://github.com/acbilson/chaos-micropub|https://github.com/acbilson/statement_converter^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
 >}}
 
 {{< table
@@ -162,14 +162,14 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 title="Backend Frameworks"
 headers="Language|Acumen"
 rows="ASP.NET MVC|9^Relativity Agent/Manager|9^Flask|8"
-examples="Budget App|https://github.com/acbilson/plaintext-budget"
+examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub|https://github.com/acbilson/chaos-micropub"
 >}}
 
 {{< table
 title="DevOps Tools"
 headers="Language|Acumen"
 rows="Docker+Compose|9^Hugo|9^NPM+Webpack|8^Ansible|7"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
+examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-hugo-theme|https://github.com/acbilson/chaos-theme^chaos-micropub|https://github.com/acbilson/chaos-micropub^chaos-feedreader|https://github.com/acbilson/chaos-feedreader"
 >}}
 
 {{< table
