@@ -22,5 +22,7 @@ convert -delay 100 -page 50x20 open.gif -page 50x20 close.gif -loop 0 animation.
 
 Open up `animation.gif` in your web browser and, viola, that's it!
 
-{{< image "/notes/data/animation_example.gif" "Animation Example" >}}
+{{< raw >}}
+<img style="width: 50px" src="/notes/data/animation_example.gif"/>
+{{< /raw >}}
 
