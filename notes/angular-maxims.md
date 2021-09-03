@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-09T21:06:30"
+lastmod = "2021-09-03 14:07:16"
 epistemic = "sprout"
 tags = ["software","axiom","angular","design"]
 title = "Angular Maxims"

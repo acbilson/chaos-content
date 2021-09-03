@@ -1,6 +1,10 @@
 +++
+backlinks = [
+  "/notes/craft-your-own-site"
+]
 author = "Alex Bilson"
 date = "2021-09-03"
+lastmod = "2021-09-03 14:09:28"
 epistemic = "sprout"
 tags = ["gif","command-line","imagemagick"]
 title = "Create Animations With Imagemagick"
