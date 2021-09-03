@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16"
-lastmod = "2021-08-25 15:24:22"
+lastmod = "2021-09-03 09:30:36"
 epistemic = "sprout"
 tags = ["bible","discovery"]
 title = "Bible Discoveries"
@@ -36,6 +36,8 @@ Less of a discovery and more of an open question, is it true that the {{< backre
 ### Tithes should go first to the Levite
 
 Most money goes to fund other things than the people who serve in what we'd call "fulltime ministry." This might be a mistake since the {{< backref src="/notes/tithe-goes-to-the-levites" >}}
+
+It may be worth exploring Paul's collection for the Jerusalem saints. If my understanding of priesthood is correct, the New Testament standard returns us to the "kingdom of priests" that the LORD describes to Moses, the image of God realized. Among other things, it would mean that every believer qualifies as a Levite, which would further generalize tithes from their current model, a kind of church-building-replaces-temple situation, to a shared pool for everyone. Hmmm, isn't that what Acts 2 describes?
 
 ### There are numerous views on the Bible and its composition
 
