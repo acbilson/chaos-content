@@ -2,11 +2,10 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-09-03 09:21:21"
+lastmod = "2021-09-03 09:36:16"
 tags = ["todo"]
 title = "Top of Mind"
 +++
-
 # Concepts to Explore
 
 - Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
@@ -24,7 +23,3 @@ title = "Top of Mind"
 - Figure out what kind of process would be helpful to review notes for further thinking. If these are primarily to help me innovate through aggregating and networking thought, it would be helpful to periodically _look_ at the whole corpus.
 
 > I had my first noticable success with this by reviewing notes and creating a couple MOCs from common themes. I discovered some business writing which had direct relevance to church forms.
-
-- Use Tailscale to tunnel services I want to use privately, anywhere. Inspired by {{< outref src="https://jlelse.blog/thoughts/2021/08/tailscale" name="Jan-Lukas">}}.
-
-> Instead of Tailscale, I think it'd be great to again attempt to configure Wireguard directly. I tried once but had trouble configuring my phone. Now I have a different phone, so maybe it'll be easier?
