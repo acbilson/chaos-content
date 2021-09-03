@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-06-18T19:39:00"
-lastmod = "2021-08-02 14:59:16"
+lastmod = "2021-09-03 14:08:56"
 epistemic = "plant"
 tags = ["software","selfhost","design","javascript","html","css"]
 title = "Craft Your Own Site"
@@ -29,6 +29,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 # Tooling Thoughts
 - {{< backref src="/notes/ssg-is-a-developer-tool" >}}
 - Compress Images For Speed and Space - {{< outref src="http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" name="imagemagick" >}}
+- {{< backref src="/notes/create-animations-with-imagemagick" >}}
 
 # Practice Thoughts
 - Reduce Development Friction - {{< outref src="https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" name="Technical Ergonomics" >}}
