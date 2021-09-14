@@ -4,7 +4,7 @@ tags = ["jesus","sabbath","healing","judgment","work","faith"]
 title = "Jesus Heals with the Father on the Sabbath"
 ref = "John 5:1-47"
 +++
-After this{{< superset 1 "#notes" >}} there was a feast of the Jews, and Jesus went up to Jerusalem.
+After this{{< superset 1 "notes" >}} there was a feast of the Jews, and Jesus went up to Jerusalem.
 
 Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades. In these lay a multitude of invalids–blind, lame, and paralyzed. One man was there who had been an invalid for thirty-eight years. When Jesus saw him lying there and knew that he had already been there a long time, he said to him, "Do you want to be healed?" The sick man answered him, "Sir, I have no one to put me into the pool when the water is stirred up, and while I am going another steps down before me." Jesus said to him, "Get up, take up your bed, and walk." And at once the man was healed, and he took up his bed and walked.
 
