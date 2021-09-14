@@ -6,7 +6,7 @@ tags = ["abram","sarai"]
 title = "Abram Sojourns in Egypt"
 ref = "Genesis 12:10-13:1"
 +++
-Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land. When he was about to enter Egypt, he said to Sarai his wife, "I know that you are a woman beautiful in appearance{{< superset 1 "#notes" >}}, and when the Egyptians see you, they will say, 'This is his wife.' Then they will kill me, but they will let you live. Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake."
+Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land. When he was about to enter Egypt, he said to Sarai his wife, "I know that you are a woman beautiful in appearance{{< superset 1 "notes" >}}, and when the Egyptians see you, they will say, 'This is his wife.' Then they will kill me, but they will let you live. Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake."
 
 When Abram entered Egypt, the Egyptians saw that the woman was very beautiful. And when the princes of Egypt saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh's house. And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.
 

@@ -26,3 +26,5 @@ title = ""
   </div>
 </div>
 {{< / raw >}}
+
+{{< video "https://www.youtube.com/embed/uGRoAorWsBU" >}}

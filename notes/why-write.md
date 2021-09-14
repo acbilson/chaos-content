@@ -1,6 +1,6 @@
 +++
 date = "2021-07-16"
-lastmod = "2021-08-25 16:06:25"
+lastmod = "2021-09-03 09:23:35"
 epistemic = "sprout"
 tags = ["writing"]
 title = "Why Write"
@@ -22,3 +22,7 @@ Habits have been a challenge for me all my life. A new habit develops, sticks, t
 ### Don't repeat yourself, write it down and share it
 
 It's part of programmer philosophy to write a function once and share it across the project instead of duplicating it. This same philosophy applies to ideas.
+
+### Writing and reading one's writing connects ideas together, sometimes forming new ideas and connections
+
+There's something innovative when ideas from multiple domains are placed together. I'm fairly certain this is Elon Musk's primary strategy for creating new solutions - find a solution in one domain and apply it to another.

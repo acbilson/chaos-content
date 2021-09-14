@@ -30,37 +30,39 @@ Speakers have attempted to describe the conditions of factory-workers who produc
 
 Historians remind us that war is bleak and brutal; to be remembered so we don't repeat the horror. In one day, the 1st of July 1916, in the battle of the Somme, 40,000 British troops alone perished ({{< outref name="Voices of the First World War" src="https://www.iwm.org.uk/history/voices-of-the-first-world-war-the-first-day-of-the-somme" >}}). But that bare fact won't make you queasy in horror like {{< outref src="https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est" name="Dulce et Decorum Est">}}:
 
-{{< poetry src="Wilfred Owen" >}}
-Bent double, like old beggars under sacks,
-Knock-kneed, coughing like hags, we cursed through sludge,
-Till on the haunting flares we turned our backs,
-And towards our distant rest began to trudge.
-Men marched asleep. Many had lost their boots,
-But limped on, blood-shod. All went lame; all blind;
-Drunk with fatigue; deaf even to the hoots
-Of gas-shells dropping softly behind.
-
-Gas! GAS! Quick, boys!—An ecstasy of fumbling
-Fitting the clumsy helmets just in time,
-But someone still was yelling out and stumbling
-And flound’ring like a man in fire or lime.—
-Dim through the misty panes and thick green light,
-As under a green sea, I saw him drowning.
-
-In all my dreams before my helpless sight,
-He plunges at me, guttering, choking, drowning.
-
-If in some smothering dreams, you too could pace
-Behind the wagon that we flung him in,
-And watch the white eyes writhing in his face,
-His hanging face, like a devil’s sick of sin;
-If you could hear, at every jolt, the blood
-Come gargling from the froth-corrupted lungs,
-Obscene as cancer, bitter as the cud
-Of vile, incurable sores on innocent tongues,—
-My friend, you would not tell with such high zest
-To children ardent for some desperate glory,
-The old Lie: _Dulce et decorum est
-Pro patria mori._
-{{< /poetry >}}
+{{< raw >}}
+<div class="poetry">
+<p>Bent double, like old beggars under sacks,</p>
+<p>Knock-kneed, coughing like hags, we cursed through sludge,</p>
+<p>Till on the haunting flares we turned our backs,</p>
+<p>And towards our distant rest began to trudge.</p>
+<p>Men marched asleep. Many had lost their boots,</p>
+<p>But limped on, blood-shod. All went lame; all blind;</p>
+<p>Drunk with fatigue; deaf even to the hoots</p>
+<p>Of gas-shells dropping softly behind.</p>
+<br />
+<p>Gas! GAS! Quick, boys!—An ecstasy of fumbling</p>
+<p>Fitting the clumsy helmets just in time,</p>
+<p>But someone still was yelling out and stumbling</p>
+<p>And flound’ring like a man in fire or lime.—</p>
+<p>Dim through the misty panes and thick green light,</p>
+<p>As under a green sea, I saw him drowning.</p>
+<br />
+<p>In all my dreams before my helpless sight,</p>
+<p>He plunges at me, guttering, choking, drowning.</p>
+<br />
+<p>If in some smothering dreams, you too could pace</p>
+<p>Behind the wagon that we flung him in,</p>
+<p>And watch the white eyes writhing in his face,</p>
+<p>His hanging face, like a devil’s sick of sin;</p>
+<p>If you could hear, at every jolt, the blood</p>
+<p>Come gargling from the froth-corrupted lungs,</p>
+<p>Obscene as cancer, bitter as the cud</p>
+<p>Of vile, incurable sores on innocent tongues,—</p>
+<p>My friend, you would not tell with such high zest</p>
+<p>To children ardent for some desperate glory,</p>
+<p>The old Lie: <b>Dulce et decorum est</b></p>
+<p><b>Pro patria mori.</b></p>
+</div>
+{{< /raw >}}
 
