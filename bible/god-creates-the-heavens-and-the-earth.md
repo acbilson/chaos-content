@@ -8,7 +8,7 @@ ref = "Genesis 1:1-2:4"
 +++
 In the beginning, God created the heavens and the earth.
 
-The earth was without form and void{{< superset 1 "#notes" >}}, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
+The earth was without form and void{{< superset 1 "notes" >}}, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
 
 And God said, "Let there be light," and there was light. And God saw that the light was good. And God separated the light from the darkness. God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
 
@@ -24,7 +24,7 @@ And God said, "Let the waters swarm with swarms of living creatures, and let bir
 
 And God said, "Let the earth bring forth living creatures according to their kinds–livestock and creeping things and beasts of the earth according to their kinds. And it was so. And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good.
 
-Then God said, "Let us make man{{< superset "2" "#notes" >}} in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth."
+Then God said, "Let us make man{{< superset "2" "notes" >}} in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth."
 
 {{< poetry >}}
   So God created man in his own image,
