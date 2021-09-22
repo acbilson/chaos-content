@@ -14,5 +14,5 @@ But the LORD afflicted Pharaoh and his house with great plagues because of Sarai
 
 And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had. So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negeb.
 
-{{< raw >}} <h3 id="notes">Language Notes</h3> {{< / raw >}}
-1. Literally "beautiful of seeing."
+{{< raw >}} <h3 id="notes">Textual Notes and References</h3> {{< / raw >}}
+1. Literally "beautiful of seeing." A hyperlink to the tree of knowing good and bad, Genesis 3:6, "it was a delight to the eyes."
