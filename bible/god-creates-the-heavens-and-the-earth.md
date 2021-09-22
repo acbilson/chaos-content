@@ -42,6 +42,6 @@ Thus the heavens and the earth were finished, and all the host of them. And on t
   in the day that the LORD God made the earth and the heavens.
 {{< /poetry >}}
 
-{{< raw >}} <h3 id="notes">Language Notes</h3> {{< / raw >}}
+{{< raw >}} <h3 id="notes">Textual Notes and References</h3> {{< / raw >}}
 1. Or "wild and waste."
 2. Not gender specific. "Let us make _humanity_ in our image..."
