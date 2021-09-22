@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-09-03 09:36:16"
+lastmod = "2021-09-22 13:55:41"
 tags = ["todo"]
 title = "Top of Mind"
 +++
