@@ -64,5 +64,5 @@ The man called his wife's name Eve, because she was the mother of all living. An
 Then the LORD God said, "Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever–" therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken. He drove out the man, and at the east of the garden of Eden He placesd the cherubim and a flaming sword that turned every way to guard the way to the tree of life.
 
 
-{{< raw >}} <h3 id="notes">Language Notes</h3> {{< / raw >}}
+{{< raw >}} <h3 id="notes">Textual Notes and References</h3> {{< / raw >}}
 1. Literally good and not good, or good and bad. Does not have the intrinsic connotation that the English word 'evil' contains.

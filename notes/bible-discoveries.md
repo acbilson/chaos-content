@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16"
-lastmod = "2021-09-03 09:30:36"
+lastmod = "2021-09-22 10:50:50"
 epistemic = "sprout"
 tags = ["bible","discovery"]
 title = "Bible Discoveries"
@@ -13,7 +13,7 @@ In hopes that themes will emerge and understanding deepen, here is all the conte
 
 {{< backref src="catholic-devotion-to-the-blessed-virgin" >}} has this reality in mind when it elevates Mary's godliness.
 
-### Biblical sacrifice isn't primarily about cost
+### Biblical sacrifice isn't only about cost
 
 A better {{< backref src="/notes/definition-of-biblical-sacrifice" >}} is so helpful when thinking about the relationship between the Old Testament sacrifices and references to sacrifice in the New Testament.
 
@@ -50,3 +50,23 @@ Who knew there were so many, but the way you view the Bible has a dramatic affec
 ### Jesus fulfills the Imago Dei in surprising ways
 
 - {{< backref src="/notes/jesus-fulfills-the-roles-and-gifts" >}}
+
+### Jesus' Word Brings Life
+
+- {{< backref src="/notes/to-listen-and-obey-jesus-word-brings-life" >}}
+
+In the story where {{< backref src="/bible/jesus-heals-a-crippled-man-near-the-sheep-gate" >}}, Jesus uses His relationship with the Father as the basis for numerous arguments.
+
+- Jesus performs miracles because the Father loves him and shows him what he's doing (implied, that the Father performs miracles with/through Jesus)
+- The Father leaves all judgment to Jesus because the Father wants him to receive equal honor.
+- The crippled man was healed because the Father has given Jesus life in himself in the same way that the Father has life in himself.
+
+Jesus sees a crippled man. He takes note that this man has been waiting many years for healing (implication: his faith has grown very weak from deferred hope). He decides to offer life to the crippled man, the same life that the Father has made to dwell in himself. The Father alone supplies life, but he grants Jesus the full rights to decide so that Jesus will receive equal honor when the crippled man is made well. The Father's mission and Jesus' are the same, so Jesus can say that the Father shows him this work to do and at the same time Jesus decides to do it.
+
+There's a complex thread of ideas around light, judgment, and life from the beginning of John's Gospel to the end.
+
+The first use of the word 'judgment' is in John 3:19, when the author says that people's rejection of the light that has entered the world is their judgment.
+
+Then in John 5:22-24 Jesus says that the Father judges no one, but has given all judgment to the Son so that people honor him equally. The Father also shares His own life-giving essence with the Son. When people hear his word and believes the Father who sent him, the receive life and are free from judgment.
+
+Later, in John 8:16, Jesus says that he does not judge alone, but he judges together with the Father who sent him. He starts the paragraph claiming to be the light that has entered the world, and addresses the witness just as in John 5.
