@@ -1,7 +1,10 @@
 +++
+backlinks = [
+  "/notes/church-for-a-new-generation"
+]
 author = "Alex Bilson"
-comments = true
 date = "2021-09-28T15:14:00"
+lastmod = "2021-09-28 11:39:46"
 epistemic = "seedling"
 tags = ["parable","short-story"]
 title = "Short Stories Are Modern Parables"
