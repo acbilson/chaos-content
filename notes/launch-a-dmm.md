@@ -12,6 +12,6 @@ How does one launch a {{<acronym DMM "Disciple-Making Movement">}}? Or a {{<acro
 
 First, apparently it starts with seven years of failed attempts. Not gonna get into this, but we've been seeking this for the entirety of our time in Chicago, seven years, and perhaps am only beginning to see the idea spread.
 
-Second, form a cadre of like-minded followers.
+Second, form a cadre of like-minded followers. We're looking for a few individuals who, like the twelve disciples, are willing to live this out in community. It'd be preferable if we all lived nearby, but with modern technology and lifestyles that may not happen. If it can't, however, the bar is higher for full participation.
 
 Third, engage in extraordinary prayer and fasting.
