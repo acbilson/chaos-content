@@ -2,10 +2,18 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-09-22 13:55:41"
+lastmod = "2021-09-28 11:45:41"
 tags = ["todo"]
 title = "Top of Mind"
 +++
+# Favorite MOCs
+
+- {{< backref src="/notes/church-for-a-new-generation" >}}
+- {{< backref src="/notes/design-patterns" >}}
+- {{< backref src="/notes/bible-discoveries" >}}
+- {{< backref src="/notes/craft-your-own-site" >}}
+- {{< backref src="/notes/angular-maxims" >}}
+
 # Concepts to Explore
 
 - Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)

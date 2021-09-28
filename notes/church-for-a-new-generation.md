@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-08-25"
-lastmod = "2021-08-25 16:02:03"
+lastmod = "2021-09-28 11:41:55"
 epistemic = "sprout"
 tags = ["church","apostolic"]
 title = "A Church For a New Generation"
@@ -15,4 +15,6 @@ This is a {{< acronym MOC "Map Of Content" >}} for the subject of renewal and re
 - {{< backref src="/notes/the-church-must-learn-new-forms" >}}
 - {{< backref src="/notes/god-has-mercy-for-many-methods" >}}
 - {{< backref src="/notes/spider-followers-need-an-extra-push" >}}
-- There are ways we could communicate information that would excel the business and education domains. More thinking to do, but parable was Jesus' primary mode of communication. See {{< backref src="/notes/parable-and-poetry-hit-harder-than-prose" >}}
+- I can't think of anything bettern than to {{< backref src="/notes/launch-a-dmm" >}}.
+
+There are ways we could communicate information that would excel the business and education domains. More thinking to do, but parable was Jesus' primary mode of communication. See {{< backref src="/notes/parable-and-poetry-hit-harder-than-prose" >}} and {{< backref src="/notes/short-stories-are-modern-parables">}}.
