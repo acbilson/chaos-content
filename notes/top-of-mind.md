@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-09-28 16:04:37"
+lastmod = "2021-09-28 16:05:58"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -44,6 +44,8 @@ title = "Top of Mind"
     - 256GB PCIe SSD
     - 2TB 7200 HDD
     Ethernet: BN8E88 1000M PCIe ASF
+
+- How to be a wise condo board member?
 
 # Site Updates
 
