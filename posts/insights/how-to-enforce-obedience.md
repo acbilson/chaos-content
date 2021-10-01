@@ -3,7 +3,7 @@ author = "Alex Bilson"
 category = "parenting"
 comments = true
 date = "2021-07-28"
-lastmod = "2021-08-03 09:00:37"
+lastmod = "2021-09-30 15:38:09"
 description = "In which Alex wrestles with how to make his children do what he wants."
 tags = ["parenting","independence","obedience"]
 title = "How to Enforce Obedience"
@@ -14,7 +14,9 @@ title = "How to Enforce Obedience"
 +++
 I received this thoughtful question in response to a log about [obedience and independence](https://alexbilson.dev/logs/20210611-160129/).
 
-> Since God places such a high value on children learning to be obedient to their parents, why would parents, especially Christian parents, want to deprive their kids of this in their upbringing?  The idea that this will somehow stunt a child's development into adulthood would mean that God doesn't know what's best for kids."
+{{< notice type=quote name="Anonymous" long=true >}}
+Since God places such a high value on children learning to be obedient to their parents, why would parents, especially Christian parents, want to deprive their kids of this in their upbringing?  The idea that this will somehow stunt a child's development into adulthood would mean that God doesn't know what's best for kids.
+{{< /notice >}}
 
 In addition, here's a link to a Tim Challies article titled {{< outref src="https://www.challies.com/articles/3-reasons-children-need-to-obey-their-parents/" name="3 Reasons Children Need to Obey Their Parents" >}}.
 

@@ -7,6 +7,23 @@ This page is to demonstrate and test styles, from the basic styles to my custom 
 
 {{< raw >}}
 
+
+<article>
+
+<h1>Colors</h1>
+<section>
+
+  <div class="style-circle-container">
+    <div title="background" class="style-circle style-circle-background"></div>
+    <div title="accent" class="style-circle style-circle-accent"></div>
+    <div title="stroke" class="style-circle style-circle-stroke"></div>
+    <div title="headline" class="style-circle style-circle-headline"></div>
+    <div title="paragraph" class="style-circle style-circle-paragraph"></div>
+    <div title="link" class="style-circle style-circle-link"></div>
+  </div>
+
+</section>
+
 <h1>Text</h1>
 <section class="style-bordered">
   <h1>Big Title</h1>
@@ -38,26 +55,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   </ol>
 
   <pre><code>
-  I am a monotonic robot
+  I am a monotonic robot, which means something about me only having one track.....
   </code></pre>
 
 </section>
 
-<h1>Colors</h1>
-<section>
-
-  <div class="style-circle-container">
-    <div class="style-circle style-circle-bg"></div>
-    <div class="style-circle style-circle-bg-offset"></div>
-    <div class="style-circle style-circle-txt"></div>
-    <div class="style-circle style-circle-txt-offset"></div>
-    <div class="style-circle style-circle-border"></div>
-    <div class="style-circle style-circle-primary"></div>
-    <div class="style-circle style-circle-primary-offset"></div>
-    <div class="style-circle style-circle-secondary"></div>
-  </div>
-
-</section>
 
 {{< /raw >}}
 
@@ -72,6 +74,24 @@ Here's an acronym: {{< acronym "MBA" "Masters in Business Administration" >}}. A
 {{< highlight sh >}}
 ls | rg -i 'stuff'
 {{< /highlight >}}
+
+{{< notice >}}
+This is a bit of information.
+{{< /notice >}}
+
+{{< notice type=warning >}}
+<b>WARNING:</b> This is an alert.
+{{< /notice >}}
+
+{{< quote name="Alex Bilson" src="https://alexbilson.dev" short=true >}}
+This is a short quote from a hyperlinked source.
+<br />
+Isn't that cool?
+{{< /quote >}}
+
+{{< quote name="Alex Bilson" >}}
+This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.
+{{< /quote >}}
 
 ## Sections
 
@@ -127,3 +147,4 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub
 
 
 {{< raw >}}</section>{{< /raw >}}
+{{< raw >}}</article>{{< /raw >}}
