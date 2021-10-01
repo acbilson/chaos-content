@@ -6,12 +6,8 @@ kind = "page"
 This page is to demonstrate and test styles, from the basic styles to my custom shortcodes. Since I don't use these everywhere, I can go here to figure out how they'll look with style changes and test interactions.
 
 {{< raw >}}
-
-
 <article>
-
-<h1>Colors</h1>
-<section>
+  <h1>Colors</h1>
 
   <div class="style-circle-container">
     <div title="background" class="style-circle style-circle-background"></div>
@@ -22,10 +18,11 @@ This page is to demonstrate and test styles, from the basic styles to my custom 
     <div title="link" class="style-circle style-circle-link"></div>
   </div>
 
-</section>
+</article>
 
-<h1>Text</h1>
-<section class="style-bordered">
+<article>
+  <h1>Text</h1>
+
   <h1>Big Title</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <hr />
@@ -39,7 +36,9 @@ This page is to demonstrate and test styles, from the basic styles to my custom 
   <p>Lorem ipsum dolor sit amet.</p>
 
   <blockquote>
+  <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
   </blockquote>
 
   <ul>
@@ -58,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   I am a monotonic robot, which means something about me only having one track.....
   </code></pre>
 
-</section>
+</article>
 
 
 {{< /raw >}}
@@ -67,9 +66,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Text
 
+This is a bit of text with a {{< raw >}}<span>span</span>{{< /raw>}} in it.
+
 This is some text that contains an {{< outref src="http://duckduckgo.com" name="outref" >}}. After it comes a backref for a note: {{< backref src="/notes/top-of-mind" >}}.
 
-Here's an acronym: {{< acronym "MBA" "Masters in Business Administration" >}}. And if I wanted to cite myself, here's how{{< cite name=Bilson loc="pg. 97" >}}.  But maybe I just wanted to make a note{{< superset 1 "addendum" >}} of something.
+Here's an acronym: {{< acronym "MBA" "Masters in Business Administration" >}}. And if I wanted to cite myself, here's how {{< cite name=Bilson loc="pg. 97" >}}.  But maybe I just wanted to make a note{{< superset 1 "addendum" >}} of something.
 
 {{< highlight sh >}}
 ls | rg -i 'stuff'
@@ -83,19 +84,18 @@ This is a bit of information.
 <b>WARNING:</b> This is an alert.
 {{< /notice >}}
 
-{{< quote name="Alex Bilson" src="https://alexbilson.dev" short=true >}}
-This is a short quote from a hyperlinked source.
-<br />
-Isn't that cool?
-{{< /quote >}}
+{{< notice type=quote name=Anonymous short=true >}}
+This is an anonymous quote
+{{< /notice >}}
 
-{{< quote name="Alex Bilson" >}}
-This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.  This is a long quote from a generic source.
-{{< /quote >}}
 
 ## Sections
 
-{{< raw >}}<section class="style-bordered">{{< /raw >}}
+{{< raw >}}<article>{{< /raw >}}
+
+{{< accordion name=Accordion >}}
+This is the content of my accordion example.
+{{< /accordion >}}
 
 {{< addendum >}}
 This is the first note in my addendum. It's going to be the longest note so I can see how it looks when it overflows.
@@ -125,10 +125,10 @@ caption="This is an optional caption for this image. Isn't Royal cute?"
 {{< /poetry >}}
 
 
-{{< raw >}}</section>{{< /raw >}}
+{{< raw >}}</article>{{< /raw >}}
 
 ## Special
-{{< raw >}}<section class="style-bordered">{{< /raw >}}
+{{< raw >}}<article>{{< /raw >}}
 
 {{< table
 title="Programming Languages"
@@ -146,5 +146,4 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub
 >}}
 
 
-{{< raw >}}</section>{{< /raw >}}
 {{< raw >}}</article>{{< /raw >}}
