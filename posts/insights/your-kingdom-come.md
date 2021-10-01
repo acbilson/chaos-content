@@ -5,7 +5,7 @@ backlinks = [
 aliases = ["/posts/your-kingdom-come/"]
 category = "spiritual"
 date = "2020-05-12"
-lastmod = "2021-07-22 15:07:12"
+lastmod = "2021-09-30 15:25:00"
 title = "Your Kingdom Come"
 description = "In which Alex ponders the meaning of the prayer, 'your Kingdom come.'"
 categories = ["Spiritual"]
@@ -80,7 +80,9 @@ My natural inclination at each juncture of a multi-year struggle with my enemy w
 
 In submission to Jesus, I did not act on my impulses. Instead, I overlooked his mistakes and did not harshly criticize him. I honored him in public and complied with his demands. I reserved critical feedback until I could offer it privately with a generous spirit and with clarity. Even in the weeks before my departure, I spoke well of him in public and private. I empathized with his position and prayed for him.
 
-> Lest you think I acted in love towards my manager by sheer willpower, you should know that I met regularly with a trained therapist and spent countless hours with Amie and friends venting my feelings, sharing my experiences, and receiving prayer and counsel. Participation in the Kingdom is participation in **community**.
+{{< notice >}}
+Lest you think I acted in love towards my manager by sheer willpower, you should know that I met regularly with a trained therapist and spent countless hours with Amie and friends venting my feelings, sharing my experiences, and receiving prayer and counsel. Participation in the Kingdom is participation in <b>community</b>.
+{{< /notice >}}
 
 **What would happen if enemies in your workplace treated one another with dignity?**
 
@@ -106,11 +108,11 @@ In some circles there's a tendency to diminish the contributions of new Christia
 
 One way I've undermined this tendency is to honor those least likely to be recognized in our small groups. On one occasion, Amie and I were prompted by the Holy Spirit to offer the role of group facilitator to the person who felt least qualified. She managed the role with excellence and was honored in the sight of all, which had the wonderful effect of boosting her confidence in her contributions (from which all benefited).
 
-> For another take on the exaltation of the marginalized, see my series on privilege that starts with {{< backref src="/posts/insights/privilege-definition" >}}. There will be an upcoming series on Amie and my favorite approach to bible study.
+{{< notice >}}
+For another take on the exaltation of the marginalized, see my series on privilege that starts with {{< backref src="/posts/insights/privilege-definition" >}}. There will be an upcoming series on Amie and my favorite approach to bible study.
+{{< /notice >}}
 
 **What would happen if the marginalized in your neighborhood were exalted?**
-
----
 
 Next time you pray, "your Kingdom come," may these images and your own witness fill your mind.
 
