@@ -47,12 +47,12 @@ events="2004|takes a Java class in high school and likes it (thanks Mr. Perfors!
 
 {{< timeline
 section="U.S. Navy"
-events="2006|graduates from communications intelligence school at the top of his class.^2007|monitors world-wide sea traffic for suspicious patterns to supply risk assessments to leaders.^2010|completes a year-long deployment in Afghanistan where he mined thousands of complex technical records to ascertain threat locations. Persuades senior leaders to collect data, deploy special forces, and anticipate attacks with data-driven presentations."
+events="2006|graduates from communications intelligence school at the top of his class.|🎓^2007|monitors world-wide sea traffic for suspicious patterns to supply risk assessments to leaders.^2010|completes a year-long deployment in Afghanistan where he mined thousands of complex technical records to ascertain threat locations. Persuades senior leaders to collect data, deploy special forces, and anticipate attacks with data-driven presentations."
 >}}
 
 {{< timeline
 section="Owner"
-events="2009|incorporates a mobile coffee shop LLC with Tommy Smith and Matthew Gonzales in Denver, CO.^2011|hosts the company website with BlueHost on WordPress. Learns HTML and CSS from scratch, then adds logic with PHP.^🎓 2014|graduates DeVry University with honors and a Bachelor's in Computer Information Systems."
+events="2009|incorporates a mobile coffee shop LLC with Tommy Smith and Matthew Gonzales in Denver, CO.^2011|hosts the company website with BlueHost on WordPress. Learns HTML and CSS from scratch, then adds logic with PHP.^2014|graduates DeVry University with honors and a Bachelor's in Computer Information Systems.|🎓"
 >}}
 
 {{< timeline
@@ -61,8 +61,8 @@ events="2014|writes his first lines of company code on a C# .NET MVC app called 
 >}}
 
 {{< raw >}}
-<p><i>"I had the pleasure of working together with Alex on multiple development projects. He is a skilled coder and passionate about finding and implementing good design patterns. He possess some of the deepest knowledge I've seen on unit testing frameworks and he uses it to increase the quality of deliverables."</i> - <a href="https://www.linkedin.com/in/marlon-smith-6566245a/">Marlon Smith</a>
-</p>
+<div class="timeline__quote">"I had the pleasure of working together with Alex on multiple development projects. He is a skilled coder and passionate about finding and implementing good design patterns. He possess some of the deepest knowledge I've seen on unit testing frameworks and he uses it to increase the quality of deliverables." - <a href="https://www.linkedin.com/in/marlon-smith-6566245a/">Marlon Smith</a>
+</div>
 {{< / raw >}}
 
 {{< timeline
@@ -70,9 +70,13 @@ events="2015|leads the team's migration from LeanKit to Jira. Meets with team me
 >}}
 
 {{< raw >}}
-<p>
-<b>2015:</b> designs the <abbr title="Minimum Viable Product">MVP</abbr> for a Relativity-based <abbr title="Freedom Of Information Act">FOIA</abbr> application from two conversations and a 400-page government spec. In Deloitte's hands it goes on to win the <a href="https://relativityfest.com/archive/2018/innovation-awards/#tech" >2018 Solution Provider Innovation Award</a>. Way to go <a href="https://www.linkedin.com/in/johnfuex/">John Fuex</a> and <a href="https://www.linkedin.com/in/john-tibbetts-2812a06/">John Tibbetts</a>!
-</p>
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2015</div>
+  </div>
+    <p class="timeline__content">designs the <abbr title="Minimum Viable Product">MVP</abbr> for a Relativity-based <abbr title="Freedom Of Information Act">FOIA</abbr> application from two conversations and a 400-page government spec. In Deloitte's hands it goes on to win the <a href="https://relativityfest.com/archive/2018/innovation-awards/#tech" >2018 Solution Provider Innovation Award</a>. Way to go <a href="https://www.linkedin.com/in/johnfuex/">John Fuex</a> and <a href="https://www.linkedin.com/in/john-tibbetts-2812a06/">John Tibbetts</a>!
+  </p>
+</div>
 {{< / raw >}}
 
 {{< timeline
@@ -80,30 +84,54 @@ events="2016|pioneers the technical business analyst (TBA) position. Sets the ba
 >}}
 
 {{< raw >}}
-<p>
-<b>2018:</b> communicates the intricate steps to build a Relativity Integration Point (RIP) provider in a three-hour RelativityFest <a href="https://github.com/acbilson/relativity-fest-rip-workshop">workshop </a> with <a href="https://www.linkedin.com/in/kevin-stephenson-3027432/">Kevin Stephenson</a>.
-</p>
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2018</div>
+  </div>
+  <p class="timeline__content">communicates the intricate steps to build a Relativity Integration Point (RIP) provider in a three-hour RelativityFest <a href="https://github.com/acbilson/relativity-fest-rip-workshop">workshop </a> with <a href="https://www.linkedin.com/in/kevin-stephenson-3027432/">Kevin Stephenson</a>.
+  </p>
+</div>
 
-<p>
-<b>2018:</b> surprises a prospective Silicon Valley client looking to integrate their Python code with RelativityOne by building a prototype IronPython integration in time to demo it live on their office tour. Great teamwork <a href="https://www.linkedin.com/in/umarani18/">Uma Rani</a>!
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2018</div>
+  </div>
+<p class="timeline__content">surprises a prospective Silicon Valley client looking to integrate their Python code with RelativityOne by building a prototype IronPython integration in time to demo it live on their office tour. Great teamwork <a href="https://www.linkedin.com/in/umarani18/">Uma Rani</a>!
 </p>
+</div>
 
-<p>
-<b>2019:</b> consults for <a href="https://www.linkedin.com/in/clair-r-atkins-5b66216/">Clair Atkins</a> to close a major deal in the early stages of Relativity's SaaS transformation. Leads the technical conversation at the roundtable in Nashville, TN, then systematically solves each technical barrier to crop up over the next six months. Bridges communication between the database architects (thanks <a href="https://www.linkedin.com/in/ksalsbery/">Kent Salsbury</a>!), the salespeople, and the client's leaders and software architects.
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2019</div>
+  </div>
+<p class="timeline__content">consults for <a href="https://www.linkedin.com/in/clair-r-atkins-5b66216/">Clair Atkins</a> to close a major deal in the early stages of Relativity's SaaS transformation. Leads the technical conversation at the roundtable in Nashville, TN, then systematically solves each technical barrier to crop up over the next six months. Bridges communication between the database architects (thanks <a href="https://www.linkedin.com/in/ksalsbery/">Kent Salsbury</a>!), the salespeople, and the client's leaders and software architects.
 </p>
+</div>
 
-<p>
-<span class="timeline-title">SPR Consulting</span>
-<b>2019:</b> crafts a <a href="{{< ref "/posts/achievements/multi-repository-madness" >}}">PowerShell script</a> that simplifies collaboration and prevents build conflicts across 8+ GitLab repositories.
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2019</div>
+  </div>
+<span class="timeline__title">SPR Consulting</span>
+<p class="timeline__content">crafts a <a href="{{< ref "/posts/achievements/multi-repository-madness" >}}">PowerShell script</a> that simplifies collaboration and prevents build conflicts across 8+ GitLab repositories.
 </p>
+</div>
 
-<p>
-<b>2019:</b> conducts a 16-point consultation for Alexandra Hoerr's <a href="https://optimumjoyclinicalcounseling.com/">counseling startup</a>. The capstone of my <abbr title="Masters in Business Administration">MBA</abbr>, <a href="{{< ref "/posts/achievements/mba-thesis" >}}">the result</a> is 100-pages of observations, analysis, and recommendations.
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2019</div>
+  </div>
+<p class="timeline__content">conducts a 16-point consultation for Alexandra Hoerr's <a href="https://optimumjoyclinicalcounseling.com/">counseling startup</a>. The capstone of my <abbr title="Masters in Business Administration">MBA</abbr>, <a href="{{< ref "/posts/achievements/mba-thesis" >}}">the result</a> is 100-pages of observations, analysis, and recommendations.
 </p>
+</div>
 
-<p>
-&#127891; <b>2020:</b> graduates Global Leadership University with a Master's in Business Administration, Entrepreneurial Studies.
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2020</div>
+  </div>
+<p class="timeline__content">graduates Global Leadership University with a Master's in Business Administration, Entrepreneurial Studies.
 </p>
+</div>
 {{< / raw >}}
 
 {{< timeline
@@ -112,9 +140,9 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 >}}
 
 {{< raw >}}
-<p>
-<i>I have a fledgling tech company and hired Alex Bilson to be a project manager for our first app. We already had a prototype and wanted to add functionality to it before beta testing it. Alex was very thoughtful, detailed and thorough in evaluating my problem and presenting possible solutions. He gave me a comprehensive implementation plan with varying options with cost and time estimates. I have no tech background. Alex was able to convert highly technological ideas and processes into something I could understand and make decisions about what I wanted. The cost to implement the added functionality would’ve been a few thousand dollars. Alex recommended that I already had enough to do beta testing and that it might be better to wait until I get feedback before making changes. I appreciated his honesty and integrity. Alex keeps deadlines, is punctual and has a calming presence. I decided to go forward with beta testing and I will hire him again when I’m ready to upgrade my app. I highly recommend him.</i> - Andrea Bacon
-</p>
+<div class="timeline__quote">
+I have a fledgling tech company and hired Alex Bilson to be a project manager for our first app. We already had a prototype and wanted to add functionality to it before beta testing it. Alex was very thoughtful, detailed and thorough in evaluating my problem and presenting possible solutions. He gave me a comprehensive implementation plan with varying options with cost and time estimates. I have no tech background. Alex was able to convert highly technological ideas and processes into something I could understand and make decisions about what I wanted. The cost to implement the added functionality would’ve been a few thousand dollars. Alex recommended that I already had enough to do beta testing and that it might be better to wait until I get feedback before making changes. I appreciated his honesty and integrity. Alex keeps deadlines, is punctual and has a calming presence. I decided to go forward with beta testing and I will hire him again when I’m ready to upgrade my app. I highly recommend him. - Andrea Bacon
+</div>
 {{< / raw >}}
 
 {{< timeline
@@ -122,16 +150,24 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 >}}
 
 {{< raw >}}
-<p>
-<span class="timeline-title">Performance Trust Capital Partners</span>
-<span style="display: block; margin-top: 1em;"><b>2020:</b> crafts a seven-page requirements document, a deployment estimate of twenty-two weeks, and a statement of work for his first project.
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2020</div>
+  </div>
+<span class="timeline__title">Performance Trust Capital Partners</span>
+<span style="display: block; margin-top: 1em;"><p class="timeline__content">crafts a seven-page requirements document, a deployment estimate of twenty-two weeks, and a statement of work for his first project.
 </span></p>
+</div>
 {{< / raw >}}
 
 {{< raw >}}
-<p>
-<b>2021:</b> completes the initial requirements for my first project on time. If you're curious about what that entails, see <a href="{{< ref "/posts/achievements/angular-architecture" >}}">Angular Architecture</a>. It was a fun project!
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2021</div>
+  </div>
+<p class="timeline__content">completes the initial requirements for my first project on time. If you're curious about what that entails, see <a href="{{< ref "/posts/achievements/angular-architecture" >}}">Angular Architecture</a>. It was a fun project!
 </p>
+</div>
 {{< / raw >}}
 
 {{< raw >}}
@@ -242,7 +278,7 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 </ul>
 </section>
 
-You have more questions? <a href=mailto:acbilson@gmail.com">Email me</a> and your question may be featured here!
+<p>You have more questions? <a href=mailto:acbilson@gmail.com">Email me</a> and your question may be featured here!</p>
 {{< / raw >}}
 
 Ta ta for now! &#128075;&#127995;
