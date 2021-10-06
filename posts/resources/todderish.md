@@ -3,7 +3,7 @@ aliases = ["/posts/todderish/"]
 category = "family"
 comments = true
 date = "2020-11-24"
-lastmod = "2021-07-19"
+lastmod = "2021-10-05 22:40:24"
 description = "In which Alex explores the etymology of Todderish, or the language of toddlers."
 tags = ["children","language"]
 title = "Todderish"
@@ -33,6 +33,14 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bēsh"
   match="Beach"
   example="Go beesh?"
+>}}
+
+{{< vocab
+  word="Bubba-lies"
+  term="noun"
+  phonetic="bubalīs"
+  match="Butterflies"
+  example="look bubba-lies."
 >}}
 
 {{< vocab
@@ -135,6 +143,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   match="Yellow, or snack"
   example="I want da lalo."
 >}}
+
+{{< vocab
+  word="Logurt"
+  term="noun"
+  phonetic="lōgurt"
+  match="Yogurt"
+  example="I want lalo logurt."
+>}}
+
 
 {{< vocab
   word="Look"
