@@ -1,12 +1,12 @@
 +++
 backlinks = [
   "/notes/bible-discoveries",
-  "notes/design-pattern-tree-of-life"
+  "/notes/design-pattern-tree-of-life"
 ]
 author = "Alex Bilson"
 comments = false
 date = "2021-09-22"
-lastmod = "2021-09-23 07:47:59"
+lastmod = "2021-10-07 11:33:33"
 epistemic = "sprout"
 tags = ["bible","jesus","wilderness","life","death"]
 title = "To Listen And Obey Jesus' Word Brings Life"
