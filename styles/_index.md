@@ -11,7 +11,6 @@ This page is to demonstrate and test styles, from the basic styles to my custom 
 
   <div class="style-circle-container">
     <div title="background" class="style-circle style-circle-background"></div>
-    <div title="accent" class="style-circle style-circle-accent"></div>
     <div title="stroke" class="style-circle style-circle-stroke"></div>
     <div title="headline" class="style-circle style-circle-headline"></div>
     <div title="paragraph" class="style-circle style-circle-paragraph"></div>
