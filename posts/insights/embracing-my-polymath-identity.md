@@ -1,5 +1,4 @@
 +++
-draft = true
 backlinks = [
   "/notes/why-write",
   "/posts/insights/gifts-apostolic"
@@ -7,7 +6,7 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-08-17"
-lastmod = "2021-08-17 16:17:53"
+lastmod = "2021-10-07 13:03:26"
 description = "In which Alex explores his identity as a polymath."
 tags = ["polymath","renaissance","identity"]
 title = "Embracing My Polymath Identity"
