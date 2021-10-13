@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-09-28 16:05:58"
+lastmod = "2021-10-13 13:32:48"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -17,35 +17,43 @@ title = "Top of Mind"
 
 # Reading
 
-- Pudd'nhead Wilson by Mark Twain
+- Peter Pan?
+- Pudd'nhead Wilson by Mark Twain (finished)
 - Faces At The Bottom Of The Well by Derrick Bell (finished)
 
 # Watching
 
 - 30 Rock
 - Dinotrux
+- Hook (watched)
+- Mrs. Doubtfire (watched)
+- Jack (watched)
 
 # Playing
 
 - Mini Metro
+- The Escapists 2
 
 # Explorations
 
 - Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
 - Purchase a desktop so I can give Amie the laptop? Current specs:
 
-    **Lenovo ThinkStation P340 SFF Workstation**
-    Price: $1159
-    Processor: i5-10500 (3.10GHz)
-    OS: Windows 10 Pro
-    Memory: 16GB DDR4
-    Video: Integrated
-    Storage:
-    - 256GB PCIe SSD
-    - 2TB 7200 HDD
-    Ethernet: BN8E88 1000M PCIe ASF
+### Lenovo ThinkStation P340 SFF Workstation
+
+  - Price: $1159
+  - Processor: i5-10500 (3.10GHz)
+  - OS: Windows 10 Pro
+  - Memory: 16GB DDR4
+  - Video: Integrated
+  - Storage:
+   1. 256GB PCIe SSD
+   2. 2TB 7200 HDD
+  - Ethernet: BN8E88 1000M PCIe ASF
 
 - How to be a wise condo board member?
+
+> So far, what I've done is to organize the multiple ongoing projects so that I can tell at a glance what's left to do. This has been helpful to guide my conversation and questions with Tom our building maintenance man. I also hope it'll enable me to share some of the work with others.
 
 # Site Updates
 
