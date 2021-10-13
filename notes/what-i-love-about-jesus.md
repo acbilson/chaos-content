@@ -2,6 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-16T19:55:03"
+lastmod = "2021-10-13 13:30:25"
 epistemic = "seedling"
 tags = ["jesus","love"]
 title = "What I Love About Jesus"
@@ -18,4 +19,5 @@ There's so much to love about Jesus. Here's my endlessly growing list of loves, 
 ## Curiosities
 
 - {{< backref src="/notes/why-was-jesus-angry-at-the-pharisees" >}}
+- {{< backref src="/notes/how-does-the-holy-spirit-change-humanity" >}}
 - How did Jesus see? His obedience to the Father is "I see what the Father is doing and do the works with him" vs. "The Father has given me wisdom (in the Bible), and I live accordingly."
