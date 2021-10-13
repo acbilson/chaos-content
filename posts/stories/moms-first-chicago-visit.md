@@ -2,13 +2,13 @@
 category = "family"
 comments = true
 date = "2021-09-28"
-lastmod = "2021-10-13 16:06:00"
+lastmod = "2021-10-13 16:07:06"
 description = "In which Alex recounts first hosting his mom in Chicago."
 tags = ["chicago", "mom"]
 title = "Mom's First Chicago Visit"
 [featuredImage]
   alt = "Mema Poses With Graham and Royal"
-  large = "https://bn02pap001files.storage.live.com/y4mqUhaY_-o2IQNNI8sw08S8163CIkuC13FrVm-jgnyB5lqzH-eKqbpiCfujgcK3xafePbZ0ym-Zil5mMmFghGpeqWPNd6IK6SgRKBBlHWuAIi11gVkyN7NuKhq5E7akG_q8vVPCC3gq2Vmectr5Mbiobm2BOU3R7VorEUiPyZCWjRkulkVVHQWb2IO0ErIaQ0i?width=1024&height=768&cropmode=none""
+  large = "https://bn02pap001files.storage.live.com/y4mqUhaY_-o2IQNNI8sw08S8163CIkuC13FrVm-jgnyB5lqzH-eKqbpiCfujgcK3xafePbZ0ym-Zil5mMmFghGpeqWPNd6IK6SgRKBBlHWuAIi11gVkyN7NuKhq5E7akG_q8vVPCC3gq2Vmectr5Mbiobm2BOU3R7VorEUiPyZCWjRkulkVVHQWb2IO0ErIaQ0i?width=1024&height=768&cropmode=none"
   small = "https://bn02pap001files.storage.live.com/y4mqUhaY_-o2IQNNI8sw08S8163CIkuC13FrVm-jgnyB5lqzH-eKqbpiCfujgcK3xafePbZ0ym-Zil5mMmFghGpeqWPNd6IK6SgRKBBlHWuAIi11gVkyN7NuKhq5E7akG_q8vVPCC3gq2Vmectr5Mbiobm2BOU3R7VorEUiPyZCWjRkulkVVHQWb2IO0ErIaQ0i?width=256&height=192&cropmode=none"
 +++
 My mom, who will henceforth be called "Mema" in honor of her ol' grandma name, came to visit! Here are some pics; it was a lovely time.
