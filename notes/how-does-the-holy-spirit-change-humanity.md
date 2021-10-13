@@ -1,5 +1,9 @@
 +++
+backlinks = [
+  "/notes/what-i-love-about-jesus"
+]
 date = "2021-10-13"
+lastmod = "2021-10-13 14:05:02"
 tags = ["spirit","humanity"]
 epistemic = "seedling"
 title = "How Does The Holy Spirit Change Humanity?"
