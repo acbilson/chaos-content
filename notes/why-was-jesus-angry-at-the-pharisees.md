@@ -1,6 +1,10 @@
 +++
+backlinks = [
+  "/notes/what-i-love-about-jesus"
+]
 aliases = ["/comments/20201216-220004/"]
 date = "2020-12-16T22:00:04"
+lastmod = "2021-10-13 14:04:56"
 tags = ["genetics","kingdom","anger"]
 epistemic = "seedling"
 title = "Why was Jesus Angry at the Pharisees?"
