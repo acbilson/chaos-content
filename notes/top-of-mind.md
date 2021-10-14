@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-10-13 13:32:48"
+lastmod = "2021-10-14 13:56:26"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -18,6 +18,7 @@ title = "Top of Mind"
 # Reading
 
 - Peter Pan?
+- Reforesting Faith
 - Pudd'nhead Wilson by Mark Twain (finished)
 - Faces At The Bottom Of The Well by Derrick Bell (finished)
 
@@ -36,7 +37,7 @@ title = "Top of Mind"
 
 # Explorations
 
-- Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
+- Learn more about _ikigai_, or "a reason for being" {{< outref name="Polymath Playbook" src="https://salman.io/blog/polymath-playbook/" >}}
 - Purchase a desktop so I can give Amie the laptop? Current specs:
 
 ### Lenovo ThinkStation P340 SFF Workstation
