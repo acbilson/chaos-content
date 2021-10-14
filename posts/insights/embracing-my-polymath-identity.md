@@ -6,14 +6,14 @@ backlinks = [
 author = "Alex Bilson"
 comments = true
 date = "2021-08-17"
-lastmod = "2021-10-07 13:03:26"
+lastmod = "2021-10-14 15:58:30"
 description = "In which Alex explores his identity as a polymath."
 tags = ["polymath","renaissance","identity"]
 title = "Embracing My Polymath Identity"
 [featuredImage]
-  alt = ""
-  large = ""
-  small = ""
+  alt = "Hat on the Sand"
+  large = "https://bn02pap001files.storage.live.com/y4m4t3cmdcBMPL9PPhYrkWfXeYemshUIQ66TGkWPaI1IFoBNKQr6UHoOA_TgHYQes5u4p2MkDzWHY9Qm-m-lmfYmtNAJ2bYlyRrwyZwvSbMK7BQaXpKBjJvzxb8m5O2B-_03-EQpFj_KPCbXjutQKoFlw7_1_vVL4PoyIbBscraZYTuRB_qo01yBwldXvGlq6Oi?width=768&height=1024&cropmode=none"
+  small = "https://bn02pap001files.storage.live.com/y4m4t3cmdcBMPL9PPhYrkWfXeYemshUIQ66TGkWPaI1IFoBNKQr6UHoOA_TgHYQes5u4p2MkDzWHY9Qm-m-lmfYmtNAJ2bYlyRrwyZwvSbMK7BQaXpKBjJvzxb8m5O2B-_03-EQpFj_KPCbXjutQKoFlw7_1_vVL4PoyIbBscraZYTuRB_qo01yBwldXvGlq6Oi?width=192&height=256&cropmode=none"
 +++
 It's a wearisome struggle to be myself. To be who I am requires that I must constantly fit my octagonal personality into the square holes the world affords. In the past year I've begun to reconcile that my path will not lead to expertise. I will never be an expert by any measurement, for I am incapable of remaining entirely in one field for 10,000 hours. Perhaps all my interests will converge in expertise across many domains around my eightieth birthday, but not before.
 
