@@ -2,7 +2,8 @@
 author = "Alex Bilson"
 comments = true
 date = "2021-10-15T12:39:15"
-epistemic = "seedling"
+lastmod = "2021-10-15 08:17:49"
+epistemic = "sprout"
 tags = ["interpretation","discovery","bible"]
 title = "Interpretive Replacements Sometimes Erase Context"
 +++
