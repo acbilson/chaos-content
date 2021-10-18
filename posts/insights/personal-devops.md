@@ -55,7 +55,7 @@ Then, my proposed kubernetes cluster architecture.
 
 {{< image "/posts/data/arch/k3s_deployment.svg" "diagram" >}}
 
-I've split the deployment into two because my site does not depend upon the data server to operate, but it does depend upon my build and publish server to manage my own CD process. I've also moved from a model where every time I publish it stores a new file, pushes it to my repo, and rebuilds to a scheduled build. I've kept the publish and buld processes separate so that I can still support either or both options, but I've found that I don't care that much about seeing what I publish immediately render on my site.
+I've split the deployment into two because my site does not depend upon the data server to operate, but it does depend upon my build and publish server to manage my own CD process. I've also moved from a model where every time I publish it stores a new file, pushes it to my repo, and rebuilds to a scheduled build. I've kept the publish and build processes separate so that I can still support either or both options, but I've found that I don't care that much about seeing what I publish immediately render on my site.
 
 My hope is to add little complexity by switching to kubernetes while enabling me to deploy updates to any part of the system by swapping in a new container image, but I'm still learning kubernetes and haven't actually tried this (yet). Feedback is welcome 😁.
 
