@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-07-12"
-lastmod = "2021-10-14 13:56:26"
+lastmod = "2021-10-20 12:18:19"
 tags = ["todo"]
 title = "Top of Mind"
 +++
@@ -51,6 +51,28 @@ title = "Top of Mind"
    1. 256GB PCIe SSD
    2. 2TB 7200 HDD
   - Ethernet: BN8E88 1000M PCIe ASF
+
+### [Intel NUC 10 BXNUC10i3FNKN1 Mini](https://www.newegg.com/intel-bxnuc10i3fnkn1-nuc-10/p/N82E16856102305)
+
+  - Price: $607.43
+
+#### Booksize Barebone System
+  - Price: $332.49
+  - Processor: i3-10110U (up to 4.10GHz)
+  - OS: Windows 10 Pro
+  - Memory: None
+  - Video: Integrated
+  - Storage: None
+  - Ethernet: 1Gb + WiFI
+
+#### Storage: [Samsung 980 PRO M.2 2280](https://www.newegg.com/samsung-500gb-980-pro/p/N82E16820147789?quicklink=true)
+  - Price: $117.98
+  - Storage: 500Gb PCIe SSD
+
+#### Memory: [Samsung 16Gb 260-Pin SO-DIMM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9)
+  - Price: $78.48 (x2 = $156.96)
+  - Storage: 16Gb DDR4
+
 
 - How to be a wise condo board member?
 
