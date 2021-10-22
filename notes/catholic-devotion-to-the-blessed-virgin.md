@@ -1,12 +1,11 @@
 +++
-backlinks = [
-  "/notes/bible-discoveries"
-]
 author = "Alex Bilson"
+backlinks = "['/notes/bible-discoveries']"
 comments = true
 date = "2021-06-10T15:07:06"
 epistemic = "plant"
-tags = ["catholic","faith","devotion","mary","jesus","humility"]
+lastmod = 2021-10-22T21:21:18.103259
+tags = "['catholic', 'faith', 'devotion', 'mary', 'jesus', 'humility']"
 title = "Catholic Devotion to the Blessed Virgin"
 +++
 Protestants are uncomfortable about several doctrines of the Catholic Church and even willing to renounce the entire organization as heretical. The way that Mary, and to a lesser extent any saint, is spoken of has been most uncomfortable in my experience. The language used for the Blessed Virgin often matches biblical language used to describe Jesus. The sum result is that most Protestants believe the Catholic Church holds Mary in equal standing with Jesus, as though they're two divinely equal beings. The elevation of Mary with language that's usually reserved only for Jesus seems to cheapen Jesus' uniqueness as the Son of God.
@@ -21,3 +20,4 @@ Merton continues with a praise for Mary's hiddenness and humility. Mary is highl
 
 - Merton, Thomas. (1961) _New Seeds of Contemplation_. Abbey of Gethsemani, Inc.
 
+This is an edit, yipee! Woot!
