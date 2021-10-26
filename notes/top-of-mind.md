@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 comments = false
-date = "2021-07-12"
-lastmod = "2021-10-20 12:18:19"
-tags = ["todo"]
+date = "2021-07-12T00:00:00"
+epistemic = "seedling"
+lastmod = "2021-10-27T14:25:24.199281"
+tags = [ "todo",]
 title = "Top of Mind"
 +++
 
@@ -17,8 +18,9 @@ title = "Top of Mind"
 
 # Reading
 
-- Peter Pan?
-- Reforesting Faith
+- Genesis, Joshua, and Psalms
+- Ragamuffin Gospel by Brennan Manning
+- Reforesting Faith by Dr. Matthew Sleeth
 - Pudd'nhead Wilson by Mark Twain (finished)
 - Faces At The Bottom Of The Well by Derrick Bell (finished)
 
@@ -85,3 +87,6 @@ title = "Top of Mind"
 > I had my first noticable success with this by reviewing notes and creating a couple MOCs from common themes. I discovered some business writing which had direct relevance to church forms.
 
 - Add a visualization, like the network tab, that will show relationships by reference/backreference. Inspired by Obsidian.
+- override the Goldmark Markdown engine to add a class to internal vs external links [Configure Goldmark](https://gohugo.io/getting-started/configuration-markup#goldmark)
+- consider using attribute lists to simplify my shortcode usage [Attribute List Release](https://github.com/gohugoio/hugo/releases/tag/v0.81.0)
+- Use the [Tonic framework](https://tonicframework.dev/) to craft custom web components for parts of my site
