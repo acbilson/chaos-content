@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 comments = false
-date = "2021-07-16"
-lastmod = "2021-09-22 14:03:18"
+date = "2021-07-16T00:00:00"
 epistemic = "sprout"
-tags = ["bible","discovery"]
+lastmod = "2021-10-27T16:08:58.632138"
+tags = [ "bible", "discovery",]
 title = "Bible Discoveries"
 +++
 In hopes that themes will emerge and understanding deepen, here is all the content from discoveries I've made in the Bible.
@@ -64,3 +64,15 @@ In the story where {{< backref src="/bible/jesus-heals-a-crippled-man-near-the-s
 - The crippled man was healed because the Father has given Jesus life in himself in the same way that the Father has life in himself.
 
 Jesus sees a crippled man. He takes note that this man has been waiting many years for healing (implication: his faith has grown very weak from deferred hope). He decides to offer life to the crippled man, the same life that the Father has made to dwell in himself. The Father alone supplies life, but he grants Jesus the full rights to decide so that Jesus will receive equal honor when the crippled man is made well. The Father's mission and Jesus' are the same, so Jesus can say that the Father shows him this work to do and at the same time Jesus decides to do it.
+
+# God _loves_ humans
+
+Sometimes it's thought that the Hebrew Bible is more judgment-focused while the Greek Bible is grace-focused, but it just takes more pondering to see it in the first 3/4 of the Bible. For example, in the Noah story, the LORD reflects on the human condition and determines that humans from Noah's generation will be no better than those wiped out in the flood for filling the earth with violence. Nevertheless, He promises to never again destroy all living things with a deluge. But even though He knows that Noah's descendants will be wicked, He still commands Noah to be fruitful and multiply, just like he said to Adam. He wants more, many more, of us!
+
+# The Bible is for both wisdom and pleasure
+
+While reflecting on one of the Psalms, I thought, "Wow, this song is so generic; I'm not getting _anything_ out of it." Then I noticed in the textual notes that the Psalm and the one to follow were an acrostic, and the Holy Spirit reminded me of a verse out of Genesis. God's words both supply nourishment _and_ delight.
+
+{{< notice type=quote name="Genesis 2:9 (ESV)" short=true >}}
+And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food.
+{{< /notice >}}
