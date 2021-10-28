@@ -3,8 +3,8 @@ author = "Alex Bilson"
 comments = false
 date = "2021-07-12T00:00:00"
 epistemic = "seedling"
-lastmod = "2021-10-28 12:06:30"
-tags = [ "todo",]
+lastmod = "2021-10-28 12:15:20"
+tags = ["todo"]
 title = "Top of Mind"
 +++
 
@@ -38,7 +38,7 @@ title = "Top of Mind"
 
 # Explorations
 
-- Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/")
+- Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
 
 - Purchase a desktop so I can give Amie the laptop? Current specs:
 
