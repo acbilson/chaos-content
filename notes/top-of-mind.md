@@ -3,7 +3,7 @@ author = "Alex Bilson"
 comments = false
 date = "2021-07-12T00:00:00"
 epistemic = "seedling"
-lastmod = "2021-10-27T14:19:07.461365"
+lastmod = "2021-10-28 12:06:30"
 tags = [ "todo",]
 title = "Top of Mind"
 +++
@@ -27,19 +27,19 @@ title = "Top of Mind"
 # Watching
 
 - 30 Rock
-- Dinotrux
+- Dinotrux: Supercharged
 - Hook (watched)
 - Mrs. Doubtfire (watched)
 - Jack (watched)
 
 # Playing
 
-- Mini Metro
-- The Escapists 2
+- Hill Climb Racing 2
 
 # Explorations
 
-- Learn more about _ikigai_, or "a reason for being" {{< outref name="Polymath Playbook" src="https://salman.io/blog/polymath-playbook/" >}}
+- Learn more about _ikigai_, or "a reason for being" [Polymath Playbook](https://salman.io/blog/polymath-playbook/")
+
 - Purchase a desktop so I can give Amie the laptop? Current specs:
 
 ### Lenovo ThinkStation P340 SFF Workstation
@@ -75,18 +75,10 @@ title = "Top of Mind"
   - Price: $78.48 (x2 = $156.96)
   - Storage: 16Gb DDR4
 
-
-- How to be a wise condo board member?
-
-> So far, what I've done is to organize the multiple ongoing projects so that I can tell at a glance what's left to do. This has been helpful to guide my conversation and questions with Tom our building maintenance man. I also hope it'll enable me to share some of the work with others.
-
 # Site Updates
 
-- Figure out what kind of process would be helpful to review notes for further thinking. If these are primarily to help me innovate through aggregating and networking thought, it would be helpful to periodically _look_ at the whole corpus.
+I'm slowly adding hundreds of business insights from my MBA to my site's notes. Getting them there is step one, then I want to begin mapping them together into a cohesive network for easy reference and thinking.
 
-> I had my first noticable success with this by reviewing notes and creating a couple MOCs from common themes. I discovered some business writing which had direct relevance to church forms.
+There are a few places I could use a component architecture, and many more that I could dream up. I'm thinking about using the [Tonic framework](https://tonicframework.dev/) to craft custom web components for parts of my site.
 
-- Add a visualization, like the network tab, that will show relationships by reference/backreference. Inspired by Obsidian.
-- override the Goldmark Markdown engine to add a class to internal vs external links [Configure Goldmark](https://gohugo.io/getting-started/configuration-markup#goldmark)
-- consider using attribute lists to simplify my shortcode usage [Attribute List Release](https://github.com/gohugoio/hugo/releases/tag/v0.81.0)
-- Use the [Tonic framework](https://tonicframework.dev/) to craft custom web components for parts of my site
+It's not going to happen right away, but someday I want to migrate the stories I've written in my ship's log into full stories under posts. That'll make them easier to find again. It's part of ongoing thoughts I have about the way my log operates. Today it's everything from day one, but it could be paginated by year, month, etc. Or it could be wiped fresh and the best moved. IDK.
