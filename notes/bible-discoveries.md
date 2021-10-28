@@ -3,7 +3,7 @@ author = "Alex Bilson"
 comments = false
 date = "2021-07-16T00:00:00"
 epistemic = "sprout"
-lastmod = "2021-10-27T16:08:58.632138"
+lastmod = "2021-10-28 16:08:44"
 tags = [ "bible", "discovery",]
 title = "Bible Discoveries"
 +++
@@ -11,7 +11,7 @@ In hopes that themes will emerge and understanding deepen, here is all the conte
 
 ### Idol creation and worship was forbidden because _we're_ God's icons.
 
-{{< backref src="catholic-devotion-to-the-blessed-virgin" >}} has this reality in mind when it elevates Mary's godliness.
+{{< backref src="/notes/catholic-devotion-to-the-blessed-virgin" >}} has this reality in mind when it elevates Mary's godliness.
 
 ### Biblical sacrifice isn't only about cost
 
@@ -19,7 +19,7 @@ A better {{< backref src="/notes/definition-of-biblical-sacrifice" >}} is so hel
 
 ### The Bible is a composition of real kinds of literature as they are found elsewhere
 
-- {{< backref src="epistles-are-real-correspondence" >}}
+- {{< backref src="/notes/epistles-are-real-correspondence" >}}
 
 ### The Bible is not at odds with macro-evolution
 
@@ -65,14 +65,22 @@ In the story where {{< backref src="/bible/jesus-heals-a-crippled-man-near-the-s
 
 Jesus sees a crippled man. He takes note that this man has been waiting many years for healing (implication: his faith has grown very weak from deferred hope). He decides to offer life to the crippled man, the same life that the Father has made to dwell in himself. The Father alone supplies life, but he grants Jesus the full rights to decide so that Jesus will receive equal honor when the crippled man is made well. The Father's mission and Jesus' are the same, so Jesus can say that the Father shows him this work to do and at the same time Jesus decides to do it.
 
-# God _loves_ humans
+### God loves humans and wants many more of us, trouble though we may be
 
-Sometimes it's thought that the Hebrew Bible is more judgment-focused while the Greek Bible is grace-focused, but it just takes more pondering to see it in the first 3/4 of the Bible. For example, in the Noah story, the LORD reflects on the human condition and determines that humans from Noah's generation will be no better than those wiped out in the flood for filling the earth with violence. Nevertheless, He promises to never again destroy all living things with a deluge. But even though He knows that Noah's descendants will be wicked, He still commands Noah to be fruitful and multiply, just like he said to Adam. He wants more, many more, of us!
+{{< backref src="/notes/god-wants-more-humans" >}}
 
-# The Bible is for both wisdom and pleasure
+### The Bible is for both wisdom and pleasure
 
-While reflecting on one of the Psalms, I thought, "Wow, this song is so generic; I'm not getting _anything_ out of it." Then I noticed in the textual notes that the Psalm and the one to follow were an acrostic, and the Holy Spirit reminded me of a verse out of Genesis. God's words both supply nourishment _and_ delight.
+{{< backref src="/notes/the-bible-is-for-wisdom-and-pleasure" >}}
 
-{{< notice type=quote name="Genesis 2:9 (ESV)" short=true >}}
-And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food.
-{{< /notice >}}
+### God promises that humans, rather than direct intervention, will be the means of retribution after the Flood
+
+{{< backref src="/notes/god-promises-humans-deliver-retribution" >}}
+
+### God is slow to bring judgement but swift to execute it when the time is fulfilled
+
+{{< backref src="/notes/god-is-slow-to-judge-but-swift-to-execute" >}}
+
+### God rescues individuals who repent, even in the midst of judgment
+
+{{< backref src="/notes/god-favors-mercy-over-judgment" >}}
