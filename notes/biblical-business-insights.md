@@ -22,3 +22,4 @@ These are Bible-based business insights from my MBA program.
 - {{< backref src="/notes/educate-to-make-better-servants" >}}
 - {{< backref src="/notes/kingdom-values-may-cause-business-setbacks" >}}
 - {{< backref src="/notes/finances-expose-faith-more-than-words" >}}
+- {{< backref src="/notes/the-bible-is-not-a-business-rulebook" >}}

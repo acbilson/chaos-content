@@ -22,3 +22,4 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/unteachable-leaders-are-doomed" >}}
 - {{< backref src="/notes/leaders-initiate-relationships" >}}
 - {{< backref src="/notes/emotional-presence-affects-followers" >}}
+- {{< backref src="/notes/leadership-style-depends-on-circumstance" >}}
