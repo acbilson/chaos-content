@@ -18,3 +18,4 @@ These are culture-based business insights from my MBA program.
 - {{< backref src="/notes/we-need-global-leaders" >}}
 - {{< backref src="/notes/empathy-exposes-cultural-bias" >}}
 - {{< backref src="/notes/europe-is-split-into-three-cultures" >}}
+- {{< backref src="/notes/behavior-is-comprehensible-only-within-culture" >}}

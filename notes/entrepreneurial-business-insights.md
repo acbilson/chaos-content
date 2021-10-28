@@ -40,3 +40,5 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/value-proposition-canvas" >}}
 - {{< backref src="/notes/common-barriers-to-product-adoption" >}}
 - {{< backref src="/notes/keep-product-development-close-to-customers" >}}
+- {{< backref src="/notes/focus-on-one-fruitful-channel" >}}
+- {{< backref src="/notes/fruitful-channels-may-surprise" >}}
