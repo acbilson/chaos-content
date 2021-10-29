@@ -44,3 +44,6 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/vanity-metrics-obscure-true-performance" >}}
 - {{< backref src="/notes/ventures-need-committed-partners" >}}
 - {{< backref src="/notes/vision-leads-to-profit" >}}
+- {{< backref src="/notes/foster-innovation" >}}
+- {{< backref src="/notes/new-presentation-new-insight" >}}
+- {{< backref src="/notes/intelligencia-product-design-critique" >}}

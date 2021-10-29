@@ -20,3 +20,4 @@ These are culture-based business insights from my MBA program.
 - {{< backref src="/notes/outsiders-are-advantaged-in-cultural-intelligence" >}}
 - {{< backref src="/notes/pseudo-cultural-experience-does-not-build-cultural-intelligence" >}}
 - {{< backref src="/notes/we-need-global-leaders" >}}
+- {{< backref src="/notes/cultural-intelligence-is-crucial-for-todays-leaders" >}}
