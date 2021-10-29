@@ -28,3 +28,9 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/leaders-are-assisted-by-intuition" >}}
 - {{< backref src="/notes/cultural-intelligence-is-crucial-for-todays-leaders" >}}
 - {{< backref src="/notes/attraction-between-leaders-and-followers-is-mutual" >}}
+- {{< backref src="/notes/bring-others-to-the-summit" >}}
+- {{< backref src="/notes/a-leaders-primary-service-is-connection" >}}
+- {{< backref src="/notes/leaders-with-vision-and-no-compromise-fail" >}}
+- {{< backref src="/notes/empowerment-is-relational" >}}
+- {{< backref src="/notes/serve-a-better-leader" >}}
+- {{< backref src="/notes/keep-the-vision-steady" >}}

@@ -28,3 +28,6 @@ These are Bible-based business insights from my MBA program.
 - {{< backref src="/notes/wise-business-needs-holy-spirit-help" >}}
 - {{< backref src="/notes/leaders-are-assisted-by-intuition" >}}
 - {{< backref src="/notes/attraction-between-leaders-and-followers-is-mutual" >}}
+- {{< backref src="/notes/a-leaders-primary-service-is-connection" >}}
+- {{< backref src="/notes/leaders-with-vision-and-no-compromise-fail" >}}
+- {{< backref src="/notes/keep-the-vision-steady" >}}

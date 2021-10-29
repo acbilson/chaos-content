@@ -47,3 +47,8 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/foster-innovation" >}}
 - {{< backref src="/notes/new-presentation-new-insight" >}}
 - {{< backref src="/notes/intelligencia-product-design-critique" >}}
+- {{< backref src="/notes/most-customers-are-not-ready-to-buy-today" >}}
+- {{< backref src="/notes/companies-with-bold-views-stand-out" >}}
+- {{< backref src="/notes/sticky-branding-plan" >}}
+- {{< backref src="/notes/value-proposition-alternative" >}}
+- {{< backref src="/notes/minimum-viable-product-example" >}}
