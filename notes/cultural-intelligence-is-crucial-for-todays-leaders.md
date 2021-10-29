@@ -17,7 +17,7 @@ Charisma and efficiency may top the charts on most U.S. leader's most wanted ski
 
 ## Importance
 
-If "leadership is influence--nothing more, nothing less ({maxwell-leadership}, pg. 20)" then the leader who can influence people from any cultural background is in a position to manage the world's global business connections.  The entrepreneur with high CI has unrestricted access to the world's entrepreneurial resources, not just those in his host culture.  The personnel resources of the world are also at his disposal since he can lead all types of people.  The perspectives of countless cultures are accessible to him, which gives his business advantages in vision and strategy that people from a single culture do not possess.  CI cannot replace non-negotiable leadership traits like humility or integrity, but it is more valuable than any one culture's prized characteristic by itself.
+If "leadership is influence--nothing more, nothing less {{< cite name=Maxwell loc="pg. 20" >}}" then the leader who can influence people from any cultural background is in a position to manage the world's global business connections.  The entrepreneur with high CI has unrestricted access to the world's entrepreneurial resources, not just those in his host culture.  The personnel resources of the world are also at his disposal since he can lead all types of people.  The perspectives of countless cultures are accessible to him, which gives his business advantages in vision and strategy that people from a single culture do not possess.  CI cannot replace non-negotiable leadership traits like humility or integrity, but it is more valuable than any one culture's prized characteristic by itself.
 
 ## Application
 
