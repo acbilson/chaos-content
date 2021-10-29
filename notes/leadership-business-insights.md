@@ -24,3 +24,7 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/leadership-style-depends-on-circumstance" >}}
 - {{< backref src="/notes/unteachable-leaders-are-doomed" >}}
 - {{< backref src="/notes/we-need-global-leaders" >}}
+- {{< backref src="/notes/personal-connection-improves-performance" >}}
+- {{< backref src="/notes/leaders-are-assisted-by-intuition" >}}
+- {{< backref src="/notes/cultural-intelligence-is-crucial-for-todays-leaders" >}}
+- {{< backref src="/notes/attraction-between-leaders-and-followers-is-mutual" >}}
