@@ -52,3 +52,11 @@ These are entrepreneurship-based business insights from my MBA program.
 - {{< backref src="/notes/sticky-branding-plan" >}}
 - {{< backref src="/notes/value-proposition-alternative" >}}
 - {{< backref src="/notes/minimum-viable-product-example" >}}
+- {{< backref src="/notes/customer-knowledge-affects-sales-strategy" >}}
+- {{< backref src="/notes/attunement-buoyancy-and-clarity-are-crucial-sales-skills" >}}
+- {{< backref src="/notes/not-every-sales-prospect-deserves-equal-time" >}}
+- {{< backref src="/notes/sales-calls-trump-email" >}}
+- {{< backref src="/notes/prepare-pitches-or-pay-the-price" >}}
+- {{< backref src="/notes/neither-charisma-nor-experience-replaces-practice" >}}
+- {{< backref src="/notes/all-communication-benefits-from-eloquence" >}}
+- {{< backref src="/notes/pitch-script-example" >}}
