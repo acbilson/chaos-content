@@ -31,3 +31,6 @@ These are Bible-based business insights from my MBA program.
 - {{< backref src="/notes/a-leaders-primary-service-is-connection" >}}
 - {{< backref src="/notes/leaders-with-vision-and-no-compromise-fail" >}}
 - {{< backref src="/notes/keep-the-vision-steady" >}}
+- {{< backref src="/notes/good-business-depends-on-theology" >}}
+- {{< backref src="/notes/dont-do-discount-deception" >}}
+- {{< backref src="/notes/supernatural-discernment-is-an-entrepreneurial-advantage" >}}

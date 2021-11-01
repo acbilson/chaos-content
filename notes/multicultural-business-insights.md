@@ -23,3 +23,5 @@ These are culture-based business insights from my MBA program.
 - {{< backref src="/notes/cultural-intelligence-is-crucial-for-todays-leaders" >}}
 - {{< backref src="/notes/four-pillars-of-cultural-intelligence" >}}
 - {{< backref src="/notes/persevere-in-cultural-intelligence" >}}
+- {{< backref src="/notes/culture-is-a-series-of-concentric-circles" >}}
+- {{< backref src="/notes/language-is-integral-to-culture" >}}

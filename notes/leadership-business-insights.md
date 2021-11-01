@@ -34,3 +34,5 @@ These are leadership-based business insights from my MBA program.
 - {{< backref src="/notes/empowerment-is-relational" >}}
 - {{< backref src="/notes/serve-a-better-leader" >}}
 - {{< backref src="/notes/keep-the-vision-steady" >}}
+- {{< backref src="/notes/leaders-develop-towards-their-ideal" >}}
+- {{< backref src="/notes/leaders-form-healthy-team-norms" >}}
