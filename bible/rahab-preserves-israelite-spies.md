@@ -1,5 +1,7 @@
 +++
-backlinks = []
+backlinks = [
+  "/notes/god-favors-mercy-over-judgment"
+]
 tags = ["rahab","spies",]
 title = "Rahab Preserves Israelite Spies"
 ref = "Joshua 2:1-24"
