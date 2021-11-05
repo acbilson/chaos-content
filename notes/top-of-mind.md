@@ -3,7 +3,7 @@ author = "Alex Bilson"
 comments = false
 date = "2021-07-12T00:00:00"
 epistemic = "seedling"
-lastmod = "2021-10-28 12:06:30"
+lastmod = "2021-11-05T13:54:40.800942"
 tags = [ "todo",]
 title = "Top of Mind"
 +++
@@ -79,6 +79,6 @@ title = "Top of Mind"
 
 I'm slowly adding hundreds of business insights from my MBA to my site's notes. Getting them there is step one, then I want to begin mapping them together into a cohesive network for easy reference and thinking.
 
-There are a few places I could use a component architecture, and many more that I could dream up. I'm thinking about using the [Tonic framework](https://tonicframework.dev/) to craft custom web components for parts of my site.
+There are a few places I could use a component architecture, and many more that I could dream up. I'm thinking about using the [Tonic framework](https://tonicframework.dev/) to craft custom web components for parts of my site. UPDATE: I've effectively included Tonic in a local development branch and loaded up one of the pre-built components from the examples. Amazing! Now I might consider implementing that super-cool panel display I've seen elsewhere, where you click an internal link and it opens side-by-side with the existing content. That'd be a little cooler and more usable than inline hidden divs, though I love how simple they are.
 
 It's not going to happen right away, but someday I want to migrate the stories I've written in my ship's log into full stories under posts. That'll make them easier to find again. It's part of ongoing thoughts I have about the way my log operates. Today it's everything from day one, but it could be paginated by year, month, etc. Or it could be wiped fresh and the best moved. IDK.
