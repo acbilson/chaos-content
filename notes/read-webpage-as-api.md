@@ -4,7 +4,7 @@ backlinks = [ "/notes/craft-your-own-site",]
 comments = false
 date = "2020-10-02T14:45:33"
 epistemic = "plant"
-lastmod = "2021-11-05T14:13:36.080431"
+lastmod = "2021-11-05T14:25:36.663945"
 tags = [ "writing", "javascript",]
 title = "Read Webpage As API"
 +++
@@ -17,6 +17,10 @@ Content that sits in a database is sharable, but not eminently so. Databases are
 In contrast, structured HTML is available to anyone with web browser. A developer can look at the structure of my site and query the same type of information from any page. This is marvelously sharable.
 
 While it's true that a person _could_ mark up database-driven HTML to be queried by external sources, a sort of public API to replicate their private API, it's inevitable that one of these APIs will atrophy. Always the unused one. This is why, not only do I publish API-able HTML, but I depend on it.
+
+## An Obstacle To Structured HTML
+
+In spite of my commitment to supplying a clean interface for others to read and share my content, I am not actually utilizing other's sites in the same way. It would not be impossible to generate a few lines of JavaScript which could pull data from a neighbor's website, yet I haven't bothered to try. Is it because I fear that their interface will change? Or because I may have to generate a few lines for each individual site, paying attention to the nuances of their implementation? This is why platforms rule the digital space...
 
 ## Example JavaScript Snippet
 
