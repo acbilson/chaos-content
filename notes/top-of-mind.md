@@ -3,7 +3,7 @@ author = "Alex Bilson"
 comments = false
 date = "2021-07-12T00:00:00"
 epistemic = "seedling"
-lastmod = "2021-11-05T13:54:40.800942"
+lastmod = "2021-11-08 15:09:13"
 tags = [ "todo",]
 title = "Top of Mind"
 +++
@@ -15,6 +15,7 @@ title = "Top of Mind"
 - {{< backref src="/notes/bible-discoveries" >}}
 - {{< backref src="/notes/craft-your-own-site" >}}
 - {{< backref src="/notes/angular-maxims" >}}
+- {{< backref src="/notes/digital-gardens" >}}
 
 # Reading
 
