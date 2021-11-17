@@ -3,7 +3,7 @@ author = "Alex Bilson"
 comments = false
 date = "2021-11-17T19:01:16.379390"
 epistemic = "seedling"
-lastmod = "2021-11-17T19:01:16.379407"
+lastmod = "2021-11-17T19:13:49.899433"
 tags = [ "wasm", "blazor", "csharp",]
 title = "Learn WebAssembly With Blazor"
 +++
@@ -17,3 +17,5 @@ These are my scratch notes and I learn how it's done.
 - [Blazor Web API Tutorial](https://docs.microsoft.com/en-us/aspnet/core/blazor/call-web-api?view=aspnetcore-6.0&pivots=webassembly)
 
 While the basic tutorial looks fairly easy, it's crucial to have a service call to demonstrate the full power of what's possible. Practically every production-ready web app needs to fetch data from a backend database, so my learning must include this step to be worthwhile.
+
+Only related to the Web API portion, Scott Hanselman wrote a helpful overview of the latest C# code for a [Minimal Web API](https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6).
