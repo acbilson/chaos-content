@@ -1,6 +1,7 @@
 +++
-author = "Madeleine L'Engle"
-copyright = "1980"
+authors = [
+  "Madeleine L'Engle"
+]
 date = "2021-11-15"
 source = "Walking On Water"
 page = "194"

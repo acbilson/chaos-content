@@ -1,5 +1,7 @@
 +++
-author = "Madeleine L'Engle"
+authors = [
+  "Madeleine L'Engle"
+]
 copyright = "1980"
 date = "2021-11-15"
 page = "169-170"
