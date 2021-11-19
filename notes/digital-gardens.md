@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 comments = false
 date = "2021-11-08"
-lastmod = "2021-11-12 14:59:50"
+lastmod = "2021-11-19 08:34:53"
 epistemic = "seedling"
 tags = ["digital-garden","web-design"]
 title = "Digital Gardens"
@@ -139,10 +139,14 @@ This type has no correlative today. It comprises any content, whether it's a quo
 
 ## For making a map-style interface
 
-[Pencil Effect](https://webdesigntips.blog/web-design/css-tricks/creating-a-pencil-effect-in-svg/)
-[Effects and Inspiration](https://heredragonsabound.blogspot.com/2021/10/creating-pencil-effect-in-svg-part-2.html)
-[Map Inspiration](http://mewo2.com/bots/mythicmaps/)
-[Inspiration](https://www.lordofthemaps.com/)
+- [Pencil Effect](https://webdesigntips.blog/web-design/css-tricks/creating-a-pencil-effect-in-svg/)
+- [Effects and Inspiration](https://heredragonsabound.blogspot.com/2021/10/creating-pencil-effect-in-svg-part-2.html)
+- [Map Inspiration](http://mewo2.com/bots/mythicmaps/)
+- [Inspiration](https://www.lordofthemaps.com/)
+- [Animate Along Path](https://codepen.io/yshlin/pen/dxGlH/)
+- [Inkscape Simplify](https://inkscape.org/doc/tutorials/advanced/tutorial-advanced.html)
+- [Inkscape Caligraphy](https://inkscape.org/doc/tutorials/calligraphy/tutorial-calligraphy.html)
+- [Map Collection For Tracing](https://www.davidrumsey.com/)
 
 ## For exploring other tools
 
