@@ -1,33 +1,3 @@
-+++
-Title = "Garden"
-displayInMenu = true
-kind = "section"
-+++
-
-Create SVG drawings at [Draw SVG](https://drawsvg.org/drawsvg.html)
-
-{{< raw >}}
-<!--
-<figure style="position: absolute; top: 3300px; left: 400px; z-index: 99;">
-    <img src="./data/boat.svg" />
-    <a href="{{< ref "/notes" >}}">
-      <span style="position: relative; top: -75px; left: 55px;">Notes</span>
-    </a>
-</figure>
-
-<figure>
-  <img src="./data/island.svg" />
-</figure>
-
-<figure>
-  <img src="./data/river.svg" />
-  <img style="position: relative; width: 10%; left: 50%; top: -300px;" src="./data/boat.svg">
-  <a href="{{< ref "/notes" >}}">
-    <span style="position: relative; top: -75px; left: 55px;">Notes</span>
-  </a>
-  </img>
-</figure>
--->
 <svg id="combo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" viewBox="0, 0, 400, 640">
 <defs>
   <g id="river">
@@ -45,37 +15,9 @@ Create SVG drawings at [Draw SVG](https://drawsvg.org/drawsvg.html)
   </svg>
 </defs>
 
-  <use id="boat_1" x="145" y="-210" xlink:href="#boat" />
-  <use id="boat_2" x="200" y="220" xlink:href="#boat" />
-  <use id="boat_3" x="110" y="30" xlink:href="#boat" />
-  <use id="boat+4" x="0" y="0" xlink:href="#river" />
+  <use x="0" y="0" xlink:href="#river" />
+  <use x="145" y="-210" xlink:href="#boat" />
+  <use x="200" y="220" xlink:href="#boat" />
+  <use x="110" y="30" xlink:href="#boat" />
 </svg>
 
-
-<!--
-<figure>
-  <img src="./data/combo.svg" />
-</figure>
--->
-
-<script>
-
-
-console.log('running script');
-window.addEventListener('load', (e) => {
-
-  const el = document.getElementById('combo');
-  el.addEventListener('mouseup', (e) => {
-    console.log(e.target.id);
-    const id = e.target.id;
-    if (['boat_1','boat_2','boat_3'].includes(id)) {
-
-      console.log(`clicked boat: ${id}`);
-    }
-  });
-
-
-});
-
-</script>
-{{< /raw >}}
