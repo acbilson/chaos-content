@@ -3,7 +3,7 @@ author = "Alex Bilson"
 comments = false
 date = "2021-07-16T00:00:00"
 epistemic = "sprout"
-lastmod = "2021-10-28 16:08:44"
+lastmod = "2021-11-23 12:00:17"
 tags = [ "bible", "discovery",]
 title = "Bible Discoveries"
 +++
@@ -57,7 +57,7 @@ Who knew there were so many, but the way you view the Bible has a dramatic affec
 
 # Research in John 5
 
-In the story where {{< backref src="/bible/jesus-heals-a-crippled-man-near-the-sheep-gate" >}}, Jesus uses His relationship with the Father as the basis for numerous arguments.
+In the story where {{< backref src="/stones/bible/jesus-heals-a-crippled-man-near-the-sheep-gate" >}}, Jesus uses His relationship with the Father as the basis for numerous arguments.
 
 - Jesus performs miracles because the Father loves him and shows him what he's doing (implied, that the Father performs miracles with/through Jesus)
 - The Father leaves all judgment to Jesus because the Father wants him to receive equal honor.

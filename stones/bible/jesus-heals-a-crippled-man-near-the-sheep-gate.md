@@ -1,10 +1,12 @@
 +++
+aliases = ["/bible/jesus-heals-a-crippled-man-near-the-sheep-gate/"]
 backlinks = [
   "/notes/to-listen-and-obey-jesus-word-brings-life",
   "/notes/bible-discoveries"
 ]
 tags = ["jesus","sabbath","healing","judgment","work","faith"]
 title = "Jesus Heals A Crippled Man Near the Sheep Gate"
+type = "bible"
 ref = "John 5:1-47"
 +++
 After this{{< superset 1 "notes" >}} there was a feast of the Jews, and Jesus went up to Jerusalem.

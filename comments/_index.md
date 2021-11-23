@@ -1,6 +1,7 @@
 +++
 Title = "Comments"
 displayInMenu = false
+narrow = true
 +++
 {{< raw >}}
 <div class="remark42__last-comments" data-max="50"></div>

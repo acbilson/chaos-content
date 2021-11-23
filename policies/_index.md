@@ -2,6 +2,7 @@
 Title = "Policies"
 displayInMenu = false
 kind = "page"
+narrow = true
 +++
 
 Since adding the capacity for users to enter comments, I must now elucidate my site policies.

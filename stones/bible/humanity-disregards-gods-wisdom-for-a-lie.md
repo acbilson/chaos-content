@@ -1,9 +1,11 @@
 +++
+aliases = ["/bible/humanity-disregards-gods-wisdom-for-a-lie/"]
 backlinks = [
   "/notes/actions-in-human-wisdom-lead-to-death"
 ]
 tags = ["adam","eve"]
 title = "Humanity Disregards God's Wisdom For a Lie"
+type = "bible"
 ref = "Genesis 3:1-24"
 +++
 Now the serpent was more crafty than any other beast of the field that the LORD God had made. He said to the woman, "Did God actually say, 'You shall not eat of any tree in the garden'?"
