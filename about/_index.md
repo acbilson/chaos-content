@@ -2,7 +2,7 @@
 Title = "About"
 displayInMenu = true
 kind = "page"
-
+narrow = true
 +++
 My name's Alex, and I'm a refiner by trade and passion, an engineer of software and systems, a husband to the lovely Amie, father to Graham and baby incoming, and a follower of Jesus.
 

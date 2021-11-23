@@ -2,6 +2,7 @@
 Title = "Blog Roll"
 displayInMenu = true
 kind = "page"
+narrow = true
 +++
 Here's a list of other independent blog writers that I follow and from whom I draw inspiration.
 
