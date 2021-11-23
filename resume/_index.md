@@ -3,6 +3,7 @@ Title = "Resumé"
 displayInMenu = true
 kind = "page"
 toc = "true"
+narrow = true
 +++
 {{< raw >}}
 <style>

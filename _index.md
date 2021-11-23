@@ -1,5 +1,6 @@
 +++
 IsHome = true
+narrow = true
 kind = "home"
 title = ""
 +++
