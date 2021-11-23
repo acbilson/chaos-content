@@ -3,7 +3,7 @@ author = "Alex Bilson"
 category = "parenting"
 comments = true
 date = "2021-07-28"
-lastmod = "2021-09-30 15:38:09"
+lastmod = "2021-11-23 12:02:18"
 description = "In which Alex wrestles with how to make his children do what he wants."
 tags = ["parenting","independence","obedience"]
 title = "How to Enforce Obedience"
@@ -40,7 +40,7 @@ Tim and I share much in common. We both long for our children to reap the benefi
 
 # Does God Enforce Obedience?
 
-The first opportunity to learn about God's approach to obedience is in Genesis 3, when {{< backref src="/bible/humanity-disregards-gods-wisdom-for-a-lie" >}}. The LORD has given humans a command, "don't eat fruit from this tree" and a consequence, "you will die." Then what happens?
+The first opportunity to learn about God's approach to obedience is in Genesis 3, when {{< backref src="/stones/bible/humanity-disregards-gods-wisdom-for-a-lie" >}}. The LORD has given humans a command, "don't eat fruit from this tree" and a consequence, "you will die." Then what happens?
 
 If Tim and Bryan were retelling the story, God might demonstrate his love for humanity by stepping in to enforce their obedience. Maybe grab ahold of Eve's hand before she bites, or shout "STOP!". But He doesn't.
 

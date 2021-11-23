@@ -4,7 +4,7 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2021-07-27"
-lastmod = "2022-11-23 08:41:10"
+lastmod = "2022-11-23 08:42:34"
 epistemic = "sprout"
 tags = ["entrepreneurship","model","risk"]
 title = "The Church Must Learn New Forms"
@@ -23,8 +23,7 @@ We need new forms. New moulds into which the Spirit can pour another wave of Jes
 
 The business world is a ripe analogy. New business forms emerge, not from incumbent enterprises, but out of countless failures by discontent entrepreneurs who labor quietly on the fringes for years. The "instant" successes of Starbucks, Uber, and others are fabricated stories disseminated after years of failure and learning. They found success, not because they refined an existing product or added a new feature, but because they met a need that existing businesses coudn't see. Starbucks discovered a huge need, not for better coffee, but for a "third space".
 
-We desperately need more holy discontents in America who will make hundreds of mistakes to discover our new forms. Incumbent churches will, at best, ignore their efforts. At worst, they'll mock and persecute them, just as the Jerusalem leadership forbade Peter and John, two untrained men, from speaking about Jesus outside their synagogue and scribe model (see
-{{< backref src="/bible/apostles-forbidden-to-teach-in-jesus-name" >}}).
+We desperately need more holy discontents in America who will make hundreds of mistakes to discover our new forms. Incumbent churches will, at best, ignore their efforts. At worst, they'll mock and persecute them, just as the Jerusalem leadership forbade Peter and John, two untrained men, from speaking about Jesus outside their synagogue and scribe model (see {{< backref src="/stones/bible/apostles-forbidden-to-teach-in-jesus-name" >}}).
 
 ### References
 
