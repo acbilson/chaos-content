@@ -7,7 +7,6 @@ date = "2021-11-15"
 page = "24"
 source = "Walking On Water"
 tags = ["art","inspiration","listening","service","prayer"]
-title = "When The Artist Is Truly The Servant Of The Work, The Work Is Better Than The Artist"
 +++
 When the artist is truly the servant of the work, the work is better than the artist. Shakespeare knew how to listen to his work, and so he often wrote better than he could write; Bach composed more deeply, more truly than he knew; Rembrant's brush put more of the human spirit on canvas than Rembrandt could comprehend.
 

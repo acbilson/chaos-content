@@ -1,11 +1,6 @@
 +++
-aliases = ["/bible/god-creates-the-heavens-and-the-earth/"]
-backlinks = [
-  "/notes/god-shares-the-sustaining-of-creation-with-others"
-]
-tags = ["creation","identity"]
-title = "God Creates The Heavens And The Earth"
 type = "bible"
+tags = ["creation","identity"]
 ref = "Genesis 1:1-2:4"
 +++
 In the beginning, God created the heavens and the earth.

@@ -1,5 +1,5 @@
 +++
-Title = "Garden"
+Title = "Gardens"
 displayInMenu = true
 kind = "section"
 +++
