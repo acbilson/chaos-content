@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-08-25 15:58:37"
+lastmod = "2021-11-30 14:32:46"
 narrow = true
 [coordinates]
     x = 200
-    y = 450
+    y = 75
 +++
 This is a {{< acronym MOC "Map Of Content" >}} for the subject of apostolic gifting and work. It's my best attempt to understand the gift in light of my own expression of it and the examples I find in the Bible.
 

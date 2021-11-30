@@ -1,12 +1,12 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2021-11-30 08:12:44"
+lastmod = "2021-11-30 14:49:23"
 toc = true
 narrow = true
 [coordinates]
-    x = 100
-    y = 400
+    x = 50
+    y = 220
 +++
 This is a curated garden of business insights. Like an English Walled Garden, I have spaced parts of the garden to peruse independently, so might find the same insight planted in multiple sections.
 

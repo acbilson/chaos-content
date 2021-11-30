@@ -1,36 +1,12 @@
 +++
 date = "2021-07-12T00:00:00"
-lastmod = "2021-11-30 08:56:08"
+lastmod = "2021-11-30 13:59:46"
 toc = true
 narrow = true
 [coordinates]
     x = 50
     y = 50
 +++
-# Update
-
-I'm making a change to the structure of my website that will break nearly every existing link.
-
-My website has evolved from my own emerging needs. By now it's become a small ecosystem.
-
-It began in 2019 for two purposes: an outlet to continue a writing habit started in my MBA program, and a place to share our family's experiences for posterity.
-
-As my blog count began to push fifty, I became aware that no single theme had risen to the surface. I've written tutorials from my software explorations, open letters to government entities, stories from family trips, kingdom manifestos and more. At the same time I began to explore the concept of a digital garden.
-
-The garden analogy's emphasis on thought development and nurture instead of time-stamped, completed works matched my own meandering writing. I'm not trying to build an audience around a topic, I'm growing ideas. The garden also became synonymous in my mind with heavily interlinked writing, called backlinks, where ideas could be explored in their wider context. The backlink concept, along with the traditional tagging system, was a perfect fit for my analytical mind.
-
-My site's evolution towards a garden began with the introduction of a notes type. I kept my traditional blog-style posts, adding only a little organization to make them easier to navigate, and added a new section called Notes. As I began to add notes to my site and implement the backlinks concept I began to experience the benefits.
-
-A series of notes on evangelism was instrumental in clarifying my thoughts on the subject and helped me craft a short presentation. While I might have written a single post to capture the list of paradigm shifts I wanted to describe, writing them as atomic thoughts helped me separate the ideas from their structure. That little bit of separation helped me analyze similarities and differences among the notes and adjacent ideas.
-
-Many writers who use organic note systems grow them privately and compose only final drafts for public use. There are good reasons to write this way, but I am choosing to conduct _all_ my writing in public. The small risk of plagiarism is worth being able to view and share anything I've written, no apps needed.
-
-As I developed my own notes, I became aware that integrating the writing of others was crucial, but I treated these references as isolated quotes or hyperlinks. Inspired by [Nick Trombley](barnsworthburning.net) I decided that, even though my garden is primarily to grow ideas, the context is incomplete without better references to source material. This has inspired a new type of content which, because of it's unchanging nature, I'm calling the stones. And to match the garden language, notes will be called plants.
-
-A bunch of disconnected plants and stones does not a garden make, so a new overarching **garden** type will fill that need. Plants may be directly interconnected with other plants and stones, but when there is developing system of thought it will be placed into its own garden. Some of my posts already qualify, and some aggregate notes called {{< acronym MOCs "Maps Of Content" >}}.
-
-My log page will remain largely unchanged. Posts will disappear entirely, and their content moved into the new **plant** type. Where my posts are composed of many plants, they will move to the **garden** type.
-
 # Reading
 
 - Genesis, Joshua, and Psalms

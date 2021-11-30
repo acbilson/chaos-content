@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-11-30 08:35:43"
+lastmod = "2021-11-30 14:39:07"
 narrow = true
 [coordinates]
-    x = 50
-    y = 350
+    x = 180
+    y = 130
 +++
 TODO: organize a little more
 This is a {{< acronym MOC "Map Of Content" >}} for the subject of renewal and revival in Christ's community and body, the Church.

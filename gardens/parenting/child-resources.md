@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2020-02-20"
-lastmod = "2021-11-30 08:17:24"
+lastmod = "2021-11-30 14:50:30"
 narrow = true
 [coordinates]
-    x = 150
-    y = 100
+    x = 250
+    y = 420
 +++
 Many have undertaken to compile a list of baby resources, and it seemed fitting that we too should offer the list of online baby resources as we are analysts and take a unique approach.
 

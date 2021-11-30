@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2020-06-17"
-lastmod = "2021-11-30 08:37:11"
+lastmod = "2021-11-30 14:47:37"
 narrow = true
 [coordinates]
-    x = 50
-    y = 200
+    x = 230
+    y = 210
 +++
 If you've read my note, {{< backref src="/plants/faith/your-kingdom-come" >}}, then you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale.
 
