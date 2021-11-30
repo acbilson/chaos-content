@@ -1,12 +1,12 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-15"
-lastmod = "2021-11-30 08:12:40"
+lastmod = "2021-11-30 14:48:43"
 toc = true
 narrow = true
 [coordinates]
-    x = 200
-    y = 100
+    x = 25
+    y = 190
 +++
 ## Biography
 - Pao, Ellen. _Reset: My Fight for Inclusion and Lasting Change._ Spiegel & Grau. 2017

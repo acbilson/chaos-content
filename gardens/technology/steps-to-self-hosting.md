@@ -4,11 +4,11 @@ backlinks = [
   "/gardens/technology/craft-your-own-site",
 ]
 date = "2020-05-13"
-lastmod = "2021-11-30 08:24:07"
+lastmod = "2021-11-30 14:51:59"
 toc = true
 [coordinates]
-    x = 150
-    y = 600
+    x = 10
+    y = 350
 +++
 # Introduction
 

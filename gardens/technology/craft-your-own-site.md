@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2021-11-30 08:19:22"
+lastmod = "2021-11-30 14:51:10"
 narrow = true
 [coordinates]
-    x = 100
-    y = 550
+    x = 20
+    y = 300
 +++
 Web development tools are the most comprehensive and flexible set of Lego blocks any adult might desire. These are all the fun things I've thought to try recently. Some of them you may find implemented on this site, others are only ideas or proof-of-concepts.
 

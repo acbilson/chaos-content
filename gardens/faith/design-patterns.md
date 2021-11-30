@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-09-22 14:05:50"
+lastmod = "2021-11-30 14:41:08"
 narrow = true
 [coordinates]
-    x = 250
-    y = 300
+    x = 210
+    y = 175
 +++
 These are design patterns that I've either learned from the Bible Project or are developing on my own. These topics develop from Genesis to Revelation and find their culmination in Jesus.
 
