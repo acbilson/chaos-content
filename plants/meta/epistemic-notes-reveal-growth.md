@@ -1,10 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-21"
-lastmod = "2021-07-21 07:55:29"
+lastmod = "2021-11-30 08:01:58"
 epistemic = "plant"
 tags = ["notes","epistemic"]
-title = "Epistemic Notes Reveal Growth"
 +++
 Of the many cool features of Maggie Appleton's {{< outref src="https://maggieappleton.com/garden" name="personal site" >}}, one of my favorite is the use of plants as epistemological indicators. I've adopted my own slightly modified version. Here's how it works:
 

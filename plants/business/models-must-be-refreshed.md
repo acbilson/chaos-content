@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-17"
-lastmod = "2021-08-18 11:37:00"
+lastmod = "2021-11-30 07:54:28"
 epistemic = "seedling"
 tags = ["model","entropy"]
 +++

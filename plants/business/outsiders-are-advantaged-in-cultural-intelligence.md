@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-03"
-lastmod = ""
+lastmod = "2021-11-30 07:54:35"
 epistemic = "sprout"
 tags = ["culture","cultural-intelligence"]
 +++

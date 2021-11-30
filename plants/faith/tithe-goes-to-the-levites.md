@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-17T03:28:56+01:00"
-lastmod = ""
+lastmod = "2021-11-30 07:59:11"
 epistemic = "sprout"
 tags = ["tithe","levites"]
 +++
