@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-10-28"
-lastmod = "2021-10-28 15:33:35"
+lastmod = "2021-11-30 07:56:56"
 epistemic = "sprout"
 tags = ["imago-dei","justice","retribution","canaan"]
 +++

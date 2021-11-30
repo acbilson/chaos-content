@@ -46,6 +46,6 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 
 {{< outref src="https://brendanschlagel.com" name="Brendan Schlagel" >}} - Brendan has several thoughtful posts about the subject of writing on the web.
 
-{{< outref src="https://barnsworthburning.net" name="Barns Worth Burning" >}} - I honestly don't know what to make of this site, but I _love_ the way it operates. Magical.
+{{< outref src="https://barnsworthburning.net" name="Nick Trombley" >}} - I honestly don't know what to make of this site, but I _love_ the way it operates. Magical.
 
 {{< outref src="https://laurakalbag.com/" name="Laura Kalbag" >}} - I haven't spent a lot of time on her personal site (yet), but Laura's work for the {{< outref src="https://small-tech.org/" name="Small Technology Foundation" >}} has definitely influenced me.

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-10T15:07:06"
-lastmod = ""
+lastmod = "2021-11-30 07:56:23"
 epistemic = "plant"
 tags = ["catholic","faith","devotion","mary","jesus","humility"]
 +++

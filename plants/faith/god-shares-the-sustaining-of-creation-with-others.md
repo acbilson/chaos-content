@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-21"
-lastmod = "2021-11-23 12:01:12"
+lastmod = "2021-11-30 07:56:57"
 epistemic = "seedling"
 tags = ["god","creation","work"]
 +++

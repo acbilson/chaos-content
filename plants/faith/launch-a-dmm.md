@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-16"
-lastmod = ""
+lastmod = "2021-11-30 07:57:55"
 epistemic = "seedling"
 tags = ["disciple-making","movement"]
 title = "Launch A DMM"

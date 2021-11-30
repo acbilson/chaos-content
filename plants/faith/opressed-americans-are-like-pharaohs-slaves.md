@@ -1,11 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-09"
-lastmod = "2021-11-24 08:31:03"
+lastmod = "2021-11-30 07:58:35"
 epistemic = "plant"
 tags = ["racism","video","privilege","history","bible","gratitude"]
 +++
-
 Have you watched this?
 
 {{< video "https://www.youtube.com/embed/sb9_qGOa9Go" >}}

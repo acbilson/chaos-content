@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-10"
-lastmod = "2021-11-10 10:57:55"
+lastmod = "2021-11-30 08:02:05"
 epistemic = "seedling"
 tags = ["digital-garden","web-design"]
 title = "Gardens As Museums of Other's Content"

@@ -1,17 +1,8 @@
 +++
-aliases = ["/posts/multi-repository-madness/"]
-category = "technology"
-comments = true
+author = "Alex Bilson"
 date = "2020-03-11"
-description = "In which Alex shares about his experience building a feature across eight interconnected Git repositories."
 tags = ["powershell", "git"]
-title = "Repository Madness"
-[featuredImage]
-  alt = "Terminal Output"
-  large = "https://raw.githubusercontent.com/acbilson/ps-git-sync/aim/images/action-branch.png"
-  small = "https://raw.githubusercontent.com/acbilson/ps-git-sync/aim/images/action-branch.png"
 +++
-TODO: add this story inside resume folder
 A few months ago, three colleagues and I added a new feature to a legacy .NET application. One of the technical challenges we faced was the distributed nature of the application's codebase.
 
 ## Background

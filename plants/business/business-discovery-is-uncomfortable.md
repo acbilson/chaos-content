@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = ""
+lastmod = "2021-11-30 07:52:38"
 epistemic = "sprout"
 tags = ["entrepreneurship","discovery","model","scale"]
 +++
@@ -19,7 +19,7 @@ For an entrepreneur to stay in customer discovery, he will need to hire people w
 - eager to search for a repeatable and scalable business model.
 - agile enough to deal with daily change and operating "without a map."
 - readily able to wear multiple hats, often on the same day.
-- comfortable celebrating failure when it leads to learning and iteration.  
+- comfortable celebrating failure when it leads to learning and iteration.
 (Blank, Rule No. 11: Startup Job Titles are Very Different from a Large Company's, pg. 44)
 
 The entrepreneur must resonate with these characteristics, and he must surround himself with others who do.

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-12-03T01:55:11"
-lastmod = "2021-07-20 15:29:34"
+lastmod = "2021-11-30 07:59:20"
 epistemic = "plant"
 tags = ["story","bible","book"]
 +++

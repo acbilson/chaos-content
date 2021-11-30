@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-08-25 15:25:57"
+lastmod = "2021-11-30 07:59:37"
 epistemic = "sprout"
 tags = ["bible","imago-dei","spiritual-gift","biblical-role"]
 +++
