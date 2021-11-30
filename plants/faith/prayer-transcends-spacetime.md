@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-08-05T13:21:17+01:00"
-lastmod = ""
+lastmod = "2021-11-30 07:58:37"
 epistemic = "sprout"
 tags = ["prayer", "spacetime"]
 +++

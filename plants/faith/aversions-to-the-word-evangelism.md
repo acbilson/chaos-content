@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
-lastmod = ""
+lastmod = "2021-11-30 07:56:19"
 epistemic = "seedling"
 tags = ["aversion","evangelism"]
 title = "Aversions To The Word 'Evangelism'"

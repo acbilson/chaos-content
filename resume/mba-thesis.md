@@ -1,4 +1,5 @@
 +++
+author = "Alex Bilson"
 date = "2020-04-30"
 lastmod = ""
 title = "MBA Consulting Thesis"

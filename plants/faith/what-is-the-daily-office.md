@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-05-19T17:30:07"
-lastmod = ""
+lastmod = "2021-11-30 07:59:23"
 epistemic = "sprout"
 tags = ["daily-office","spiritual-practice"]
 title = "What is the Daily Office?"

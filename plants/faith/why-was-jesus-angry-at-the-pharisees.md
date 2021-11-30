@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-12-16T22:00:04"
-lastmod = "2021-10-13 14:04:56"
+lastmod = "2021-11-30 07:59:31"
 tags = ["genetics","kingdom","anger"]
 epistemic = "seedling"
 title = "Why was Jesus Angry at the Pharisees?"

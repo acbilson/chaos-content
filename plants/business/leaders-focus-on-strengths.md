@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-03"
-lastmod = ""
+lastmod = "2021-11-30 07:54:06"
 epistemic = "sprout"
 tags = ["leadership","humility","strength"]
 +++

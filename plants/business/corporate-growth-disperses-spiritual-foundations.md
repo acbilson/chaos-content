@@ -4,9 +4,9 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2018-06-03"
+lastmod = "2021-11-30 07:53:16"
 epistemic = "sprout"
 tags = ["formation","character"]
-title = "Corporate Growth Disperses Spiritual Foundations"
 +++
 **The growth of one's integrated business is limited only by its leadership ability.**
 
