@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-27"
-lastmod = "2021-11-30 14:41:25"
+lastmod = "2021-11-30 15:56:43"
 narrow = true
 toc = true
 [coordinates]
@@ -10,13 +10,13 @@ toc = true
 +++
 How does Jesus' Kingdom community organize? Is the Sunday gathering primary? What are 'micro' groups? These are the sort of questions that keep me up into the wee hours of the morning. Will you join me in an exercise to loosely structure a Kingdom community?
 
-# Definitions
+## Definitions
 
 First, what the heck is 'Kingdom community'? Don't you just mean church?
 
 Certain words have baggage from long practice. Most church attendees agree that the church building != the Church (ἐκκλησία, the 'called out ones'), yet our practices reflect another conviction. I aim to shake our categories a little by ditching well-used words in favor of new, less baggage-ridden (I hope) words that I can be invested with new concepts. I'll let someone else try to redeem 'church' and 'Christian'.
 
-# Why Care?
+## Why Care?
 
 Second, why care how a Kingdom community organizes?
 
@@ -42,7 +42,7 @@ So, following my dense logic,
 
 Thus, one ought to care about the way Kingdom communities are formed because their organization directly affects human flourishing.
 
-# Kingdom Meetings
+## Kingdom Meetings
 
 Let's turn to the subject. When you consider how a Kingdom community might orient on a given week, at least four meetings exist:
 
@@ -55,7 +55,7 @@ These four exist in tension, like rubber bands holding an object in suspension. 
 
 ![kingdom-diagram](/posts/data/kingdom-community-diagram.svg)
 
-## Friendship
+### Friendship
 
 **Summary**
 
@@ -77,7 +77,7 @@ Friendship meetings exist to foster intimacy, which is a fundamental ingredient 
 
 Friendship meetings exist to bundle people together in resilient, transformative relationships. It's less relevant for a friendship meeting to have diverse viewpoints than to have a common purpose.
 
-## Special Interest
+### Special Interest
 
 **Summary**
 
@@ -97,7 +97,7 @@ Special interest meetings target a segment of the Kingdom community to bolster i
 
 Special interest meetings are tethered to the core purpose of the Kingdom community, to love God and neighbor, and must not devolve into knowledge transfer alone. This is especially relevant in American communities, where knowledge is prized above practice.
 
-## Discipleship
+### Discipleship
 
 **Summary**
 
@@ -135,7 +135,7 @@ Discipleship meetings replicate by inviting seekers to launch new groups with pe
 
 Discipleship meeting facilitators are coached by facilitators from another group. Loose central control is encouraged to foster expansion and innovation.
 
-## Sunday gathering
+### Sunday gathering
 
 **Summary**
 
@@ -157,18 +157,18 @@ Sunday gatherings have been regulated more than any other meeting. Regulations i
 
 Sunday gatherings remind participants of their shared purpose: to love God and their neighbors. The opportunity to celebrate with one another is valuable because it is so rarely done.
 
-# Confession
+## Confession
 
 This manifesto is incomplete, for who can escape the gravity of one's circumstances to envision a community different from one's own? It is bound by my humanity, by time and space, by errors, foibles, and misunderstandings. Nonetheless, it is uniquely my own, and I believe that I also have a measure of God's Spirit.
 
 Thank you for listening.
 
 
-# Addendum - Sunday Gatherings
+## Addendum - Sunday Gatherings
 
-As a painter returns to his work to apply a fresh layer of dimension, so I hope to further define my original [Kingdom Manifesto](). I will dispense with the introductory work and apply new strokes to the largest of the Kingdom meetings, Sunday gatherings.
+As a painter returns to his work to apply a fresh layer of dimension, so I hope to further define this manifesto. I will dispense with the introductory work and apply new strokes to the largest of the Kingdom meetings, Sunday gatherings.
 
-# Sunday Gatherings as a Service (SGAAS)
+## Sunday Gatherings as a Service (SGAAS)
 
 The centrality of the Sunday gathering is embedded in the United State's social fabric. It is the subject of countless books, podcasts and blogs, and has developed an entire vocabulary. Consider some Sunday-specific slang:
 
@@ -184,7 +184,7 @@ If you work in a technology marketing department, these definitions might be fam
 
 I want you to understand with this tongue-in-cheek slang comparison that the Sunday gathering is conceptualized and marketed exactly the same way that a company conceptualizes its core offering. As radical as an entrepreneur announcing that to his company that we've misidentified our company's fundamental service, I propose that we the Church have mistaken the Sunday gathering as our fundamental service. We the church need an innovative disruption to stay "relevant."
 
-# Sunday Gatherings in a new Light
+## Sunday Gatherings in a new Light
 
 Ok, so I've just stated that Sunday gatherings are not a fundamental service. Does that mean we do away with them? By no means! Instead, let's place the Sunday gathering in a more modest position alongside the other three meetings/services. You may call them "the four fundamental services" if you'd prefer alliterative genius.
 
@@ -214,7 +214,7 @@ Sunday gatherings have been regulated more than any other meeting. Regulations i
 
 Sunday gatherings remind participants of their shared purpose: to love God and their neighbors. The opportunity to celebrate with one another is valuable because it is so rarely done.
 
-# Confession
+## Confession
 
 This manifesto is incomplete, for who can escape the gravity of one's circumstances to envision a community different from one's own? It is bound by my humanity, by time and space, by errors, foibles, and misunderstandings. Nonetheless, it is uniquely my own, and I believe that I also have a measure of God's Spirit.
 

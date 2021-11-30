@@ -1,7 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-19"
-lastmod = "2021-11-30 14:40:47"
+lastmod = "2021-11-30 15:58:25"
+toc = true
 narrow = true
 [coordinates]
     x = 250
@@ -19,13 +20,13 @@ These notes are taken verbatim from Bridgeport's subsidiary website, {{< outref 
 
 The additional rituals which aren't listed under the three headings I've included under "Other". Based on the practice headings, there's some overlap with the three, but not everything. Some of the links actually go to different pages. I presume this is also a work in progress.
 
-# Be With Jesus
+## Be With Jesus
 
-## Silence & Solitude
+### Silence & Solitude
 
 The spiritual practice of removing yourself from the chaos of our modern, digital age to refocus and reconnect with God.
 
-### Practices
+#### Practices
 
 - Emotional Health
 - Casting Care
@@ -33,11 +34,11 @@ The spiritual practice of removing yourself from the chaos of our modern, digita
 - Lectio Divina
 - Retreat
 
-## Sabbath
+### Sabbath
 
 The Sabbath is a day blessed by God and set aside for rest and worship; a weekly celebration, almost like a holiday.
 
-### Practices
+#### Practices
 
 - The Preparation Day
 - Gratitude & Contentment
@@ -46,11 +47,11 @@ The Sabbath is a day blessed by God and set aside for rest and worship; a weekly
 - Cultivating Intimacy
 - Seasons of Life
 
-## Prayer
+### Prayer
 
 Prayer is the center-point of life with God. It should be woven into the fabric of our morning routine, our weekly schedule.
 
-### Practices
+#### Practices
 
 - The Basics & Lord's Prayer
 - Contemplative Prayer & Examen
@@ -60,27 +61,27 @@ Prayer is the center-point of life with God. It should be woven into the fabric 
 - Imaginative Prayer
 - Listening Prayer
 
-## Fasting
+### Fasting
 
 Fasting is a willing abstinence from food and is one of the most abused and least used of all the practices of Jesus.
 
-### Practices
+#### Practices
 
 - Starve The Flesh
 - Fasting as Prayer
 - Solidarity With The Poor
 
-## Bible Reading
+### Bible Reading
 
 Coming soon.
 
-# Become Like Jesus
+## Become Like Jesus
 
-## Dealing With Your Past
+### Dealing With Your Past
 
 For most of us, our family of origin is the single greatest influence on our life, for good or for evil.
 
-### Practices
+#### Practices
 
 - Generational Sin
 - Relational Patterns
@@ -88,11 +89,11 @@ For most of us, our family of origin is the single greatest influence on our lif
 - Generational Blessing
 - Healing of Memories
 
-## Discovering Your Identity & Calling
+### Discovering Your Identity & Calling
 
 Knowing who you are and who God made you to become is a profound realization for every follower of Jesus.
 
-### Practices
+#### Practices
 
 - The Journey
 - Identity
@@ -101,22 +102,22 @@ Knowing who you are and who God made you to become is a profound realization for
 - Habit Audit
 - Habit Swap
 
-## Forgiving As We Have Been Forgiven
+### Forgiving As We Have Been Forgiven
 
 Releasing those who sin against us from our right to collect on a debt of offense.
 
-### Practices
+#### Practices
 
 - Forgiving & Being Forgiven
 - Forgiving & Absorbing
 - How To Forgive
 - Reconciliation
 
-## Community
+### Community
 
 As we practice the way of Jesus, we need partners for the journey, a community to help us along the way.
 
-### Practices
+#### Practices
 
 - Finding Your Community
 - Emotional Health & Community Temperature Reading
@@ -125,103 +126,103 @@ As we practice the way of Jesus, we need partners for the journey, a community t
 - Fighting With Integrity
 - Seven Rhythms of Community
 
-## Simple Living
+### Simple Living
 
 Coming soon.
 
-## Embrace Grieving & Loss
+### Embrace Grieving & Loss
 
 Coming soon.
 
-## Develop A Rule Of Life
+### Develop A Rule Of Life
 
 Coming soon.
 
-# Do What Jesus Did
+## Do What Jesus Did
 
-## Eating & Drinking
+### Eating & Drinking
 
 The history of the church is around the table. For hundreds of years, this is where the people of Jesus met.
 
-### Practices
+#### Practices
 
-#### Eating & Drinking with the Lost
+##### Eating & Drinking with the Lost
 
 - Radically Ordinary Hospitality
 - Neighboring
 - Food as Justice
 
-#### Eating & Drinking with Family
+##### Eating & Drinking with Family
 
 - Church Around a Table
 - Celebration
 
-#### Eating & Drinking with God
+##### Eating & Drinking with God
 
 - Dining Room Table Christianity
 - The Meal
 - The Altar and the Table
 
-## Prayer
+### Prayer
 
 (links to Be With Jesus -> Prayer)
 
-## Healing the Sick
+### Healing the Sick
 
 Coming soon.
 
-## Teaching The Way
+### Teaching The Way
 
 Coming soon.
 
-## Preaching The Gospel
+### Preaching The Gospel
 
 Coming soon.
 
-## Peacemaking
+### Peacemaking
 
 Coming soon.
 
-## Doing Justice
+### Doing Justice
 
 Coming soon.
 
-## Prophesying
+### Prophesying
 
 Coming soon.
 
-## Standing Up Against Religious & Political Corruption
+### Standing Up Against Religious & Political Corruption
 
 Coming soon.
 
-# Other
+## Other
 
-## Fighting The World, The Flesh, & The Devil
+### Fighting The World, The Flesh, & The Devil
 
-### Practices
+#### Practices
 
-#### Fighting The Devil
+##### Fighting The Devil
 
 - Fighting Lies With Truth
 - Reading Scripture
 - Memorizing Scripture
 - Pause & Reflect: The Devil
 
-#### Fighting The Flesh
+##### Fighting The Flesh
 
 - Confession
 - Fasting
 - Pause & Reflect: The Flesh
 
-#### Fighting The World
+##### Fighting The World
 
 - Silence & Solitude
 - Idea Audit
 - Pause & Reflect: The World
 
-## Naming Your Stage Of Apprenticeship
+### Naming Your Stage Of Apprenticeship
 
-### Practices
+#### Practices
 
 - The Three Ways
 - The Enneagram & Noticing
@@ -229,9 +230,9 @@ Coming soon.
 - Active & Passive Spirituality
 - Dark Night Of The Soul
 
-## Unhurrying With A Rule Of Life
+### Unhurrying With A Rule Of Life
 
-### Practices
+#### Practices
 
 - Starting Your Rule of Life
 - Digital Rule of Life
@@ -240,9 +241,9 @@ Coming soon.
 - Margin & Limits
 - Refining Your Rule of Life
 
-## Scripture
+### Scripture
 
-### Practices
+#### Practices
 
 - Our Relationship to the Bible
 - Large Portions Aloud
@@ -250,9 +251,9 @@ Coming soon.
 - Study
 - Memorization
 
-## Simplicity
+### Simplicity
 
-### Practices
+#### Practices
 
 - The Propaganda of More
 - Simplicity of Heart
@@ -262,9 +263,9 @@ Coming soon.
 - Simplicity of Pleasure
 - Simplicity & Contentment
 
-## Preaching The Gospel
+### Preaching The Gospel
 
-### Practices
+#### Practices
 
 - Defining The Gospel
 - Life Shared: Join His Heart
