@@ -1,12 +1,12 @@
 +++
 author = "Alex Bilson"
 date = "2021-03-10"
-lastmod = "2021-11-30 08:45:03"
+lastmod = "2021-11-30 14:51:37"
 toc = true
 narrow = true
 [coordinates]
-    x = 300
-    y = 300
+    x = 50
+    y = 320
 +++
 # The Journey Begins
 

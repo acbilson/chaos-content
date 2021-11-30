@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2021-11-30 08:18:30"
+lastmod = "2021-11-30 14:50:29"
 narrow = true
 [coordinates]
-    x = 250
-    y = 500
+    x = 300
+    y = 400
 +++
 Todderish, or the language of toddlers, may share words from other tongues, but it remains a stubbornly unique language in any host culture.
 

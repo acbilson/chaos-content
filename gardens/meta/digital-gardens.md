@@ -1,12 +1,12 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2021-11-19 08:34:53"
+lastmod = "2021-11-30 15:11:22"
 toc = true
 narrow = true
 [coordinates]
-    x = 150
-    y = 500
+    x = 70
+    y = 65
 +++
 There's not an official definition for the term, "digital garden," but the best overview of the concept is Maggie Appleton's [History of the Digital Garden](https://maggieappleton.com/garden-history). You might also glean insight into the differences between a digital garden and a blog by reviewing Shawn's [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos/), or by Tom Critchlow's analysis of three forms of digital communication in [Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 

@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-06"
-lastmod = "2021-11-30 08:36:08"
+lastmod = "2021-11-30 14:47:29"
 narrow = true
 [coordinates]
-    x = 150
-    y = 300
+    x = 240
+    y = 190
 +++
 TODO: confirm all is copied from the original note
 The most common reaction to the word "evangelism" is discomfort. This can range from the mild discomfort of shame that you're not doing enough of it to an allergic reaction that anyone would foist their views on another. Generally, it's not a word that elicits excitement, wonder, or joy. Come with me through a few paradigm shifts and see if, perhaps, we can reduce your discomfort and grow your joy.

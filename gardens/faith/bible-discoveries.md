@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-16"
-lastmod = "2021-11-30 08:32:39"
+lastmod = "2021-11-30 14:38:12"
 narrow = true
 [coordinates]
-    x = 150
-    y = 500
+    x = 170
+    y = 110
 +++
 TODO: organize this garden into broad categories (bible-meta, imago dei, God, etc.)
 In hopes that themes will emerge and understanding deepen, here is all the content from discoveries I've made in the Bible.

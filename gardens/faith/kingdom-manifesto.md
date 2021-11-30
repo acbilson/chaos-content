@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-27"
-lastmod = "2021-11-30 08:15:11"
+lastmod = "2021-11-30 14:41:25"
 narrow = true
 toc = true
 [coordinates]
-    x = 300
+    x = 280
     y = 100
 +++
 How does Jesus' Kingdom community organize? Is the Sunday gathering primary? What are 'micro' groups? These are the sort of questions that keep me up into the wee hours of the morning. Will you join me in an exercise to loosely structure a Kingdom community?
