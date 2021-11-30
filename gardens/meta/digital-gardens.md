@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2021-11-30 15:11:22"
+lastmod = "2021-11-30 15:46:42"
 toc = true
 narrow = true
 [coordinates]
@@ -10,20 +10,20 @@ narrow = true
 +++
 There's not an official definition for the term, "digital garden," but the best overview of the concept is Maggie Appleton's [History of the Digital Garden](https://maggieappleton.com/garden-history). You might also glean insight into the differences between a digital garden and a blog by reviewing Shawn's [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos/), or by Tom Critchlow's analysis of three forms of digital communication in [Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
-# Content Concepts
+## Content Concepts
 
 Implementations of the digital garden concept vary widely, but among the most cohesive I've found two that serve as useful representations.
 
 - {{< backref src="/plants/meta/gardens-as-museums-of-others-content" >}}
 - {{< backref src="/plants/meta/gardens-as-networks-of-private-insight" >}}
 
-# Content Growth
+## Content Growth
 
 Digital gardens use the imagery of a garden to explore the maturity level of the garden's content. As a plant can begin a seed, grow into a sprout, and mature to a flower that itself bears seeds, so can an idea or concept that's encapsulated in one's content. This analogy assists content creators to differentiate their work among various classifications, such as its polish, their certainty of its reliability, or the breadth of humanity for which it may be applicable. An exploration into the digital garden must, by this analogy, also delve into the ways that plants arrive in the garden and how they are classified.
 
 There are two core classifications, fluid and stable. A digital gardener must, even if it's never classified on their site, {{< backref src="/plants/meta/define-fluid-and-stable-content" >}}.
 
-# A New Analogy
+## A New Analogy
 
 Riffing off Tom's streams metaphor, let's borrow the analogy of a boats sailing in a bay to explore the formation of a digital garden.
 
@@ -37,7 +37,7 @@ The boats floating in the stream are cohesive units of content. Every person has
 
 Inclusion does not equate to value. I may write journal entries to share the latest family updates with my family and friends. Just because it's mostly excluded doesn't make it drivel. And some of those updates are raw material for family stories that may be filled out and planted in my garden.
 
-# A New Site Vision
+## A New Site Vision
 
 > These are rough, unorganized notes as I attempt to figure out how this applies to my own website. The best content is above.
 
@@ -47,25 +47,25 @@ I'm tossing around a few tweaks to my own site after exploring the digital garde
 
 For my site, I _do_ want everything to flow into my own garden, no other tools required. Since my fluid content and my stable content are within the same system a clear definition of the two types can be explicitly filtered into boats (fluid) and rocks/plants (stable).
 
-## Log
+### Log
 
 A log is a fluid, chronological journal entry about me or my family. This content is displayed in the river as a boat. It's not included in other views, but can be clicked to open an individual log entry.
 
-## Quip
+### Quip
 
 A quip is a fluid, non-chronological entry that collects some idea or piece of content. It might be a flash of inspiration, a bookmark, a quote, etc. The content itself is all that's important; it does not require anything more than a timestamp. It will show up in the river as a boat of a different color/style.
 
-## Plant
+### Plant
 
 A plant is a stable entry of personal content. It might contain references to other's content, but it's core purpose is to encapsulate a gardener's personal thought. It is a Quip that's been expanded to include context and structure, such as a title or references. It's an organic entity that is open to further growth or pruning, but it has moved from the temporariness of the fluid boat to a place on the land.
 
-## Stone
+### Stone
 
 A stone is a stable entry of other's content. It encorporates full attribution to the original creator but, since it's not under the creator's control, is unlikely to change.
 
-### Bay View
+## Views
 
-TODO: Continue here
+### Bay View
 
 I'd love to have an iconic bay view that shows everyting from a 10,000 foot perspective. All the tributaries can be seen, like small ribbons leading into the bay. Small islands will be shown. The whole picture will have an ancient map feel. Entries that have recently been added to a tributary would be shown as a little boat floating towards the bay islands. Each of the tributaries or islands will be clickable.
 
@@ -79,7 +79,7 @@ Everything in this view will be a type. Broadly, there are two types: standing r
 
 This is the high-level overview display, but it is siloed in a way. Poetry will belong to "Poetry Point", but a poem about work that might be referenced by an article on Treasure Island has no way to display that link. And so the next view is born.
 
-### Treasures and Plants
+### Treasures and Plants View
 
 This view is about connection, therefore content that's in the tributaries drops off. Connection can be produced in two ways: by reference and by tag. These will be interchangable in some way.
 
@@ -136,9 +136,9 @@ This type matches the note type today. However, it also comprises the post type.
 
 This type has no correlative today. It comprises any content, whether it's a quote, a story, a design, etc. which I do not possess. It cannot grow because it's a snapshot of another's work. I'm not sure yet whether this type requires an epistemic value, but it should have a longevity value, I'm thinking "fresh", "worn", "mossy". Perhaps this _does_ incorporate the epistemic value, for it assumes that the time-worn holds more weight. Alternatively, there value could be calculated from the creation date: fresh being 0-3 months from creation, worn being 4-12 months, mossy being over a year. The purpose of having this value, like the growth value for plants, is to divide stones into two distinct places: on the island and off. Those stones which make it "on the island" are crucial to the formation of my ideas and life, while those not yet on the island are being tried out for veracity and usefulness.
 
-# Resources
+## Resources
 
-## For making a map-style interface
+### For making a map-style interface
 
 - [Pencil Effect](https://webdesigntips.blog/web-design/css-tricks/creating-a-pencil-effect-in-svg/)
 - [Effects and Inspiration](https://heredragonsabound.blogspot.com/2021/10/creating-pencil-effect-in-svg-part-2.html)
@@ -149,19 +149,19 @@ This type has no correlative today. It comprises any content, whether it's a quo
 - [Inkscape Caligraphy](https://inkscape.org/doc/tutorials/calligraphy/tutorial-calligraphy.html)
 - [Map Collection For Tracing](https://www.davidrumsey.com/)
 
-## For exploring other tools
+### For exploring other tools
 
 [TiddlyWiki](https://tiddlywiki.com/)
 
 - the only limitation to this one is figuring out how to host the tiddlers separate from the core empty.html file. I'd rather use Git to version control my content.
 - this is resolved, but I'm not convinced this is the best route for me to go.
 
-# Latest
+## Latest
 
 1. Create a TODO list
 2. Enter DG notes
 
-## TODO
+### TODO
 
 - Build a small Flask server to walk the content directory, generating a map of filename => backlinks[] and returning it as a JSON object for Hugo to consume as a [data template](https://gohugo.io/templates/data-templates/). This server will sit alongside the build to feed backlink data into the process so that I don't need to track backlinks, only backrefs
 - Complete gardens data migration

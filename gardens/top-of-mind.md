@@ -1,31 +1,24 @@
 +++
 date = "2021-07-12T00:00:00"
-lastmod = "2021-11-30 13:59:46"
-toc = true
+lastmod = "2021-11-30 15:20:59"
 narrow = true
 [coordinates]
     x = 50
     y = 50
 +++
+This is a scratch-pad of sorts. A way for me to dump things I intend to return to, but also a place I might share temporary stuff. I should probably get into a better habit, but...
+
 # Reading
 
-- Genesis, Joshua, and Psalms
-- Ragamuffin Gospel by Brennan Manning
-- Reforesting Faith by Dr. Matthew Sleeth (finished, mostly)
-- Pudd'nhead Wilson by Mark Twain (finished)
-- Faces At The Bottom Of The Well by Derrick Bell (finished)
+- Exodus, Judges, and Psalms
 
 # Watching
 
-- 30 Rock
-- Dinotrux: Supercharged
-- Hook (watched)
-- Mrs. Doubtfire (watched)
-- Jack (watched)
+- Seinfeld
 
 # Playing
 
-- Hill Climb Racing 2
+- Mindustry
 
 # Explorations
 
@@ -36,36 +29,40 @@ narrow = true
 
 ### Lenovo ThinkStation P340 SFF Workstation
 
-  - Price: $1159
-  - Processor: i5-10500 (3.10GHz)
-  - OS: Windows 10 Pro
-  - Memory: 16GB DDR4
-  - Video: Integrated
-  - Storage:
-   1. 256GB PCIe SSD
-   2. 2TB 7200 HDD
-  - Ethernet: BN8E88 1000M PCIe ASF
+```
+Price: $1159
+Processor: i5-10500 (3.10GHz)
+OS: Windows 10 Pro
+Memory: 16GB DDR4
+Video: Integrated
+Storage:
+ 256GB PCIe SSD
+ 2TB 7200 HDD
+Ethernet: BN8E88 1000M PCIe ASF
+```
 
 ### [Intel NUC 10 BXNUC10i3FNKN1 Mini](https://www.newegg.com/intel-bxnuc10i3fnkn1-nuc-10/p/N82E16856102305)
 
-  - Price: $607.43
+```
+Price: $607.43
 
-#### Booksize Barebone System
-  - Price: $332.49
-  - Processor: i3-10110U (up to 4.10GHz)
-  - OS: Windows 10 Pro
-  - Memory: None
-  - Video: Integrated
-  - Storage: None
-  - Ethernet: 1Gb + WiFI
+Booksize Barebone System
+Price: $332.49
+Processor: i3-10110U (up to 4.10GHz)
+OS: Windows 10 Pro
+Memory: None
+Video: Integrated
+Storage: None
+Ethernet: 1Gb + WiFI
 
-#### Storage: [Samsung 980 PRO M.2 2280](https://www.newegg.com/samsung-500gb-980-pro/p/N82E16820147789?quicklink=true)
-  - Price: $117.98
-  - Storage: 500Gb PCIe SSD
+Poss. Storage: [Samsung 980 PRO M.2 2280](https://www.newegg.com/samsung-500gb-980-pro/p/N82E16820147789?quicklink=true)
+ Price: $117.98
+ Storage: 500Gb PCIe SSD
 
-#### Memory: [Samsung 16Gb 260-Pin SO-DIMM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9)
-  - Price: $78.48 (x2 = $156.96)
-  - Storage: 16Gb DDR4
+Poss. Memory: [Samsung 16Gb 260-Pin SO-DIMM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9)
+ Price: $78.48 (x2 = $156.96)
+ Storage: 16Gb DDR4
+ ```
 
 # Site Updates
 

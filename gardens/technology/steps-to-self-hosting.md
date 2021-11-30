@@ -4,17 +4,17 @@ backlinks = [
   "/gardens/technology/craft-your-own-site",
 ]
 date = "2020-05-13"
-lastmod = "2021-11-30 14:51:59"
+lastmod = "2021-11-30 16:04:18"
 toc = true
 [coordinates]
     x = 10
     y = 350
 +++
-# Introduction
+## Introduction
 
 At a time where digital resource management is being aggregated into a few global storehouses, what does it take to run your website from scratch? Turns out, it's simpler than I thought. Here's what it took to serve this website from my home office.
 
-# Purchase and Configure a Physical Server
+## Purchase and Configure a Physical Server
 
 My first website in 2014 was hosted by a third-party provider. I managed the site through a web interface and left the server management to the provider. After the ease of a hosted service, the thought of running my server was daunting. Then I heard about the Raspberry Pi.
 
@@ -22,7 +22,7 @@ A {{< acronym DIY "Do It Yourself" >}} Raspberry Pi 4 package cost me ~$100 on A
 
 ![Raspberry Pi](https://he0fgq.by.files.1drv.com/y4mWwRLP3c_WnEqlokOOJS2VF2ubhAmXJawy2m3ivvQ73O7ztDlTGsPDm8ljA-Saf-4cAbLbviEpoSxUkFYqdUu8tnP9sYMFuPfo1a0e_nYqPxff9wKkfOdi_RQ8_GmpT86iSJILffTWNdDsoWP-2WM8YZ2pVRqtV1qEPu5VnUbgASh1pOMZ3Zi5P2I5VNTvsYytRwOMUbKsqAdVaDz5UbOGg?width=1024&height=768&cropmode=none)
 
-## Server OS
+### Server OS
 
 A physical server isn't worth much without an operating system. Fortunately, the Raspberry Pi has several suitable OSes to choose from. The Rasberry Pi package I purchased on Amazon.com came with an OS installer called NOOBS on the SD card.
 
@@ -32,7 +32,7 @@ Note: my Amazon.com package also came with a handy SD Card adapter so I could pl
 
 > before you pull the SD card from your computer, be sure to add an empty file titled 'ssh' to the card. You don't need to put it in any folder. This will enable SSH from square one, which allows you to interact with your new server without plugging in a mouse or keyboard.
 
-## Server Accessibility
+### Server Accessibility
 
 A server is hardly worth the name unless it's part of a network. Before we make our website available to the world wide web ({{< acronym WAN "Wide Area Network" >}}), let's get it running on our local network ({{< acronym LAN "Local Area Network" >}}).
 
@@ -51,7 +51,7 @@ ssh pi@192.168.1.3
 
 You're in!
 
-## Server Access Security
+### Server Access Security
 
 It would be a shame to run your website only to have it hacked. Or worse. Follow the official [security guidelines](https://www.raspberrypi.org/documentation/configuration/security) to harden {{< acronym SSH "Secure SHell" >}} access.
 
@@ -59,7 +59,7 @@ I recommend you do not proceed until you have configured SSH access to accept on
 
 > If you're following my steps, you may not require a firewall installation. A firewall isn't necessary for closed ports and we'll open only what we need.
 
-# Install Server Software
+## Install Server Software
 
 Now we've got a working distribution of Debian Linux on our own Raspberry Pi physical server. What geeks we are!
 
@@ -84,19 +84,19 @@ sudo /etc/init.d/nginx start
 
 Finally, navigate to the host address from your computer's browser (e.g. `http://192.168.1.2` - change to your Raspberry Pi's IP address). You should see a default landing page. This is where your site will display, but first, we have to create it!
 
-## Build Your Website
+### Build Your Website
 
 There are thousands of tutorials for building a website, and I won't replicate them. I wanted a website with almost no moving parts to preserve security and enable me to focus on content instead of configuration. A static web generator was a perfect match for my needs. Why not try [Hugo](https://gohugo.io/getting-started/quick-start/)?
 
 From this point, I'll assume we'll run a static website, but many of these steps apply to more complex configurations.
 
-## Server Software Configuration
+### Server Software Configuration
 
 Nginx comes with sensible defaults, but you'll want to make some modifications to host your static site. The smart people at Nginx have already published a helpful article about [hosting static content](https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/) and supply useful [configuration examples](https://www.nginx.com/resources/wiki/start/topics/examples/full/).
 
 > Unless you're already familiar with Debian Linux, Hugo web development and Nginx, at this point you're probably drowning in information. Remember, you haven't exposed anything to the world yet! Rather than get bogged down in detail here, keep moving with defaults and get it working.
 
-# Go Public!
+## Go Public!
 
 You've got a working website served on your LAN, now it's time to go public!
 
@@ -104,13 +104,13 @@ You've got a working website served on your LAN, now it's time to go public!
 
 ![Olympic Globe, Colorado Springs, CO](https://0urnmg.by.files.1drv.com/y4mYEu2FL8HQ-ifSSpD_d6XiCqTvYmdHD4GNbRG5Gz9Z1ArzZlxemU1X-bqBnnHzc-uZuZvfuR-orEYfAN2iRu9zHac0NAMlMcWcQ3BAqjwW-kn_5IwR-mWCC8O8a05TCUlaiohSQlx84tGFywgCC_wJ-UV9sN-jUlHBob0oedjypvNaaISoHtiMePGFDIEYjnXccxgfo-ZmDx8xzZfvYvDWg?width=768&height=1024&cropmode=none)
 
-## Forward Requests
+### Forward Requests
 
 Your router is the doorway to public access with machines on your LAN. By default it offers no external access, so we'll need to configure it to forward requests to our home server. To achieve this, add a port forwarding rule to send requests to your router to your Raspberry Pi's IP address. It may be under an advanced configuration section. Until we configure HTTPS, we'll use port 80.
 
 To confirm that requests are being forwarded, you'll need your router's public IP address. It may be listed in on your router's config page, or you can use https://www.whatismyip.com/. Navigate to your router's address and you should see your website! (e.g. `http://200.124.45.23` - change to your public IP address)
 
-## Purchase A Domain Name
+### Purchase A Domain Name
 
 At this point, you _could_ send your router's public IP address to a friend on the opposite side of the world and she could view your website. But who is going to remember a numeric address? And what happens if your {{< acronym ISP "Internet Service Provider">}} changes your public address? Let's buy a domain name.
 
@@ -122,7 +122,7 @@ Follow the registrar's instructions to configure an A Record that points to your
 
 Technically, if your ISP assigns a new IP address to your router, your hostname won't resolve until you've updated the A Record to the new IP address. The AAAA Record allows server software, such as ddclient, to dynamically update the record address. Dynamic configuration not required to continue, and some ISPs recycle addresses so infrequently that manual updates aren't arduous.
 
-## Configure HTTPS
+### Configure HTTPS
 
 You've probably noticed that security is a theme. Your site may not require in-transit encryption today, but why wait until it does? Let's configure your site for {{< acronym HTTPS "Hyper-Text Transfer Protocol, Secure" >}}.
 
@@ -159,7 +159,7 @@ Finally, you'll need to add a new port forwarding record to your router. HTTPS i
 
 > To limit your site's attack surface, when you can successfully navigate to your website with HTTPS (e.g. https://thisismycoolsite.com/), remove the port forwarding rule for port 80. All traffic can and should travel over HTTPS port 443.
 
-# Finalé
+## Finalé
 
 If you made it this far, congratulations! When I said it was simple, I meant that you won't need in-depth knowledge of every technology, not that you won't need to know something about _many_ technologies.
 

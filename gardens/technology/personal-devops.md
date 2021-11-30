@@ -1,14 +1,14 @@
 +++
 author = "Alex Bilson"
 date = "2021-03-10"
-lastmod = "2021-11-30 14:51:37"
+lastmod = "2021-11-30 16:04:01"
 toc = true
 narrow = true
 [coordinates]
     x = 50
     y = 320
 +++
-# The Journey Begins
+## The Journey Begins
 
 When my raspberry pi arrived two years ago, I opened it with excited trepidation. Will I overcome the hurdles to self-hosting on an unfamiliar architecture and operating system? How performant will it be? What tools will I learn, or give up, to achieve my goals?
 
@@ -26,7 +26,7 @@ Ansible turned out to be a time-saver. Not only did it give me disaster recovery
 
 Now I have a few services running on my raspberry pi, but {{< acronym FOMO "Fear Of Missing Out" >}} is rising - is it time to go full container, kubernetes style? There's even [k3s](https://k3s.io/), a light-weight version of kubernetes that's designed for my raspberry pi!
 
-# Container CI/CD Diversion
+## Container CI/CD Diversion
 
 I manage my services with supervisord and enjoy the freedom to configure each aspect. I can limit system access, configure logs, and manage ingress without much trouble. Linux services enjoy inherent stability and add little overhead. I've used Ansible to deploy my growing configurations so the fear that I'll lose it all is reduced. But it's still a lot to review and configure. Wouldn't it be cool if I were running k3s with a cluster of containerized services instead of a "normal" machine with boring old systemd services?
 
@@ -38,7 +38,7 @@ Of course, if this were a twenty person development team working on a dozen micr
 
 > I did look into creating a lightweight CI/CD cluster with [podman](https://podman.io/), [buildah](https://buildah.io/) and [skopeo](https://github.com/containers/skopeo). While this path has merit, I found that ARM support isn't complete enough for me to try these tools out without low-level troubleshooting. I'm just not committed enough to my pet projects to spend hours digging through errors.
 
-# Another Day, Another Perspective
+## Another Day, Another Perspective
 
 When I came back to the problem, I decided to create a network diagram to describe my existing infrastructure and a second diagram to describe my proposed kubernetes infrastructure. By starting with what I had, I soon realized that I didn't need to think about deploying new containers on a regular basis if I treated the static content like a database. When Markdown files are added, if they're shared via persistent storage instead of inside containers, all my container deployment issues went away!
 
@@ -56,13 +56,13 @@ I've split the deployment into two because my site does not depend upon the data
 
 My hope is to add little complexity by switching to kubernetes while enabling me to deploy updates to any part of the system by swapping in a new container image, but I'm still learning kubernetes and haven't actually tried this (yet). Feedback is welcome 😁.
 
-# Conclusion
+## Conclusion
 
 Here's where I've landed, at least for today.
 
 The state of container CI/CD at this time requires a dedicated node, and I'm not ready to buy another raspberry pi to make that happen. But I don't need container CI/CD anyways, just a means to back up my Markdown content, so who cares? I can run the whole shebang on my raspberry pi with no need for regular container deployments AND get practice running k3s. Win/win, don't-cha think?
 
-# Revisited
+## Revisited
 
 My self-hosting journey has taken many turns since it began in 2019.
 
@@ -70,7 +70,7 @@ My first foray was little more than an Nginx proxy serving up Hugo-generated HTM
 
 I thought the natural progression was towards Kubernetes, so I attempted to make the transition to {{< outref name=k3s src="https://k3s.io/" >}}. When I drafted a network diagram, however, I discovered that the CI/CD process I wanted to implement to deploy my Kube nodes would require a second machine, and I didn't want to spend the money or manage the extra configuration. I had attempted an intermediary Podman installation but had run into difficulties configuring Debian Buster since it's not officially supported. But I didn't get very far until I also experienced trouble with k3s and, unwilling to let my site languish for weeks while I tried to implement a deployment process I didn't need, I abandoned the project. Fortunately, after bit of tinkering I _did_ get Podman working. And it's been a dream come true.
 
-# The Podman Era
+## The Podman Era
 
 {{< image "/posts/data/podman-services.png" "services" >}}
 
@@ -84,11 +84,11 @@ Podman has been a pleasure to operate for three reasons.
 
 - Debian Bullseye is now a stable release, which means that Podman is now officially supported! I don't know if Docker was ever _officially_ supported, though I did see installation tutorials.
 
-# Updated Architecture
+## Updated Architecture
 
 {{< image "/posts/data/arch/podman_arch.svg" "podman architecture" >}}
 
-# Conclusion
+## Conclusion
 
 Thanks to {{< outref name="Jeff Geerling's" src="https://www.jeffgeerling.com/" >}} invaluable YouTube {{< outref name="Cluster Series - Part 1" src="https://youtu.be/kgVz4-SEhbE" >}}, it's evident that I need at least three nodes are necessary before Kubernetes is a worthwhile option. One node is dedicated to operating the cluster and offers little but resource consumption if it's the only node. Two nodes allow for only a single node for the master node to manage - again offering little and supplying no opportunity for Kubernete's container distribution logic. Two nodes for the master node to manage does give Kubernetes the chance to select the best node for a given pod, to have a backup for failed pods, and starts to become tedious to operate independently (barely).
 
