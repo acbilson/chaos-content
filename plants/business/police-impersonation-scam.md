@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-06"
-lastmod = "2021-11-30 07:54:48"
-epistemic = "plant"
+lastmod = "2021-12-01 14:54:42"
+epistemic = "evergreen"
 tags = ["security", "social-engineering", "thesis"]
 +++
 The frequency and sophistication of malicious scams are on the rise. Victims are left financially and emotionally devastated by these attacks. In technology parlance, a scam that exploits a person is called "social engineering."

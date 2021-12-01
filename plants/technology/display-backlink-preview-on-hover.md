@@ -1,11 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-11T20:43:55"
-lastmod = "2021-11-30 08:03:44"
+lastmod = "2021-12-01 14:45:25"
 epistemic = "plant"
 tags = ["snippet","javascript","software","backlink","microformat","indieweb"]
 +++
-TODO: add backlinks "/notes/craft-your-own-site", "/notes/read-webpage-as-api"
 The combination of microformat2 [h-entry](http://microformats.org/wiki/h-entry) and backlinks is potent. Each note page that's marked up with a `e-content` microformat2 property can be retrieved via `fetch()` and displayed as a preview elsewhere on the site. No database required; the website _is_ the API. With these two snippets you can implement dynamic backlink functionality on pretty much any webpage. With a little standardization (mostly complete by the microformat2 standard), one could support backlinks _across_ websites. Woah!
 
 First, here's a snippet to retrieve a popup of an internal link's comment. For each link marked with `class="internal"`, the first three elements or less will be retrieved from its `e-content` div element.

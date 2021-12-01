@@ -1,12 +1,8 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/posts/insights/potty-training-aftermath",
-  "/posts/insights/potty-training-return"
-]
 date = "2020-02-15"
-lastmod = "2021-11-30 08:02:26"
-epistemic = "plant"
+lastmod = "2021-12-01 14:48:47"
+epistemic = "evergreen"
 tags = ["children", "potty-training"]
 +++
 Today marks round five in a six-day potty training plan. It's been rough.

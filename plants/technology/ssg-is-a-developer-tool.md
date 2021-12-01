@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-    "/notes/craft-your-own-site"
-]
 date = "2020-07-25T18:49:39+01:00"
-lastmod = "2021-11-30 08:08:40"
+lastmod = "2021-12-01 14:47:54"
 epistemic = "plant"
 tags = ["static-site", "hosting", "indieweb"]
 title = "SSG is a Developer Tool"

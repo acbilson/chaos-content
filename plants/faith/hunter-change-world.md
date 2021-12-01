@@ -1,8 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-01-01"
-lastmod = "2021-11-30 07:57:47"
+lastmod = "2021-12-01 14:52:37"
 tags = ["integration","modernism","culture"]
+epistemic = "plant"
 title = "Consider: To Change the World"
 toc = true
 +++

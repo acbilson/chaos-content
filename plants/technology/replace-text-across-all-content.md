@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-    "/notes/craft-your-own-site"
-]
 date = "2021-07-23T12:49:13"
-lastmod = "2021-11-30 08:06:38"
+lastmod = "2021-12-01 14:47:06"
 epistemic = "seedling"
 tags = ["terminal","sed","grep"]
 +++

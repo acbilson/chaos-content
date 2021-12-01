@@ -1,11 +1,8 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/posts/insights/embracing-my-polymath-identity"
-]
 date = "2020-09-27"
-lastmod = "2021-11-30 08:00:53"
-epistemic = "plant"
+lastmod = "2021-12-01 14:51:29"
+epistemic = "evergreen"
 tags = ["spiritual-gifts","identity"]
 +++
 What I'm about to share with you makes me extremely uncomfortable.

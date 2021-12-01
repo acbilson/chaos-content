@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-09"
-lastmod = "2021-11-30 08:02:33"
-epistemic = "plant"
+lastmod = "2021-12-01 14:48:24"
+epistemic = "evergreen"
 tags = ["children", "safety", "letter"]
 +++
 This is an open letter written to the Congressional Oversight Committee in response to their [report on baby food](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/2021-02-04%20ECP%20Baby%20Food%20Staff%20Report.pdf) published February 4th, 2021. The report is scandalous and included numbers which, taken at face value, suggest that the companies represented poison our children with astronomically high levels of inorganic arsenic, lead, cadmium, and mercury. Please, read the report for yourself, but here's a little context.

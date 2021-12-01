@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-05"
-lastmod = "2021-11-30 08:11:25"
-epistemic = "plant"
+lastmod = "2021-12-01 14:41:59"
+epistemic = "evergreen"
 tags = ["writing", "consulting"]
 +++
 You're ready to write your own content online but not sure how to start? If you contact me, this is what you can expect me to say.

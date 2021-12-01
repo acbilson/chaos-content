@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-12"
-lastmod = "2021-11-30 08:43:56"
-epistemic = "plant"
+lastmod = "2021-12-01 14:54:03"
+epistemic = "evergreen"
 tags = ["kingdom","prayer","healing"]
 +++
 What does it mean to pray, "[let] your Kingdom come?"

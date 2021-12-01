@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-21"
-lastmod = "2021-11-30 15:54:26"
-epistemic = "plant"
+lastmod = "2021-12-01 14:52:05"
+epistemic = "evergreen"
 toc = true
 tags = ["attributes","character","god"]
 +++

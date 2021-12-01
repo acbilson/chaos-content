@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-03-18"
-lastmod = "2021-11-30 07:55:14"
-epistemic = "plant"
+lastmod = "2021-12-01 14:55:01"
+epistemic = "evergreen"
 tags = ["accounting"]
 +++
 There's misinformation swirling as the COVID-19 pandemic escalates. This is my small way to combat the spread with a topic I know something about.

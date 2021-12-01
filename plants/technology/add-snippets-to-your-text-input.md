@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-    "/gardens/technology/craft-your-own-site"
-]
 date = "2021-06-11T20:05:50"
-lastmod = "2021-11-30 08:09:43"
+lastmod = "2021-12-01 14:43:55"
 epistemic = "plant"
 tags = ["snippet","javascript","software"]
 +++

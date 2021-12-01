@@ -1,7 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-05-21"
-lastmod = "2021-11-30 07:58:26"
+lastmod = "2021-12-01 14:52:59"
+epistemic = "evergreen"
 tags = ["recommendation","gratitude","monastery","book"]
 title = "Recommend: The Seven Storey Mountain"
 +++

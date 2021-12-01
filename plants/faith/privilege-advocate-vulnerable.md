@@ -1,11 +1,8 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/posts/insights/privilege-practical"
-]
 date = "2020-04-15"
-epistemic = "plant"
-lastmod = "2021-11-30 07:58:44"
+epistemic = "evergreen"
+lastmod = "2021-12-01 14:53:22"
 tags = ["privilege","chicago"]
 title = "Privilege: An Advocate for the Vulnerable"
 +++

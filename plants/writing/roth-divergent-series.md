@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-12-19"
-lastmod = "2021-11-30 08:10:46"
-epistemic = "plant"
+lastmod = "2021-12-01 14:42:53"
+epistemic = "evergreen"
 tags = ["evolution", "genetics", "virtue"]
 title = "Recommend: Divergent Series"
 +++
