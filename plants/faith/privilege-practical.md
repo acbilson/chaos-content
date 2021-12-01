@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-29"
-lastmod = "2021-11-30 07:58:50"
-epistemic = "plant"
+lastmod = "2021-12-01 14:53:39"
+epistemic = "evergreen"
 tags = ["privilege", "chicago"]
 title = "Privilege: Practical Steps"
 +++

@@ -1,7 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-22"
-lastmod = "2021-11-30 08:03:11"
+lastmod = "2021-12-01 14:44:42"
+epistemic = "evergreen"
 tags = ["docker","ssh","jenkins","architecture"]
 title = "Controller/Client Docker Connection"
 toc = true
@@ -10,7 +11,7 @@ toc = true
 For the complete, working example, check out the code: {{< outref src="https://github.com/acbilson/connected-containers" name="connected-containers" >}}.
 {{< /muted >}}
 
-# Introduction
+## Introduction
 
 Have you ever had that sinking feeling when you remember that you've solved this problem before but you don't remember where you stashed the solution? And the sense of frustration searching for it, especially when it doesn't turn up in your usual places? Yea, that's why I'm writing this down where I can find it.
 
@@ -18,7 +19,7 @@ I love the concept of sandboxed environments that can be provisioned and destroy
 
 When I want to utilize software inside one Docker container to interact with my other Docker containers; however, I haven't been happy with the options. For example, if I want to run a Jenkins server that executes integration tests in another container my Google searches list two options. I'm here to propose a third.
 
-# Three Options
+## Three Options
 
 First, a couple of definitions.
 
@@ -26,13 +27,13 @@ What I refer to as the controller is the container where your orchestration soft
 
 The client is the container where your code's dependencies sit. It's where you'd install the build dependencies (if it's a build container) or where your testing executables are copied. I'll use the &#128119; emoji to indicate steps for these containers.
 
-## Option #1. DIND
+### Option #1. DIND
 
 The most commonly suggested path is to use a Docker-in-a-docker (DIND) container as the controller, install your software (for example, Jenkins), and launch new containers from within this container.
 
 Although I did get a prototype working with this system, it felt wrong to have my containers two levels deep. I wanted to have direct access from my terminal into any one of my running containers, not to connect to the controller, then jump from there into a client container.
 
-## Option #2. Local Machine
+### Option #2. Local Machine
 
 The other option was to abandon the sandbox approach and use my local machine as the controller.
 
@@ -40,17 +41,17 @@ This defeated my purpose for containers, which is to resist installing complex s
 
 With all that said, let's consider a third option.
 
-## Option #3. Connected Containers
+### Option #3. Connected Containers
 
 What if, instead of running DIND or installing to my local machine, I launched both a controller and a client container, install my orchestration software on the controller, then laterally wire up my controller to the client? This is what I've opted to do, and I'd like to walk you through it.
 
-# Connected Container Steps
+## Connected Container Steps
 
 > Caveat: I wrote these instructions weeks after I pulled this off... for the second time. Even though this post may sound like it was straightforward, this option took hours of tinkering to finally get it to work.
 
 These steps are listed by execution, not by location. It's a commentary on the steps in my [run.sh](https://github.com/acbilson/connected-containers/blob/master/run.sh) example, with each example pulled verbatim from the scripts.
 
-## Give User Shared Volume Ownership &#127918;
+### Give User Shared Volume Ownership &#127918;
 
 I didn't run into this issue right away, but at some point I discovered that copying my SSH public key to a shared volume location will fail unless the container user has ownership of the folder. Docker grants shared volume ownership to root by default, so I needed to change this first.
 
@@ -59,7 +60,7 @@ docker exec --user root "$CONTROLLER_NAME" \
   /bin/bash -c "chown controller $KEY_DRIVE"
 {{< / highlight >}}
 
-## Generate SSH Key &#127918;
+### Generate SSH Key &#127918;
 
 Now that the `controller` user has ownership of the shared volume (set to variable: `KEY_DRIVE`), it's time to generate the key. I discovered in the process that using the `-P` option with an empty string skips the passphrase user input.
 
@@ -69,7 +70,7 @@ ssh-keygen -t rsa -f ~/.ssh/controller_rsa -P "" && \
 cp -f ~/.ssh/controller_rsa.pub "$KEY_DRIVE"
 {{< / highlight >}}
 
-## Add Public Key &#128119;
+### Add Public Key &#128119;
 
 With the SSH key generated and shared, now my clients must authorize it. My example only runs one client, but it shouldn't (🤞) take much more to loop through all the clients you may run.
 
@@ -78,7 +79,7 @@ mkdir -p ~/.ssh && \
   cat "$KEY_DRIVE"/controller_rsa.pub >> ~/.ssh/authorized_keys
 {{< / highlight >}}
 
-## Start SSH Service &#128119;
+### Start SSH Service &#128119;
 
 For full automation, I need the ssh service running on every client. So I spin it up inside the container.
 
@@ -88,7 +89,7 @@ For full automation, I need the ssh service running on every client. So I spin i
 /etc/init.d/ssh start
 {{< / highlight >}}
 
-### Remove Password Access &#128119;
+#### Remove Password Access &#128119;
 
 I try to use Docker as responsibly as I would if I were administering these containers in a public cloud. Now that I have SSH key authentication, there's no reason to remote access containers by password auth. So I disable it.
 
@@ -98,7 +99,7 @@ I try to use Docker as responsibly as I would if I were administering these cont
 sed -i 's/#PasswordAuthentication.*/PasswordAuthentication no/' /etc/ssh/sshd_config
 {{< / highlight >}}
 
-### Add Client IP to Host &#127918;
+#### Add Client IP to Host &#127918;
 
 The first time the controller connects to a client requires user input to verify that the connection is appropriate. I bypass this request by adding the client to the controller's list of known hosts.
 
@@ -107,7 +108,7 @@ The first time the controller connects to a client requires user input to verify
 ssh-keyscan -t rsa "$CLIENT_NAME" >> ~/.ssh/known_hosts
 {{< / highlight >}}
 
-### Verify Connection &#127918;
+#### Verify Connection &#127918;
 
 We're finished! But just to be certain, let's verify that the controller does have automatic access to the client by running a simple `whoami` on the client from the controller.
 
@@ -115,7 +116,7 @@ We're finished! But just to be certain, let's verify that the controller does ha
 ssh -i ~/.ssh/controller_rsa client@"$CLIENT_NAME" whoami
 {{< / highlight >}}
 
-## Design Choices
+### Design Choices
 
 You'll notice that my shell scripts are added to the containers with shared volumes and executed by `docker exec` commands. You might think it'd be a better practice to copy the scripts in the Dockerfile and run them while building the image. Then you'd have images pre-built for connection. That was my first attempt.
 

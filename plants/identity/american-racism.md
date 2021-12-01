@@ -1,10 +1,7 @@
 +++
-backlinks = [
-  "/posts/letters/open-letter-baby-food"
-]
 date = "2020-05-29"
-lastmod = "2021-11-30 08:00:00"
-epistemic = "plant"
+lastmod = "2021-12-01 14:51:04"
+epistemic = "evergreen"
 tags = ["racism", "justice"]
 +++
 Dear Son,

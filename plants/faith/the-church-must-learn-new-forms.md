@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-27"
-lastmod = "2021-11-30 07:59:09"
-epistemic = "sprout"
+lastmod = "2021-12-01 14:53:51"
+epistemic = "evergreen"
 tags = ["church","entrepreneurship","model","risk"]
 +++
 The American Church is not growing. The new people in the pews are almost exclusively either transplants from another church or people returning after a period of separation.

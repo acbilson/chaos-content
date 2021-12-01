@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-01-29"
-lastmod = "2021-11-30 08:10:32"
+lastmod = "2021-12-01 14:43:48"
 epistemic = "plant"
-tags = ["children", "purpose"]
+tags = ["children","purpose"]
 +++
 After nearly three years of writing business insights for my MBA program, I've developed the writing habit. I've also passed from my twenties to my thirties and feel, perhaps for the first time, that I may have something to contribute to "the world". Writing to a global audience would paralyze me, so I've narrowed my purpose. If you find my posts helpful but aren't my target audience, what an encouraging side benefit.
 

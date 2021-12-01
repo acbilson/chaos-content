@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-05-24"
-lastmod = "2021-11-30 08:11:00"
-epistemic = "plant"
+lastmod = "2021-12-01 14:42:36"
+epistemic = "evergreen"
 tags = ["merton", "purpose", "humanity","God","quotes"]
 +++
 In prayerful meditation over my lunch walk, the Spirit and I ruminated over Thomas Merton's words in the opening fifty pages of _New Seeds of Contemplation_. The waters are very deep and I am at great risk of misinterpretation, but this is what light I seem to have gained:

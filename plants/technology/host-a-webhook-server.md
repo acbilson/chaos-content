@@ -1,11 +1,8 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/gardens/technology/craft-your-own-site"
-]
 date = "2020-09-23"
-lastmod = "2021-11-30 08:40:17"
-epistemic = "plant"
+lastmod = "2021-12-01 14:46:07"
+epistemic = "evergreen"
 tags = ["webhook", "hosting", "git-flow", "hugo"]
 +++
 If you've followed the {{< backref src="/gardens/technology/steps-to-self-hosting" >}}, you've got a static site you can build and deploy to your local server. The process is simple and entirely within your control, but it does limit how you add posts to your website. If you just want to put a quick note up on your site, you've got to access the laptop from which you've built the website, write a new post, publish the update, and pull the update on our local server. That's a lot of steps, limited to your laptop. Can you add a note more easily?

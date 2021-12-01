@@ -4,8 +4,8 @@ backlinks = [
   "/notes/church-for-a-new-generation"
 ]
 date = "2021-09-28T15:14:00"
-lastmod = "2021-11-30 08:11:06"
-epistemic = "seedling"
+lastmod = "2021-12-01 14:42:28"
+epistemic = "sprout"
 tags = ["parable","short-story"]
 +++
 While reading _The Space Traders_ by Derrick Bell it struck me that short stories are the modern world's parables. The genre's are different: parables are bare-bones and have one main point, while short stories can expand beyond a single point and include details which don't develop the message directly.

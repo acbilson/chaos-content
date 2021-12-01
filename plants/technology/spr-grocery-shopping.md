@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-02-10"
-lastmod = "2021-11-30 08:08:28"
-epistemic = "plant"
+lastmod = "2021-12-01 14:47:50"
+epistemic = "evergreen"
 tags = ["azure", "powershell", "cli"]
 +++
 

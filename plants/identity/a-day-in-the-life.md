@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-27"
-lastmod = "2021-11-30 08:01:40"
-epistemic = "plant"
+lastmod = "2021-12-01 14:50:53"
+epistemic = "evergreen"
 tags = ["children", "routine", "review", "schedule"]
 in-reply-to = "http://cdevroe.com/2021/01/07/my-typical-day/"
 +++

@@ -1,10 +1,7 @@
 +++
-backlinks = [
-  "/notes/craft-your-own-site"
-]
 author = "Alex Bilson"
 date = "2021-09-03"
-lastmod = "2021-11-30 08:03:17"
+lastmod = "2021-12-01 14:44:56"
 epistemic = "sprout"
 tags = ["gif","command-line","imagemagick"]
 +++

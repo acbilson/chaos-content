@@ -1,12 +1,8 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/posts/insights/privilege-advocate-vulnerable",
-  "/posts/insights/privilege-practical",
-  "/posts/insights/your-kingdom-come"
-]
 date = "2020-04-01"
-lastmod = "2021-11-30 07:58:48"
+lastmod = "2021-12-01 14:53:32"
+epistemic = "evergreen"
 tags = ["privilege","chicago"]
 title = "Privilege: What is It?"
 +++

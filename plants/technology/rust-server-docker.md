@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-06-24"
-lastmod = "2021-11-30 08:07:24"
-epistemic = "plant"
+lastmod = "2021-12-01 14:47:12"
+epistemic = "evergreen"
 tags = ["rustlang", "docker"]
 +++
 I began learning Rust in late 2019 because of it's popularity on StackOverflow. When I realized that the language exposed the internals of programming languages while being easier than my foray into Assembly, I was hooked.

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-28"
-lastmod = "2021-11-30 08:17:49"
-epistemic = "plant"
+lastmod = "2021-12-01 14:48:29"
+epistemic = "evergreen"
 tags = ["obedience","teaching","independence"]
 +++
 I received this thoughtful question in response to a log about [obedience and independence](https://alexbilson.dev/logs/20210611-160129/).

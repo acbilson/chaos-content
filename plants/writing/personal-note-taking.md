@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-05"
-lastmod = "2021-11-30 08:10:17"
-epistemic = "sprout"
-tags = ["note-taking", "design"]
+lastmod = "2021-12-01 14:43:42"
+epistemic = "plant"
+tags = ["note-taking","design"]
 +++
 There's a magic in Andy Matuschak's [Digital Garden](https://notes.andymatuschak.org/). The glory of it's deeply-linked organization is greatly aided by his custom viewport. Navigation happens like this:
 

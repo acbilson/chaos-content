@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-02-26"
-lastmod = "2021-11-30 08:00:57"
-epistemic = "plant"
+lastmod = "2021-12-01 14:51:34"
+epistemic = "evergreen"
 tags = ["children", "infertility"]
 +++
 Amie Bilson interviewed me about fears I'd experienced in our infertility journey. In the interview I explore

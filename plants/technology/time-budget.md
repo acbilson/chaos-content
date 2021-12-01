@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-08"
-lastmod = "2021-11-30 08:09:18"
-epistemic = "plant"
+lastmod = "2021-12-01 14:48:04"
+epistemic = "evergreen"
 tags = ["productivity"]
 title = "Order Your Week"
 +++
