@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-25"
-lastmod = "2021-11-24 08:28:01"
+lastmod = "2021-12-01 15:07:28"
 +++
 A lawyer from England, whom we'll call Mr. George, contacted me while I was at Relativity to find a software solution to his problem.
 

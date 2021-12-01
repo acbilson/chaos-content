@@ -80,7 +80,7 @@ Now let's do some analysis.
 
 First, I wanted to know the age span of COVID-related deaths. I filtered out ages with fewer than 25 deaths to remove data outliers, but it's worth noting that deaths span from age 12-108 (and one infant).
 
-![deaths-by-age](/posts/data/covid/cook_covid_deaths_by_age.svg)
+![deaths-by-age](/data/covid/cook_covid_deaths_by_age.svg)
 
 Cook county fits international COVID death patterns in that the majority of deaths are among those older than 50.
 
@@ -102,13 +102,13 @@ having
 
 Let's get a little more sophisticated. What if we bucketed all COVID-related deaths by age, then filled the buckets by month? I've removed the young and old outliers to fit the graph and flipped it over for better display on phones.
 
-{{< image "/posts/data/covid/cook_covid_deaths_group_age_month_all.svg" "tall-chart" >}}
+{{< image "/data/covid/cook_covid_deaths_group_age_month_all.svg" "tall-chart" >}}
 
 The first and second months of the pandemic saw the highest number of deaths among those over 50, but their numbers taperred off by June, which corresponds to the beginning of lockdown procedures. Deaths in the months after June appear to have leveled off.
 
 Let's drill down a little further by removing early months from the results.
 
-{{< image "/posts/data/covid/cook_covid_deaths_group_age_month_since_july.svg" "tall-chart" >}}
+{{< image "/data/covid/cook_covid_deaths_group_age_month_since_july.svg" "tall-chart" >}}
 
 Sure enough, the past three months have leveled off. More concerning, however, is that the current rise in COVID cases may also indicate a rise in deaths among those over 50. There are a few ages which already have five or more deaths in November, but this data only has the first four days in November. It's not a good sign that some ages have as many reported deaths in the first four days of November as the entire month of October.
 
@@ -136,7 +136,7 @@ One more. What if we reviewed all the towns in Cook county, bucketed by month?
 
 If you ran that query yourself, you'd notice that Chicago dwarfs all the others. So I removed Chicago and ended up with:
 
-![death-group-city](/posts/data/covid/cook_covid_deaths_group_city_month.svg)
+![death-group-city](/data/covid/cook_covid_deaths_group_city_month.svg)
 
 Two insights stand out.
 
@@ -175,5 +175,7 @@ I've copied these notices from the COVID-19 source data. In case you don't follo
 
 {{< raw >}}
 <blockquote>
-This filtered view contains information about COVID-19 related deaths that occurred in Cook County that were under the Medical Examiner’s jurisdiction.This view was created by looking for "covid" in any of these fields: Primary Cause, Primary Cause Line A, Primary Cause Line B, Primary Cause Line C, or Secondary Cause.<br /> <br /> Not all deaths that occur in Cook County are reported to the Medical Examiner or fall under the jurisdiction of the Medical Examiner. The Medical Examiner’s Office determines cause and manner of death for those cases that fall under its jurisdiction. Cause of death describes the reason the person died. This dataset includes information from deaths starting in August 2014 to the present, with information updated daily.</blockquote>
+<p>This filtered view contains information about COVID-19 related deaths that occurred in Cook County that were under the Medical Examiner’s jurisdiction.This view was created by looking for "covid" in any of these fields: Primary Cause, Primary Cause Line A, Primary Cause Line B, Primary Cause Line C, or Secondary Cause.</p>
+<p>Not all deaths that occur in Cook County are reported to the Medical Examiner or fall under the jurisdiction of the Medical Examiner. The Medical Examiner’s Office determines cause and manner of death for those cases that fall under its jurisdiction. Cause of death describes the reason the person died. This dataset includes information from deaths starting in August 2014 to the present, with information updated daily.</p>
+</blockquote>
 {{< / raw >}}
