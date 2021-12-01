@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-    "/notes/craft-your-own-site"
-]
 date = "2021-07-27T17:04:15"
-lastmod = "2021-11-30 08:09:25"
+lastmod = "2021-12-01 14:48:11"
 epistemic = "sprout"
 tags = ["rss","javascript","snippet"]
 title = "Verify Your RSS Feed"

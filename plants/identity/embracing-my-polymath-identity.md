@@ -1,11 +1,8 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/notes/why-write",
-  "/posts/insights/gifts-apostolic"
-]
 date = "2021-08-17"
-lastmod = "2021-11-30 08:00:14"
+lastmod = "2021-12-01 14:51:18"
+epistemic = "evergreen"
 tags = ["polymath","renaissance","identity"]
 +++
 It's a wearisome struggle to be myself. To be who I am requires that I must constantly fit my octagonal personality into the square holes the world affords. In the past year I've begun to reconcile that my path will not lead to expertise. I will never be an expert by any measurement, for I am incapable of remaining entirely in one field for 10,000 hours. Perhaps all my interests will converge in expertise across many domains around my eightieth birthday, but not before.

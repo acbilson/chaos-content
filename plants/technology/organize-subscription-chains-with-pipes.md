@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/notes/angular-maxims"
-]
 date = "2021-07-12T21:06:30"
-lastmod = "2021-11-30 08:06:01"
+lastmod = "2021-12-01 14:46:48"
 epistemic = "plant"
 tags = ["software","observables","subscriptions","angular"]
 +++

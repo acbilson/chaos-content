@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-08-12"
-lastmod = "2021-11-30 08:00:02"
-epistemic = "plant"
+lastmod = "2021-12-01 14:51:08"
+epistemic = "evergreen"
 tags = ["children", "vacation"]
 +++
 For parents with small children, vacation has two distinct definitions: a parent vacation or a child vacation. These never mix, at least while the kids take all-consuming attention, so parents must decide which kind of vacation they want. The vacation can be restful and adventurous for the parents, or the children. I’ll let you decide which we chose.

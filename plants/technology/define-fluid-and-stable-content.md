@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/notes/digital-gardens"
-]
 date = "2021-11-10"
-lastmod = "2021-11-30 08:03:26"
+lastmod = "2021-12-01 14:45:01"
 epistemic = "seedling"
 tags = ["digital-garden","web-design"]
 +++

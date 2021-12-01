@@ -1,8 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [ "/notes/craft-your-own-site",]
 date = "2020-10-02T14:45:33"
-lastmod = "2021-11-30 08:40:44"
+lastmod = "2021-12-01 14:46:59"
 epistemic = "plant"
 tags = [ "writing", "javascript",]
 title = "Read Webpage As API"

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-03-04"
-lastmod = "2021-11-30 08:02:23"
-epistemic = "plant"
+lastmod = "2021-12-01 14:48:38"
+epistemic = "evergreen"
 tags = ["children", "potty-training"]
 title = "Potty Training: Aftermath"
 +++

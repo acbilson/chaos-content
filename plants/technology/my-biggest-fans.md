@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-01"
-lastmod = "2021-11-30 08:05:33"
-epistemic = "plant"
+lastmod = "2021-12-01 14:46:34"
+epistemic = "evergreen"
 tags = ["surveillance", "bots"]
 +++
 {{< raw >}}

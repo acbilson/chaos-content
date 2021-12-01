@@ -1,12 +1,9 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/notes/church-for-a-new-generation"
-]
 date = "2021-08-23T19:39:48"
-lastmod = "2021-11-30 08:10:02"
-epistemic = "seedling"
-tags = ["poetry","prose"]
+lastmod = "2021-12-01 14:43:32"
+epistemic = "evergreen"
+tags = ["communication","poetry","prose"]
 +++
 The lyrical imagery of poetry communicates more powerfully than any fact. Parables have a similar quality. Perhaps poetry shares the parable's delay of the facts in favor of the story image. When the facts emerge, during or after the poem (or perhaps hours later), they hit the reader all at once. Prose tends to lay facts like bricks, one on top of the next, which distributes the truth's weight over time; poetry piles all the bricks atop a board over the reader's head, then removes the board at poem's end to let them fall in a crushing cascade.
 
