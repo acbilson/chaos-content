@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-01"
-tags = ["angular", "architecture", "diagrams", "database", "project"]
+lastmod = "2021-12-01 15:07:15"
 +++
 It's a strange and unfortunate pattern that my day-to-day work rarely makes it into my writing. This article rectifies that pattern by exploring a large project I recently completed.
 
@@ -21,13 +21,13 @@ The project didn't stabilize enough to craft a suitable architecture until three
 
 The first architecture to gel was the database. I began the project with fake data to gain early UI feedback, but it was clear that this must be a data-driven design. With the expert advice of a resident DBA, we designed normalized table schemas that have required little modification. Here's a snapshot:
 
-{{< image "/posts/data/angular_architecture/database_diagram.svg" "diagram" >}}
+{{< image "/data/svg/database_diagram.svg" "diagram" >}}
 
 > shout-out to the awesome work done by the developers of [PlantUML](https://github.com/plantuml/plantuml), without whom I would not have software to build comprehensive and beautiful UML diagrams such as these!
 
 Unlike the database, the Angular architecture underwent a significant re-write halfway through the project. The re-write was partially occasioned by changing requirements and partially by a series of conversations with senior developers. Especially as a new hire, it was crucial that I not only deliver business value but do so in a way that is comprehensible to my developer peers. I'm pleased by the result of our dialogue and the stability that's come from the re-write.
 
-{{< image "/posts/data/angular_architecture/component_diagram.svg" "diagram" >}}
+{{< image "/data/svg/component_diagram.svg" "diagram" >}}
 
 > This might come as a surprise, but I put these diagrams together before most of the code was implemented. These images aren't documentation for the sake of this post but artifacts that were crucial to my design process. Like the carpenter's adage to "measure twice, cut once," I find the effort spent diagramming an architecture saves days of individual development churn and focuses dialogue and questions in teams.
 
@@ -39,5 +39,5 @@ This phase was when our team hit its stride. The looming deadline was replaced w
 
 I'm proud of what I've achieved. Wanna see?
 
-![summary-chart](/posts/data/angular_architecture/summary_chart.png)
-![detail-table](/posts/data/angular_architecture/detail_table.png)
+![summary-chart](/data/img/summary_chart.png)
+![detail-table](/data/img/detail_table.png)

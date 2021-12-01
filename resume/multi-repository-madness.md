@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-03-11"
-tags = ["powershell", "git"]
+lastmod = "2021-12-01 15:07:27"
 +++
 A few months ago, three colleagues and I added a new feature to a legacy .NET application. One of the technical challenges we faced was the distributed nature of the application's codebase.
 
