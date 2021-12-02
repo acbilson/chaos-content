@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-24"
-lastmod = "2021-12-01 14:50:57"
+lastmod = "2021-12-02 14:37:32"
 epistemic = "evergreen"
 tags = ["poetry","jesus","dark-night-of-the-soul"]
 +++
@@ -9,7 +9,7 @@ After my deployment to Afghanistan in the U.S. Navy, I had a lot to process. Poe
 
 > My interpretation of what happened in Afghanistan has deepened since I wrote this poetry. Don't assume you understand my current theology because you've found misunderstanding in a poem I penned in 2011.
 
-###Beginning
+### Beginning
 
 {{< poetry >}}
 Swift sailing through the sea of life
@@ -29,7 +29,7 @@ Almighty conqueror of death
 The world’s released its bated breath
 {{< /poetry >}}
 
-###Trickery
+### Trickery
 
 {{< poetry >}}
 The worse is past now no more work
@@ -49,7 +49,7 @@ Dreams of glory, honor, power
 Only I, man of the hour
 {{< /poetry >}}
 
-###Withdrawal
+### Withdrawal
 
 {{< poetry >}}
 Self-exalted, basement fails
@@ -75,7 +75,7 @@ Temptation raises banner high
 Without help I’ll surely die
 {{< /poetry >}}
 
-###Lament
+### Lament
 
 {{< poetry >}}
 Empty thoughts devoid of light
@@ -95,7 +95,7 @@ Worldly bread I once had known
 In my stomach turns to stone
 {{< /poetry >}}
 
-###Questions
+### Questions
 
 {{< poetry >}}
 Accusations fill my lips
@@ -115,7 +115,7 @@ Present at the start of time?
 Creator each after their kind?
 {{< /poetry >}}
 
-###Help?
+### Help?
 
 {{< poetry >}}
 I’ve no strength cannot progress
@@ -135,7 +135,7 @@ No bucket, and the well is deep
 Within Joseph’s well to sleep
 {{< /poetry >}}
 
-###Repentance
+### Repentance
 
 {{< poetry >}}
 Who am I to complain thus?
@@ -155,7 +155,7 @@ If were not for His mercy
 As He hung upon the tree
 {{< /poetry >}}
 
-###Resolved
+### Resolved
 
 {{< poetry >}}
 If I know not Christ in God
@@ -181,7 +181,7 @@ Under Thy judgment I must
 Say, “Lord all you speak is just”
 {{< /poetry >}}
 
-###Return
+### Return
 
 {{< poetry >}}
 Humility floods through my soul
@@ -201,7 +201,7 @@ Sails snap to my great surprise
 I can feel the breeze arise!
 {{< /poetry >}}
 
-###Exultation
+### Exultation
 
 {{< poetry >}}
 God has heard my desperate prayer
@@ -227,7 +227,7 @@ Truly this is the start of
 Wisdom, knowledge from above
 {{< /poetry >}}
 
-###Advance
+### Advance
 
 {{< poetry >}}
 In your Spirit daily march
@@ -247,7 +247,7 @@ Promised to fathers of old
 To their sons continually told
 {{< /poetry >}}
 
-###Longing
+### Longing
 
 {{< poetry >}}
 When I reach the crystal shore
