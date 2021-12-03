@@ -1,6 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-10-14T18:43:40"
+lastmod = "2021-12-03 12:00:11"
+epistemic = "plant"
+tags = ["alternative"]
 +++
 While I appreciate Heather Kelly's piece, {{< outref name="Apps To Use If Leaving Facebook" src="https://www.washingtonpost.com/technology/2021/10/12/leave-facebook-alternatives/?utm_source=pocket-newtab" >}}, for her suggestion that it _might_ be possible to find alternatives by transitioning to multiple services, it doesn't go far enough. It's a major step forward when a single corporation doesn't entirely rule one's online use, but Kelly's alternatives aren't appreciably different than Facebook. Each offers free service by progressively converting users into products. The only reason her alternatives don't receive our disdain is that they're not popular enough to turn the public's critical eye.
 
