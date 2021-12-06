@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-12-06"
-lastmod = "2021-12-06 15:02:48"
+lastmod = "2021-12-06 15:06:03"
 epistemic = "evergreen"
 tags = ["remember","thanksgiving","lineage"]
 +++
@@ -17,4 +17,4 @@ This is a family memorial represented in the ornaments adorning our Christmas tr
 
 {{< caption caption="Our Bosnian neighbors Irma and Ammar gave us this door ornament in 2020." src="https://bn02pap001files.storage.live.com/y4mw4miwOkMG_Taa9MksQ0eAqYUr0JHKbtwhnYQh8sX7K2js7lCevPXqpRfYPIsnNVv45mivvgRBBNtz3CvAdMOOmSRjx14NU04YgVCEJy9V6qM8yiiZJmsvPaXotI-io69bOmwvYFer0S6dF_fcJh2RXaG25_GI13BEjGaiY-9NhM-4Zi4io98P9OmtevQhFas?width=768&height=1024&cropmode=none" >}}
 
-{{< caption caption="This gorgeous ornament reminds Amie of her grandmother Vallette, the matriarch of her family for generations. Her tenacity and mercy lives on in the lives of her great-grandchildren. Royal's middle name, Abiah, was chosen from her husband's lineage; one Abiah Vallette born on April 6th, 1758, father of Jonathan Gillette Vallette the surveyor." src="https://bn02pap001files.storage.live.com/y4mKkbuayM5aa8V_Lu2i0ypnHdwwUJux1FwwdvRzkCHnuC55WpWgxHK-_j6JIgtrGpZ5xjtdxq5_6N7C6k-sr88rvpEk9lhv3ckmS85ZoU5pPcMIHigH349Yi0g3haVG7NxJ5pK_ErYP9DL3bcAwg_yrT6oZg6WDKOSoctzLrEF5S4Saf4VSXVgMR8BPFgeDDWz?width=1024&height=768&cropmode=none" >}}
+{{< caption caption="This gorgeous ornament reminds Amie of her grandmother Vallette, the matriarch of her family for generations. Her tenacity and mercy lives on in the lives of her great-grandchildren. Royal's middle name, Abiah, was chosen from her husband's lineage; one Abiah Mott Vallette born on April 6th, 1758, mother of Jonathan Gillette Vallette the surveyor." src="https://bn02pap001files.storage.live.com/y4mKkbuayM5aa8V_Lu2i0ypnHdwwUJux1FwwdvRzkCHnuC55WpWgxHK-_j6JIgtrGpZ5xjtdxq5_6N7C6k-sr88rvpEk9lhv3ckmS85ZoU5pPcMIHigH349Yi0g3haVG7NxJ5pK_ErYP9DL3bcAwg_yrT6oZg6WDKOSoctzLrEF5S4Saf4VSXVgMR8BPFgeDDWz?width=1024&height=768&cropmode=none" >}}
