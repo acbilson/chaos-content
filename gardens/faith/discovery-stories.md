@@ -1,15 +1,17 @@
 +++
 author = "Alex Bilson"
 date = "2020-08-05"
-lastmod = "2021-11-30 08:14:29"
+lastmod = "2021-12-07 15:51:41"
 narrow = true
 [coordinates]
     x = 250
     y = 50
 +++
+{{< caption caption="This is not, in fact, a discovery group. It's my birthday party. But DBS looks just like this (though often on typical furniture)." src="https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=1024&height=768&cropmode=none" >}}
+
 Powerful innovation happens when an innovator takes a concept developed from one discipline and transfers its principles to another domain. Elon Musk is reported to do this himself. By studying a broad range of subjects he utilizes the greatest innovations in one discipline to solve challenges in another. The biochemist may not realize how her chemical innovation might revolutionize space travel because she doesn't know the challenges of that domain. An astronaut might.
 
-DBS is an innovation from the missionary discipline, which means the average church leader is unfamiliar with it. Because it's been relegated to the evangelist or missionary silo, the church leader is unlikely to consider how the principles might solve the challenges in the traditional church. I believe the principles of DBS address many of the obstacles that plague traditional churches, but it may take a paradigm shift to apply them.
+{{< acronym DBS "Discovery Bible Study" >}} is an innovation from the missionary discipline, which means the average church leader is unfamiliar with it. Because it's been relegated to the evangelist or missionary silo, the church leader is unlikely to consider how the principles might solve the challenges in the traditional church. I believe the principles of DBS address many of the obstacles that plague traditional churches, but it may take a paradigm shift to apply them.
 
 Jesus used stories to challenge people's conceptions of reality and plant seeds that would later transform their worldview. Here are a few true stories from our own experience that I pray will expand your paradigm.
 
@@ -23,16 +25,7 @@ Jesus used stories to challenge people's conceptions of reality and plant seeds 
 
 - In 2018, we led a DBS group with another couple through the entire book of Acts. Although I had no relationship with this couple before the group met, they were willing to drive through the city every week to our apartment for the next story. In that year they've become closer friends than those I've known for many years, and this occurred, not through a specialized relational group, but simply by interacting with the Bible together. This fosters committed community and relationships.
 
-- Lately (2020), we co-led a basic DBS group through Mark's gospel with an even split between long-time Christians and family members with little-to-no experience of the Bible. There was full participation from everyone, both in shared insights and in action. We made such discoveries as 1. that Jesus was a real, historical person, 2. that one response is to emulate him, and 3. that those who discount his message have a closed mind, while those who consider his words are open-minded. We are excited to finish the story of Jesus in Mark's gospel with them over the next few weeks. The unchurched are welcome and comfortable participating in the discovery.
+- In 2020, we co-led a basic DBS group through Mark's gospel with an even split between long-time Christians and family members with little-to-no experience of the Bible. There was full participation from everyone, both in shared insights and in action. We made such discoveries as 1. that Jesus was a real, historical person, 2. that one response is to emulate him, and 3. that those who discount his message have a closed mind, while those who consider his words are open-minded. We are excited to finish the story of Jesus in Mark's gospel with them over the next few weeks. The unchurched are welcome and comfortable participating in the discovery.
 
 Church planters needed the means to establish Jesus communities that conformed to the host culture, had all the DNA of a church gathering, and could multiply beyond the strength of the church planter's arm. And so DBS was born. Could it be that the Church abroad has discovered principles that might revitalize the Church at home in these challenging times?
 
-> The picture is not, in fact, a DBS group. It's my birthday party. But DBS looks just like this (though often on typical furniture).
-
-<!--
-[featuredImage]
-  alt   = "Group at Alex's Birthday"
-  large = "https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=1024&height=768&cropmode=none"
-  small = "https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=256&height=192&cropmode=none"
-
--->
