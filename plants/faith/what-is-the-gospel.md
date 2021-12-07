@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
-lastmod = "2021-11-30 07:59:26"
+lastmod = "2021-12-07 15:12:31"
 epistemic = "seedling"
 tags = ["paradigm","gospel","evangelism"]
 title = "What is the Gospel?"
@@ -30,3 +30,9 @@ then your message centers on synopses of the final moments in the Gospel narrati
 
 TODO: reference The King Jesus Gospel by Scot McKnight
 TODO: Add examples of gospeling from the book of Acts. Philip shared, and the Ethiopian wanted to be baptized. Paul shared his apocalypse with Jesus. Jesus offered the Samaritan woman living water.
+
+## Practices To Try
+
+- Share a story about Jesus. Memorize it so it becomes part of you, not to deliver it verbatim. In fact, feel free to put the story in your own words. Then share the story in casual conversation with someone and see what happens. You might say something like, "That reminds me about this one time..." If you're nervous, you can ask first, "May I share a story about Jesus with you? I think you'd enjoy it."
+
+- Share a story about encountering Jesus.

@@ -1,18 +1,23 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-10T09:02:00"
-lastmod = "2021-11-30 07:56:46"
+lastmod = "2021-12-07 15:14:20"
 epistemic = "seedling"
 tags = ["paradigm","kingdom","evangelism","peace"]
 +++
-Evangelism approaches (see [[Directory of Evangelistic Approaches]]) answer differently the question, "Who am I trying to talk to?" If generalized, there are two buckets:
+There's a subtle mantra that underlies sharing Jesus. It goes something like, "If you love someone, you won't stop trying until they trust in Jesus."
 
-- Shotgun evangelism (tracts, street preaching, door-to-door, big tent revival)
-- Network evangelism (friendship evangelism)
+Joy in Jesus is a gift worth sharing, and you're love for others will produce sadness when they disregard the chance to share your joy. But more often this mantra bears guilt that you haven't done enough.
 
-Where they share the same goal, however, is in answer to the question, "Who am I looking for?" For any evangelistic approach, the answer is always the individual (rarely, the group) who will give the evangelist an audience. Mature evangelists might discriminate by the audience's interest to save time.
+- Enough sharing the gospel; "Do they understand my message?"
+- Enough kindness and example; "Is my life attractive?"
+- Enough prayer, fasting, etc. "Have I invested in intercession?"
 
-The limitation in our culture's individualistic approach is that it ignores two axioms: {{< backref src="/plants/faith/lone-converts-are-a-liability" >}} and {{< backref "/plants/faith/allegiance-to-jesus-is-communal" >}}.
+However important communication, example and intercession, these are not your primary measure. These are all focused on your condition, but actually you're looking for response from _them_.
+
+Jesus regularly ended parables with the line, "He who has ears to hear, let him hear." He anticipated that some would hear his parables and respond. Others would hear and respond for a moment, but later give up. And others would hear his words and not understand.
+
+It's okay to move on when there's no response after you share a gospel story with a person. This doesn't mean that their ears will be shut for all time, but it does mean that you're not responsible to batter down the gates.
 
 ## WOOLy people
 
@@ -23,3 +28,8 @@ When you're deciding which people to pursue further conversation, three characte
 - L: Listening
 
 TODO: Add story about Lydia and Luke 10
+
+## Practices To Try
+
+- Write down a list of the people you see on a semi-regular basis. Your network. From that list, mark those with whom you've had some spiritual conversation. How did they respond? Select one person with whom you have not had a spiritual conversation and make a plan to share something about Jesus with them.
+
