@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2021-11-30 14:50:29"
+lastmod = "2021-12-07 15:41:08"
 narrow = true
 [coordinates]
     x = 300
@@ -19,6 +19,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bēkē"
   match="Bacon"
   example="More beekie!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -27,6 +28,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bēsh"
   match="Beach"
   example="Go beesh?"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -35,6 +37,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bubalīs"
   match="Butterflies"
   example="look bubba-lies."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -43,6 +46,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="bublēs"
   match="Bubbles"
   example="I got pee bubblies!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -51,6 +55,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="cwhars"
   match="Cars"
   example="(I wanna) play with my cwhars."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -59,6 +64,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="kȯkäks"
   match="Chocolate"
   example="I got cawcox, me!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -67,6 +73,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="dat-dat"
   match="Conductor"
   example="Dat-dat ona choo-choo!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -75,6 +82,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="dēsh"
   match="Dirt"
   example="I got da deesh."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -82,6 +90,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="conjunction"
   phonetic="dib-i-dat"
   example="Dib-i-dat wheesh."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -90,6 +99,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="dēs"
   match="This"
   example="I want diis!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -98,6 +108,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="īch"
   match="Light"
   example="No eitch."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -105,13 +116,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="conjunction"
   phonetic="gidə-gidə"
   example="Gida-gida truck."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
   word="Gikida"
   term="conjunction"
   phonetic="gikidə"
-  example="Gikida Mahn. (Mahn is Graham's neighbor-friend, Ahmar)"
+  example="Gikida Mahn. (Mahn is G.T.'s neighbor-friend, Ahmar)"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -120,6 +133,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="gu̇k"
   match="To cut"
   example="Gook da beekie!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -128,6 +142,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="hüs"
   match="Horse, or large dog"
   example="Hoos dere."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -136,6 +151,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="lälō"
   match="Yellow, or snack"
   example="I want da lalo."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -144,6 +160,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="lōgurt"
   match="Yogurt"
   example="I want lalo logurt."
+  origin="G.T. Bilson"
 >}}
 
 
@@ -153,6 +170,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="lük"
   match="Crane"
   example="Where da look?"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -161,6 +179,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="näk"
   match="Snack"
   example="I want nack dere, me."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -169,6 +188,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="nōnk"
   match="To honk"
   example="Nonk, nonk!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -177,6 +197,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="nəm-nə"
   match="Cat, or small dog"
   example="Num-nuh meow."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -185,6 +206,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="püt"
   match="To fart"
   example="Papa poot."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -192,6 +214,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="conjunction"
   phonetic="tikə-tikə-tikə"
   example="Tika-tika-tika ball!"
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -200,6 +223,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="wä-wä"
   match="Water"
   example="More wa-wa."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -208,6 +232,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="(h)wēsh"
   match="Wheel, tire"
   example="Da truck's wheeshes."
+  origin="G.T. Bilson"
 >}}
 
 {{< vocab
@@ -216,5 +241,6 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="yäk"
   match="To kick, smack"
   example="Yak ball! I no yak de bebe."
+  origin="G.T. Bilson"
 >}}
 
