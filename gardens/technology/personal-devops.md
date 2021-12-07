@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-03-10"
-lastmod = "2021-11-30 16:04:01"
+lastmod = "2021-12-07 15:18:04"
 toc = true
 narrow = true
 [coordinates]
@@ -44,13 +44,13 @@ When I came back to the problem, I decided to create a network diagram to descri
 
 A diagram is worth ten thousand words, so here's what I've modeled. First, my existing architecture.
 
-{{< image "/posts/data/arch/bare-metal_deployment.svg" "diagram" >}}
+{{< image "/data/svg/bare-metal_deployment.svg" "diagram" >}}
 
 Notice how simple it is. When I push an update to my site, my webhook service pulls the update and compiles the site for nginx to serve. If I send an update with my publishing service, it stores the new file in my content repo, pushes a change, and the same webhook process fires. To load data onto my static site I run a datasette instance. Simple and effective.
 
 Then, my proposed kubernetes cluster architecture.
 
-{{< image "/posts/data/arch/k3s_deployment.svg" "diagram" >}}
+{{< image "/data/svg/k3s_deployment.svg" "diagram" >}}
 
 I've split the deployment into two because my site does not depend upon the data server to operate, but it does depend upon my build and publish server to manage my own CD process. I've also moved from a model where every time I publish it stores a new file, pushes it to my repo, and rebuilds to a scheduled build. I've kept the publish and build processes separate so that I can still support either or both options, but I've found that I don't care that much about seeing what I publish immediately render on my site.
 
@@ -72,21 +72,20 @@ I thought the natural progression was towards Kubernetes, so I attempted to make
 
 ## The Podman Era
 
-{{< image "/posts/data/podman-services.png" "services" >}}
+{{< image "/data/img/podman-services.png" "services" >}}
 
 One of the intermediary transitions I needed to move my services to Kubernetes was to containerize them. I had a few in Docker containers for local development, so it wouldn't take much, but running my production services as containers was a new experience. And it's been such a great experience.
 
 Podman has been a pleasure to operate for three reasons.
 
 - Instead of relying on a mysterious Docker daemon to operate my containers, Podman let me convert each container unit into a systemd service so I can leverage the stability and support of Debian's process management. Systemd services can be enabled to launch on startup and log output to the system journal. It just feels more, integrated.
-
 - Docker didn't have native pod support. I couldn't launch a web service plus database as a single unit without a bit of finagling, or by using Docker Compose. Podman has pods that work identically to pods in Kubernetes and can be operated as a unit with, you guessed it, the systemd service architecture.
 
 - Debian Bullseye is now a stable release, which means that Podman is now officially supported! I don't know if Docker was ever _officially_ supported, though I did see installation tutorials.
 
 ## Updated Architecture
 
-{{< image "/posts/data/arch/podman_arch.svg" "podman architecture" >}}
+{{< image "/data/svg/podman_arch.svg" "podman architecture" >}}
 
 ## Conclusion
 

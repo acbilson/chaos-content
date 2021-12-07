@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-19"
-lastmod = "2021-11-30 15:58:25"
+lastmod = "2021-12-07 15:10:03"
 toc = true
 narrow = true
 [coordinates]
@@ -46,6 +46,11 @@ The Sabbath is a day blessed by God and set aside for rest and worship; a weekly
 - Sabbath & Digital Addiction
 - Cultivating Intimacy
 - Seasons of Life
+
+#### Concepts
+
+- {{< backref src="/plants/faith/keep-the-sabbath-remix" >}}
+- {{< backref src="/plants/faith/sabbath-is-a-social-imperative" >}}
 
 ### Prayer
 
