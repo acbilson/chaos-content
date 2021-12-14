@@ -1,16 +1,64 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-17T19:01:16.379390"
-lastmod = "2021-11-30 08:04:59"
+lastmod = "2021-12-13 16:16:23"
 epistemic = "seedling"
 tags = [ "wasm", "blazor", "csharp",]
 title = "Learn WebAssembly With Blazor"
 +++
 My manager asked me today what technology I'd like to explore. Could be anything, just have to bring back something for my team to learn. The first topic that came to mind was browser-native web components, but he suggested I look into WebAssembly. Since wasm has greater implications for my day-to-day work, I agreed to take it on.
 
-These are my scratch notes and I learn how it's done.
+These are my scratch notes and I learn how it's done by building a POC called [fire-tables](http://github.com/acbilson/fire-tables).
 
-# Examples
+## Create .NET Project with Docker
+
+To generate the base files without having to install dotnet on my Mac, I ran the following two commands. The first runs the create command on a dotnet 6.0 sdk image, downloading it if you don't already have it. The second copies the results to a /src folder in your local directory, creating it if it doesn't exist.
+
+{{< highlight sh >}}
+docker run --name blazor mcr.microsoft.com/dotnet/sdk:6.0 dotnet new blazorwasm -o /src
+docker cp blazor:/src .
+{{< /highlight >}}
+
+## Configure Blazor for Docker
+
+At least for a start you'll need a Docker image to run Blazor in local development. Here's a sample Dockerfile, short and sweet.
+
+{{< highlight sh >}}
+FROM mcr.microsoft.com/dotnet/sdk:6.0 as base
+WORKDIR /src
+
+FROM base as dev
+ENTRYPOINT ["dotnet", "run"]
+{{< /highlight >}}
+
+If you've already generated your project, you'll need to set the applicationUrl in your Properties/launchSettings.json to `http://0.0.0.0:80`. I also turned off launchBrowser since the image is only serving the route, not the browser.
+
+That's everything you'll need to run this puppy locally. Not bad, huh? Here's a sample build/run command to get off the ground.
+
+{{< notice type=warn >}}
+Don't forget to replace 'my-name-here' with your name!
+{{< /notice >}}
+
+{{< highlight sh >}}
+docker build -f Dockerfile \
+    --target=dev \
+    --build-arg EXPOSED_PORT=80 \
+    -t my-name-here/blazor-client-dev:6.0 .
+{{< /highlight >}}
+
+This build handles exposing the container's PORT 80 outside the Dockerfile. You could include that line in the Dockerfile and remove it here, but I find it nice to be explicit.
+
+{{< highlight sh >}}
+docker run -it --rm \
+  --expose 80 -p 8080:80 \
+  -v src:/src \
+  --name blazor-client \
+  my-name-here/blazor-client-dev:6.0
+{{< /highlight >}}
+
+We're serving the files directly from your fileshare since this is a development example. Pull up `http://localhost:8080` to see your handiwork.
+
+## Examples
 
 - [Blazor WASM TODO Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=webassembly)
 - [Blazor Web API Tutorial](https://docs.microsoft.com/en-us/aspnet/core/blazor/call-web-api?view=aspnetcore-6.0&pivots=webassembly)
