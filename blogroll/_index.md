@@ -52,3 +52,6 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 
 {{< outref src="https://www.robinrendle.com/" name="Robin Rendle" >}} - Robin's writing on design and reflections on the web are first-rate. Love discovering the beauty of the web with her.
 
+{{< outref src="https://www.jefftk.com/" name="Jeff Kaufman" >}} - Jeff's practical writing about parenthood has more than once encouraged or informed my own stumbling fatherhood. Thanks for being so practical and example-driven!
+
+{{< outref src="https://www.shiftingculturepodcast.com/" name="Shifting Culture Podcast" >}} - Ok, so this isn't an RSS feed, but I've been deeply encouraged and informed by the interviews Joshua Johnson conducts on this podcast. Making my way through the whole list!
