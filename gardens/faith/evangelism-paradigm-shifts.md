@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-06"
-lastmod = "2021-12-07 15:14:50"
+lastmod = "2021-12-27 14:42:59"
 narrow = true
 [coordinates]
     x = 240
@@ -17,3 +17,4 @@ The most common reaction to the word "evangelism" is discomfort. This can range 
 - {{< backref src="/plants/faith/allegiance-to-jesus-is-communal" >}}
 - {{< backref src="/plants/faith/evangelism-is-a-team-sport" >}}
 - {{< backref src="/plants/faith/evangelism-is-a-process" >}}
+- {{< backref src="/plants/faith/we-give-more-than-we-have" >}}
