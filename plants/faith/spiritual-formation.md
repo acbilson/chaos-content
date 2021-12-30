@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-06-17"
-lastmod = "2021-12-01 14:53:45"
+lastmod = "2021-12-30 08:02:56"
 epistemic = "evergreen"
-tags = ["formation","jesus",]
+tags = ["formation"]
 +++
 If you've read my {{< backref src="/plants/faith/your-kingdom-come" >}}, then you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale.
 

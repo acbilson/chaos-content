@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-11T16:27:53"
-lastmod = "2021-11-30 07:57:53"
+lastmod = "2021-12-30 08:01:48"
 epistemic = "sprout"
-tags = ["sabbath","rest","remix"]
+tags = ["sabbath","rest"]
 +++
 The first renewed concept of the Sabbath for the present day came from a sermon I'd heard in Turkey from a pastor in Minnesota. He talked about drinking craft beer and cooking dinner for friends because these things brought him joy and rest. He referred to Isaiah 58:13 and called out that the Sabbath isn't only a rule about not working; it's a delight.
 

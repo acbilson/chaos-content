@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-29T16:52:25"
-lastmod = "2021-12-01 14:46:16"
+lastmod = "2021-12-30 08:06:33"
 epistemic = "plant"
-tags = ["shell","fish","terminal"]
+tags = ["shell","terminal"]
 +++
 If you're unfamiliar with a terminal command line or tired of using bash, you'll benefit from installing another shell. There are a number of options, but the fish shell is the simplest to install and use. Simple doesn't mean basic - it's elegant and wonderful.
 

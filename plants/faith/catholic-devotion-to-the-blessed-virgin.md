@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-10T15:07:06"
-lastmod = "2021-11-30 07:56:23"
+lastmod = "2021-12-30 07:59:00"
 epistemic = "plant"
-tags = ["catholic","faith","devotion","mary","jesus","humility"]
+tags = ["catholic","faith","devotion","humility"]
 +++
 Protestants are uncomfortable about several doctrines of the Catholic Church and even willing to renounce the entire organization as heretical. The way that Mary, and to a lesser extent any saint, is spoken of has been most uncomfortable in my experience. The language used for the Blessed Virgin often matches biblical language used to describe Jesus. The sum result is that most Protestants believe the Catholic Church holds Mary in equal standing with Jesus, as though they're two divinely equal beings. The elevation of Mary with language that's usually reserved only for Jesus seems to cheapen Jesus' uniqueness as the Son of God.
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-04"
-lastmod = "2021-11-30 07:56:31"
+lastmod = "2021-12-30 07:59:50"
 epistemic = "sprout"
-tags = ["interpretation"]
+tags = ["scripture","interpretation"]
 +++
 Well-meaning interpreters will sometimes make a mistake in their application of the Bible. Out of conviction in the Bible's authority, an interpreter will anchor a contemporary topic on a verse that appears to directly address the topic. By so doing, the interpreter both assures their audience of the Bible's relevance to the topic and suppliments their own authority with the Biblical author's. The interpreter also communicates an interpretive assumption that short-circuits the audience's discovery.
 

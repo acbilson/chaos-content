@@ -1,6 +1,6 @@
 +++
 type = "bible"
-tags = ["peter","john","teaching"]
+tags = ["teaching","courage","knowledge","healing"]
 ref = "Acts 4:5-22"
 +++
 On the next day their {{< superset 1 "notes" >}} rulers and elders and scribes gathered together in Jerusalem, with Annas the high priest and Caiaphas and John and Alexander, and all who were of the high-priestly family. And when they had set them in the midst, they inquired, "By what power or by what name did you do this?" Then Peter, filled with the Holy Spirit, said to them, "Rulers of the people and elders, if we are being examined today concerning a good deed done to a crippled man, by what means this man has been healed, let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead–by him this man is standing before you well. This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone. And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved."

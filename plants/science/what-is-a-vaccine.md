@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-10"
-lastmod = "2021-11-30 08:02:53"
+lastmod = "2021-12-30 08:05:29"
 epistemic = "sprout"
-tags = ["vaccine","covid","safety"]
+tags = ["vaccine","coronavirus","safety"]
 title = "What is a Vaccine?"
 +++
 There are numerous resources on the subject of vaccinology, but I learn best when I write it down for myself. Constructive criticism welcome; I'm figuring this out as I go!

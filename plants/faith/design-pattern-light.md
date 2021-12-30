@@ -4,9 +4,9 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-11-30 07:56:28"
+lastmod = "2021-12-30 07:59:16"
 epistemic = "sprout"
-tags = ["bible","design-pattern"]
+tags = ["scripture","design-pattern","light"]
 title = "Design Pattern: Light"
 +++
 This is an overarching note that explores the theme of light as it exists from Genesis to Revelation.

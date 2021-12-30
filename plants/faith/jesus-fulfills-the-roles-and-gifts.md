@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-25"
-lastmod = "2021-11-30 07:57:52"
+lastmod = "2021-12-30 08:01:39"
 epistemic = "sprout"
-tags = ["spiritual-gifts","biblical-roles","jesus"]
+tags = ["spiritual-gifts","biblical-roles"]
 +++
 I'm often struck by the upside-down way that Jesus represents the roles of prophet, priest and king and the gifts: apostle, prophet, evangelist, shepherd and teacher (APEST).
 

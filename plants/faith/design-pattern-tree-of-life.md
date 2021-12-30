@@ -4,9 +4,9 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-11-30 07:56:29"
+lastmod = "2021-12-30 07:59:37"
 epistemic = "sprout"
-tags = ["bible","design-pattern"]
+tags = ["scripture","design-pattern","trees","life"]
 title = "Design Pattern: Tree of Life"
 +++
 This is an overarching note that explores the theme of trees and life as they exist from Genesis to Revelation.

@@ -1,6 +1,6 @@
 +++
 type = "bible"
-tags = ["abram","sarai","melchizedek"]
+tags = ["blessing","tithe"]
 ref = "Genesis 14:17-24"
 +++
 After [Abram's] return{{< superset 1 "notes" >}} from the defeat of Chedorlaomer and the kings who were with him, the king of Sodom went out to meet him at the Valley of Shaveh (that is, the King's Valley). And Melchizedek king of Salem brought out bread and wine. (He was priest of God Most High). And he blessed him and said,

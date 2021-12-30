@@ -1,7 +1,7 @@
 +++
 title = "Humanity disregards God's wisdom for a lie"
 type = "bible"
-tags = ["adam","eve"]
+tags = ["wisdom","disobedience","promise"]
 ref = "Genesis 3:1-24"
 +++
 Now the serpent was more crafty than any other beast of the field that the LORD God had made. He said to the woman, "Did God actually say, 'You shall not eat of any tree in the garden'?"
