@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-12-03T01:55:11"
-lastmod = "2021-12-30 08:03:27"
-epistemic = "plant"
+lastmod = "2021-12-30 11:13:23"
+epistemic = "evergreen"
 tags = ["story","scripture"]
 +++
 The return of my understanding of the Bible as Story began with _The Bible Project_, and this book gives fresh appreciation for the subtle but crucial importance of the Story vs the many other approaches one might take to the Book. For posterity, I’ll list the others:

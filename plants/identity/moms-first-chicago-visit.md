@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-28"
-lastmod = "2021-12-30 08:04:22"
-epistemic = "plant"
+lastmod = "2021-12-30 11:12:48"
+epistemic = "evergreen"
 tags = ["family"]
 title = "Mom's First Chicago Visit"
 +++

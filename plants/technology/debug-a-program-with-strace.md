@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-10-03"
-lastmod = "2021-11-30 08:08:54"
-epistemic = "plant"
+lastmod = "2021-12-30 11:30:11"
+epistemic = "evergreen"
 tags = ["debug", "strace", "cli"]
 +++
 Here's a fun little debugging story.
@@ -11,7 +11,9 @@ I'd begun to use [keychain](https://www.funtoo.org/Keychain) to manage ssh keys 
 
 But then I found this error. When I ran <code>eval \`/usr/bin/keychain --agents ssh --eval my_rsa\`</code>  while logged into my shell, the keychain process correctly applied the ssh key to my user's ssh-agent process. However, when the same command was run by the same user on a webhook process, the command failed with the following message:
 
-> mkdir: cannot create directory "/.keychain": Permission denied
+{{< notice type=warning >}}
+mkdir: cannot create directory "/.keychain": Permission denied
+{{< /notice >}}
 
 I figured out that my user has a ~/.keychain directory, which meant that keychain seems to be creating the same directory for root. I checked the webhook process to confirm it wasn't running as root. It wasn't. But that still didn't explain why keychain was creating a root copy of the .keychain directory.
 
@@ -31,7 +33,9 @@ So now I knew that the problem was further upstream than the mkdir error, which 
 
 I killed all the running ssh-agents with `keychain -k all` and attempted to re-add my ssh key. That's when I discovered this error:
 
-> Warning: Cannot find separate public key for id_rsa.
+{{< notice type=warning >}}
+Cannot find separate public key for id_rsa.
+{{< /notice >}}
 
 Well, that's interesting! I never added the public key to my server because it didn't seem necessary. But keychain was expecting to find both private and public keys. Somehow it was getting by in my shell; probably because the private key had already been loaded before I began to use keychain. When it didn't find the public key in my user's .ssh folder, however, it began to look elsewhere. Hence the error (far as I can tell).
 

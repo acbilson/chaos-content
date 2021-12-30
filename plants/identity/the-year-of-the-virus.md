@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-01"
-lastmod = "2021-11-30 08:01:07"
-epistemic = "plant"
+lastmod = "2021-12-30 11:29:22"
+epistemic = "evergreen"
 tags = ["pandemic", "coronavirus"]
 +++
 Dear son, have a seat. Let me tell you about the great pandemic of 2020.

@@ -1,10 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-01-01"
-lastmod = "2021-12-01 14:52:37"
+lastmod = "2021-12-30 11:36:23"
 tags = ["integration","modernism","culture"]
 epistemic = "plant"
-title = "Consider: To Change the World"
 toc = true
 +++
 
@@ -22,11 +21,9 @@ He softens his critique of each by stating that these models have produced good 
 
 Having established the failure of our existing models, that the prevailing models of cultural change are ubiquitous and mistaken, he sets forth eleven propositions:
 
-{{< accordion quote "Culture" >}}
-
-<p>Culture is, first and foremost, a normative order by which we comprehend others, the larger world, and ourselves and through which we individually and collectively order our experience (pg 32).</p>
-
-{{< /accordion >}}
+{{< notice type=quote >}}
+Culture is, first and foremost, a normative order by which we comprehend others, the larger world, and ourselves and through which we individually and collectively order our experience (pg 32).
+{{< /notice >}}
 
 1. Culture is a system of truth claims and moral obligations.
 

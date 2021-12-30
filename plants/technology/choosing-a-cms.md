@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-21"
-lastmod = "2021-11-30 08:03:05"
-epistemic = "plant"
+lastmod = "2021-12-30 11:32:32"
+epistemic = "evergreen"
 tags = ["cms"]
+title = "Choosing a CMS"
 +++
 How hard is it to choose a {{< acronym CMS "Content Management System" >}}? Turns out, nigh impossible.
 
