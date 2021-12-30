@@ -4,9 +4,9 @@ backlinks = [
 ]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-11-30 07:56:26"
+lastmod = "2021-12-30 07:59:23"
 epistemic = "sprout"
-tags = ["bible","design-pattern"]
+tags = ["scripture","design-pattern","judgment"]
 title = "Design Pattern: Judgment"
 +++
 This is an overarching note that explores the theme of judgment as it exists from Genesis to Revelation.

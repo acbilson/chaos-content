@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-28"
-lastmod = "2021-11-30 08:00:59"
+lastmod = "2021-12-30 08:04:22"
 epistemic = "plant"
-tags = ["chicago", "mom"]
+tags = ["family"]
 title = "Mom's First Chicago Visit"
 +++
 My mom, who will henceforth be called "Mema" in honor of her ol' grandma name, came to visit! Here are some pics; it was a lovely time.

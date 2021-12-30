@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-10-28"
-lastmod = "2021-11-30 07:56:56"
+lastmod = "2021-12-30 08:01:07"
 epistemic = "sprout"
-tags = ["imago-dei","justice","retribution","canaan"]
+tags = ["imago-dei","justice","retribution"]
 +++
 Israel's destruction of the nations who inhabit Canaan matches the pattern of the flood narrative as a consequence for filling the land with violence, but I've wondered why, this time, it was Israel who delivered the consequence. I mean, Noah was a passive observer when God let creation collapse upon his generation.
 

@@ -2,8 +2,8 @@
 author = "Alex Bilson"
 date = "2020-04-15"
 epistemic = "evergreen"
-lastmod = "2021-12-01 14:53:22"
-tags = ["privilege","chicago"]
+lastmod = "2021-12-30 08:02:37"
+tags = ["privilege"]
 title = "Privilege: An Advocate for the Vulnerable"
 +++
 {{< muted >}}

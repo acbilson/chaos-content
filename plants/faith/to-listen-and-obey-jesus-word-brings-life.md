@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-11-30 07:59:18"
+lastmod = "2021-12-30 08:03:16"
 epistemic = "sprout"
-tags = ["jesus","wilderness","life","death"]
+tags = ["wilderness","life","death"]
 +++
 In the story where {{< backref src="/stones/bible/jesus-heals-a-crippled-man-near-the-sheep-gate" >}}, Jesus sees a crippled man. He notes this man has been waiting many years for healing, thirty-eight years to be precise, and he asks the man if he wants to be made well. The man explains that there's no means to heal him because no one will assist him into the healing pool. Jesus tells him to stand up, take his bed and walk. And that's what the man does.
 

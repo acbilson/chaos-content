@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-04-27"
-lastmod = "2021-12-01 14:52:50"
+lastmod = "2021-12-30 08:02:05"
 epistemic = "evergreen"
-tags = ["faith", "stars", "doubt", "silicone-boone"]
+tags = ["faith", "stars", "doubt"]
 +++
 I've been journeying with Madeleine L'Engle among the stars, trying to grasp the majesty of the heavens and yet hold confidently to God's intimacy with humanity. Listening to Silicone Boone has given lyrics to much of my own experience. I'm enjoying these today:
 

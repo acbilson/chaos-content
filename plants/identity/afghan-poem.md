@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-24"
-lastmod = "2021-12-02 14:37:32"
+lastmod = "2021-12-30 08:03:50"
 epistemic = "evergreen"
-tags = ["poetry","jesus","dark-night-of-the-soul"]
+tags = ["poetry","dark-night-of-the-soul"]
 +++
 After my deployment to Afghanistan in the U.S. Navy, I had a lot to process. Poetry was the result.
 

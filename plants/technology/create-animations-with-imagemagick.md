@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-03"
-lastmod = "2021-12-01 14:44:56"
+lastmod = "2021-12-30 08:05:57"
 epistemic = "sprout"
-tags = ["gif","command-line","imagemagick"]
+tags = ["gif","cli"]
 +++
 I've considered the tool `imagemagick` on multiple occasions (it does practically anything you could imagine with images), but finally downloaded and tested it out. Here's how I created a useless gif animation.
 

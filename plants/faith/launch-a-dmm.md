@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-16"
-lastmod = "2021-11-30 07:57:55"
+lastmod = "2021-12-30 08:01:57"
 epistemic = "seedling"
-tags = ["disciple-making","movement"]
+tags = ["disciple-making-movements"]
 title = "Launch A DMM"
 +++
 How does one launch a {{<acronym DMM "Disciple-Making Movement">}}? Or a {{<acronym MDM "Movement of Disciple-Making">}}? Well, I don't know the answer to that, but this is our approach.

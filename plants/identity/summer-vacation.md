@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-12"
-lastmod = "2021-12-01 14:51:41"
+lastmod = "2021-12-30 08:04:33"
 epistemic = "evergreen"
-tags = ["children", "vacation", "south-dakota"]
+tags = ["children", "vacation"]
 +++
 With the arrival of our second child, Amie and I began to consider whether Christmas is still the best time to visit family. Four plane tickets, crowded airports, and weather delays were a few reasons why summertime was beginning to be a more attractive option. So we purchased a cross-country-travel-friendly vehicle, packed up our bags and kids, and headed to South Dakota at the end of June.
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-27"
-lastmod = "2021-11-30 07:59:35"
+lastmod = "2021-12-30 07:58:36"
 epistemic = "seedling"
-tags = ["bible","god","wisdom","death"]
+tags = ["wisdom","death","disobedience"]
 +++
 The first time Abram is given a chance to rely upon God's promise instead of his own wisdom, he leaves the promised land and {{< backref src="/stones/bible/abram-sojourns-in-egypt" name="sojourns in egypt" >}}.
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-01"
-lastmod = "2021-12-01 14:53:32"
+lastmod = "2021-12-30 08:02:43"
 epistemic = "evergreen"
-tags = ["privilege","chicago"]
+tags = ["privilege"]
 title = "Privilege: What is It?"
 +++
 Privilege is a common theme in the liberal-leaning city of Chicago, and exposure pressures me to consider my privilege and responsibility than if I lived elsewhere. I'm thankful for the pressure, though the subject is uncomfortable. Let's begin with a definition.

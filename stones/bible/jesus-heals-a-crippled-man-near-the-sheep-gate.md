@@ -1,6 +1,6 @@
 +++
 type = "bible"
-tags = ["jesus","sabbath","healing","judgment","work","faith"]
+tags = ["sabbath","healing","judgment","work","faith"]
 ref = "John 5:1-47"
 +++
 After this{{< superset 1 "notes" >}} there was a feast of the Jews, and Jesus went up to Jerusalem.

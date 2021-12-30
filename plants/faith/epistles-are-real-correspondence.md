@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-08-03T15:08:24+01:00"
-lastmod = "2021-11-30 07:56:33"
+lastmod = "2021-12-30 07:59:58"
 epistemic = "plant"
-tags = ["interpretation","bible","letters"]
+tags = ["interpretation","scripture","letters"]
 +++
 The New Testament letters have fit into my mental model as a synopsis of the whole Bible, and the Old Testament primarily as historical background. If the Bible were written as I imagine, the letters would be the treatise, and the Old Testament would be an appendix.
 

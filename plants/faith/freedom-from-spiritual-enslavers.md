@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-20T21:54:37.779401"
-lastmod = "2021-12-03 11:57:29"
+lastmod = "2021-12-30 08:00:22"
 epistemic = "sprout"
-tags = ["spiritual-powers","victory","sin","gods"]
+tags = ["spiritual-powers","victory","sin"]
 +++
 In both the Exodus story and Jesus' resurrection there was a defeat of the spirit powers; the gods of Egypt and the prince of this world. Jesus' victory changes no geopolitical boundaries and produces no visible earthly dominion, but it is on analogy with Israel's flight from Egypt as the ultimate redemption from oppression.
 
