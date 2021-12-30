@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-05-24"
-lastmod = "2021-12-30 08:07:36"
+lastmod = "2021-12-30 09:58:35"
 epistemic = "evergreen"
 tags = ["purpose", "humanity"]
 +++
@@ -17,17 +17,11 @@ All He wills display His glory, for it expresses exactly what He has spoken it t
 
 Humanity reflects I AM in freedom. A human can, each moment, align with His will. But a human may also choose to create separately from Him. "Create" is a misnomer, for anything which does not proceed from eternal Reality is unknown by Reality and cannot, by definition, exist. For a short time, however, He permits humans to pretend to create with one another what ultimately will be proven to never have had any existence, a dark and empty unreality.
 
-A human who _is_, is what He spoke into reality. He alone knows what a human is, and He alone creates humanity. But unlike every other creation, He invites humanity to participate in the continuous creative act in themselves.
+A human who _is_, is what He spoke into reality. {{< backref src="/stones/thomas-merton/humans-are-words-meant-to-respond" >}}. He alone knows what a human is, and He alone creates humanity. But unlike every other creation, He invites humanity to participate in the continuous creative act in themselves. {{< backref src="/stones/thomas-merton/our-vocation-is-not-simply-to-be-but-to-work-together-with-god" >}}.
 
-> "[Humans] are words that are meant to respond to Him, to answer to Him, to echo Him, and even in some way to contain Him and signify Him." (pg. 3)
-
-> "Our vocation is not simply to be, but to work together with God in the creation of our own life, our own identity, our own destiny." (pg. 34)
+{{< backref src="/stones/thomas-merton/every-one-of-us-is-shadowed-by-a-false-self" >}}. But the false self is an illusion, for God does not recognize them. God defines reality, so what He does not recognize is not real. However, {{< backref src="/stones/thomas-merton/if-i-am-true-to-the-thought-of-him-i-shall-find-him-everywhere-in-myself" >}}.
 
 So, it is untrue to describe His will as sheet music, as though a human may play their strain either in harmony with the written note or collapse into dissonance because He invites the human even to ink in the notes as the composition unfolds. And yet each human is tuneless and produces at the final concert only empty silence. Those notes which were written in collaborative unity with Reality, however, will be heard and will produce a harmonious melody. This analogy is even more opaque than Merton, so bear with my grasping mind.
-
-> "Every one of us is shadowed by an illusory person: a false self. This is the man that I want myself to be but who cannot exist, because God does not know anything about him." (pg. 36)
-
-> "[If] I am true to the concept that God utters in me, if I am true to the thought of Him I was meant to embody, I shall be full of His actuality and find Him everywhere in myself, and find myself nowhere. I shall be lost in Him: that is, I shall find myself. I shall be 'saved'." (pg. 39)
 
 To the intensely practical, what I think, at this early stage, is that all meaning in human life centers on self-discovery amidst mundane living in collaboration with God. Comparision is fruitless, for no template exists for any human, the hermit's or the entrepreneur's, because God speaks each human image in a singularly unique dialog.
 

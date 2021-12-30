@@ -1,13 +1,15 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-09"
-lastmod = "2021-12-01 14:48:24"
+lastmod = "2021-12-30 10:34:54"
 epistemic = "evergreen"
 tags = ["children", "safety", "letter"]
 +++
 This is an open letter written to the Congressional Oversight Committee in response to their [report on baby food](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/2021-02-04%20ECP%20Baby%20Food%20Staff%20Report.pdf) published February 4th, 2021. The report is scandalous and included numbers which, taken at face value, suggest that the companies represented poison our children with astronomically high levels of inorganic arsenic, lead, cadmium, and mercury. Please, read the report for yourself, but here's a little context.
 
-> If you're frantic for practical steps, the Healthy Babies, Bright Futures' [research and recommendations](http://www.healthybabyfood.org/sites/healthybabyfoods.org/files/2019-10/BabyFoodReport_FULLREPORT_ENGLISH_R5b.pdf), buried in the report's footnotes, is outstanding.
+{{< notice name="Baby Food Report" src="http://www.healthybabyfood.org/sites/healthybabyfoods.org/files/2019-10/BabyFoodReport_FULLREPORT_ENGLISH_R5b.pdf" >}}
+If you're frantic for practical steps, the Healthy Babies, Bright Futures' Baby Food Report, buried in the report's footnotes, is outstanding.
+{{< /notice >}}
 
 # Summary
 
@@ -39,7 +41,9 @@ We will boycott all baby food. We will express our outrage on social media and l
 
 But the working mom who faces shame every day for not having enough energy to provide for more of her child's needs won't forget your story. She'll walk away horrified that she's poisoned her daughter. She'll face more shame than ever when she tries to make her own baby food and fails because she can't afford the time or mental energy to figure out why her daughter screams when she eats home-made broccoli paste.
 
-> Parenting Hint: high fiber foods can wreak havoc on some developing stomachs. Manufacturers use enzymes to break down complex carbohydrates to make them more easily digestible. So don't forget to strain your peas and broccoli...
+{{< notice >}}
+Parenting Hint: high fiber foods can wreak havoc on some developing stomachs. Manufacturers use enzymes to break down complex carbohydrates to make them more easily digestible. So don't forget to strain your peas and broccoli...
+{{< /notice >}}
 
 She won't read your report to the end and discover that, after all you've said, your bottom line is to avoid rice-based products; an echo of an FDA regulation on inorganic arsenic in rice cereals published in 2016, upheld by the {{< acronym AAP "American Academy of Pediatrics" >}}, and probably already shared with her by her pediatrician. Or dig through your top discoveries to find that the few final product results in your possession, a chart from HappyBABY, shows the Sweet Potato jar she just fed her daughter probably had less than 4.0 ppb lead and that she'll dramatically reduce her daughter's risk by simply giving up those Apple & Broccoli puffs. And she certainly won't spot Healthy Babies, Bright Futures' high-quality [research and recommendations](http://www.healthybabyfood.org/sites/healthybabyfoods.org/files/2019-10/BabyFoodReport_FULLREPORT_ENGLISH_R5b.pdf) you've buried in a footnote.
 

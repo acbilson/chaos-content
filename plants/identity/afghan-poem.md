@@ -1,13 +1,17 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-24"
-lastmod = "2021-12-30 08:03:50"
+lastmod = "2021-12-30 10:16:12"
 epistemic = "evergreen"
 tags = ["poetry","dark-night-of-the-soul"]
 +++
 After my deployment to Afghanistan in the U.S. Navy, I had a lot to process. Poetry was the result.
 
-> My interpretation of what happened in Afghanistan has deepened since I wrote this poetry. Don't assume you understand my current theology because you've found misunderstanding in a poem I penned in 2011.
+{{< notice >}}
+My interpretation of what happened in Afghanistan has deepened since I wrote this poetry. Don't assume you understand my current theology because you've found misunderstanding in a poem I penned in 2011.
+{{< /notice >}}
+
+{{< raw >}}<div style="text-align: center;">{{< /raw >}}
 
 ### Beginning
 
@@ -15,12 +19,14 @@ After my deployment to Afghanistan in the U.S. Navy, I had a lot to process. Poe
 Swift sailing through the sea of life
 Weather diverse but He is near
 Spirit close calms every fear
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Waves crash vain upon my bow
 Shall circumstances rock my hold
 Upon the Lord of grace foretold?
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -35,12 +41,14 @@ The world’s released its bated breath
 The worse is past now no more work
 I think I’ll take some time to rest
 Comfort seems to me the best
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Lay my head on Ease’s lap
 Complacency bids me to sleep
 “Hush now, there’s no watch to keep”
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -55,18 +63,21 @@ Only I, man of the hour
 Self-exalted, basement fails
 Structure crumbles with a crash
 Wood and stubble turn to ash
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 (Respite reveals the heart of man
 When labor turns to selfish ease
 Corrupt affections to appease)
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Wake in dread, the sails have stilled
 Windless, caught without a breeze
 Trapped within the glassy seas
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -81,12 +92,14 @@ Without help I’ll surely die
 Empty thoughts devoid of light
 Stretch the hold to nearly burst
 Abundant water, always thirst
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Now my daily sustenance
 Leaves me empty, incomplete
 Tasteless is the Godly meat
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -101,12 +114,14 @@ In my stomach turns to stone
 Accusations fill my lips
 Questions swirl within my head
 Am I counted as the dead?
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Is my strength akin to stones?
 Does my flesh consist of brass?
 Are not all my days as grass?
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -121,12 +136,14 @@ Creator each after their kind?
 I’ve no strength cannot progress
 Fate hinges on holy wind
 Word speaks, “He must condescend”
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Spirit of the Living God
 I have no handle on Thee
 Hope only on Your mercy
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -141,12 +158,14 @@ Within Joseph’s well to sleep
 Who am I to complain thus?
 My iniquity ascends
 Far above lofty heavens
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 I was raised in countless sins
 Every day I add the cost
 To Jesus’ flesh upon the cross
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -161,18 +180,21 @@ As He hung upon the tree
 If I know not Christ in God
 There is nowhere else to turn
 I shall seek Jesus - or burn
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Am I not Thy purchased prize?
 Make me so despite my life
 Thou art greater than all strife
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 You deserve my every breath
 Poured out for Your endless praise
 Even if my soul won’t raise
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -187,12 +209,14 @@ Say, “Lord all you speak is just”
 Humility floods through my soul
 Limbs splayed out upon the deck
 Nothing left now to protect
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Honesty pours grimly forth
 From a heart without a pulse
 The hull begins to convulse
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -207,18 +231,21 @@ I can feel the breeze arise!
 God has heard my desperate prayer
 Healing on His outspread wings
 Mercy great my heart now sings!
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Restored at the foot of Christ
 Heart leaps in renewed delight
 Jesus, Jesus fills my sight!
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Knowing what it means to feel
 Separated from the Lord
 Leaving twice I can’t afford
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -233,12 +260,14 @@ Wisdom, knowledge from above
 In your Spirit daily march
 Mortifying flesh by grace
 Gazing always on Your face
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Jesus take the conning wheel
 Steer the ship as you see fit
 Riding into bright sunset
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -253,12 +282,14 @@ To their sons continually told
 When I reach the crystal shore
 Leaping from the soggy planks
 I’ll join Your people on the banks
+---
 {{< /poetry >}}
 
 {{< poetry >}}
 Of Jordan where the faithful cross
 To meet our Husband in the air
 The virgin bride, His love all fair
+---
 {{< /poetry >}}
 
 {{< poetry >}}
@@ -266,3 +297,5 @@ Sing grateful hallelujahs
 To the Lamb upon the throne
 Oh, I can’t wait to be home!
 {{< /poetry >}}
+
+{{< raw >}}</div>{{< /raw >}}

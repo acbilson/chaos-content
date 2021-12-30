@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-12"
-lastmod = "2021-12-01 14:51:22"
+lastmod = "2021-12-30 10:31:19"
 epistemic = "evergreen"
 tags = ["marriage", "gratitude"]
 +++
@@ -14,21 +14,29 @@ It's the first day back from Amie and I's 1st wedding anniversary celebration.
 
 We drove to Manistee National Forest in Michigan to spend two nights at a B&B cabin. Staying with a couple we'd never met was strange at first, like paying to visit someone else's family, but our first morning we were able to get to know them over the delicious breakfast they cooked us. The first night we were so tired that we went straight to bed; these long trips are wearying.
 
-> We've done the Michigan drive a few times now, and it's brutal getting out of Chicago. I miss staying at B&B's!
+{{< notice type=quote >}}
+We've done the Michigan drive a few times now, and it's brutal getting out of Chicago. I miss staying at B&B's!
+{{< /notice >}}
 
 The second day was more eventful. Another breakfast with Lawrence (Ashley was at work I think), and then a short trip to a canoe rental place in Baldwin. When Rich told us our trip down the Pere Marquette River would either divide or unite our marriage, I didn't know how true that would be!
 
 At first, I was tempted to blame Amie for our canoe's course over-corrections. She in front, I behind, I thought she spent too much time controlling our course when I felt that was my job as the rear man - not to mention it was easier to change course from the back than the front. After a while; however, I learned to work with her paddling, and I think she became more comfortable too. Maybe that's what Rich meant? We stopped for a snack, changed places, and learned the whole thing over again from the other's point-of-view. But that wasn't the best part.
 
-> Six years of marriage, and the temptation to blame still lingers. Only now I'm more aware than ever that my contribution is at least 50% (usually more). We've navigated waters that make those semi-rapids look like child's play.
+{{< notice type=quote >}}
+Six years of marriage, and the temptation to blame still lingers. Only now I'm more aware than ever that my contribution is at least 50% (usually more). We've navigated waters that make those semi-rapids look like child's play.
+{{< /notice >}}
 
 When we flipped the canoe our differences really stood out. I was laughing in the adrenaline rush of the moment. Though aware of the danger of injury or being held under, I came up from my submersion laughing. Amie did not. I think she may feel hurt by my reaction, for she said that she'd wondered why I was having a good time and she was not. There were some kayakers nearby who watched the entire thing. In passing they said it looked like we were good in the water and gave some advice for righting the canoe. I was too stunned to question their decision to leave us.
 
-> We still tell this story, but with mutual laughter. It's an anomaly that Amie wasn't laughing since she's just as adventurous as I.
+{{< notice type=quote >}}
+We still tell this story, but with mutual laughter. It's an anomaly that Amie wasn't laughing since she's just as adventurous as I.
+{{< /notice >}}
 
 After the initial shock was over, I wedged the canoe under a log to keep it from floating away. Amie captured our things before they floated down the river. I realized Amie wasn't enjoying the experience like I was. My response was calm and directive - I feel proud of what I did in fact - while Amie became hesitant and semi-compliant. After the chaos was brought back into order and a plan established, I thought everything was okay.
 
-> I may have been calm in the face of this danger, but Amie's shown herself to handle extreme situations with incredible calmness and wisdom many times since. We're a great match; both adventurous, but also empathetic towards the fears of the other.
+{{< notice type=quote >}}
+I may have been calm in the face of this danger, but Amie's shown herself to handle extreme situations with incredible calmness and wisdom many times since. We're a great match; both adventurous, but also empathetic towards the fears of the other.
+{{< /notice >}}
 
 I pushed the canoe out from under the log and followed it; right towards Amie! For a moment it looked like Amie might be struck by the canoe; that's why I think she broke down at that point and began to shake and cry. With my feet buried in the smooth stones of the creek bed, one arm holding the canoe and another around Amie, whispering "I've got you," we stood in the river for a while till Amie regained her composure. Then together we managed to pour most of the water out of the canoe. Because the current was strong and the water deep, Amie wasn't able to move from her place, so I helped her get to where I'd moored the now-floating canoe.
 
@@ -38,4 +46,6 @@ That evening Amie and I sat on the beach and had a long discussion about love. O
 
 We had a wonderful trip back to Chicago. Amie drove and I read "How To Kill A Mockingbird" out loud the whole way.
 
-> Great book, I highly recommend it. Reading together has been a long-standing habit of ours. And we're still staying away from the tally system and towards mutual, non-competitive love for one another.
+{{< notice type=quote >}}
+Great book, I highly recommend it. Reading together has been a long-standing habit of ours. And we're still staying away from the tally system and towards mutual, non-competitive love for one another.
+{{< /notice >}}

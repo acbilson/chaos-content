@@ -1,18 +1,20 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-01"
-lastmod = "2021-12-01 14:46:34"
+lastmod = "2021-12-30 10:47:54"
 epistemic = "evergreen"
 tags = ["surveillance", "bots"]
 +++
 {{< raw >}}
 <style>
-ul {
+h2+ul {
   font-size: 12px !important;
+  line-height: unset;
+  list-style: none;
 }
 </style>
-
 {{< / raw >}}
+
 Below is a list of the top 100 IP addresses that have made requests to my website since the beginning of November. It's a fascinating list, no?
 
 ## The List
