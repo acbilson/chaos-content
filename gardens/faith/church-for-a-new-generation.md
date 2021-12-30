@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-11-30 14:39:07"
+lastmod = "2021-12-30 12:11:58"
 narrow = true
 [coordinates]
     x = 180
@@ -16,5 +16,6 @@ This is a {{< acronym MOC "Map Of Content" >}} for the subject of renewal and re
 - {{< backref src="/plants/faith/god-has-mercy-for-many-methods" >}}
 - {{< backref src="/plants/business/spider-followers-need-an-extra-push" >}}
 - I can't think of anything better than to {{< backref src="/plants/faith/launch-a-dmm" >}}.
+- We're focused on starting churches, but {{< backref src="/stones/peyton-jones/christ-never-commanded-his-disciples-to-plant-churches" >}}.
 
 There are ways we could communicate information that would excel the business and education domains. More thinking to do, but parable was Jesus' primary mode of communication. See {{< backref src="/plants/writing/parable-and-poetry-hit-harder-than-prose" >}} and {{< backref src="/plants/writing/short-stories-are-modern-parables">}}.
