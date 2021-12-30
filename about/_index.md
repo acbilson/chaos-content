@@ -14,19 +14,28 @@ To learn more about me from the aspect of work history, review my [LinkedIn Prof
 
 To see what I've done with code, check out my [Github Page](https://github.com/acbilson).
 
-From the perspective of the Enneagram, my results are a tie between a One (Reformer) and a Five (Investigator). My assessment is that I lean towards a One. Here's a summary.
+From the perspective of the Enneagram, my results are a tie between a One (Reformer) and a Five (Investigator). My assessment is that I lean towards a Five. Here's a summary.
 
-{{< raw >}}<img style="width: 200px; margin: auto;" src="/data/img/enneagram.png" />{{< /raw >}}
+{{< raw >}}
+<div style="display: flex; flex-flow: row nowrap; justify-content: space-evenly;">
+  <figure>
+  <img style="width: 200px;" src="/data/gif/enneagram-type-5.gif" />
+  <figcaption>Type 5 - The Investigator</figcaption>
+  </figure>
+  <figure>
+  <img style="width: 200px;" src="/data/gif/enneagram-type-1.gif" />
+  <figcaption>Type 1 - The Reformer</figcaption>
+  </figure>
+</div>
+{{< /raw >}}
 
->"Type One exemplifies the desire to be good, to live up to the highest ethical standards, and to effect positive changes in the world. While a number of types care about achieving goals, Ones are particularly aware of **how** they achieve their goals. Were they honorable? Did they use their resources wisely? They tend to see things in terms of long-range objectives, and they can be aware of how current actions might affect future situations.<br /><br />
+### Type 5 Overview
 
->Most Ones report feeling a powerful sense of mission, a deep feeling of purpose that they remember from their early childhood. This sense of mission impels Ones to rise to their highest standards, to make personal sacrifices, and to evaluate themselves regularly to see if they are falling short of their ideals. They feel that they must live a balanced, sensible life in order to have the clarity and inner resources necessary to fulfill their purpose.<br /><br />
+> Fives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way.
 
->Ones also have deep convictions about right and wrong, what is just and unjust. They are often dedicated to reform and social causes since they feel personally obligated to improve the world and leave it a better place. They put themselves on the line for their values and ethical convictions—if it means risking their jobs, their fortunes, or even their lives.<br /><br />
+### Type 1 Overview
 
->While Ones tend to see themselves as people of logic and reason, they are often driven by strong feelings and impulses—usually experienced as personal convictions. Because they so strongly feel that they must accomplish their life mission, they conclude that they must be serious and determined and must not waste time. They can become very strict with themselves, feeling they must always be working toward their ideals, "making progress," and pointing out how things could be improved. They are extremely conscientious about how they use their time and resources. They make lists, organize things, and constantly prioritize their activities.<br /><br />
-
->In brief, Ones want to be right, to strive higher and improve everything, to be consistent with their ideals, to justify themselves, and to be beyond criticism."
+> Ones are conscientious and ethical, with a strong sense of right and wrong. They are teachers, crusaders, and advocates for change: always striving to improve things, but afraid of making a mistake. Well-organized, orderly, and fastidious, they try to maintain high standards, but can slip into being critical and perfectionistic. They typically have problems with resentment and impatience. At their Best: wise, discerning, realistic, and noble. Can be morally heroic.
 
 <hr />
 
