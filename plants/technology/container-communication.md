@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-22"
-lastmod = "2021-12-01 14:44:42"
+lastmod = "2021-12-30 10:51:54"
 epistemic = "evergreen"
 tags = ["docker","ssh","jenkins","architecture"]
 title = "Controller/Client Docker Connection"
@@ -47,7 +47,9 @@ What if, instead of running DIND or installing to my local machine, I launched b
 
 ## Connected Container Steps
 
-> Caveat: I wrote these instructions weeks after I pulled this off... for the second time. Even though this post may sound like it was straightforward, this option took hours of tinkering to finally get it to work.
+{{< notice >}}
+Caveat: I wrote these instructions weeks after I pulled this off... for the second time. Even though this post may sound like it was straightforward, this option took hours of tinkering to finally get it to work.
+{{< /notice >}}
 
 These steps are listed by execution, not by location. It's a commentary on the steps in my [run.sh](https://github.com/acbilson/connected-containers/blob/master/run.sh) example, with each example pulled verbatim from the scripts.
 
@@ -83,7 +85,9 @@ mkdir -p ~/.ssh && \
 
 For full automation, I need the ssh service running on every client. So I spin it up inside the container.
 
-> Note: Service interaction varies widely between Linux distros. I'm using Debian for all my containers.
+{{< notice >}}
+Note: Service interaction varies widely between Linux distros. I'm using Debian for all my containers.
+{{< /notice >}}
 
 {{< highlight sh >}}
 /etc/init.d/ssh start
@@ -93,7 +97,9 @@ For full automation, I need the ssh service running on every client. So I spin i
 
 I try to use Docker as responsibly as I would if I were administering these containers in a public cloud. Now that I have SSH key authentication, there's no reason to remote access containers by password auth. So I disable it.
 
-> This step also proves my success since my controller can no longer access other containers by password.
+{{< notice >}}
+This step also proves my success since my controller can no longer access other containers by password.
+{{< /notice >}}
 
 {{< highlight sh >}}
 sed -i 's/#PasswordAuthentication.*/PasswordAuthentication no/' /etc/ssh/sshd_config

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-29"
-lastmod = "2021-12-01 14:46:24"
+lastmod = "2021-12-30 10:49:24"
 epistemic = "evergreen"
 tags = ["ansible"]
 +++
@@ -13,7 +13,9 @@ From my first successful deployment, I’ve been extremely satisfied with Ansibl
 
 My first foray into the Ansible documentation led me to think that learning adhoc commands would be a good start, then playbooks, and finally roles. After a bit of tinkering; however, I realized that roles were conceptually simpler and fit the mental model I wanted - a description of various responsibilities a server might provide. For example, a server might offer web services, and an Ansible role should describe all the steps to convert any server into a webserver. An unexpected side effect of this mental model is that it's led me to maintain functional distinctions that could be deployed to separate machines, even though at the moment it all resides on a single machine.
 
-> Caveat: I'm going to choose a role I developed a few steps after the first. It's easier to describe and thus a better candidate for an example.
+{{< notice >}}
+Caveat: I'm going to choose a role I developed a few steps after the first. It's easier to describe and thus a better candidate for an example.
+{{< /notice >}}
 
 After I'd established the bedrock roles I wanted for the webserver that's hosting this site, I began to ponder what it'd take to automate the static site deployment. I'd read that others used Netlify tools to automate their site deployment so that they could add content without manually executing the commit-build-deploy steps. I didn't want to move to Netlify today, so I needed a way to achieve what Netlify does on my own.
 
@@ -29,7 +31,9 @@ The first step was simple; the webhook package should be installed on the machin
   become: yes
 {{< / highlight >}}
 
-> you'll notice many tasks end with `become: yes`. This line indicates that the command requires heightened privileges to run.
+{{< notice >}}
+You'll notice many tasks end with `become: yes`. This line indicates that the command requires heightened privileges to run.
+{{< /notice >}}
 
 Somehow, the package doesn't create it's own /etc folder, so I take that step myself.
 

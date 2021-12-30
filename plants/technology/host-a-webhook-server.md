@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-23"
-lastmod = "2021-12-01 14:46:07"
+lastmod = "2021-12-30 10:50:46"
 epistemic = "evergreen"
 tags = ["webhook", "hosting", "git-flow", "hugo"]
 +++
@@ -85,9 +85,11 @@ This configuration listens for a Github event (in my case, a pull event), compar
 
 For completeness, here's a screenshot of my Github webhook configuration:
 
-![github webhook configuration](/posts/data/github_webhook.png)
+![github webhook configuration](/data/img/github_webhook.png)
 
-> If you're curious what's available in the request body, Github will display the complete JSON payload on the webhook page. You can also resend an event, which is perfect for testing!
+{{< notice >}}
+If you're curious what's available in the request body, Github will display the complete JSON payload on the webhook page. You can also resend an event, which is perfect for testing!
+{{< /notice >}}
 
 But wait, there's more! This post intends to be a complete example, so here's the build-site.sh script.
 

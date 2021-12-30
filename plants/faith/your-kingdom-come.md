@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-12"
-lastmod = "2021-12-01 14:54:03"
+lastmod = "2021-12-30 10:23:46"
 epistemic = "evergreen"
 tags = ["kingdom","prayer","healing"]
 +++
@@ -25,15 +25,13 @@ Matthew enshrines a version of Jesus' prayer in his synopsis of Jesus' teaching 
 
 Jesus touches a man with a skin disease and heals the disease.
 
-{{< accordion leper "Matthew 8:1-4" >}}
-
+{{< accordion name="Matthew 8:1-4 (ESV)" >}}
 <p>When [Jesus] came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying,
 <p>"Lord, if you will, you can make me clean."</p>
 <p>And Jesus stretched out his hand and touched him, saying,</p>
 <p>"I will; be clean."</p>
 <p>And immediately his leprosy was cleansed. And Jesus said to him,</p>
 <p>"See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a proof to them."</p>
-
 {{< /accordion >}}
 
 Last year, a friend of ours came up after Sunday service to ask for prayer. His back had been injured years earlier and he had experienced chronic pain ever since. Amie and I briefly laid our hands on our friend's back, invited the Holy Spirit, and commanded his back to be made well. Immediately, the pain lessened! A week later we checked in with him and found that his back had been permanently helped, if not completely restored, by our prayers.
@@ -44,8 +42,7 @@ Last year, a friend of ours came up after Sunday service to ask for prayer. His 
 
 A Roman centurion, representative of the oppressive empire that enslaved Jesus' people, is treated with equal dignity to an Israelite and publicly commended for his faith. Jesus fulfills his teaching to "Love your enemies and pray for those who persecute you (_ESV_, Matthew 5:44)."
 
-{{< accordion centurion "Matthew 8:5-13" >}}
-
+{{< accordion name="Matthew 8:5-13 (ESV)" >}}
 <p>When [Jesus] had entered Capernaum, a centurion came forward to him, appealing to him,</p>
 <p>"Lord, my servant is lying paralyzed at home, suffering terribly."</p>
 <p>And he said to him,</p>
@@ -57,7 +54,6 @@ A Roman centurion, representative of the oppressive empire that enslaved Jesus' 
 <p>And to the centurion Jesus said,</p>
 <p>"Go; let it be done for you as you have believed."</p>
 <p>And the servant was healed at that very moment.</p>
-
 {{< /accordion >}}
 
 The word 'enemy' is uncomfortable. I have no enemies, do I? If I shift the definition from a person I fear and hate to a person whose actions demonstrate ill feeling toward me, my most recent enemy was a previous manager.
@@ -78,8 +74,7 @@ Lest you think I acted in love towards my manager by sheer willpower, you should
 
 Jesus publicly exalts a woman who had been ceremonially unclean for a dozen years, showing the same respect towards this marginalized woman as the Israelite ruler he was on his way to help.
 
-{{< accordion ruler "Matthew 9:18-26" >}}
-
+{{< accordion name="Matthew 9:18-26 (ESV)" >}}
 <p>While [Jesus] was saying these things to them, behold, a ruler came in and knelt before him, saying,</p>
 <p>"My daughter has just died, but come and lay your hand on her, and she will live."</p>
 <p>And Jesus rose and followed him, with his disciples. And behold, a woman who had suffered from a discharge of blood for twelve years came up behind him and touched the fringe of his garment, for she said to herself,</p>
@@ -89,7 +84,6 @@ Jesus publicly exalts a woman who had been ceremonially unclean for a dozen year
 <p>And instantly the woman was made well. And when Jesus came to the ruler's house and saw the flute players and the crowd making a commotion, he said,</p>
 <p>"Go away, for the girl is not dead but sleeping."</p>
 <p>And they laughed at him. But when the crowd had been put outside, he went in and took her by the hand, and the girl arose. And the report of this went through all that district.</p>
-
 {{< /accordion >}}
 
 In some circles there's a tendency to diminish the contributions of new Christians. Bible knowledge and clean living become the prerequisites for authority, neither of which are common among new Christians.

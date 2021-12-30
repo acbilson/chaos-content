@@ -1,6 +1,6 @@
 +++
 date = "2020-05-29"
-lastmod = "2021-12-01 14:51:04"
+lastmod = "2021-12-30 10:29:26"
 epistemic = "evergreen"
 tags = ["racism", "justice"]
 +++
@@ -54,11 +54,9 @@ To consider how you might respond, check my related series on privilege, startin
 
 Thanks be to God for Miles McPherson’s [plea to raise our voices](https://www.kusi.com/pastor-miles-mcpherson-on-race-relations-police-brutality-and-life-of-george-floyd/), for Amy Buerke’s social media integrity, and her source, [John Pavlovitz](https://johnpavlovitz.com/2020/05/07/white-americans-need-to-condemn-white-racism-in-america/?fbclid=IwAR2iWKlMfrlLVvMmK5zje909nbC_9w4hu7LdVKpfXhIXU4TCwsuJwxHjHjE).
 
-{{< raw >}}
-<blockquote>
-May your Kingdom come,<br />
-may your will be done,<br />
-as in heaven, so on the earth<br /><br />
+{{< poetry >}}
+May your Kingdom come,
+may your will be done,
+as in heaven, so on the earth
 Amen
-</blockquote>
-{{< / raw >}}
+{{< /poetry >}}

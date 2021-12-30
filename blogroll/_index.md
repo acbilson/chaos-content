@@ -50,7 +50,7 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 
 {{< outref src="https://laurakalbag.com/" name="Laura Kalbag" >}} - I haven't spent a lot of time on her personal site (yet), but Laura's work for the {{< outref src="https://small-tech.org/" name="Small Technology Foundation" >}} has definitely influenced me.
 
-{{< outref src="https://www.robinrendle.com/" name="Robin Rendle" >}} - Robin's writing on design and reflections on the web are first-rate. Love discovering the beauty of the web with her.
+{{< outref src="https://www.robinrendle.com/" name="Robin Rendle" >}} - Robin's writing on design and reflections on the web are first-rate. Love discovering the beauty of the web with him.
 
 {{< outref src="https://www.jefftk.com/" name="Jeff Kaufman" >}} - Jeff's practical writing about parenthood has more than once encouraged or informed my own stumbling fatherhood. Thanks for being so practical and example-driven!
 

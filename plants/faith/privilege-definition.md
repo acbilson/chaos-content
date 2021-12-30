@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-01"
-lastmod = "2021-12-30 08:02:43"
+lastmod = "2021-12-30 10:19:38"
 epistemic = "evergreen"
 tags = ["privilege"]
 title = "Privilege: What is It?"
@@ -14,7 +14,7 @@ A common benefit bestowed by privilege is influence. A healthy, white man exerts
 
 The privilege discussion in Chicago falters in action where it succeeds in definition. We have been enlightened by our privilege but not spurred to action. How could we, given that privilege is a static fact{{< superset 2 >}}?
 
-Next up, [advocating for the vulnerable]({{< ref "/plants/faith/privilege-advocate-vulnerable" >}}).
+Next up, {{< backref src="/plants/faith/privilege-advocate-vulnerable" name="Advocate For The Vulnerable" >}}.
 
 {{< addendum >}}
 By comparitive example, I mean the benefit gained from others like one's self publicly praised and promoted in society."

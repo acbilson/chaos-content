@@ -1,22 +1,21 @@
 +++
 author = "Alex Bilson"
 date = "2020-06-17"
-lastmod = "2021-12-30 08:02:56"
+lastmod = "2021-12-30 09:43:15"
 epistemic = "evergreen"
-tags = ["formation"]
+tags = ["formation","faith",]
 +++
-If you've read my {{< backref src="/plants/faith/your-kingdom-come" >}}, then you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale.
+If you've read my writing about Jesus' prayer, "{{< backref src="/plants/faith/your-kingdom-come" >}}", you have a glimpse into what transformation could look like. Jesus' teaching transforms individual lives when put into action. When allegiance to his teaching spreads through a community, it produces transformation on a societal scale.
 
 What tenents should a team who yearns for community transformation follow to witness fruit? This is the question I propose, and to which I shall attempt to enumerate an answer.
 
-> I derive my definition of transformation from an ancient Greek cognate, μετάνοια; μετά meaning "change" (e.g. metamorphosis) and νοια meaning "(one's own) mind." This word summarizes how people ought to respond to Jesus' message - by changing the way we think and act.
+{{< notice >}}
+I derive my definition of transformation from an ancient Greek cognate, μετάνοια; μετά meaning "change" (e.g. metamorphosis) and νοια meaning "(one's own) mind." This word summarizes how people ought to respond to Jesus' message - by changing the way we think and act.
+{{< /notice >}}
 
-{{< accordion repent "Matthew 4:17 (GW)" >}}
-
-<p>From then on, Jesus began to tell people, “Turn to God and change the way you think and act, because the kingdom of heaven is near!”</p>
-
+{{< accordion name="Matthew 4:17 (GW)" >}}
+From then on, Jesus began to tell people, “Turn to God and change the way you think and act, because the kingdom of heaven is near!”
 {{< /accordion >}}
-
 
 ## 1. Jesus is the focal point of all transformation.
 
@@ -37,6 +36,8 @@ Humans hold truth at a distance when it's transferred by an authority figure. At
 ## 5. Transformation happens after obedience.
 
 Much of what Jesus teaches cannot be digested without an attempt to do it, and an attempt to do what he says results in more transformation than weeks of instruction can ever hope to achieve. It's in the obedience that we discover what truly hinders us from change and obedience completed that we revel in its truthfulness.
+
+Jesus prioritizes action in the lives of his disciples in Luke 10, where Peyton Jones makes the observation that {{< backref src="/stones/peyton-jones/the-way-to-practice-dependence-on-the-spirit-was-to-need-him" >}}.
 
 ## 6. Everyone is eligible for transformation.
 
