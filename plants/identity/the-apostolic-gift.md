@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-27"
-lastmod = "2021-12-01 14:51:29"
+lastmod = "2021-12-30 12:08:33"
 epistemic = "evergreen"
 tags = ["spiritual-gifts","identity"]
 +++
@@ -27,4 +27,10 @@ When I consider the role of an apostle, however, I realize that it's crucial to 
 
 The truth is, I'm the least of all the church. I can teach, but I'm a novice compared to a teacher. I can share, but it's hard to notice next to an evangelist. I care deeply for the community, but my love looks cold compared to a pastor. I fit nowhere, but spend my time everywhere. With this in mind, my claim to be apostolically gifted feels less like a mantle of authority and more like only another expression of God's amazing gifts poured out upon humanity.
 
-There could be an overlap with {{< backref src="/plants/identity/embracing-my-polymath-identity" >}}.
+Two aspects of the apostolic gift have been particularly difficult to accept.
+
+First, I didn't realize right away that {{< backref src="/stones/peyton-jones/i-had-a-lifecycle-in-a-place" >}}. Like Peyton Jones, I've felt that I have deficient commitment whenever I struggle to keep the same role and performance. I think this aspect of the apostolic gift has overlap with {{< backref src="/plants/identity/embracing-my-polymath-identity" >}}.
+
+Second, my commitment to the Church is at odds with how {{< backref src="/stones/peyton-jones/apostolic-planters-have-a-wildness-that-doesnt-function-in-the-domesticated-church-system" >}}. I've spent years trying to contribute inside the domesticated church system only to be misunderstood, sidelined, and overlooked.
+
+It's an encouragement to me that, while I may have many fears, {{< backref src="/stones/peyton-jones/planters-sent-by-god-are-nearly-impossible-to-stop" >}}.

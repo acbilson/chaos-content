@@ -8,4 +8,4 @@ page = "36"
 source = "Church Plantology"
 tags = ["apostolic","failure","mastery"]
 +++
-The difference between a master and a rookie is that a master has failed more ti9mes than the beginner has ever tried.
+The difference between a master and a rookie is that a master has failed more times than the beginner has ever tried.
