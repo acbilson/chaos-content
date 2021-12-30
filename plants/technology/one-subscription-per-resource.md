@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-11T20:05:50"
-lastmod = "2021-12-01 14:46:43"
+lastmod = "2021-12-30 11:18:54"
 epistemic = "plant"
 tags = ["snippet","javascript","software","subscription","observable","rxjs"]
 +++
@@ -11,17 +11,17 @@ Here's my subscription progression for the **qrm-category-container** root compo
 
 The root container creates a subscription in `onInit()` that fires whenever fedId or QRM periodId changes, like so:
 
-```
+{{< highlight js >}}
 combineLatest([this.sessionQuery.federalReserveId$, this.sessionQuery.qualitativePeriodId$])
   .subscribe(([fedId, qualitativePeriodId]) => {
     this.qualitativePeriodId = qualitativePeriodId;
     this.refreshViewModel(fedId, qualitativePeriodId, this.viewCustomerData, this.categoryId);
   });
-```
+{{< /highlight >}}
 
 That's not too bad, right? Consider what happens in `refreshViewModel()`...
 
-```
+{{< highlight js >}}
 refreshViewModel(federalReserveId: number, periodId: number, viewCustomerData: boolean, categoryId): void {
   this.analysisService.readAnalysis$(federalReserveId, periodId, viewCustomerData)
     .subscribe(analysis => {
@@ -35,7 +35,7 @@ refreshViewModel(federalReserveId: number, periodId: number, viewCustomerData: b
       }
     });
 }
-```
+{{< /highlight >}}
 
 Every time the onInit subscription updates, the `refreshViewModel()` method creates a new subscription! If we look at `initializeAnalysis()` and `readCategoryModel()` we'll find that they also generate new subscriptions every time. Oops!
 
@@ -45,7 +45,7 @@ To remove the child subscriptions, let's use Greg's chained pipe method to show 
 
 On feature branch PORT-1105-summer-pr-refactor, this is commit 10062cde.
 
-```
+{{< highlight js >}}
 refreshViewModel(federalReserveId: number, periodId: number, viewCustomerData: boolean, categoryId): void {
   this.analysisService.readAnalysis$(federalReserveId, periodId, viewCustomerData).pipe(
     switchMap(analysis => defer(() => {
@@ -63,7 +63,7 @@ refreshViewModel(federalReserveId: number, periodId: number, viewCustomerData: b
       this.buttons = this.createButtons(model.categories);
     });
 }
-```
+{{< /highlight >}}
 
 ## Stage Three - One onInit() Subscription
 
@@ -71,7 +71,7 @@ When I began to integrate this pipe chain with the original `combineLatest()` it
 
 On feature branch PORT-1105-summer-pr-refactor, this is commit 0d95892f.
 
-```
+{{< highlight js >}}
 // refreshes any time institution, qrm period, category, or data view changes in session
 const config$ = combineLatest(
   [
@@ -115,11 +115,11 @@ combineLatest([config$, analysisId$, model$]).subscribe(([config, analysisId, mo
   this.sectionIds = model.sectionIds;
   this.buttons = this.createButtons(model.categories);
 });
-```
+{{< /highlight >}}
 
 But wait, I've introduced a problem! We now have a single _final_ subscription for our component's data, but there are an unnecessary number of intermediary subscriptions. The config observable is subscribed to three times now: first, for the analysisId, then the model, and finally, the ultimate subscription. Let's have a final refactor and call it a day.
 
-```
+{{< highlight js >}}
 combineLatest(
   [
     this.sessionQuery.federalReserveId$,
@@ -151,4 +151,4 @@ combineLatest(
     this.sectionIds = model.sectionIds;
     this.buttons = this.createButtons(model.categories);
   });
-```
+{{< /highlight >}}

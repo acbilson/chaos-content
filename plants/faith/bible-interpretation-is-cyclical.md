@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-02"
-lastmod = "2021-11-30 07:56:21"
-epistemic = "plant"
+lastmod = "2021-12-30 11:28:35"
+epistemic = "evergreen"
 tags = ["discovery", "interpretation", "bible"]
 +++
 As I've matured, one of the ambiguities I’ve learned to accept is the journey of interpretation.
@@ -23,7 +23,9 @@ First, read Romans 14:17.
 
 Here's my first swing at an interpretation without further context.
 
-> The writer makes a dichotomy between the physical realm and the spiritual realm. "The kingdom of God," the writer says, "is not a matter of earthly practices like eating and drinking, but is a matter of the inner feelings, like peace and joy, and the good actions (righteousness) of Kingdom participants. Therefore, I (the reader) should be a kind person and seek personal peace and joy over the accumulation of material food and drink."
+{{< notice type=quote long=true >}}
+The writer makes a dichotomy between the physical realm and the spiritual realm. "The kingdom of God," the writer says, "is not a matter of earthly practices like eating and drinking, but is a matter of the inner feelings, like peace and joy, and the good actions (righteousness) of Kingdom participants. Therefore, I (the reader) should be a kind person and seek personal peace and joy over the accumulation of material food and drink."
+{{< /notice >}}
 
 That sounds pretty good, doesn't it? Most folks I know agree that being a nice person and having personal peace and joy is superior to eating a steak dinner. Well, at least in the long term &#128521;.
 
@@ -37,9 +39,11 @@ We can honor the writer better if we try to grasp the writer’s context and int
 
 Now how would I summarize this portion? Here’s my best shot.
 
-> The writer wants his audience to stop passing judgment on others in their community; specifically what they do or don’t eat. Some are eating “unclean” food that others feel strongly isn’t okay to eat, and both sides are condemning the other. Perhaps one party says, “we can eat anything, for Jesus has made it clean. Stop being a stickler,” and the other party says, “what do you know about clean food? It is disgraceful to eat what’s unclean, and it pains me to see you disregard what’s obviously wrong.”<br /><br />
+{{< notice type=quote long=true >}}
+<p>The writer wants his audience to stop passing judgment on others in their community; specifically what they do or don’t eat. Some are eating “unclean” food that others feel strongly isn’t okay to eat, and both sides are condemning the other. Perhaps one party says, “we can eat anything, for Jesus has made it clean. Stop being a stickler,” and the other party says, “what do you know about clean food? It is disgraceful to eat what’s unclean, and it pains me to see you disregard what’s obviously wrong.”</p>
 
-> The writer addresses the party who eats, “technically you’re right, you can eat, but you’re missing what’s more important. This other party is your family, and you need to consider their needs instead of defending your behavior with a technicality (I’m not saying you’re wrong about eating "unclean" food, only that your priorities are disordered). True service to Jesus seeks to benefit your community and keep peaceful relationship with them. This behavior is acceptable to God, and even to your neighbors. But instead you provoke others in your community by flaunting your right to eat “unclean” foods and in so doing cause them harm. Seek peace and right relationship in your community more than maintaining your rights, for that’s what God’s kingdom is about.”
+<p>The writer addresses the party who eats, “technically you’re right, you can eat, but you’re missing what’s more important. This other party is your family, and you need to consider their needs instead of defending your behavior with a technicality (I’m not saying you’re wrong about eating "unclean" food, only that your priorities are disordered). True service to Jesus seeks to benefit your community and keep peaceful relationship with them. This behavior is acceptable to God, and even to your neighbors. But instead you provoke others in your community by flaunting your right to eat “unclean” foods and in so doing cause them harm. Seek peace and right relationship in your community more than maintaining your rights, for that’s what God’s kingdom is about.”</p>
+{{< /notice >}}
 
 Phew, there’s a lot there! For your sake and my own, though the _therefore_ is highly suggestive that we're missing important context, I’m not going to further summarize the chapter, the whole letter, or the Biblical story (though feel free to do so; you’ll discover even more).
 

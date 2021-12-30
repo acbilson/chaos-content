@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-17"
-lastmod = "2021-12-30 10:43:25"
+lastmod = "2021-12-30 11:44:50"
 epistemic = "evergreen"
 tags = ["polymath","renaissance","identity"]
 +++
@@ -23,4 +23,4 @@ Salman's experience echoes my own:
 
 I write software, but not as skillfully as those younger than I who have no other consuming passion. And those burgeoning experts don't know what it's like to live on an Army base in Afghanistan, learn ancient Greek, or complete a 100-page MBA thesis. They don't spend sleepless nights building systems for wide-spread Christian revival or read about sociology, theology, and general relativity. So when I'm among my work colleagues, most of myself is hidden in shadow. But also in my Church community and family too.
 
-It is a growing realization that to be myself is to be known by God alone. Just like {{< backref src="/plants/identity/gifts-apostolic" name="Being Apostlically Gifted" >}}.
+It is a growing realization that to be myself is to be known by God alone. Just like {{< backref src="/plants/identity/the-apostolic-gift" >}}.

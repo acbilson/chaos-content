@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-05"
-lastmod = "2021-11-30 08:01:26"
-epistemic = "plant"
+lastmod = "2021-12-30 11:29:27"
+epistemic = "evergreen"
 tags = ["gratitude"]
 +++
 You'll say I'm biased, but Amie is one of the most empathetic, feisty, tenacious, faithful, sassy women on planet Earth. If you don't believe me, consider a few of my favorite facts:

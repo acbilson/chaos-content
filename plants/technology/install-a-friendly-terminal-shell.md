@@ -1,13 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-29T16:52:25"
-lastmod = "2021-12-30 08:06:33"
-epistemic = "plant"
+lastmod = "2021-12-30 11:11:45"
+epistemic = "evergreen"
 tags = ["shell","terminal"]
 +++
 If you're unfamiliar with a terminal command line or tired of using bash, you'll benefit from installing another shell. There are a number of options, but the fish shell is the simplest to install and use. Simple doesn't mean basic - it's elegant and wonderful.
 
-# Install Fish
+## Install Fish
 
 First, install fish. On MacOs the command is:
 
@@ -15,7 +15,9 @@ First, install fish. On MacOs the command is:
 brew install fish
 {{< /highlight >}}
 
-> If you need an exhaustive install manual, see {{< outref src="https://github.com/jorgebucaran/cookbook.fish" name="Jorge's cookbook" >}}.
+{{< notice name="Jorge's cookbook" src="https://github.com/jorgebucaran/cookbook.fish" >}}
+For an exhaustive install manual, see this cookbook.
+{{< /notice >}}
 
 You're done! Just type `fish` into your terminal and it'll switch over. If you want your terminal to start with fish by default, run this:
 
@@ -23,7 +25,7 @@ You're done! Just type `fish` into your terminal and it'll switch over. If you w
 chsh -s /usr/local/bin/fish
 {{< /highlight >}}
 
-# Customization
+## Customization
 
 Unlike any other shell, fish has a web interface to customize. Run `fish_config` and view the awesomeness!
 

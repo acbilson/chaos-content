@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-05"
-lastmod = "2021-12-01 14:43:42"
+lastmod = "2021-12-30 11:23:21"
 epistemic = "plant"
 tags = ["note-taking","design"]
 +++
@@ -19,7 +19,9 @@ I have a sense of permanence in what exists today with plaintext files and a sin
 
 Though [tags are an ineffective association structure](https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z), I've begun a structure for my notes as a [network of interrelated thoughts](https://alexbilson.dev/network/). I have a problem with a mixture of concepts and content types, but I do find that my diagram supplies newcomers a navigable overview of my site's content. The overview serves a distinct purpose from association. Association allows _me_ to wander the corridors of my thoughts, while tag networks hand a visitor the structural map of all thoughts I've documented online and how they conceptually relate.
 
-> A tag network would help newcomers on Andy's site too. I would never realize from the starting page that Andy has a note about [quiche](https://notes.andymatuschak.org/z5efx2iNLSB8antyDHfU74Xk3x7voSXk9tuec).
+{{< notice name="Quiche" src="https://notes.andymatuschak.org/z5efx2iNLSB8antyDHfU74Xk3x7voSXk9tuec" >}}
+A tag network would help newcomers on Andy's site too. I would never realize from the starting page that Andy has a note about quiche.
+{{< /notice >}}
 
 How to achieve this with [Hugo](https://gohugo.io/)?
 
@@ -35,7 +37,9 @@ A primary goal for my build process is to have one set of repeatable steps that 
 
 If I followed the same pattern I could parse the content files for internal hyperlinks, then generate backlink lists per URL. But the most likely place to store those backlinks would be the source file itself. That would require my build process to both use _and_ modify my content files - danger zone. I might insert them into the HTML output instead, but Hugo doesn't supply any hook to enter custom HTML so I'll have to enter them after the file is fully formed - yuck.
 
-> Despite the danger zone nature of editing the original content files as part of my build, I do like that I might use the backlinks when navigating my content with my favorite editor, Vim, ala [vim note-taking](https://www.edwinwenink.xyz/posts/42-vim_notetaking/).
+{{< notice name="Vim Note-taking" src="https://www.edwinwenink.xyz/posts/42-vim_notetaking/" >}}
+Despite the danger zone nature of editing the original content files as part of my build, I do like that I might use the backlinks when navigating my content with my favorite editor, Vim.
+{{< /notice >}}
 
 ## Approach #2 - Sqlite Database
 

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-12"
-lastmod = "2021-11-30 08:01:06"
-epistemic = "plant"
+lastmod = "2021-12-30 11:29:18"
+epistemic = "evergreen"
 tags = ["childhood", "horses"]
 +++
 For a season of my childhood there were horses. Chief among them was Thirty-five, the ancient dappled-grey mare whose size and demeanor frightened me least of the three. She was purchased with the name 'Thirty-five' but no explanation for the numerical designation. We inferred that Thirty-five must have been the count of circles she'd turn if you attempted to ride out beyond the barn alone. She was a pack animal and no more, comfortable in the world only if behind another. This behavior was a comfort, an assurance that the unexpected would not be likely to occur were I riding aloft her back, nervously hearing the snap of broken bones and sharp pain were I to fall from her prodigious height. But my confidence was to be short-lived.

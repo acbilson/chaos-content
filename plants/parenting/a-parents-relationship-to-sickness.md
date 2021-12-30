@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-02-07"
-lastmod = "2021-11-30 08:18:10"
-epistemic = "plant"
+lastmod = "2021-12-30 11:30:21"
+epistemic = "evergreen"
 tags = ["sickness"]
 +++
 TODO: figure out the overarching topic this fits, then make _that_ garden
