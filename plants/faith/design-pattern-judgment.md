@@ -1,10 +1,7 @@
 +++
-backlinks = [
-  "/gardens/faith/design-patterns"
-]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-12-30 07:59:23"
+lastmod = "2022-01-04 14:18:44"
 epistemic = "sprout"
 tags = ["scripture","design-pattern","judgment"]
 title = "Design Pattern: Judgment"

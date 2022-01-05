@@ -1,10 +1,7 @@
 +++
-backlinks = [
-  "/gardens/faith/design-patterns"
-]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-12-30 07:59:37"
+lastmod = "2022-01-04 14:19:04"
 epistemic = "sprout"
 tags = ["scripture","design-pattern","trees","life"]
 title = "Design Pattern: Tree of Life"
