@@ -1,11 +1,9 @@
 +++
-backlinks = [
-  "/notes/entrepreneurial-business-insights"
-]
+author = "Alex Bilson"
 date = "2018-09-01"
+lastmod = "2022-01-05 15:01:42"
 epistemic = "sprout"
 tags = ["business","adoption","product"]
-title = "Keep Product Development Close To Customers"
 +++
 **Companies often separate customer contact from product development.**
 

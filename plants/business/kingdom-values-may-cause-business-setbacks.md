@@ -1,13 +1,9 @@
 +++
-backlinks = [
-  "/notes/biblical-business-insights"
-]
 author = "Alex Bilson"
-comments = true
 date = "2018-09-01"
+lastmod = "2022-01-05 15:01:53"
 epistemic = "sprout"
 tags = ["bible","business","results"]
-title = "Kingdom Values May Cause Business Setbacks"
 +++
 **To follow Kingdom values in business often results in temporary setbacks, but produces lasting benefit.**
 

@@ -1,13 +1,9 @@
 +++
-backlinks = [
-  "/notes/biblical-business-insights"
-]
 author = "Alex Bilson"
-comments = true
 date = "2018-09-01"
+lastmod = "2022-01-05 15:00:45"
 epistemic = "sprout"
 tags = ["bible","business","faith","finances"]
-title = "Finances Expose Faith More Than Words"
 +++
 **Financial decisions speak louder about a person's true beliefs than confessions of faith.**
 

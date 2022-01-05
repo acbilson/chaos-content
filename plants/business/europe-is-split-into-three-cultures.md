@@ -1,12 +1,9 @@
 +++
-backlinks = [
-  "/notes/multicultural-business-insights",
-]
 author = "Alex Bilson"
 date = "2018-09-01"
+lastmod = "2022-01-05 15:00:35"
 epistemic = "sprout"
 tags = ["culture","diversity"]
-title = "Eurpose Is Split In Three Cultures"
 +++
 **Cultural Insight:** Europe is more culturally diverse than it might appear from a world map.
 
