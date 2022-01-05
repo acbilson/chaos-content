@@ -1,7 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-12-30T14:46:02.429357"
-lastmod = "2021-12-30T14:46:02.429373"
+lastmod = "2022-01-05 09:03:53"
+epistemic = "plant"
+tags = ["snippet","javascript"]
 +++
 My tags list has 195 tags with a single entry. One of the primary purposes for tags is to compare writing with the same tag to discover similarities, so these entries achieve little.
 
