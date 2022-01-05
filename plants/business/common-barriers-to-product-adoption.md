@@ -1,11 +1,9 @@
 +++
-backlinks = [
-  "/notes/entrepreneurial-business-insights"
-]
+author = "Alex Bilson"
 date = "2018-09-01"
+lastmod = "2022-01-05 14:58:55"
 epistemic = "sprout"
 tags = ["business","adoption","product"]
-title = "Common Barriers to Product Adoption"
 +++
 **Entrepreneurs may overlook the complexity of constraints customers face.**
 

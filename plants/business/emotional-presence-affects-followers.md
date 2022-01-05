@@ -1,12 +1,9 @@
 +++
-backlinks = [
-  "/notes/leadership-business-insights",
-]
 author = "Alex Bilson"
 date = "2018-08-01"
+lastmod = "2022-01-05 15:00:16"
 epistemic = "sprout"
 tags = ["leadership","emotional-intelligence"]
-title = "Emotional Presence Affects Followers"
 +++
 **The emotional presence of a leader has a wide-ranging impact on all business functions.**
 

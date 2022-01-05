@@ -1,12 +1,9 @@
 +++
-backlinks = [
-  "/notes/entrepreneurial-business-insights"
-]
 author = "Alex Bilson"
 date = "2018-09-01"
+lastmod = "2022-01-05 15:05:13"
 epistemic = "sprout"
 tags = ["leadership","value-proposition-canvas","model"]
-title = "Value Proposition Canvas"
 +++
 **Deliver post-MBA graduates consulting experience in their dream field.**
 
