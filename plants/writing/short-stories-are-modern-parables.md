@@ -1,10 +1,7 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/notes/church-for-a-new-generation"
-]
 date = "2021-09-28T15:14:00"
-lastmod = "2021-12-30 08:07:55"
+lastmod = "2022-01-04 14:19:17"
 epistemic = "sprout"
 tags = ["parable","story","communication"]
 +++

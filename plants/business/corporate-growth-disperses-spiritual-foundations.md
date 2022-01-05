@@ -1,10 +1,7 @@
 +++
-backlinks = [
-  "/gardens/business-insights#faith-mixed-insights"
-]
 author = "Alex Bilson"
 date = "2018-06-03"
-lastmod = "2021-11-30 07:53:16"
+lastmod = "2022-01-04 14:14:28"
 epistemic = "sprout"
 tags = ["formation","character"]
 +++
