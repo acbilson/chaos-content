@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-05 15:02:15"
+lastmod = "2022-01-05 15:17:12"
 epistemic = "sprout"
 tags = ["business","leadership","norms"]
 +++
@@ -11,7 +11,7 @@ The combination of individual values, personality, and the surrounding culture i
 
 ## Importance
 
-An entrepreneur who launches into their exciting and risky venture will benefit from the conscious development of positive and productive norms.  When these are clear to him and made aware to the team, everyone helps to keep the norms going.  This can have a powerful effect on the entire organization where everyone works to keep the positive norms going and to correct departures.  kCura has done a fantastic job of this by codifying their core values and repeating them often.  The result has been a set of norms which have withstood the many changes from a dozen people on the team to over seven hundred in the company.  It has proven the importance of norms to a business and the truth that "when core values and norms are clear to people, a leader does not even need to be physically present for the team to run effectively {{< cite name="Goleman loc="pg. 181" >}}."
+An entrepreneur who launches into their exciting and risky venture will benefit from the conscious development of positive and productive norms.  When these are clear to him and made aware to the team, everyone helps to keep the norms going.  This can have a powerful effect on the entire organization where everyone works to keep the positive norms going and to correct departures.  kCura has done a fantastic job of this by codifying their core values and repeating them often.  The result has been a set of norms which have withstood the many changes from a dozen people on the team to over seven hundred in the company.  It has proven the importance of norms to a business and the truth that "when core values and norms are clear to people, a leader does not even need to be physically present for the team to run effectively {{< cite name=Goleman loc="pg. 181" >}}."
 
 ## Application
 
