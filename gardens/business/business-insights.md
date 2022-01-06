@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-05 16:01:08"
+lastmod = "2022-01-06 16:06:21"
 toc = true
 narrow = true
 [coordinates]
@@ -27,6 +27,9 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/learn-to-lead-now" >}}
 - {{< backref src="/plants/business/scheduled-priorities-are-kept-priorities" >}}
 - {{< backref src="/plants/business/pride-strikes-at-the-pinnacle-of-success" >}}
+- {{< backref src="/plants/business/love-protects-a-business-from-employment-violations" >}}
+- {{< backref src="/plants/business/leaders-win-by-continually-dying" >}}
+- {{< backref src="/plants/business/leaders-face-pivotal-moments-that-define-their-purpose-on-earth" >}}
 
 ## Entrepreneurial Insights
 
@@ -63,6 +66,14 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/employment-contract-pitfalls" >}}
 - {{< backref src="/plants/business/retention-depends-on-management-growth" >}}
 - {{< backref src="/plants/business/dont-underpay-your-employees" >}}
+- {{< backref src="/plants/business/benefits-attract-employees" >}}
+- {{< backref src="/plants/business/lean-means-efficient-not-alone" >}}
+- {{< backref src="/plants/business/love-protects-a-business-from-employment-violations" >}}
+- {{< backref src="/plants/business/employees-have-no-privacy" >}}
+- {{< backref src="/plants/business/employees-want-their-work-to-have-impact" >}}
+- {{< backref src="/plants/business/companies-need-both-innovation-and-maintenance" >}}
+- {{< backref src="/plants/business/employees-need-communication-growth-recognition-and-trust" >}}
+- {{< backref src="/plants/business/employee-engagement-definition" >}}
 
 ## Leadership Insights
 
@@ -82,6 +93,13 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/to-be-natural-practice-incessantly" >}}
 - {{< backref src="/plants/business/know-and-share-your-story" >}}
 - {{< backref src="/plants/business/learn-to-lead-now" >}}
+- {{< backref src="/plants/business/employees-want-their-work-to-have-impact" >}}
+- {{< backref src="/plants/business/managers-review-goals-give-praise-and-offer-redirects" >}}
+- {{< backref src="/plants/business/secure-managers-share-their-own-tools" >}}
+- {{< backref src="/plants/business/leaders-win-by-continually-dying" >}}
+- {{< backref src="/plants/business/situational-leadership-applies-to-individuals-and-teams" >}}
+- {{< backref src="/plants/business/empathetic-leadership-follows-the-golden-rule" >}}
+- {{< backref src="/plants/business/leaders-face-pivotal-moments-that-define-their-purpose-on-earth" >}}
 
 ## Culture-based Insights
 
@@ -120,3 +138,41 @@ This illustration of God's kingdom comes in response to Peter's question about f
 The story does not address Peter's question directly, for the question of repeat wrongs is not explicitly raised in the parable. Perhaps one could infer it from the sizable debts which may not have been incurred all at once, but Jesus' emphasis seems to reside elsewhere. Instead of recurring debts, Jesus focuses his attention on the heart condition of a debtor who would not extend forgiveness to others but would accept forgiveness himself. The absurdity of the debtor's action is heightened by the unfathomable difference in debts: several lifetime's wages against three month's. Lest the reader mistake the parable, Jesus explains it directly - anyone who has received forgiveness by the Father and fails to forgive his brother is acting exactly like this absurd debtor. The question of times forgiven is rendered pointless by the story, for the meager debts incurred between brothers, whether by many infractions or one, will always be absurd against the immense debt incurred before God.
 
 Surely any entrepreneur who reads this story will cringe and say, "If I operated my business the way the king operates his kingdom, I'd be broke before the week was out!" The injunction to the entrepreneur remains, that she must forgive those who sincerely ask for mercy as many times as they ask. This story never requires her to continually entrust the same debts to the one forgiven, however. While there are occasions that could arise in which total forgiveness would end the operation of the business, the entrepreneur is charged by Jesus to remember the great debt owed to God and to act accordingly. Among that debt is all that she has owned, owns, or ever will own, and justice is in God's hand. In fact, wise management of her business means she will not trust business-crippling sums to those who aren't trustworthy. So, while a misjudgment of character could cripple her business - which is true regardless of how she treats the debt incurred - this is the response of all who trust in God's forgiveness from the heart.
+
+
+> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. For as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too. If we are afflicted, it is for your comfort and salvation; and if we are comforted, it is for your comfort, which you experience when you patiently endure the same sufferings that we suffer. Our hope for you is unshaken, for we know that as you share in our sufferings, you will also share in our comfort (_ESV_, 2 Corinthians 1:3-7).
+
+My wife Amie tells me that hurricane Katrina caused many businesses to decide how they would comfort their employees. With no certainty when or if their employees would return and uncertainty about the cost to restore their businesses, many business owners decided to let employees go to fend for themselves. One large church did the opposite. All staff were given their full salary as they dispersed across the United States. With the destruction to their homes and lives, the church would not add to their burden the challenge of sudden unemployment. Here is one example of a business comforting its employees.
+
+Some families permanently relocated to another state after hurricane Katrina and found new jobs. The companies that hired may have done nothing with the knowledge that they were transplants violently uprooted, adrift and distraught. But others, aware of the pain their new employees must feel, took extra effort to help them feel welcome and accepted. Their teammates listened to their stories, learned what their new teammates missed most from their old homes and lifestyles, and tried to give them a measure of what they lost. They may have hosted a Mardi Gras parade in their break room or went to a jazz concert together. Here is another example of comfort shown to employees.
+
+Other companies produced goods useful to families with nothing after hurricane Katrina. Some used the circumstances to take advantage of these families for an extra profit because these families had few options available to them. Other companies gave their merchandise at regular or reduced prices, and some even gave their goods for free. Their efforts to supply their products to families was driven by the certainty that their goods would be a benefit to them and not primarily because of the profit potential. Many families benefited from their efforts and were comforted by the kindness of strangers. This is a final example of comfort, this time to customers.
+
+
+> Lazy hands make for poverty, but diligent hands bring wealth (_NIV_, Proverbs 10:4).
+
+As I ponder this verse, memory of the hotel staff picketers I pass everyday on my way to the office come to mind. They do not come to mind because these union strikers are lazy, but because their diligent efforts are frustrated by employers who take advantage of them; who don't give them the wealth their hands have brought. I don't know the facts from both sides, so let's not overlook that other proverb about a person who sounds wise until his opponent speaks, but the fact that many of downtown Chicago's hotels have joined a strike together indicates something in the way hotels are treating their staff has united their employees to revolt.
+
+I feel this proverb requires some corrective action in a U.S. context because we are nationally convinced diligence alone will result in wealth and, conversely, that those who live in poverty must be lazy. Despite our majority conviction, our corporations regularly take advantage of the poor by giving them minimal income or stability while profiting greatly from their labor. While we affirm that God has established a principle that those who work shall eat, we pay uneducated workers so little, both in take-home pay and benefits, that they cannot afford to eat without government subsidies. Although the principle is true, that the diligent prosper, as businesses we must apply this principle to the way we pay our employees or risk both the shame of hypocrisy and the judgment of a just God.
+
+https://chicago.suntimes.com/news/hotel-workers-chicago-vote-strike-authorization-august/
+
+
+> If you are faithful in little things, you will be faithful in large ones. But if you are dishonest in little things, you won’t be honest with greater responsibilities. And if you are untrustworthy about worldly wealth, who will trust you with the true riches of heaven? And if you are not faithful with other people’s things, why should you be trusted with things of your own (_NLT_, Luke 16:0-12)?
+
+Faithfulness is akin to laying a brick foundation for a home. If quality bricks are used and well spaced, with each successive layer the foundation becomes stronger. But if poorly made, cracked bricks are haphazardly lain, the building will suffer and even collapse.
+
+I want to enjoy the finished product, the complete house, but the only reliable path is by carefully fitting bricks one at a time into the foundation. Like Jesus' example, each small step well-done demonstrates the quality of the work to come. If I lay bricks poorly, I will not be given the foreman's job to manage the house's construction.
+
+The product of faithfulness on earth is a solid foundation in the age to come. What this means exactly is not clear to me, but it does mean that, if I have been faithful with the responsibilities that God has entrusted to me on earth, I shall be entrusted with greater responsibilities in heaven. The reverse is true; if I cannot demonstrate faithfulness here, neither should I expect to be trusted with greater responsibilities in heaven. There may be a key in the last sentence, but I don't understand what Jesus means. I would expect him to say that if I can't take care of my own stuff, no one will trust me with theirs, but Jesus says the opposite. Thoughts?
+
+
+> Elders who do their work well should be respected and paid well, especially those who work hard at both preaching and teaching. For the Scripture says, “You must not muzzle an ox to keep it from eating as it treads out the grain.” And in another place, “Those who work deserve their pay!” (_NLT_, 1 Timothy 5:17-18)
+
+On two Scripture passages Paul hangs his argument that the shepherds of God's people should be well paid and respected.
+
+The first, about muzzling an ox, he takes from Deuteronomy 25:4. Paul mentions this same passage in 1 Corinthians 9:9 as a defense to his right to payment for his services, even though he will not demand it. The image of a muzzled ox is a mournful picture of a hard-working creature whose short-sighted master greedily protects every grain lest he lose the maximum profit to a few mouthfuls from the ox.
+
+The second, a quote from Jesus' confirmation in Luke 10:7 that it is right for the disciples he sent to stay, eat, and drink at a family's residence while traveling to share his good news because the expense to the family is payment for their labor. To a collection of fishermen, tax collectors, and other assorted business people, Jesus' instructions to travel from town to town and stay in one welcoming family's home may have seemed like it wasn't _real_ work. They may have felt it necessary to turn down offers of hospitality because there was no way to repay the family in labor or money. But Jesus elevates the work they are sent to accomplish, to share good news about Jesus, heal the sick, and to cast out demons, as equal to their business efforts in the right to payment.
+
+The fruit of an engineering manager's efforts vary dramatically from the work of an engineer. The engineer can say at the end of a day, "See what my hands have made!" but the manager may have no visible creation to validate his efforts. Jesus' words encourage all whose work does not produce a definite product that the effort they've spent is worthy of payment. Paul makes the same correlation using Jesus' words to the work of church leaders, specifically pointing to those whose 'product' is the education and exhortation of the people they shepherd, and not grain, leather or fish.
