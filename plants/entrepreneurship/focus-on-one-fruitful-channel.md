@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:17:57"
+lastmod = "2022-01-07 15:18:17"
 epistemic = "sprout"
 tags = ["entrepreneurship","channel","sustainable"]
 +++
@@ -23,7 +23,7 @@ The channel concept is one I'd heard bandied about, but _Traction_ makes it a co
 
 The online counseling concept that I wrote about in Kati Ray's interview is an interesting case.  Her customers are likely to be in other countries, so it may seem that her website may be the only way to market her business.  In particular, online ads to direct clients to her website.  While she does post ads on Facebook, another untapped channel that may be more fruitful would be trade shows.  Kati does attend a conference once a year for her counseling profession, and probably develops connections which refer customers to her, but I'm not sure she's considered attending conferences that her customers would be likely to attend.  With more experience, she may even begin to speak at these events which could open the channel even further.
 
-It may be worth considering that {{< backref src="/plants/business/fruitful-channels-may-surprise" >}}.
+It may be worth considering that {{< backref src="/plants/entrepreneurship/fruitful-channels-may-surprise" >}}.
 
 ## References
 
