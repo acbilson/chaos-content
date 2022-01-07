@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-07 08:29:11"
+lastmod = "2022-01-07 10:53:17"
 toc = true
 narrow = true
 [coordinates]
@@ -30,7 +30,9 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/love-protects-a-business-from-employment-violations" >}}
 - {{< backref src="/plants/business/leaders-win-by-continually-dying" >}}
 - {{< backref src="/plants/business/leaders-face-pivotal-moments-that-define-their-purpose-on-earth" >}}
-- {{< backref src="/plants/business/judgement-of-others-is-aroused-by-shared-behavior" >}}
+- {{< backref src="/plants/faith/judgement-of-others-is-aroused-by-shared-behavior" >}}
+- {{< backref src="/plants/business/balance-is-journey-not-destination" >}}
+- {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provision" >}}
 
 ## Entrepreneurial Insights
 
@@ -78,6 +80,14 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/compensating-feedback-happens-when-the-root-problem-is-not-addressed" >}}
 - {{< backref src="/plants/business/process-maps-are-tools-for-change" >}}
 - {{< backref src="/plants/business/flowcharts-expose-waste" >}}
+- {{< backref src="/plants/business/simplicity-is-empathetic" >}}
+- {{< backref src="/plants/business/customers-want-curation-but-ask-for-features" >}}
+- {{< backref src="/plants/business/reward-managerial-innovation" >}}
+- {{< backref src="/plants/business/customer-contact-builds-empathy" >}}
+- {{< backref src="/plants/business/ownership-encourages-engagement" >}}
+- {{< backref src="/plants/business/use-agile-in-uncertain-environments" >}}
+- {{< backref src="/plants/business/lean-startups-live-by-the-agile-manifesto" >}}
+- {{< backref src="/plants/business/prepare-for-crisis" >}}
 
 ## Leadership Insights
 
@@ -105,6 +115,10 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/empathetic-leadership-follows-the-golden-rule" >}}
 - {{< backref src="/plants/business/leaders-face-pivotal-moments-that-define-their-purpose-on-earth" >}}
 - {{< backref src="/plants/business/ask-individuals-for-feedback-not-groups" >}}
+- {{< backref src="/plants/business/leaders-ask-profound-questions" >}}
+- {{< backref src="/plants/business/ask-questions-from-a-humble-heart" >}}
+- {{< backref src="/plants/business/leaders-hire-at-or-below-their-own-character" >}}
+- {{< backref src="/plants/business/ease-into-leading-with-questions" >}}
 
 ## Culture-based Insights
 
@@ -122,6 +136,9 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/know-when-to-mimick-the-host-culture" >}}
 - {{< backref src="/plants/business/customer-facing-roles-need-higher-cultural-intelligence" >}}
 - {{< backref src="/plants/business/assessments-are-made-from-the-lense-of-your-culture" >}}
+- {{< backref src="/plants/business/communicate-at-the-lowest-cultural-context" >}}
+- {{< backref src="/plants/business/high-context-culture-is-sometimes-direct" >}}
+- {{< backref src="/plants/business/ease-into-leading-with-questions" >}}
 
 ## Reflections (TODO: make a separate thing)
 
