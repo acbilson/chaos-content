@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-12-30"
-lastmod = "2021-12-30 16:11:58"
-epistemic = "sprout"
+lastmod = "2022-01-07 11:03:18"
+epistemic = "evergreen"
 tags = ["illegal","coronavirus","government"]
 +++
 {{< raw >}}
@@ -12,9 +12,9 @@ tags = ["illegal","coronavirus","government"]
 	}
 </style>
 {{< /raw >}}
-This is an open letter for the Evanston DHHS Director Ike C. Ogbo.
+This is an open letter for Evanston Mayor Daniel Biss and Evanston DHHS Director Ike C. Ogbo.
 
-Dear Director Ogbo,
+Dear Mayor Biss and Director Ogbo,
 
 I am writing to you today to ask that you recall today's Vaccination Mandate Public Health Order.
 
@@ -56,7 +56,7 @@ The writers of the vaccine mandate are conscious that they do not have the autho
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 {{< /notice >}}
 
-Given the health facts previously mentioned, on what grounds is there an argument that the presentation of an individual's vaccination card and proof of id is a reasonable search? That is, the presentation of this information does not protect the business' employees or patrons nor protect the vulnerable. And finally...
+Given the health facts previously mentioned, on what grounds is there an argument that the presentation of an individual's vaccination card and proof of id is a reasonable search? That is, the presentation of this information does not protect the business' employees or patrons nor protect the vulnerable. And finally and extended quote from the city's municipal code.
 
 {{< notice type=quote long=true name="Evanston Municipal Code §8-1-3-1" src="https://library.municode.com/il/evanston/codes/code_of_ordinances?nodeId=TIT8HESA_CH1HEDE_8-1-3-1PODU" >}}
 <p>(C) <i>Diseases: Epidemics and Pandemics.</i> In the case of any disease outbreak inclusive of any epidemic disease or any disease event categorized as a pandemic disease or of danger from an anticipated or impending epidemic or pandemic disease, or in case the sanitary conditions of the City should be of such character as to warrant, it shall be the duty of the Public Health Director or the City Manager or his/her designee to take such measures and to do, order and cause to be done such acts for the preservation of the public health as he/she may in good faith declare the public safety and health demands, except as may be herein, elsewhere or otherwise specially authorized.</p>
