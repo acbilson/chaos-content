@@ -1,7 +1,7 @@
-*+++
++++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 14:28:39"
+lastmod = "2022-01-07 15:43:05"
 epistemic = "sprout"
 tags = ["investment","contract","negotiation"]
 +++
