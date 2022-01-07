@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:04:35"
+lastmod = "2022-01-07 14:39:30"
 epistemic = "sprout"
-tags = ["taxes","legal",,"corporation"]
+tags = ["taxes","legal","corporation"]
 +++
 **Choose the corporate identity that makes legal and tax sense for your circumstances.**
 
