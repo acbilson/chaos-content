@@ -1,0 +1,22 @@
++++
+author = "Alex Bilson"
+date = "2018-07-01"
+lastmod = "2022-01-07 12:39:02"
+epistemic = "sprout"
+tags = ["globalization","internet"]
++++
+**Globalization and the Internet influence local small business in unexpected ways.**
+
+Business names are an afterthought in small towns. Sally's Drug may be the only drug store in town, and Stan's Sporting Goods the only woodsman's warehouse. Most are sole proprietorships who use their own name to distinguish the business in their county or, if the owner is ambitious, in the state registry. The danger that a similarly-named sporting goods store will contest Stan's Sporting Goods is imperceptible, and so local businesses rarely compare the name of their business or products with state trademark and service mark registries--even less federal registries. The ambitious local business owner faces new challenges in the swiftly globalizing world that Stan never will.
+
+Consider Jane, owner of Oligarch, LLC. A software company that supplies human resources management (HRM) software, Oligarch, LLC is growing faster than Jane imagined. Already she has customers across Idaho and recently received news of an opportunity in Wyoming. Jane hires a small team to help her expand, but she's not interested in outgrowing her comfortable office in Missoula. Her team expands Oligarch LLC's reach to most of the western United States when she receives a letter with a strange return address. Where's "Minsk?" Jane opens the letter to find she's being challenged for trademark infringement by a corporation based in Belarus! Shelco Corp., a software company that specializes in human resources management software (HRM), is a popular choice for southern California's wealthiest corporations. Their capstone software is called - you guessed it - Oligarch. When Jane's software expanded into California, it raised competitive warning flags with Shelco Corp. salespeople, who sent word to headquarters and took legal action to protect their Stateside brand.
+
+Like Oligarch, LLC, growing small businesses face unexpected challenges that only the largest multi-national corporations used to encounter. Businesses powered by and propagated through the Internet are particularly susceptible. Stan's Sporting Goods may have concerned itself with county and perhaps state competition; Oligarch, LLC competes with the digital world. Business owners who wish to expand their business can no longer rest in the knowledge that their business name isn't duplicated in their state; they must conduct careful research at the state, federal, and global levels.
+
+Before expanding her business into other states, Jane should have searched each state's trademark registry for her company's name. She should also have checked the federal trademark database and consulted the U.S. Patent and Trademark Office (USPTO) to confirm her software doesn't infringe on existing patents. A search on the [ICANN](https://whois.icann.org/en) website would have thrown a wider net for international businesses with websites that have similar names to her own, and offers Jane the opportunity to register a web domain to market her growing company. Had Jane taken these additional steps - steps which Missoula's other local businesses will never consider - she could have adjusted her company's growth towards markets where trademark infringement would not cause her to lose business.
+
+When Tommy, Matthew, and I named our business "The Door Luke 11:9", we were fairly certain there wasn't a near competitor in Colorado, either by name or trademark. The business Amie and I may one day open, tentatively called "The Construction Site," has a greater likelihood to clash with existing businesses, and all the more since we intend to launch it internationally. It may be sufficient, like the Oligarch, LLC example, to review only the local registries to incorporate our business, but if (or when) our business begins to outgrow our local context we'll need to take further precautions to reduce the danger of an avoidable legal battle. To change the business' title just when the business begins to gain traction because of a competitor's threats would be a terrible blow to our business' brand and our own morale. Better to perform our due diligence beforehand and reduce the risk.
+
+## References
+
+- Steingold, Fred S. _Legal Guide for Starting & Running a Small Business._ 15th Edition. NOLO, 2017. Chapter 6: Naming Your Business and Products

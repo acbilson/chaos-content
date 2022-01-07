@@ -1,0 +1,23 @@
++++
+author = "Alex Bilson"
+date = "2018-07-01"
+lastmod = "2022-01-07 12:54:43"
+epistemic = "sprout"
+tags = ["mentorship","discipleship","leadership"]
++++
+**When it comes to mentorship, everyone gets to play.**
+
+Bradberry and Greaves assess "too many leaders assume that developing your people is a manager’s responsibility (pg. 68)." Their assessment falls short of reality; however, for not only leaders, but all members of an organization assume managers are solely responsible for the development of their direct reports. There is some truth the member's assumption, for no manager worth their pay neglects the development of their team, and management by definition is "the art of getting things done _through people_ (Clegg, Kornberger & Pitsis, cited in Ideas on Management, emphasis added)." Managers have two primary ways to accomplish more with the people they have: they may hire additional people, or they may equip their current people to accomplish more.
+
+The assumption that managers alone are responsible for their team's development may be accurate in terms of the hierarchical structure of a business, but it falls short of the vision for a high-performing team. While the best managers empower their teams to grow in their strengths and shore up their weaknesses, managers are only human. Managers are subject to weakness and ignorance, and despite their best efforts in personal development, can't offer all that their teams need. Their efforts may create opportunities for their team to develop, but the manager cannot be the best teacher, mentor, and coach for every member. Instead of a top-down learning model, managers must get everyone involved in the team's development. Everyone should get to play.
+
+Discussion about managerial responsibility rarely fits the on-the-ground reality of a manager's daily experience. Over committed, under staffed, many managers have too many direct reports, too many decisions, and too little time. Add to this stressful responsibility the requirement to personally grow each direct report, and you're looking at a recipe for disaster. For a business to succeed, its employees need to grow, but the how must shift from managerial responsibility to holistic view of growth where everyone plays a part.
+
+A newly hired employee walks into the business with skills to offer her team. Whether she has skill with Excel spreadsheets honed from a previous job or a knack for resolving conflict, her skills are immediately helpful to her team mates even before she learns her role enough for meaningful individual contribution. Likewise, a seven-year employee understands the organization and has personal connections throughout the company that give him an advantage whenever he needs a question answered. These relationships can be shared with others to form a more dynamic team who accomplish incredible cross-department work. Neither of these examples are leaders in the most rigid sense, yet each can mentor others with the skills they have today and receive mentorship from others no matter how advanced they are.
+
+I confess, my present experience colors this topic. While my manager, Erik, is not responsible for many - three of us actually - he is frequently overburdened. As he struggles in his personal development as a manager, his attempts at coaching me have been well-intentioned but ineffective. He presses me regularly to take ownership of the team's development; partly because I excel at the work, but mostly because he can't devote the time to it himself. Erik excels at taking action to make customer's lives better, but he handles conflict poorly and refuses to say 'no' to authority figures. This places the burden of responsibility for our team's development on my shoulders also, and I've been brainstorming how I can share this burden with my colleagues. Were I in Erik's position, learning to be a manager in-flight, I too would need my colleagues to help one another grow. I'd want them to share their knowledge and strengths with each other, and to help one another identify and address weaknesses. While I'd prefer Erik would be vulnerable and ask for help from the team instead of sudo-coaching me to help him out, the end result, a team that supports one another to grow, is a worthwhile endeavor.
+
+## References
+
+- Bradberry, Travis and Greaves, Jean. _Leadership 2.0_ (2012) TalentSmart. Chapter 8: Development
+- Clegg, S., Kornberger, M., & Pitsis, T. (2005). Making sense of management in Managing and Organizations – An introduction to theory and practice (1st edition, pp. 3-39). London: SAGE Publications. Cited from Ideas on Management, http://ideasonmanagement.blogspot.com/p/mary-parker-follett-1868-1933.html

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-07 10:53:17"
+lastmod = "2022-01-07 14:36:05"
 toc = true
 narrow = true
 [coordinates]
@@ -33,6 +33,14 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/faith/judgement-of-others-is-aroused-by-shared-behavior" >}}
 - {{< backref src="/plants/business/balance-is-journey-not-destination" >}}
 - {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provision" >}}
+- {{< backref src="/plants/faith/holiness-starts-in-the-heart" >}}
+- {{< backref src="/plants/faith/money-is-a-cruel-master" >}}
+- {{< backref src="/plants/faith/generosity-builds-kingdom-equity" >}}
+- {{< backref src="/plants/business/blessing-is-contingent-on-generosity" >}}
+- {{< backref src="/plants/business/bible-meditation-offers-the-highest-business-wisdom" >}}
+- {{< backref src="/plants/business/justice-is-more-than-absence-of-harm" >}}
+- {{< backref src="/plants/business/pivots-demand-more-forceful-response-to-disobedience" >}}
+- {{< backref src="/plants/faith/freedom-from-comparison-produces-humility" >}}
 
 ## Entrepreneurial Insights
 
@@ -88,6 +96,41 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/use-agile-in-uncertain-environments" >}}
 - {{< backref src="/plants/business/lean-startups-live-by-the-agile-manifesto" >}}
 - {{< backref src="/plants/business/prepare-for-crisis" >}}
+- {{< backref src="/plants/business/business-is-responsible-for-most-tax-collection" >}}
+- {{< backref src="/plants/business/indirect-taxes-tend-to-be-regressive" >}}
+- {{< backref src="/plants/business/lean-startups-leverage-tax-deductions" >}}
+- {{< backref src="/plants/business/choose-a-corporate-identity-carefully" >}}
+- {{< backref src="/plants/business/only-assets-generate-value" >}}
+- {{< backref src="/plants/business/accounting-describes-measurable-value" >}}
+- {{< backref src="/plants/business/greed-undermines-a-business" >}}
+- {{< backref src="/plants/business/accrual-accounting-is-the-most-accurate" >}}
+- {{< backref src="/plants/business/use-the-balance-sheet-to-monitor-health" >}}
+- {{< backref src="/plants/business/use-the-income-statement-to-refine-value-creation" >}}
+- {{< backref src="/plants/business/favor-generosity-over-profit-margin" >}}
+- {{< backref src="/plants/business/financial-analysis-raises-operational-questions" >}}
+- {{< backref src="/plants/business/understand-how-financial-accounts-are-related" >}}
+- {{< backref src="/plants/business/interview-for-swift-culling" >}}
+- {{< backref src="/plants/business/blessing-is-contingent-on-generosity" >}}
+- {{< backref src="/plants/business/accounting-is-both-story-and-science" >}}
+- {{< backref src="/plants/business/adopt-financial-models-with-caution" >}}
+- {{< backref src="/plants/business/set-personal-goals-in-public" >}}
+- {{< backref src="/plants/business/bible-meditation-offers-the-highest-business-wisdom" >}}
+- {{< backref src="/plants/business/globalize-your-business-name" >}}
+- {{< backref src="/plants/business/consider-sole-proprietorship-for-a-lean-startup" >}}
+- {{< backref src="/plants/business/organizational-injustice-is-systemic" >}}
+- {{< backref src="/plants/business/feed-your-business-good-fruit" >}}
+- {{< backref src="/plants/business/choose-insurance-with-both-analysis-and-imagination" >}}
+- {{< backref src="/plants/business/contracts-are-the-arteries-of-business" >}}
+- {{< backref src="/plants/business/launch-your-business-with-an-exit-plan" >}}
+- {{< backref src="/plants/business/foster-trust-with-both-performance-and-vulnerability" >}}
+- {{< backref src="/plants/business/offer-equity-and-power-with-utmost-caution" >}}
+- {{< backref src="/plants/business/include-worse-case-in-the-contract" >}}
+- {{< backref src="/plants/business/pay-taxes-and-honor-the-government" >}}
+- {{< backref src="/plants/business/both-investors-and-entrepreneurs-need-equal-motivation" >}}
+- {{< backref src="/plants/business/read-the-term-sheet-control-clause-carefully" >}}
+- {{< backref src="/plants/business/entrepreneurs-will-be-judged-first" >}}
+- {{< backref src="/plants/business/partner-with-a-venture-capital-firm-with-care" >}}
+- {{< backref src="/plants/business/investors-are-partners-long-after-the-contract-is-signed" >}}
 
 ## Leadership Insights
 
@@ -119,6 +162,15 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/ask-questions-from-a-humble-heart" >}}
 - {{< backref src="/plants/business/leaders-hire-at-or-below-their-own-character" >}}
 - {{< backref src="/plants/business/ease-into-leading-with-questions" >}}
+- {{< backref src="/plants/business/decide-who-makes-the-final-decision" >}}
+- {{< backref src="/plants/business/set-high-standards-and-show-grace" >}}
+- {{< backref src="/plants/business/leadership-books-are-not-created-equal" >}}
+- {{< backref src="/plants/business/set-personal-goals-in-public" >}}
+- {{< backref src="/plants/business/distribute-mentorship-among-everyone" >}}
+- {{< backref src="/plants/business/foster-trust-with-both-performance-and-vulnerability" >}}
+- {{< backref src="/plants/business/define-your-team-culture" >}}
+- {{< backref src="/plants/business/pivots-demand-more-forceful-response-to-disobedience" >}}
+- {{< backref src="/plants/business/leaders-embody-their-core-values" >}}
 
 ## Culture-based Insights
 
@@ -139,6 +191,8 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/communicate-at-the-lowest-cultural-context" >}}
 - {{< backref src="/plants/business/high-context-culture-is-sometimes-direct" >}}
 - {{< backref src="/plants/business/ease-into-leading-with-questions" >}}
+- {{< backref src="/plants/business/philosophy-affects-what-arguments-are-persuasive" >}}
+- {{< backref src="/plants/business/define-your-team-culture" >}}
 
 ## Reflections (TODO: make a separate thing)
 
