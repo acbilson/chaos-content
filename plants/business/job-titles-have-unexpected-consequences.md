@@ -1,0 +1,27 @@
++++
+author = "Alex Bilson"
+date = "2018-07-01"
+lastmod = "2022-01-05 15:46:46"
+epistemic = "sprout"
+tags = ["hiring","employment"]
++++
+**A job's title requires precision and careful thought to attract and retain employees.**
+
+What's in a job title? Is it only a placeholder to pin to a job board? Does it matter whether a tech opening is called "software engineer" or "junior software developer?" Why would you append "senior" or "junior" to a title? There's more in a job title than you may expect.
+
+First, consider the addition of levels to a business' job titles; designations such as "junior" or "senior". A business may choose levels to insert gradation in skill and experience with the intention to outline career progression. If a woman is hired as a "junior sales associate" then her next career aspiration (if she chooses to stay in this role) is to advance to "sales associate" or "senior sales associate. When a customer interacts with your sales force; however, the complications of this job title gradation emerge. Main and Smith rhetorically ask, "Does dealing with a 'junior' inspire confidence? ({{< cite name=Smith loc="pg. 2" >}})." If a customer calls the sales department and are connected to a "junior sales associate" the customer may wonder about the capability of the associate to help them. Likewise, a "senior sales associate" may give the customer a sense of special treatment. A similar effect may occur within the business itself as departments interact with one another. If a business does decide to gradate their job titles in this way, the business must describe clear milestones to advance from "junior" to the next level or risk losing qualified employees who feel snubbed because, after two years of solid performance, the employee is still a "junior."
+
+Second, a job title is how prospective employees find a business' available openings. A man searching for a business analyst position may overlook an opening designated "corporate analyst" in a list of Internet search results, even if the job description matches his interests. Titles can become indecipherable to those outside the company culture; for example, what is a "people champion?" A business may receive more applications were the same position titled "human resources professional." Before a job title is finalized, search for the position on the Internet and read the descriptions that other company's have given. If it does not match your own job title, consider another title whose description in the marketplace more closely matches your needs.
+
+Third, the precision of a job title correlates to the technicality of the job. A grocery store owner need not stress over the title of a floor manager position; "floor manager" will attract the appropriate talent. An online banking service manager that needs a specialist in web frontend programming to convert static HTML pages to dynamic using an Agile methodology will be better served posting a job opening for an Agile web frontend developer than the generic "software developer" role.
+
+When my work responsibilities shifted away from daily software development to client interactions, I pressed my manager to change my title from "software engineer" to "technical business analyst." When I'm introduced as a software engineer, our clients assume I have no social skills and little understanding of their business. A technical business analyst is fuzzier in the marketplace, but the keywords "business" and "analyst" give most clients confidence that I can help them figure out the problem they face. Now I sometimes need to convince tech-savvy clients that I understand code too! I also requested this title change for future positions I may apply for. Most companies would not hire a "software engineer" into a business role, but they would consider a "business analyst."
+
+At my place of employment I have witnessed a certain department flip titles on a bi-annual basis. The employees are exasperated at the spinning-door nature of their job titles. Few in the company know how to introduce them or what they contribute to our clients. The job posting highlights this ambiguity: "the primary responsibility of the Customer Success Specialist (CSS) is to coordinate and support Success focused activities with our customers ([Relativity](https://www.relativity.com/careers/available-positions/?id=c5c6148a-c20b-406a-b2be-b1c21f84aac5))." What is a "Success focused" activity?
+
+When I consult about job titles with a hiring manager, I will ask the manager to consider these topics. I will ask the manager how the title may be perceived by customers. I will search other Internet postings with them to confirm the title fits the common job descriptions. I will ask about the requirements of the position to ensure the title is sufficiently technical to attract qualified applicants. Where the title may impact other members of the department, I will recommend that the manager elicit feedback from his team before posting the position. And lastly, I will suggest that the manager ask other members of the team whether their titles still accurately reflect their contribution and career aspirations.
+
+## References
+
+- Smith, Shawn and Rebecca Mazin. (2011) _The HR Answer Book: An Indispensable Guide for Managers and Human Resources Professionals. 2nd Edition_. AMACOM. Chapter 2: HR Policies: Why Do We Need Them and What Should They Look Like?
+
