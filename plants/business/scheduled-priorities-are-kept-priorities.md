@@ -1,7 +1,7 @@
-**Scheduled priorities are kept priorities.*+++
++++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:33:35"
+lastmod = "2022-01-07 15:41:42"
 epistemic = "sprout"
 tags = ["priority","schedule","time"]
 +++
