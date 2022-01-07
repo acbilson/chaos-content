@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-06 16:06:21"
+lastmod = "2022-01-07 08:29:11"
 toc = true
 narrow = true
 [coordinates]
@@ -30,6 +30,7 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/love-protects-a-business-from-employment-violations" >}}
 - {{< backref src="/plants/business/leaders-win-by-continually-dying" >}}
 - {{< backref src="/plants/business/leaders-face-pivotal-moments-that-define-their-purpose-on-earth" >}}
+- {{< backref src="/plants/business/judgement-of-others-is-aroused-by-shared-behavior" >}}
 
 ## Entrepreneurial Insights
 
@@ -74,6 +75,9 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/companies-need-both-innovation-and-maintenance" >}}
 - {{< backref src="/plants/business/employees-need-communication-growth-recognition-and-trust" >}}
 - {{< backref src="/plants/business/employee-engagement-definition" >}}
+- {{< backref src="/plants/business/compensating-feedback-happens-when-the-root-problem-is-not-addressed" >}}
+- {{< backref src="/plants/business/process-maps-are-tools-for-change" >}}
+- {{< backref src="/plants/business/flowcharts-expose-waste" >}}
 
 ## Leadership Insights
 
@@ -100,6 +104,7 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/situational-leadership-applies-to-individuals-and-teams" >}}
 - {{< backref src="/plants/business/empathetic-leadership-follows-the-golden-rule" >}}
 - {{< backref src="/plants/business/leaders-face-pivotal-moments-that-define-their-purpose-on-earth" >}}
+- {{< backref src="/plants/business/ask-individuals-for-feedback-not-groups" >}}
 
 ## Culture-based Insights
 
@@ -116,6 +121,7 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/business/culture-shapes-effective-inquiry" >}}
 - {{< backref src="/plants/business/know-when-to-mimick-the-host-culture" >}}
 - {{< backref src="/plants/business/customer-facing-roles-need-higher-cultural-intelligence" >}}
+- {{< backref src="/plants/business/assessments-are-made-from-the-lense-of-your-culture" >}}
 
 ## Reflections (TODO: make a separate thing)
 
