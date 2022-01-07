@@ -1,7 +1,7 @@
-**Biblical Insi+++
++++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 08:27:57"
+lastmod = "2022-01-07 15:43:43"
 epistemic = "sprout"
 tags = ["judgment","hypocrisy","repentance"]
 +++
