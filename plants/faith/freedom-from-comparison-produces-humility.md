@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 14:34:00"
+lastmod = "2022-01-12 14:59:01"
 epistemic = "sprout"
-tags = ["alignment","freedom","humility"]
+tags = ["comparison","freedom","humility"]
 +++
 **Life aligned with the Spirit of freedom produces humility, but misaligned life leads to pride, provocation and envy.**
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-22"
-lastmod = "2021-12-30 10:51:54"
+lastmod = "2022-01-12 15:18:53"
 epistemic = "evergreen"
-tags = ["docker","ssh","jenkins","architecture"]
+tags = ["docker","ssh","architecture","testing"]
 title = "Controller/Client Docker Connection"
 toc = true
 +++

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 14:59:37"
+lastmod = "2022-01-12 15:06:18"
 epistemic = "sprout"
-tags = ["business","customers","customer-discovery-plan","model"]
+tags = ["business-model","customer"]
 +++
 **Deliver preventative counseling to overseas workers in Central Asian cities.**
 

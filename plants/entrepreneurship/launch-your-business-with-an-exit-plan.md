@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:58:28"
+lastmod = "2022-01-12 15:24:12"
 epistemic = "sprout"
-tags = ["exit","plan"]
+tags = ["strategy","startup"]
 +++
 **Have an exit strategy in mind.**
 

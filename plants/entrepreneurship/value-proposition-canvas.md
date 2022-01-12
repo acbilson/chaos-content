@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:05:13"
+lastmod = "2022-01-12 15:40:18"
 epistemic = "sprout"
-tags = ["leadership","value-proposition-canvas","model"]
+tags = ["leadership","business-model","value"]
 +++
 **Deliver post-MBA graduates consulting experience in their dream field.**
 

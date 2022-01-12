@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:38:58"
+lastmod = "2022-01-12 15:28:15"
 epistemic = "sprout"
-tags = ["goals","priorities","direction"]
+tags = ["goals","priority","direction"]
 +++
 **Business leaders direct the efforts of their employees towards the most important work.**
 

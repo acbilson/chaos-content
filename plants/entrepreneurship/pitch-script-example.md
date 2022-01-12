@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-05 15:04:04"
+lastmod = "2022-01-12 15:22:12"
 epistemic = "sprout"
-tags = ["entrepreneurship","communication","sales","model"]
+tags = ["entrepreneurship","communication","sales","business-model"]
 +++
 ### Pitch Script
 

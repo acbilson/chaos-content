@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-08-01"
-lastmod = "2022-01-05 15:00:16"
+lastmod = "2022-01-12 15:11:13"
 epistemic = "sprout"
-tags = ["leadership","emotional-intelligence"]
+tags = ["leadership","empathy","presence"]
 +++
 **The emotional presence of a leader has a wide-ranging impact on all business functions.**
 

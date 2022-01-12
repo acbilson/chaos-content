@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-09T21:06:30"
-lastmod = "2021-12-01 14:45:44"
+lastmod = "2022-01-12 15:39:40"
 epistemic = "plant"
-tags = ["software","iteration","table","angular"]
+tags = ["software","iteration","angular"]
 +++
 If there are several arrays of data retrieved from different service calls it can be tempting to iterate over them all by index.
 

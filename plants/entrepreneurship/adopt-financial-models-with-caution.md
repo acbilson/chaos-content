@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:29:22"
+lastmod = "2022-01-12 15:23:26"
 epistemic = "sprout"
-tags = ["model","accounting"]
+tags = ["business-model","accounting"]
 +++
 **Follow industry and business model methods for financial accounting, but with care.**
 

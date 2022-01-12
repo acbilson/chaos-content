@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-05-19T17:30:07"
-lastmod = "2021-11-30 07:59:23"
+lastmod = "2022-01-12 15:32:27"
 epistemic = "sprout"
-tags = ["daily-office","spiritual-practice"]
+tags = ["spiritual-practices"]
 title = "What is the Daily Office?"
 +++
 I'm trying to keep the daily office, at least portions set aside by the Anglican Church. There are multiple online sources, but I find [this one](https://www.dailyoffice2019.com/family/) the most useful for its simplified "family" version. This is all inspired by Thomas Merton's references to "little hours" and the "breviary" in _The Seven Storey Mountain_.

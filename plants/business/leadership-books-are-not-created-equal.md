@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:32:00"
+lastmod = "2022-01-12 15:04:28"
 epistemic = "sprout"
-tags = ["leadership","books"]
+tags = ["leadership","knowledge"]
 +++
 **Not all leadership books supply what they promise.**
 OR

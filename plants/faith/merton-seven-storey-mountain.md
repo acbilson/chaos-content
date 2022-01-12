@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-05-21"
-lastmod = "2021-12-07 14:17:08"
+lastmod = "2022-01-12 15:03:54"
 epistemic = "evergreen"
-tags = ["recommendation","gratitude","monastery","book"]
+tags = ["recommendation","gratitude","monastery"]
 title = "Recommend: The Seven Storey Mountain"
 +++
 It's an uncomfortable, wonderful experience to read an author who views the world in stark contrast to my perspective. That's been my experience with _The Seven Storey Mountain_ by Thomas Merton.

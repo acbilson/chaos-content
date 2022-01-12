@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:04:57"
+lastmod = "2022-01-12 15:38:51"
 epistemic = "sprout"
-tags = ["bible","business","black-and-white","hypocrisy"]
+tags = ["scripture","business","hypocrisy"]
 +++
 **A business that ignores sound business practices only makes their situation worse by claiming absolute Christian values.**
 
