@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:00:45"
+lastmod = "2022-01-12 15:37:48"
 epistemic = "sprout"
-tags = ["bible","business","faith","finances"]
+tags = ["business","faith","finances"]
 +++
 **Financial decisions speak louder about a person's true beliefs than confessions of faith.**
 
@@ -11,11 +11,7 @@ Jesus taught often on finances, and his examples and parables often used money t
 
 Any person with an income tells others what they believe by the way they spend it.  The depression-era grandmother who stores away every cent demonstrates a captivity to the fear of future need, while a millennial teenager shows he's living only for today when he blows his paycheck on video games and energy drinks.  In the same way, a business person who drives a ten-year-old Toyota and saves a portion of his income to help employee families in crisis shows his own values.
 
-## Importance
-
 These are generalizations and, like Burkett's example with his wife's new Acura ({{< cite name=Burkett loc="pg. 46" >}}), are always open to circumstances.  Over a period of time; however, the character of the business person is demonstrated by their financial decisions.  The spiritual impact of a business is not limited only to the spread of the message of Jesus by verbal means but also the activity of Jesus' values in the practical area of finances.  A business owner therefore has the means to 'speak' his faith to employees and customers through decisions to give a portion of his company's resources to alleviate poverty, to support Biblical literature distribution, or to store away because of a prophesy that a famine is nigh (see Genesis 41 for Joseph's story).
-
-## Application
 
 When Amie and I moved to Chicago, we were broke.  I'd had a $30,000 hospital visit on the way up from Arizona, without insurance.  The couple thousand we had in our savings accounts was enough for a down payment on an apartment, but not enough to comfortably sustain ourselves as we bounced from each friend's spare bedroom to spare bedroom.  At that time faith meant resisting the urge to stow away rice and beans for fear the Lord would overlook our basic needs and let us go hungry.
 

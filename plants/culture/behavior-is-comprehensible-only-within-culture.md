@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 14:58:02"
+lastmod = "2022-01-12 15:10:15"
 epistemic = "sprout"
-tags = ["culture","distinctions","behavior"]
+tags = ["culture","diversity","behavior"]
 +++
 **The reasons for a nation's cultural distinctions are not always decipherable from the actions of its people.**
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:46:03"
+lastmod = "2022-01-12 15:40:44"
 epistemic = "sprout"
-tags = ["management","tools","secure"]
+tags = ["management","security"]
 +++
 **Secure managers give to their employees the same tools they use.**
 

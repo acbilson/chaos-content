@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:39:46"
+lastmod = "2022-01-12 15:24:18"
 epistemic = "sprout"
-tags = ["lean-startup","teamwork"]
+tags = ["startup","teamwork"]
 +++
 **Lean startup entrepreneurs must weigh the cost of doing everything themselves.**
 

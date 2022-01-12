@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-12-06"
-lastmod = "2021-12-06 15:47:51"
+lastmod = "2022-01-12 15:17:43"
 epistemic = "sprout"
-tags = ["integrith","work","hiring","voice"]
+tags = ["integrity","work","hiring","voice"]
 +++
 While applicants are assessed for competency, employees prefer integrity over skill in their colleagues.
 

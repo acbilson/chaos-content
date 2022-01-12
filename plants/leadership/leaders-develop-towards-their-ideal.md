@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-05 15:02:09"
+lastmod = "2022-01-12 15:08:27"
 epistemic = "sprout"
-tags = ["business","leadership","development"]
+tags = ["leadership","formation"]
 +++
 **It's important to know where you're headed and why.**
 

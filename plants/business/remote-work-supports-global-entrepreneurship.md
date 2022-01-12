@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-15"
-lastmod = "2021-11-30 07:54:53"
+lastmod = "2022-01-12 15:15:24"
 epistemic = "sprout"
-tags = ["remote-work","global"]
+tags = ["remote-work","globalization"]
 +++
 **Remote work is a key element in the future of global entrepreneurship, and overcoming the challenges in remote work can give access to talent and experience worldwide.**
 

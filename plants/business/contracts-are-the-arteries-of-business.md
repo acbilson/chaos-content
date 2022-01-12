@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:56:44"
+lastmod = "2022-01-12 15:00:15"
 epistemic = "sprout"
-tags = ["contract","agreement"]
+tags = ["contract","integrity","promise"]
 +++
 **Entrepreneurial Insight:** If an agreement could sink your business, get it in writing.
 

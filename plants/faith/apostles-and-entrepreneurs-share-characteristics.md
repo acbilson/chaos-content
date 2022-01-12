@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-11-30 07:56:14"
+lastmod = "2022-01-12 14:56:16"
 epistemic = "sprout"
-tags = ["apostleship","entrepreneurship"]
+tags = ["apostolic","entrepreneurship"]
 +++
 **The description of an entrepreneur shares many of the characteristics of the apostolic gift (Eph 4:11).**
 

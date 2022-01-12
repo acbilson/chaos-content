@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-09"
-lastmod = "2021-12-30 08:02:30"
+lastmod = "2022-01-12 15:34:29"
 epistemic = "evergreen"
-tags = ["racism","video","privilege","history","gratitude"]
+tags = ["racism","privilege","history","gratitude"]
 +++
 Have you watched this?
 

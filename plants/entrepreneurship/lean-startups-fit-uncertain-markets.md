@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-11-30 07:54:22"
+lastmod = "2022-01-12 15:24:26"
 epistemic = "sprout"
-tags = ["entrepreneurship","lean-startup","business-model"]
+tags = ["entrepreneurship","startup","business-model"]
 +++
 **Build - Measure - Learn is a model and mindset valuable for businesses in uncertain circumstances.**
 

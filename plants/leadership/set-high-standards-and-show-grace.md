@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:17:26"
+lastmod = "2022-01-12 15:33:36"
 epistemic = "sprout"
-tags = ["standards","grace","performance"]
+tags = ["grace","performance","expectations"]
 +++
 **It is easier to show grace under high standards then to raise the expectation of low standards.**
 

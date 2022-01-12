@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:42:25"
+lastmod = "2022-01-12 15:23:53"
 epistemic = "sprout"
-tags = ["entrepreneurship","discovery","model","scale"]
+tags = ["entrepreneurship","discovery","business-model","scale"]
 +++
 **Lean startups may take the Agile Manifesto principles for their own.**
 

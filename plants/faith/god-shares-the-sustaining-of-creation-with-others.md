@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-21"
-lastmod = "2021-11-30 07:56:57"
+lastmod = "2022-01-12 15:16:07"
 epistemic = "seedling"
-tags = ["god","creation","work"]
+tags = ["creation","work"]
 +++
 When {{< backref src="/stones/bible/god-creates-the-heavens-and-the-earth" paragraph="3" >}}, He separates the light from the darkness on the first day of creation but, on day four, He delegates this task to the heavenly lights. It's assumed that these creative acts are not once-and-for-all events but also need to be sustained, and that God wishes to share the responsibility of sustaining creation with others.
 

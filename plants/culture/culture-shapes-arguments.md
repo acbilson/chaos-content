@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-10-08"
-lastmod = "2021-11-30 07:53:30"
+lastmod = "2022-01-12 15:30:59"
 epistemic = "sprout"
-tags = ["culture","selling"]
+tags = ["culture","sales"]
 in-reply-to = "http://interconnected.org/home/2020/10/07/orthogonal"
 +++
 Of the facets which comprise a person's culture, the philosophy of knowledge most shapes the style of argument likely to influence that person. English citizens were comprehensively shaped by the modernization of Aristotle's "application-first" thinking by the English philosophers of the 13th and 16th centuries {{< cite name=Meyer loc="pg. 97" >}}. Across the English channel, Descartes instituted an opposing philosophy of thought characterized by "principles-first" thinking which reigns among European nations to this day. These styles of thought acquire value and meaning within the cultures they exist in beyond the bare order of deduction. A French woman will not merely note that an English man is applying an "application-first" approach to their conclusion - she will be offended that the Englishman believes she's so ignorant as to accept his premises without a foundation of data and logic!

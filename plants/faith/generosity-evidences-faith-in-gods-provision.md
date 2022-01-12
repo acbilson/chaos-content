@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:35:00"
+lastmod = "2022-01-12 15:14:58"
 epistemic = "sprout"
-tags = ["tithe","giving","faith","generosity"]
+tags = ["tithe","faith","generosity"]
 +++
 **Giving is evidence of faith.**
 

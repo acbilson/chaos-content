@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-10-01"
-lastmod = "2022-01-05 15:05:08"
+lastmod = "2022-01-12 15:22:23"
 epistemic = "sprout"
-tags = ["entrepreneurship","value","model"]
+tags = ["entrepreneurship","value","business-model"]
 +++
 # Value Proposition Alternatives
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-05 15:03:35"
+lastmod = "2022-01-12 15:28:56"
 epistemic = "sprout"
-tags = ["entrepreneurship","sales","prospects"]
+tags = ["entrepreneurship","sales"]
 +++
 **Not every prospect deserves equal time.**
 

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-11-30 07:59:37"
+lastmod = "2022-01-12 15:31:56"
 epistemic = "sprout"
-tags = ["bible","imago-dei","spiritual-gift","biblical-role"]
+tags = ["apest","imago-dei","spiritual-gifts"]
 +++
 The three dominant roles in the Hebrew Bible, prophet, priest, and king, are fulfilled in Jesus. I had originally thought because the Hebrew Bible used these roles to point towards Him (which it does), but had not realized that these three roles are subsets of the original Image of God role from Genesis 1. That's so helpful to realize that humans are created to reflect, not only simply one of these roles, but all three combined, and that each demonstrate, albeit incompletely, what we _are_ as Icons of God.
 

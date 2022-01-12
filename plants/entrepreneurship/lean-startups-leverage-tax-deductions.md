@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:01:53"
+lastmod = "2022-01-12 15:24:56"
 epistemic = "sprout"
-tags = ["taxes","deductions","lean-startup"]
+tags = ["taxes","deductions","startup"]
 +++
 **Tax deductions are crucial to the launch of a lean startup.**
 

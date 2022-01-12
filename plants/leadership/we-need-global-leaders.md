@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-09"
-lastmod = "2021-11-30 07:55:12"
+lastmod = "2022-01-12 15:15:34"
 epistemic = "sprout"
-tags = ["leadership","global"]
+tags = ["leadership","globalization"]
 +++
 **There is pressing need for global leaders, for we live in a pivotal moment in world history.**
 

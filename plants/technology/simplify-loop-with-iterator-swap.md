@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-23T21:06:30"
-lastmod = "2021-12-01 14:47:38"
+lastmod = "2022-01-12 15:39:33"
 epistemic = "plant"
-tags = ["software","iteration","table","angular"]
+tags = ["software","iteration","angular"]
 +++
 When operating on two or more collections you may encounter loops that filter one collection by another.
 

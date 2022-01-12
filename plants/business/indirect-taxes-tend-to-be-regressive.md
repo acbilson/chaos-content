@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 11:57:15"
+lastmod = "2022-01-12 15:09:07"
 epistemic = "sprout"
-tags = ["taxes","progressive","regressive","indirect","direct"]
+tags = ["taxes","progressive","regressive"]
 +++
 **Direct taxes tend to be progressive, while indirect taxes tend to be regressive.**
 

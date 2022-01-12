@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:00:10"
+lastmod = "2022-01-12 15:10:52"
 epistemic = "sprout"
-tags = ["business","leadership","emotional-intelligence"]
+tags = ["business","leadership","empathy"]
 +++
 **When a leader focuses their attention on developing their manager's Emotional Intelligence (EI) the result can transform the entire organization.**
 

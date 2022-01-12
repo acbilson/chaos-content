@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-10T16:41:22"
-lastmod = "2021-11-30 07:56:24"
+lastmod = "2022-01-12 15:37:22"
 epistemic = "sprout"
-tags = ["sacrifice","bible","worship"]
+tags = ["sacrifice","worship"]
 +++
 Many Christians associate the value of a sacrifice with its cost. An act or decision isn't a _real_ sacrifice unless it's painfully costly. But is that how the Bible treats the word?
 

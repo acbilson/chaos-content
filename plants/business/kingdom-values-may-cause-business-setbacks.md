@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:01:53"
+lastmod = "2022-01-12 15:38:12"
 epistemic = "sprout"
-tags = ["bible","business","results"]
+tags = ["business","results","values"]
 +++
 **To follow Kingdom values in business often results in temporary setbacks, but produces lasting benefit.**
 
@@ -11,13 +11,9 @@ The business world values profit over principle, and circumstances rarely align 
 
 One may wonder, as David did in Psalm 73, what profit there is in the way of righeousness when the wicked competition prospers?  In order to understand; however, one must have a long-term view.  Deceit may prevail for a time, but it will eventually be exposed and demolished by its own lies.  The business person who maintains their integrity; however, will never suffer from exposure - if anything it will make them more successful.  This is God's doing, "for the wisdom of this world is folly with God." (_ESV_, 1 Cor 3:19a)
 
-## Importance
-
 A business person who seeks to obey God's Kingdom values will receive God's blessing but shouldn't be surprised when their decisions negatively impact the business' profits.  A stand against corruption may result in higher prices, fewer employees, poorer living conditions or, in the case of Paul's Mexican ranch, the exit of your business ({{< cite name=Burkett loc="pg. 17" >}}).
 
 Therefore a business person ought not to fall into despair because their business is hindered by its commitment to Kingdom values.  Instead a wise business person will remind themselves of the end result of their way of life, and the end result of the deceitful, and count their business' value in years, even decades, and not quarters or months alone.
-
-## Application
 
 Paul's story doesn't impress me.  Without more details, it's hard to believe he couldn't have found another way to handle corruption at the border and retrieve the equipment he needed for his ranch.  Even so, his story demonstrates that some decisions to follow Kingdom values will result in financial setbacks other businesses don't have.
 

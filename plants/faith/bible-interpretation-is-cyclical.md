@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-02"
-lastmod = "2021-12-30 11:28:35"
+lastmod = "2022-01-12 15:37:34"
 epistemic = "evergreen"
-tags = ["discovery", "interpretation", "bible"]
+tags = ["discovery", "interpretation", "scripture"]
 +++
 As I've matured, one of the ambiguities I’ve learned to accept is the journey of interpretation.
 

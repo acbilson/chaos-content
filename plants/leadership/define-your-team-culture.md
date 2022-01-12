@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 13:11:27"
+lastmod = "2022-01-12 15:34:48"
 epistemic = "sprout"
-tags = ["culture","teams"]
+tags = ["culture","teamwork"]
 +++
 **Define your team culture with tools like the Culture Map.**
 

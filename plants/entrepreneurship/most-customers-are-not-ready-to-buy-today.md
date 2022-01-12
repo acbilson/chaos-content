@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-10-01"
-lastmod = "2022-01-05 15:03:07"
+lastmod = "2022-01-12 15:07:36"
 epistemic = "sprout"
-tags = ["entrepreneurship","customers"]
+tags = ["entrepreneurship","customer","sale"]
 +++
 **A fraction of the total market is ready to purchase, but the rest may be primed.**
 
