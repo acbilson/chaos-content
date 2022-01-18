@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
-lastmod = "2021-12-07 15:12:31"
+lastmod = "2022-01-18 11:43:30"
 epistemic = "seedling"
 tags = ["paradigm","gospel","evangelism"]
 title = "What is the Gospel?"
@@ -27,6 +27,8 @@ then your message centers on synopses of the final moments in the Gospel narrati
 # The Gospel as Story
 
 {{< outref src="https://mikefrost.net/evangelism-the-lost-art-of-telling-three-stories-not-one/" name="Evangelism as Three Stories" >}}
+
+Although we may be tempted to limit the good news to the Gospel accounts, and this shorthand can be helpful, let's not forget that {{< backref src="/plants/faith/the-good-news-begins-with-the-back-story" >}}
 
 TODO: reference The King Jesus Gospel by Scot McKnight
 TODO: Add examples of gospeling from the book of Acts. Philip shared, and the Ethiopian wanted to be baptized. Paul shared his apocalypse with Jesus. Jesus offered the Samaritan woman living water.
