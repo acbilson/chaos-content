@@ -1,10 +1,10 @@
 +++
 authors = [
-  "Martin Luther King Jr."
+  "Martin Luther King Jr"
 ]
 copyright = "1963"
 date = "2022-01-18"
-page = ""
+page = "n/a"
 source = "Letter from Birmingham Jail"
 tags = ["justice","crisis","change","negotiation"]
 +++
