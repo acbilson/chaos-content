@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2021-11-30 15:46:42"
+lastmod = "2022-01-19 07:10:29"
 toc = true
 narrow = true
 [coordinates]
@@ -197,3 +197,7 @@ You "view" a plant/stone (browse, inspect)
 It may make sense at some future point to separate my site into alexbilson.dev and ofchaosandorder.com. My about page, resume, etc, the content that's specific to me and is for outsiders to get to know me, would be on alexbilson.dev. The garden would be on ofchaosandorder.com. (.com? .garden?)
 
 Hugo makes gardens of text and links easy, but styles of gardens, esp. with generated content lists and such, require separate content types. I could use front-matter like type = "english-walled" to build specific garden flavors, but the build automation, at least the automation that needs the build context, is not available to the page itself. The front-matter is all that's available from the page. A separate data template can only add complexity to the values available at build, but for entirely different HTML structures it takes a new content type.
+
+# Illustrations
+
+Now that I've made a foray into web illustration, Maggie Appleton's list of [Illustration Books & Courses](https://maggieappleton.com/illustration-resources) is my new favorite resource! I may not ever achieve Maggie's expertise, but I'd like to draw simple illustrations and diagrams to explain concepts and to pretty up my garden.
