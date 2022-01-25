@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-01-25 08:54:49"
+lastmod = "2022-01-28 09:34:03"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -10,6 +10,8 @@ title = "Todderish Thicket"
     step = 75
     vertical = true
 +++
+This garden is an etymology of the language of my toddlers.
+
 Todderish, or the language of toddlers, may share words from other tongues, but it remains a stubbornly unique language in any host culture.
 
 English-influenced Todderish steals several words. “No,” “mine,” and “more” being some of the most recognizable. Some you may not recognize or may associate with another meaning.
@@ -200,6 +202,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="nəm-nə"
   match="Cat, or small dog"
   example="Num-nuh meow."
+  origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Op'opal karse"
+  term="noun"
+  phonetic="äpäpäl kärs"
+  match="Obstacle course"
+  example="Wanna try my op'opal karse, Papa?"
   origin="G.T. Bilson"
 >}}
 

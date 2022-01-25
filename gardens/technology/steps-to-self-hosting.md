@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-13"
-lastmod = "2022-01-25 09:54:01"
+lastmod = "2022-01-25 11:39:23"
 toc = true
 title = "Self-Hosting Heights"
 [coordinates]
@@ -10,6 +10,8 @@ title = "Self-Hosting Heights"
     step = 85
     vertical = false
 +++
+I've operated my own suite of software on my own server, in my office, for over two years now. This garden is an invitation to explore this pathways of self-hosting for yourself and my reminder of where I've come and how I arrived.
+
 ## Introduction
 
 At a time where digital resource management is being aggregated into a few global storehouses, what does it take to run your website from scratch? Turns out, it's simpler than I thought. Here's what it took to serve this website from my home office.

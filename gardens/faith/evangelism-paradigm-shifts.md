@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-06"
-lastmod = "2022-01-25 09:30:34"
+lastmod = "2022-01-25 11:00:34"
 narrow = true
 title = "Gospel Grove"
 [coordinates]
@@ -11,6 +11,8 @@ title = "Gospel Grove"
     vertical = false
     bend = -20
 +++
+Introducing others to Jesus is crucial to the expansion of the Kingdom in our midst. It's also the most exhilarating and terrifying practices of the Body. This garden is an exploration into the subject of Evangelism, but also the many related brambles that trip people up when they hear the word.
+
 The most common reaction to the word "evangelism" is discomfort. This can range from the mild discomfort of shame that you're not doing enough of it to an allergic reaction that anyone would foist their views on another. Generally, it's not a word that elicits excitement, wonder, or joy. Come with me through a few paradigm shifts and see if, perhaps, we can reduce your discomfort and grow your joy.
 
 - {{< backref src="/plants/faith/what-is-the-gospel" >}}

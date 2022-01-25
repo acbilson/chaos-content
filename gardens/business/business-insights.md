@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-25 08:47:34"
+lastmod = "2022-01-25 10:45:29"
 toc = true
 narrow = true
 title = "Business Bay"
@@ -11,7 +11,7 @@ title = "Business Bay"
     step = 55
     vertical = true
 +++
-This is a curated garden of business insights. Like an English Walled Garden, I have spaced parts of the garden to peruse independently, so might find the same insight planted in multiple sections.
+This is a curated garden of business insights. Like an English Walled Garden, I have spaced parts of the garden to peruse independently. A few plants are present in multiple sections of my garden.
 
 ## Faith-Mixed Insights
 
