@@ -1,11 +1,14 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-12-30 11:45:14"
+lastmod = "2022-01-25 08:44:51"
 narrow = true
+title = "Apostolic Alps"
 [coordinates]
-    x = 200
-    y = 75
+    x = 880
+    y = 190
+    step = 60
+    vertical = false
 +++
 This is a {{< acronym MOC "Map Of Content" >}} for the subject of apostolic gifting and work. It's my best attempt to understand the gift in light of my own expression of it and the examples I find in the Bible.
 

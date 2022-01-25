@@ -1,7 +1,8 @@
 +++
+aliases = ["/gardens/discovery-stories"]
 author = "Alex Bilson"
 date = "2020-08-05"
-lastmod = "2021-12-07 15:51:41"
+lastmod = "2022-01-25 09:25:40"
 narrow = true
 [coordinates]
     x = 250

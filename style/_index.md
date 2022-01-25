@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 This is a bit of text with a {{< raw >}}<span>span</span>{{< /raw>}} in it.
 
-This is some text that contains an {{< outref src="http://duckduckgo.com" name="outref" >}}. After it comes a backref for a note: {{< backref src="/gardens/top-of-mind" >}}.
+This is some text that contains an {{< outref src="http://duckduckgo.com" name="outref" >}}. After it comes a backref for a note: {{< backref src="/gardens/business/business-book-list" >}}.
 
 Here's an acronym: {{< acronym "MBA" "Masters in Business Administration" >}}. And if I wanted to cite myself, here's how {{< cite name=Bilson loc="pg. 97" >}}.  But maybe I just wanted to make a note{{< superset 1 "addendum" >}} of something.
 

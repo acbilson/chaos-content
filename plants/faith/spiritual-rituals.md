@@ -1,7 +1,8 @@
 +++
+aliases = ["/gardens/spiritual-rituals"]
 author = "Alex Bilson"
 date = "2021-07-19"
-lastmod = "2021-12-07 15:10:03"
+lastmod = "2022-01-25 09:26:15"
 toc = true
 narrow = true
 [coordinates]

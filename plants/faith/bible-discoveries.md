@@ -1,7 +1,8 @@
 +++
+aliases = ["/gardens/bible-discoveries"]
 author = "Alex Bilson"
 date = "2021-07-16"
-lastmod = "2021-11-30 15:57:56"
+lastmod = "2022-01-25 09:25:10"
 narrow = true
 [coordinates]
     x = 170

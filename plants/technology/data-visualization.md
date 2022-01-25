@@ -1,7 +1,8 @@
 +++
+aliases = ["/gardens/data-visualization"]
 author = "Alex Bilson"
 date = "2020-11-05"
-lastmod = "2021-11-30 14:52:29"
+lastmod = "2022-01-25 09:53:42"
 toc = true
 narrow = true
 [coordinates]
