@@ -1,11 +1,14 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2021-12-30 12:11:58"
+lastmod = "2022-01-25 08:40:22"
 narrow = true
+title = "Church Cañon"
 [coordinates]
-    x = 180
-    y = 130
+    x = 325
+    y = 230
+    step = 60
+    vertical = true
 +++
 TODO: organize a little more
 This is a {{< acronym MOC "Map Of Content" >}} for the subject of renewal and revival in Christ's community and body, the Church.

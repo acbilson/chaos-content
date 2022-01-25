@@ -1,12 +1,15 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-07 15:14:52"
+lastmod = "2022-01-25 08:47:34"
 toc = true
 narrow = true
+title = "Business Bay"
 [coordinates]
-    x = 50
-    y = 220
+    x = 1030
+    y = 620
+    step = 55
+    vertical = true
 +++
 This is a curated garden of business insights. Like an English Walled Garden, I have spaced parts of the garden to peruse independently, so might find the same insight planted in multiple sections.
 

@@ -1,7 +1,8 @@
 +++
+aliases = ["/gardens/child-resources"]
 author = "Alex Bilson"
 date = "2020-02-20"
-lastmod = "2021-11-30 14:50:30"
+lastmod = "2022-01-25 09:53:27"
 narrow = true
 [coordinates]
     x = 250

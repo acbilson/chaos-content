@@ -1,14 +1,14 @@
 +++
 author = "Alex Bilson"
-backlinks = [
-  "/gardens/technology/craft-your-own-site",
-]
 date = "2020-05-13"
-lastmod = "2021-11-30 16:04:18"
+lastmod = "2022-01-25 09:54:01"
 toc = true
+title = "Self-Hosting Heights"
 [coordinates]
-    x = 10
-    y = 350
+    x = 550
+    y = 320
+    step = 85
+    vertical = false
 +++
 ## Introduction
 

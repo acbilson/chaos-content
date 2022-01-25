@@ -1,11 +1,14 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2021-12-07 15:41:08"
+lastmod = "2022-01-25 08:54:49"
 narrow = true
+title = "Todderish Thicket"
 [coordinates]
-    x = 300
-    y = 400
+    x = 760
+    y = 410
+    step = 75
+    vertical = true
 +++
 Todderish, or the language of toddlers, may share words from other tongues, but it remains a stubbornly unique language in any host culture.
 

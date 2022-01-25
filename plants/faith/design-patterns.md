@@ -1,7 +1,8 @@
 +++
+aliases = ["/gardens/design-patterns"]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-11-30 14:41:08"
+lastmod = "2022-01-25 09:23:54"
 narrow = true
 [coordinates]
     x = 210
