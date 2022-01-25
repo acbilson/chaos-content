@@ -2,12 +2,9 @@
 aliases = ["/gardens/personal-devops"]
 author = "Alex Bilson"
 date = "2021-03-10"
-lastmod = "2022-01-25 09:55:35"
+lastmod = "2022-01-25 10:36:02"
 toc = true
-narrow = true
-[coordinates]
-    x = 50
-    y = 320
+epistemic = "evergreen"
 +++
 ## The Journey Begins
 

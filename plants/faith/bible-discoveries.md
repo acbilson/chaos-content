@@ -2,11 +2,8 @@
 aliases = ["/gardens/bible-discoveries"]
 author = "Alex Bilson"
 date = "2021-07-16"
-lastmod = "2022-01-25 09:25:10"
-narrow = true
-[coordinates]
-    x = 170
-    y = 110
+lastmod = "2022-01-25 10:34:18"
+epistemic = "plant"
 +++
 TODO: organize this garden into broad categories (bible-meta, imago dei, God, etc.)
 In hopes that themes will emerge and understanding deepen, here is all the content from discoveries I've made in the Bible.

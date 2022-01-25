@@ -2,12 +2,9 @@
 aliases = ["/gardens/spiritual-rituals"]
 author = "Alex Bilson"
 date = "2021-07-19"
-lastmod = "2022-01-25 09:26:15"
+lastmod = "2022-01-25 10:35:17"
 toc = true
-narrow = true
-[coordinates]
-    x = 250
-    y = 150
+epistemic = "plant"
 +++
 Elsewhere these are referred to as practices, but we prefer the term 'ritual'. It better matches the concept of family life, like a ritual of prayer before a meal, where practices feels more like individual work. Everyone doesn't hear it this way, but it's helpful for us.
 
