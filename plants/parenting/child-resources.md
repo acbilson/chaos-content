@@ -2,11 +2,8 @@
 aliases = ["/gardens/child-resources"]
 author = "Alex Bilson"
 date = "2020-02-20"
-lastmod = "2022-01-25 09:53:27"
-narrow = true
-[coordinates]
-    x = 250
-    y = 420
+lastmod = "2022-01-25 10:35:32"
+epistemic = "evergreen"
 +++
 Many have undertaken to compile a list of baby resources, and it seemed fitting that we too should offer the list of online baby resources as we are analysts and take a unique approach.
 

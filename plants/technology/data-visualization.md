@@ -2,12 +2,9 @@
 aliases = ["/gardens/data-visualization"]
 author = "Alex Bilson"
 date = "2020-11-05"
-lastmod = "2022-01-25 09:53:42"
+lastmod = "2022-01-25 10:35:49"
 toc = true
-narrow = true
-[coordinates]
-    x = 80
-    y = 360
+epistemic = "evergreen"
 +++
 {{< raw >}}
 <style>
