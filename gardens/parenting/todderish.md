@@ -1,12 +1,17 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2021-12-07 15:41:08"
+lastmod = "2022-01-25 11:35:45"
 narrow = true
+title = "Todderish Thicket"
 [coordinates]
-    x = 300
-    y = 400
+    x = 760
+    y = 410
+    step = 75
+    vertical = true
 +++
+This garden is an etymology of the language of my toddlers.
+
 Todderish, or the language of toddlers, may share words from other tongues, but it remains a stubbornly unique language in any host culture.
 
 English-influenced Todderish steals several words. “No,” “mine,” and “more” being some of the most recognizable. Some you may not recognize or may associate with another meaning.

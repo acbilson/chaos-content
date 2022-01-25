@@ -1,11 +1,9 @@
 +++
+aliases = ["/gardens/design-patterns"]
 author = "Alex Bilson"
 date = "2021-09-22"
-lastmod = "2021-11-30 14:41:08"
-narrow = true
-[coordinates]
-    x = 210
-    y = 175
+lastmod = "2022-01-25 10:34:41"
+epistemic = "plant"
 +++
 These are design patterns that I've either learned from the Bible Project or are developing on my own. These topics develop from Genesis to Revelation and find their culmination in Jesus.
 

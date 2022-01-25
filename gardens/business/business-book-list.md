@@ -1,13 +1,18 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-15"
-lastmod = "2021-11-30 14:48:43"
+lastmod = "2022-01-25 10:44:06"
 toc = true
 narrow = true
+title = "Book Bluffs"
 [coordinates]
-    x = 25
-    y = 190
+    x = 200
+    y = 1040
+    step = 60
+    vertical = true
 +++
+This garden is where I plant references to the books I've read and may share. It's mostly business-related, but we'll see where it meanders...
+
 ## Biography
 - Pao, Ellen. _Reset: My Fight for Inclusion and Lasting Change._ Spiegel & Grau. 2017
 

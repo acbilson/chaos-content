@@ -1,11 +1,9 @@
 +++
+aliases = ["/gardens/discovery-stories"]
 author = "Alex Bilson"
 date = "2020-08-05"
-lastmod = "2021-12-07 15:51:41"
-narrow = true
-[coordinates]
-    x = 250
-    y = 50
+lastmod = "2022-01-25 10:34:57"
+epistemic = "evergreen"
 +++
 {{< caption caption="This is not, in fact, a discovery group. It's my birthday party. But DBS looks just like this (though often on typical furniture)." src="https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=1024&height=768&cropmode=none" >}}
 

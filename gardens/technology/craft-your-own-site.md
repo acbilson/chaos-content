@@ -1,12 +1,18 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2021-11-30 14:51:10"
+lastmod = "2022-01-25 11:37:48"
 narrow = true
+title = "Software Shores"
 [coordinates]
-    x = 20
-    y = 300
+    x = 500
+    y = 770
+    step = 70
+    vertical = false
+    bend = -20
 +++
+This garden is a sprawling mess of sofware development, self-hosting, build tools, practices and more. I'll try to tame the garden by sectioning off sub-gardens in its midst.
+
 Web development tools are the most comprehensive and flexible set of Lego blocks any adult might desire. These are all the fun things I've thought to try recently. Some of them you may find implemented on this site, others are only ideas or proof-of-concepts.
 
 If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref src="/gardens/technology/steps-to-self-hosting" >}}
