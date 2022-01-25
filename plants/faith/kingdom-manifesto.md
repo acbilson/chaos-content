@@ -1,16 +1,11 @@
 +++
+aliases = ["/gardens/kingdom-manifesto"]
 author = "Alex Bilson"
 date = "2020-11-27"
-lastmod = "2022-01-25 09:27:37"
-narrow = true
+lastmod = "2022-01-25 11:33:40"
+epistemic = "evergreen"
 toc = true
-title = "Mount Manifesto"
-[coordinates]
-    x = 230
-    y = 100
-    step = 70
-    vertical = true
-    bend = -20
+tags = ["kingdom","manifesto","church"]
 +++
 How does Jesus' Kingdom community organize? Is the Sunday gathering primary? What are 'micro' groups? These are the sort of questions that keep me up into the wee hours of the morning. Will you join me in an exercise to loosely structure a Kingdom community?
 

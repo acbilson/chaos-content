@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2022-01-25 09:52:59"
+lastmod = "2022-01-25 11:35:01"
 toc = true
 narrow = true
 title = "Design Delta"
@@ -12,6 +12,8 @@ title = "Design Delta"
     vertical = false
     bend = -20
 +++
+This is a meta garden; a garden full of ideas, dreams, and sketches for my "digital garden."
+
 There's not an official definition for the term, "digital garden," but the best overview of the concept is Maggie Appleton's [History of the Digital Garden](https://maggieappleton.com/garden-history). You might also glean insight into the differences between a digital garden and a blog by reviewing Shawn's [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos/), or by Tom Critchlow's analysis of three forms of digital communication in [Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
 ## Content Concepts
