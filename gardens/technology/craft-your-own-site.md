@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-01-25 11:37:48"
+lastmod = "2022-01-28 09:06:50"
 narrow = true
 title = "Software Shores"
 [coordinates]
@@ -31,6 +31,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/detect-file-changes-with-entr" >}}
 - {{< backref src="/plants/technology/install-a-friendly-terminal-shell" >}}
 - Automate Tasks With CLI Kung-Fu = {{< outref src="http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" name="CLI Kung Fu" >}}
+- [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
 
 # Tooling Thoughts
 - {{< backref src="/plants/technology/ssg-is-a-developer-tool" >}}
