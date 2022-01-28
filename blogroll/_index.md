@@ -55,3 +55,5 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 {{< outref src="https://www.jefftk.com/" name="Jeff Kaufman" >}} - Jeff's practical writing about parenthood has more than once encouraged or informed my own stumbling fatherhood. Thanks for being so practical and example-driven!
 
 {{< outref src="https://www.shiftingculturepodcast.com/" name="Shifting Culture Podcast" >}} - Ok, so this isn't an RSS feed, but I've been deeply encouraged and informed by the interviews Joshua Johnson conducts on this podcast. Making my way through the whole list!
+
+{{< outref src="https://perell.com/" name="David Perell" >}} - I share David's interest in entrepreneurship, communication, and writing. Probably why I can get lost looking through his works.
