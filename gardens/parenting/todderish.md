@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-01-25 11:35:45"
+lastmod = "2022-01-28 09:34:03"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -202,6 +202,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="nəm-nə"
   match="Cat, or small dog"
   example="Num-nuh meow."
+  origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Op'opal karse"
+  term="noun"
+  phonetic="äpäpäl kärs"
+  match="Obstacle course"
+  example="Wanna try my op'opal karse, Papa?"
   origin="G.T. Bilson"
 >}}
 
