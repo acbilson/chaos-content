@@ -1,4 +1,5 @@
 +++
+type = "art"
 authors = [
   "Charlie Mackesy"
 ]
