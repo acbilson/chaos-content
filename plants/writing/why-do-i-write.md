@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-01-29"
-lastmod = "2022-01-28 15:56:18"
+lastmod = "2022-02-01 15:27:07"
 epistemic = "evergreen"
 tags = ["children","purpose"]
 +++
@@ -58,3 +58,9 @@ This is what I've observed so far.
 - Contribution is a large part of what motivates me. Understanding myself is the other.
 - I've found a cadre of really amazing people in technology, and a couple in entrepreneurial pursuits or leadership, but it's a weak area. There's a mix in writing, but I'm nervous about those conversations for some reason. I don't have any contacts for formation, spiritual gifts, or the Church.
 - Because my interests are diverse, part of me wants to find people well-versed in every subject I care about. But they don't exist. Being willing to engage in single topics is necessary.
+
+### Write for research
+
+To learn and explore the world around me. As I've moved my website from a typical blog to a digital garden, the Obsidian-style format has changed the way I interact with my existing content. I'm more curious about the edges left unexplored and the connections between concepts. I'm also more likely to stare at what's already there instead of adding new content. Not sure if that's a good thing or now...
+
+It may be that writing for intellectual stimulation **is** writing for research.
