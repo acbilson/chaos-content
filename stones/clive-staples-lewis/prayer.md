@@ -9,14 +9,6 @@ source = "A Sacrifice of Praise"
 tags = ["prayer"]
 +++
 {{< raw >}}
-<style>
-  div.poem p {
-    line-height: 9px;
-  }
-  div.poem p:nth-child(even) {
-    padding-left: 24px;
-  }
-</style>
 <div class="poem">
 <p>Master, they say that when I seem</p>
 <p>To be in speech with you,</p>
@@ -38,4 +30,12 @@ tags = ["prayer"]
 <p>Two talking, though art One forever, and I</p>
 <p>No dreamer, but thy dream.</p>
 </div>
+<style>
+  div.poem p {
+    line-height: 9px;
+  }
+  div.poem p:nth-child(even) {
+    padding-left: 24px;
+  }
+</style>
 {{< /raw >}}
