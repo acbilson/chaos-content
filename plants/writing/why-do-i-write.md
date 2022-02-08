@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-01-29"
-lastmod = "2022-02-01 15:27:07"
+lastmod = "2022-02-04 15:27:56"
 epistemic = "evergreen"
 tags = ["children","purpose"]
 +++
@@ -44,7 +44,7 @@ Something David Perell said about his experience sticks with me.
 Writing on the Internet is the best way to solve intellectual loneliness because sharing ideas in public turns you into a magnet for like-minded people.
 {{< /notice >}}
 
-What does David mean by sharing in public? Sharing his writing on Twitter or Facebook? Probably in part.
+What does David mean by sharing in public? Sharing his writing on Twitter or Facebook? Probably in part. See Nolan Lawson's experience after [Five years of quitting Twitter](https://nolanlawson.com/2022/02/02/five-years-of-quitting-twitter/) for what happens when you go from being on Twitter to away from it.
 
 I've found eschewing the central hubs doesn't make me a very strong magnet. But as I've meandered through the web outside these hubs, I've discovered some wonderful writing and ideas that's given me a lot of intellectual stimulation. But it's still not a conversation.
 
