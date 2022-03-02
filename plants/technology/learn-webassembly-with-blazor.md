@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-17T19:01:16.379390"
-lastmod = "2021-12-13 16:16:23"
+lastmod = "2022-02-24 10:25:51"
 epistemic = "seedling"
 tags = [ "wasm", "blazor", "csharp",]
 title = "Learn WebAssembly With Blazor"
@@ -66,3 +66,19 @@ We're serving the files directly from your fileshare since this is a development
 While the basic tutorial looks fairly easy, it's crucial to have a service call to demonstrate the full power of what's possible. Practically every production-ready web app needs to fetch data from a backend database, so my learning must include this step to be worthwhile.
 
 Only related to the Web API portion, Scott Hanselman wrote a helpful overview of the latest C# code for a [Minimal Web API](https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6).
+
+## Latest
+
+After beginning down the path of Blazor WebAssembly with a .NET Core Server backend, I realized that there was little benefit to building these separately (at least for this project). If I wanted to build a separate client and server I might just use Angular and .NET Core instead. So I've decided to pursue Blazor Server, which operates similarly to an updated version of ASP.NET Web Forms.
+
+## Install NuGet Packages
+
+I'm not using Visual Studio for this project, which is forcing me to learn the CLIs. Fortunately, the Microsoft CLIs have come a _long_ way since I first tried to use them pre-dotnet.
+
+One of the first things I needed to figure out was how to install the Entity Framework 6 NuGet packages (I want to use this ORM with a SQLite backend for data persistence). Turns out, that's a cinch.
+
+{{< highlight sh >}}
+dotnet package add System.Data.SQLite
+dotnet package add System.Data.SQLite.Core
+dotnet package add System.Data.SQLite.EF6
+{{< /highlight >}}

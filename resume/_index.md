@@ -184,36 +184,36 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 {{< table
 title="Programming Languages"
 headers="Language|Acumen"
-rows="C#|9^Python|8^JavaScript|8^T-SQL|7^Rust|4"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub|https://github.com/acbilson/chaos-micropub|https://github.com/acbilson/statement_converter^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
+rows="C#|8^Python|8^JavaScript|8^T-SQL|7^Rust|4^Golang|4"
+examples="Chaos Chat (C#)|https://github.com/acbilson/chaos-chat^Budget App (C#)|https://github.com/acbilson/plaintext-budget^Chaos Micropub (Python/Golang)|https://github.com/acbilson/chaos-micropub|^Statement Convertor (Golang)|https://github.com/acbilson/statement_converter^Chaos Theme (Golang/Javascript)|https://github.com/acbilson/chaos-theme"
 >}}
 
 {{< table
 title="Frontend Frameworks"
 headers="Language|Acumen"
-rows="AngularJS|8^ReactJS+Redux|7^VueJS|7^AureliaJS|4"
-examples="Budget App|https://github.com/acbilson/plaintext-budget"
+rows="AngularJS+RxJS|8^ReactJS+Redux|5^VueJS|5^AureliaJS|5^Blazor|4"
+examples="Budget App (Angular)|https://github.com/acbilson/plaintext-budget^Chaos Chat (Blazor)|https://github.com/acbilson/chaos-chat"
 >}}
 
 {{< table
 title="Backend Frameworks"
 headers="Language|Acumen"
-rows="ASP.NET MVC|9^Relativity Agent/Manager|9^Flask|8"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub|https://github.com/acbilson/chaos-micropub"
+rows=".NET Core API|8^ASP.NET MVC|8^Flask|8^Entity Framework Core|7"
+examples="Chaos Chat (Entity Framework Core)|https://github.com/acbilson/chaos-chat^Budget App (ASP.NET MVC)|https://github.com/acbilson/plaintext-budget^Chaos Micropub (Flask)|https://github.com/acbilson/chaos-micropub"
 >}}
 
 {{< table
 title="DevOps Tools"
 headers="Language|Acumen"
-rows="Docker+Compose|9^Hugo|9^NPM+Webpack|8^Ansible|7"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-hugo-theme|https://github.com/acbilson/chaos-theme^chaos-micropub|https://github.com/acbilson/chaos-micropub^chaos-feedreader|https://github.com/acbilson/chaos-feedreader"
+rows="Docker+Compose|9^Podman+SystemD|9^Hugo|9^NPM+Webpack|8^Ansible|7"
+examples="Budget App (Docker)|https://github.com/acbilson/plaintext-budget^Chaos Theme (Hugo)|https://github.com/acbilson/chaos-theme^Chaos Micropub (Docker)|https://github.com/acbilson/chaos-micropub^Chaos Feedreader (Docker-Compose)|https://github.com/acbilson/chaos-feedreader"
 >}}
 
 {{< table
 title="SysAdmin Tools"
 headers="Language|Acumen"
-rows="PowerShell|10^Nginx|8^Bash Shell|7^OpenSSH|7^strace|5^netstat|5"
-examples="ps-git-sync|https://github.com/acbilson/ps-git-sync^computer-vision-psmodule|https://github.com/acbilson/computer-vision-psmodule^dotfile-config|https://github.com/acbilson/config"
+rows="Vim|9^PowerShell|9^Nginx|8^Bash Shell|7^OpenSSH|7^curl|6^strace|5^netstat|5"
+examples="ps-git-sync (PowerShell)|https://github.com/acbilson/ps-git-sync^computer-vision-psmodule (PowerShell)|https://github.com/acbilson/computer-vision-psmodule^dotfile-config (Vim/Bash)|https://github.com/acbilson/config"
 >}}
 
 {{< table
@@ -227,7 +227,7 @@ examples=""
 title="Databases"
 headers="Language|Acumen"
 rows="MS SQL|8^MySQL|8^Sqlite|7^Flat files|7"
-examples="Budget App|https://github.com/acbilson/plaintext-budget"
+examples="Chaos Chat (Sqlite)|https://github.com/acbilson/chaos-chat^Budget App (Flat Files)|https://github.com/acbilson/plaintext-budget"
 >}}
 
 {{< raw >}}
@@ -242,23 +242,19 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget"
 <ul>
 
 <li>
-<p class="question">Q: What libraries have you used for unit testing?</p>
-<p>A: I write unit tests for all but the smallest projects. Libraries like NUnit and Moq are my go-to for C# development, Pester for PowerShell, and PyTest for Python.</p>
-</li>
-
-<li>
-<p class="question">Q: Have you written integration or end-to-end tests?</p>
-<p>A: Yes! For value, a single end-to-end test is more useful than five integration tests, which are more useful than a hundred unit tests. The best coverage has appropriate coverage by all.</p>
+<p class="question">Q: Tell me about unit and integration testing?</p>
+<p>A: I write unit tests for all but the smallest projects. Libraries like NUnit and Moq are my go-to for C# development, Pester for PowerShell, and PyTest for Python. I have used Jasmine for Angular testing, but I'm not a fan of the random-by-default local test execution. I prefer to cover business logic with unit tests and essential workflows with integration tests.</p>
 </li>
 
 <li>
 <p class="question">Q: What's your favorite IDE?</p>
 <p>A: I began with Vim, and it's still my go-to for adhoc development work. I love how it's everywhere, and the commands are burned into my fingers. Visual Studio Code has become my workhorse for big projects... once I add the Vim plugin.</p>
+<p>On more general tooling, I prefer to use the underlying technology so that I understand the plumbing. I enjoy using GitKraken, for example, but I often find my fingers are happier at a terminal prompt.</p>
 </li>
 
 <li>
 <p class="question">Q: What's your favorite OS?</p>
-<p>A: I spend my days on the command line, so Linux has become my happiest home. I appreciate the simplicity of the folder structure and the many command line tools available. When I'm on Windows, I install Gow at the minimum, and <abbr title="Windows Subsystem for Linux">WSL</abbr> 2 with Debian if I can. The Mac terminal experience is decent, so I guess it's alright.</p>
+<p>A: I spend my days on the command line, so Linux has become my happiest home. I appreciate the simplicity of the folder structure and the many command line tools available. When I'm on Windows, I install Gow at the minimum, and <abbr title="Windows Subsystem for Linux">WSL</abbr> 2 with Debian if I can. The Mac terminal experience is decent, so I guess it's alright too.</p>
 </li>
 
 <li>
