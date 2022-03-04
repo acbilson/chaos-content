@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-05 14:57:52"
+lastmod = "2022-03-04 10:13:24"
 epistemic = "sprout"
-tags = ["entrepreneurship","attunement","buyancy","clarity","communication","resilience","empathy"]
+tags = ["entrepreneurship","attunement","buoyancy","clarity","communication","resilience","empathy"]
 title = "Attunement, Buoyancy, and Clarity Are Crucial Sales Skills"
 +++
 **Entrepreneurial Insight:** Those who sell must be emotionally aware, able to rebound, and clear in their goals, presentation, and next steps.
