@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="735px" preserveAspectRatio="none" style="width:2001px;height:735px;" version="1.1" viewBox="0 0 2001 735" width="2001px" zoomAndPan="magnify"><defs><filter height="300%" id="f13gsbma2sohby" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="185" x="901.5" y="16.708">Chaos Suite Diagram</text><!--MD5=[1f3306139102be11397e727dd7885444]
+cluster feedreaderpod--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="1208,43.4531,1341,43.4531,1348,65.75,1550,65.75,1550,671.9531,1208,671.9531,1208,43.4531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1208" x2="1348" y1="65.75" y2="65.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="127" x="1212" y="58.4482">Feedreader Pod</text><!--MD5=[a6c030afe4596b10e7d694391c38348e]
+cluster webhookpod--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="1558,26.9531,1673,26.9531,1680,49.25,1984,49.25,1984,728.9531,1558,728.9531,1558,26.9531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1558" x2="1680" y1="49.25" y2="49.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="109" x="1562" y="41.9482">Webhook Pod</text><!--MD5=[4de5e8c9daa5fa1c116f07ee4532aa17]
+entity feedreader--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="1216,80.4531,1226,70.4531,1542,70.4531,1542,220.5313,1532,230.5313,1216,230.5313,1216,80.4531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1532" x2="1542" y1="80.4531" y2="70.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1216" x2="1532" y1="80.4531" y2="80.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1532" x2="1532" y1="80.4531" y2="230.5313"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="146" x="1231" y="103.4482">Chaos Feedreader</text><line style="stroke:#000000;stroke-width:1.0;" x1="1216" x2="1532" y1="106.75" y2="106.75"/><line style="stroke:#000000;stroke-width:1.0;" x1="1532" x2="1542" y1="106.75" y2="96.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="286" x="1231" y="123.7451">A lightweight self-hosted RSS feedreader.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="236" x="1231" y="140.042">Depends on a Postgres database.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="1235" y="156.3389"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="1231" y="172.6357">This is not custom-built. It is a container</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="262" x="1231" y="188.9326">for the miniflux/miniflux Github project.</text><line style="stroke:#000000;stroke-width:1.0;" x1="1216" x2="1532" y1="196.2344" y2="196.2344"/><line style="stroke:#000000;stroke-width:1.0;" x1="1532" x2="1542" y1="196.2344" y2="186.2344"/><line style="stroke:#000000;stroke-width:1.0;" x1="1216" x2="1532" y1="198.2344" y2="198.2344"/><line style="stroke:#000000;stroke-width:1.0;" x1="1532" x2="1542" y1="198.2344" y2="188.2344"/><text fill="#008000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1231" y="213.2295">deployment ready</text><!--MD5=[0e1fecc31e3549f2a1667c6349b56d9e]
+entity postgres--><path d="M1293.5,611.9531 C1293.5,601.9531 1379,601.9531 1379,601.9531 C1379,601.9531 1464.5,601.9531 1464.5,611.9531 L1464.5,653.5469 C1464.5,663.5469 1379,663.5469 1379,663.5469 C1379,663.5469 1293.5,663.5469 1293.5,653.5469 L1293.5,611.9531 " fill="#FEFECE" filter="url(#f13gsbma2sohby)" style="stroke:#000000;stroke-width:1.5;"/><path d="M1293.5,611.9531 C1293.5,621.9531 1379,621.9531 1379,621.9531 C1379,621.9531 1464.5,621.9531 1464.5,611.9531 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="146" x="1308.5" y="638.9482">Chaos Feedreader</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="1303.5" y="655.2451">Postgres DB</text><!--MD5=[b1a7855e6585e68a7a22c3cffb63dc0f]
+entity webhook--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="1583.5,63.9531,1593.5,53.9531,1958.5,53.9531,1958.5,236.625,1948.5,246.625,1583.5,246.625,1583.5,63.9531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1948.5" x2="1958.5" y1="63.9531" y2="53.9531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1583.5" x2="1948.5" y1="63.9531" y2="63.9531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1948.5" x2="1948.5" y1="63.9531" y2="246.625"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="128" x="1598.5" y="86.9482">Chaos Webhook</text><line style="stroke:#000000;stroke-width:1.0;" x1="1583.5" x2="1948.5" y1="90.25" y2="90.25"/><line style="stroke:#000000;stroke-width:1.0;" x1="1948.5" x2="1958.5" y1="90.25" y2="80.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="335" x="1598.5" y="107.2451">A lightweight webhook event service. Automates</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="1598.5" y="123.542">deployment of prod/uat versions of</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="333" x="1598.5" y="139.8389">https://alexbilson.dev. Deployments of the Hugo</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="326" x="1598.5" y="156.1357">chaos-theme require the chaos-theme-service.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="1602.5" y="172.4326"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="1598.5" y="188.7295">This is not custom-built. It is a container</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="276" x="1598.5" y="205.0264">for the adnahn/webhook Github project.</text><line style="stroke:#000000;stroke-width:1.0;" x1="1583.5" x2="1948.5" y1="212.3281" y2="212.3281"/><line style="stroke:#000000;stroke-width:1.0;" x1="1948.5" x2="1958.5" y1="212.3281" y2="202.3281"/><line style="stroke:#000000;stroke-width:1.0;" x1="1583.5" x2="1948.5" y1="214.3281" y2="214.3281"/><line style="stroke:#000000;stroke-width:1.0;" x1="1948.5" x2="1958.5" y1="214.3281" y2="204.3281"/><text fill="#008000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1598.5" y="229.3232">deployment ready</text><!--MD5=[ed1d0eb016b0a7f2bda487686c26ae0b]
+entity themeservice--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="1566,554.9531,1576,544.9531,1976,544.9531,1976,711.3281,1966,721.3281,1566,721.3281,1566,554.9531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1966" x2="1976" y1="554.9531" y2="544.9531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1566" x2="1966" y1="554.9531" y2="554.9531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1966" x2="1966" y1="554.9531" y2="721.3281"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="172" x="1581" y="577.9482">Chaos Theme Service</text><line style="stroke:#000000;stroke-width:1.0;" x1="1566" x2="1966" y1="581.25" y2="581.25"/><line style="stroke:#000000;stroke-width:1.0;" x1="1966" x2="1976" y1="581.25" y2="571.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="370" x="1581" y="598.2451">A Hugo Theme build server. Generates JSON payloads</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="353" x="1581" y="614.542">that Hugo consumes to add pre-calculated content</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="1581" y="630.8389">to the final static site output.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="1585" y="647.1357"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="341" x="1581" y="663.4326">Currently adds backlink support to the website by</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="290" x="1581" y="679.7295">aggregating all references to other pages.</text><line style="stroke:#000000;stroke-width:1.0;" x1="1566" x2="1966" y1="687.0313" y2="687.0313"/><line style="stroke:#000000;stroke-width:1.0;" x1="1966" x2="1976" y1="687.0313" y2="677.0313"/><line style="stroke:#000000;stroke-width:1.0;" x1="1566" x2="1966" y1="689.0313" y2="689.0313"/><line style="stroke:#000000;stroke-width:1.0;" x1="1966" x2="1976" y1="689.0313" y2="679.0313"/><text fill="#008000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="1581" y="704.0264">deployment ready</text><!--MD5=[570597a2b6eaab3b76b5cf13edca2979]
+entity chat--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="16,72.4531,26,62.4531,374,62.4531,374,228.8281,364,238.8281,16,238.8281,16,72.4531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="364" x2="374" y1="72.4531" y2="62.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="364" y1="72.4531" y2="72.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="364" x2="364" y1="72.4531" y2="238.8281"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="90" x="31" y="95.4482">Chaos Chat</text><line style="stroke:#000000;stroke-width:1.0;" x1="16" x2="364" y1="98.75" y2="98.75"/><line style="stroke:#000000;stroke-width:1.0;" x1="364" x2="374" y1="98.75" y2="88.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="285" x="31" y="115.7451">An experimental communication platform.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="289" x="31" y="132.042">Admin creates short-lived chat rooms with</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="269" x="31" y="148.3389">one-time invites for live discussion. Fills</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="318" x="31" y="164.6357">a gap between long-term comments or emails</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="301" x="31" y="180.9326">and short-term conversation. Audio support</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="230" x="31" y="197.2295">may be the preferable end-game.</text><line style="stroke:#000000;stroke-width:1.0;" x1="16" x2="364" y1="204.5313" y2="204.5313"/><line style="stroke:#000000;stroke-width:1.0;" x1="364" x2="374" y1="204.5313" y2="194.5313"/><line style="stroke:#000000;stroke-width:1.0;" x1="16" x2="364" y1="206.5313" y2="206.5313"/><line style="stroke:#000000;stroke-width:1.0;" x1="364" x2="374" y1="206.5313" y2="196.5313"/><text fill="#FF0000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="31" y="221.5264">not deployment ready</text><!--MD5=[32f0bfbd33eba7d2ae0aa5d60f873d96]
+entity budget--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="841.5,72.4531,851.5,62.4531,1180.5,62.4531,1180.5,228.8281,1170.5,238.8281,841.5,238.8281,841.5,72.4531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1170.5" x2="1180.5" y1="72.4531" y2="62.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="841.5" x2="1170.5" y1="72.4531" y2="72.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="1170.5" x2="1170.5" y1="72.4531" y2="238.8281"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="110" x="856.5" y="95.4482">Chaos Budget</text><line style="stroke:#000000;stroke-width:1.0;" x1="841.5" x2="1170.5" y1="98.75" y2="98.75"/><line style="stroke:#000000;stroke-width:1.0;" x1="1170.5" x2="1180.5" y1="98.75" y2="88.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="299" x="856.5" y="115.7451">An interactive web frontend for a Ledger CLI</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="290" x="856.5" y="132.042">journal. Sensitive journal and account data</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="856.5" y="148.3389">is stored separately.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="860.5" y="164.6357"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="856.5" y="180.9326">This is not custom-built. It is a container</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="262" x="856.5" y="197.2295">for the beancount/fava Github project.</text><line style="stroke:#000000;stroke-width:1.0;" x1="841.5" x2="1170.5" y1="204.5313" y2="204.5313"/><line style="stroke:#000000;stroke-width:1.0;" x1="1170.5" x2="1180.5" y1="204.5313" y2="194.5313"/><line style="stroke:#000000;stroke-width:1.0;" x1="841.5" x2="1170.5" y1="206.5313" y2="206.5313"/><line style="stroke:#000000;stroke-width:1.0;" x1="1170.5" x2="1180.5" y1="206.5313" y2="196.5313"/><text fill="#008000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="856.5" y="221.5264">deployment ready</text><!--MD5=[8a9c864853809bde54ebee247e81a41a]
+entity journal--><polygon fill="#FEFECE" filter="url(#f13gsbma2sohby)" points="858,373.4531,858,434.0469,1164,434.0469,1164,383.4531,1154,373.4531,858,373.4531" style="stroke:#000000;stroke-width:1.5;"/><path d="M1154,373.4531 L1154,383.4531 L1164,383.4531 " fill="#FEFECE" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="868" y="396.4482">journal.beancount</text><line style="stroke:#000000;stroke-width:1.0;" x1="859" x2="1163" y1="399.75" y2="399.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="286" x="868" y="416.7451">stores all your account and ledger entries</text><!--MD5=[a8471dc1685d87ced5d4b2dbe85821bf]
+entity comments--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="409.5,88.4531,419.5,78.4531,806.5,78.4531,806.5,212.2344,796.5,222.2344,409.5,222.2344,409.5,88.4531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="796.5" x2="806.5" y1="88.4531" y2="78.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="409.5" x2="796.5" y1="88.4531" y2="88.4531"/><line style="stroke:#000000;stroke-width:1.5;" x1="796.5" x2="796.5" y1="88.4531" y2="222.2344"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="138" x="424.5" y="111.4482">Chaos Comments</text><line style="stroke:#000000;stroke-width:1.0;" x1="409.5" x2="796.5" y1="114.75" y2="114.75"/><line style="stroke:#000000;stroke-width:1.0;" x1="796.5" x2="806.5" y1="114.75" y2="104.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="357" x="424.5" y="131.7451">A lightweight static-site pluggable comment engine.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="428.5" y="148.042"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="424.5" y="164.3389">This is not custom-built. It is a container</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="289" x="424.5" y="180.6357">for the umputun/remark42 Github project.</text><line style="stroke:#000000;stroke-width:1.0;" x1="409.5" x2="796.5" y1="187.9375" y2="187.9375"/><line style="stroke:#000000;stroke-width:1.0;" x1="796.5" x2="806.5" y1="187.9375" y2="177.9375"/><line style="stroke:#000000;stroke-width:1.0;" x1="409.5" x2="796.5" y1="189.9375" y2="189.9375"/><line style="stroke:#000000;stroke-width:1.0;" x1="796.5" x2="806.5" y1="189.9375" y2="179.9375"/><text fill="#008000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="424.5" y="204.9326">deployment ready</text><!--MD5=[26390b7cca6ab732dc7e783aa1c36c81]
+entity micropub--><polygon fill="#FFFFFF" filter="url(#f13gsbma2sohby)" points="24,333.9531,34,323.9531,366,323.9531,366,474.0313,356,484.0313,24,484.0313,24,333.9531" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="356" x2="366" y1="333.9531" y2="323.9531"/><line style="stroke:#000000;stroke-width:1.5;" x1="24" x2="356" y1="333.9531" y2="333.9531"/><line style="stroke:#000000;stroke-width:1.5;" x1="356" x2="356" y1="333.9531" y2="484.0313"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="127" x="39" y="356.9482">Chaos Micropub</text><line style="stroke:#000000;stroke-width:1.0;" x1="24" x2="356" y1="360.25" y2="360.25"/><line style="stroke:#000000;stroke-width:1.0;" x1="356" x2="366" y1="360.25" y2="350.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="252" x="39" y="377.2451">A private self-hosted static site client</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="277" x="39" y="393.542">and service publishing tool. Only partially</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="255" x="39" y="409.8389">microformat2 compliant. Built to work</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="302" x="39" y="426.1357">explicitly with the chaos-theme Hugo theme</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="244" x="39" y="442.4326">and chaos-content Markdown data.</text><line style="stroke:#000000;stroke-width:1.0;" x1="24" x2="356" y1="449.7344" y2="449.7344"/><line style="stroke:#000000;stroke-width:1.0;" x1="356" x2="366" y1="449.7344" y2="439.7344"/><line style="stroke:#000000;stroke-width:1.0;" x1="24" x2="356" y1="451.7344" y2="451.7344"/><line style="stroke:#000000;stroke-width:1.0;" x1="356" x2="366" y1="451.7344" y2="441.7344"/><text fill="#008000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="39" y="466.7295">deployment ready</text><!--MD5=[a33792663935c799935a1551bf79bf58]
+link budget to journal--><path codeLine="41" d="M1011,238.7592 C1011,285.6273 1011,340.2413 1011,373.442 " fill="none" id="budget-journal" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="1012" y="290.02">requires</text><!--MD5=[b81d9d2d9ed803007ee65b131ad1f4fb]
+link feedreader to postgres--><path codeLine="73" d="M1379,230.6698 C1379,339.1978 1379,527.7421 1379,601.8078 " fill="none" id="feedreader-postgres" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="1380" y="408.52">requires</text><!--MD5=[46413c15a1aaebbfc17b981d1d67e33e]
+link webhook to themeservice--><path codeLine="117" d="M1771,247.224 C1771,334.1562 1771,460.7135 1771,544.8695 " fill="none" id="webhook-themeservice" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="104" x="1772" y="408.52">build-dependent</text><!--MD5=[1e3f6d23cb163aa6ab413a9c49361c6a]
+link chat to comments--><!--MD5=[50fc7700a66eea88262a21b395301879]
+link chat to micropub--><!--MD5=[7c20dd5c7aa93c1e6acc82e4301b3b85]
+@startuml
+'
+title Chaos Suite Diagram
+
+skinparam nodeBackgroundColor #white
+skinparam componentBackgroundColor #lightBlue
+skinparam folderBackgroundColor #tan
+skinparam cloudBackgroundColor #white
+
+node chat [
+<b>Chaos Chat
+- - -
+An experimental communication platform.
+Admin creates short-lived chat rooms with
+one-time invites for live discussion. Fills
+a gap between long-term comments or emails
+and short-term conversation. Audio support
+may be the preferable end-game.
+===
+<color:red>not deployment ready</color>
+]
+
+node budget [
+<b>Chaos Budget
+- - -
+An interactive web frontend for a Ledger CLI
+journal. Sensitive journal and account data
+is stored separately.
+
+This is not custom-built. It is a container
+for the beancount/fava Github project.
+===
+<color:green>deployment ready</color>
+]
+
+file journal [
+journal.beancount
+- - -
+stores all your account and ledger entries
+]
+
+budget .. journal : requires
+
+node comments [
+<b>Chaos Comments
+- - -
+A lightweight static-site pluggable comment engine.
+
+This is not custom-built. It is a container
+for the umputun/remark42 Github project.
+===
+<color:green>deployment ready</color>
+]
+
+package feedreaderpod as "Feedreader Pod" {
+
+  node feedreader [
+  <b>Chaos Feedreader
+  - - -
+  A lightweight self-hosted RSS feedreader.
+  Depends on a Postgres database.
+
+  This is not custom-built. It is a container
+  for the miniflux/miniflux Github project.
+  ===
+  <color:green>deployment ready</color>
+  ]
+
+  database postgres [
+  <b> Chaos Feedreader
+  Postgres DB
+  ]
+
+  feedreader .. postgres : requires
+}
+
+node micropub [
+<b>Chaos Micropub
+- - -
+A private self-hosted static site client
+and service publishing tool. Only partially
+microformat2 compliant. Built to work
+explicitly with the chaos-theme Hugo theme
+and chaos-content Markdown data.
+===
+<color:green>deployment ready</color>
+]
+
+package webhookpod as "Webhook Pod" {
+
+  node webhook [
+  <b>Chaos Webhook
+  - - -
+  A lightweight webhook event service. Automates
+  deployment of prod/uat versions of
+  https://alexbilson.dev. Deployments of the Hugo
+  chaos-theme require the chaos-theme-service.
+
+  This is not custom-built. It is a container
+  for the adnahn/webhook Github project.
+  ===
+  <color:green>deployment ready</color>
+  ]
+
+  node themeservice [
+  <b>Chaos Theme Service
+  - - -
+  A Hugo Theme build server. Generates JSON payloads
+  that Hugo consumes to add pre-calculated content
+  to the final static site output.
+
+  Currently adds backlink support to the website by
+  aggregating all references to other pages.
+  ===
+  <color:green>deployment ready</color>
+  ]
+
+  webhook .. themeservice : build-dependent
+}
+@enduml
+
+@startuml
+title Chaos Suite Diagram
+
+skinparam nodeBackgroundColor #white
+skinparam componentBackgroundColor #lightBlue
+skinparam folderBackgroundColor #tan
+skinparam cloudBackgroundColor #white
+
+node chat [
+<b>Chaos Chat
+- - -
+An experimental communication platform.
+Admin creates short-lived chat rooms with
+one-time invites for live discussion. Fills
+a gap between long-term comments or emails
+and short-term conversation. Audio support
+may be the preferable end-game.
+===
+<color:red>not deployment ready</color>
+]
+
+node budget [
+<b>Chaos Budget
+- - -
+An interactive web frontend for a Ledger CLI
+journal. Sensitive journal and account data
+is stored separately.
+
+This is not custom-built. It is a container
+for the beancount/fava Github project.
+===
+<color:green>deployment ready</color>
+]
+
+file journal [
+journal.beancount
+- - -
+stores all your account and ledger entries
+]
+
+budget .. journal : requires
+
+node comments [
+<b>Chaos Comments
+- - -
+A lightweight static-site pluggable comment engine.
+
+This is not custom-built. It is a container
+for the umputun/remark42 Github project.
+===
+<color:green>deployment ready</color>
+]
+
+package feedreaderpod as "Feedreader Pod" {
+
+  node feedreader [
+  <b>Chaos Feedreader
+  - - -
+  A lightweight self-hosted RSS feedreader.
+  Depends on a Postgres database.
+
+  This is not custom-built. It is a container
+  for the miniflux/miniflux Github project.
+  ===
+  <color:green>deployment ready</color>
+  ]
+
+  database postgres [
+  <b> Chaos Feedreader
+  Postgres DB
+  ]
+
+  feedreader .. postgres : requires
+}
+
+node micropub [
+<b>Chaos Micropub
+- - -
+A private self-hosted static site client
+and service publishing tool. Only partially
+microformat2 compliant. Built to work
+explicitly with the chaos-theme Hugo theme
+and chaos-content Markdown data.
+===
+<color:green>deployment ready</color>
+]
+
+package webhookpod as "Webhook Pod" {
+
+  node webhook [
+  <b>Chaos Webhook
+  - - -
+  A lightweight webhook event service. Automates
+  deployment of prod/uat versions of
+  https://alexbilson.dev. Deployments of the Hugo
+  chaos-theme require the chaos-theme-service.
+
+  This is not custom-built. It is a container
+  for the adnahn/webhook Github project.
+  ===
+  <color:green>deployment ready</color>
+  ]
+
+  node themeservice [
+  <b>Chaos Theme Service
+  - - -
+  A Hugo Theme build server. Generates JSON payloads
+  that Hugo consumes to add pre-calculated content
+  to the final static site output.
+
+  Currently adds backlink support to the website by
+  aggregating all references to other pages.
+  ===
+  <color:green>deployment ready</color>
+  ]
+
+  webhook .. themeservice : build-dependent
+}
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
