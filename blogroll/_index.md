@@ -57,3 +57,5 @@ Here's a list of other independent blog writers that I follow and from whom I dr
 {{< outref src="https://www.shiftingculturepodcast.com/" name="Shifting Culture Podcast" >}} - Ok, so this isn't an RSS feed, but I've been deeply encouraged and informed by the interviews Joshua Johnson conducts on this podcast. Making my way through the whole list!
 
 {{< outref src="https://perell.com/" name="David Perell" >}} - I share David's interest in entrepreneurship, communication, and writing. Probably why I can get lost looking through his works.
+
+{{< outref src="https://thesephist.com" name="Linus Lee" >}} - Linus is a _prolific_ open source project developer. I'm thoroughly impressed at the depth and breadth of his experimentation and how much of the software he's developed is also the software he uses day-to-day.
