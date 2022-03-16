@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-16 12:30:37"
-lastmod = "2022-03-16 12:35:36"
+lastmod = "2022-03-16 13:27:02"
 epistemic = "sprout"
 tags = ["interoperability","file","interface","markdown","api"]
 +++
@@ -23,6 +23,6 @@ I do appreciate the structure of a backend SQLite table, and a JSON-formatted co
 On the web, the most common way to save data is in a database hidden behind a server. This makes interoperability an explicit feature that must be implemented through APIs. The default is for web apps not to interoperate... Rather than implementing each other’s bespoke APIs, apps can collaborate over a shared file type, cutting down the necessary integrations from n * (n-1), to just n.
 {{< /notice >}}
 
-There is one piece that the IndieWeb movement adds to this concept that I think is worth further exploration. While everything Gordon says about file format interoperability is true, and a database with an API layer does not enable the same degree of interoperability, the web itself is in a structured file format: HTML. With a bit of attention to shared conventions, a web page itself can supply a flexible interface for equal interoperability to a file format. If a tool renders HTML instead of a JSON API, many tools can read and understand the files returned from the web server. The backend data structure is less relevant when the output is a file format.
+There is one piece that the IndieWeb movement adds to this concept that I think is worth further exploration. While everything Gordon says about file format interoperability is true, and a database with an API layer does not enable the same degree of interoperability, the web itself is in a structured file format: HTML. With a bit of attention to shared conventions, a web page itself can supply a flexible interface with equal interoperability to a file format. If a tool renders HTML instead of a JSON API, many tools can read and understand the files returned from the web server. However, since one of my values is the ability to edit my data in a text editor, a regular file format still wins out over a database.
 
 Thanks so much to Linus for the link to Gordon's article and the insight about loosely-coupled data sources!
