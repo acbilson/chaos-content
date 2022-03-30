@@ -1,7 +1,9 @@
 +++
 author = "Alex Bilson"
-date = "2022-03-4"
-lastmod = "2022-03-04 15:13:01"
+date = "2022-03-04"
+lastmod = "2022-03-30 15:34:39"
+epistemic = "seedling"
+tags = ["web-design","architecture"]
 +++
 Re-inspired by Linus Lee, I'm thinking about what's left to fill out the chaos architecture.
 
@@ -55,3 +57,5 @@ Before I truly decide if I _want_ to go this route, it may be worthwhile to sear
 ### End Game - Search
 
 For some time now I've benefited from having full web access to my micropub service. I just write down a lot more when there's a low-friction means to do so and it all lands in the same place. But there are other data sources that, if I were able to access them from a single search engine, could add a lot to my workflow. But at this point those data sources must be private (email, contact lists, etc.). That's the end-game, perhaps, to have all my data within reach. IDK.
+
+{{< image "/data/svg/chaos-suite.svg" "chaos-suite" >}}

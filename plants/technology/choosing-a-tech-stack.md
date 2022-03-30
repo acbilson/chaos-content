@@ -1,7 +1,9 @@
 +++
 author = "Alex Bilson"
-date = "2022-03-18T13:50:16.611611"
-lastmod = "2022-03-18T13:50:16.611639"
+date = "2022-03-18"
+lastmod = "2022-03-30 15:23:15"
+epistemic = "evergreen"
+tags = ["software"]
 +++
 Software projects often get postponed while I decide on the tech stack. What kind of data storage? What programming language? Which framework, if any? My abundant choices sometimes paralyze me from actual building.
 
@@ -20,3 +22,7 @@ Finally, Rust. In my mind, the ultimate optimization. While I might be able to w
 I feel the need to standardize on _something_. But what? I've started down the path of C# with Blazor Server, but I'm hesitant to put my hopes on a system that's not a decade or more old. I can't reliably expect Rust to handle the various needs I may have. Golang is an option, but I'm put off by the seeming lack of a suitable web framework. I'm probably being a little hard on the language since clearly it does have options (I use Hugo). Finally, I know that Python works for me but it doesn't feel production-grade for some reason.
 
 Sigh. Well, thanks for listening. I'm going to finish this C# Blazor Server project and see where that leaves me I guess.
+
+## Update
+
+Even though I was able to produce a dotnet 6 Blazor Server app and run it in a production configuration locally on my Macbook Air, the compilation was so terrible to publish it on my Raspberry Pi that I'll have to abandon the project entirely for another language. Good riddance; while I don't mind using dotnet for work, it's really horrible to use for personal projects. It took me half a day just to configure the URL for my project because there are so many documented ways of doing it, with changes in the last three major versions of dotnet.

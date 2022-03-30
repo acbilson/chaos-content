@@ -1,7 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-21T21:01:37.678935"
-lastmod = "2022-03-21T21:01:37.678968"
+lastmod = "2022-03-30 15:24:47"
+epistemic = "seedling"
+tags = ["kingdom","future","trust"]
 +++
 Life in the now-and-not-yet-kingdom can be an emotional teeter-totter between the "now" and the "not yet."
 

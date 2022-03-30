@@ -1,7 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-17"
-lastmod = "2022-03-17 15:27:42"
+lastmod = "2022-03-30 15:32:07"
+epistemic = "sprout"
+tags = ["checklist"]
 +++
 In other fields than software development, checklists ensure a series of complex steps are correctly completed. I wonder why that hasn't caught on in my domain? Anyways, here's my first attempt at a front-end pull request checklist.
 
