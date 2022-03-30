@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-30"
-lastmod = "2022-03-30 15:20:23"
-epistemic = "evergreen"
+lastmod = "2022-03-30 15:47:59"
+epistemic = "plant"
 tags = ["hiking"]
 +++
 To hike the Colorado Trail, 486 miles across the entire Rocky Mountain range, has been my aspiration from childhood. I vividly remember as a child daydreaming on our drives along I-70 of crossing the entire Rockies with nothing more than a pack mule.
