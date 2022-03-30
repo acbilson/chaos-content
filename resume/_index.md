@@ -172,6 +172,17 @@ events="2020|incorporates my second business, a technology consulting firm.^2020
 {{< / raw >}}
 
 {{< raw >}}
+<div class="timeline__text">
+  <div class="timeline__attr">
+    <div class="timeline__year">2022</div>
+  </div>
+<p class="timeline__content">my second major project at Performance Trust was one of my best, the <a href="{{< ref "/resume/ratio-sorting-page" >}}">Data+ Web Tool</a>. My growing know-how with Angular development paid off in a flexible, performant, low-bug offering. In the words of Bart Smith, "This is *!$#%^ awesome!". Most of the praise for the performant engine, however, goes to our resident database whiz, Mary Mistica, for an amazing SQL Stored Procedure.
+</p>
+</div>
+{{< / raw >}}
+
+
+{{< raw >}}
 </section>
 
 <section>
