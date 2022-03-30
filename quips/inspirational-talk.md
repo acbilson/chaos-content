@@ -1,3 +1,9 @@
++++
+author = "Alex Bilson"
+date = "2021-05-21"
+lastmod = "2022-03-30 08:14:05"
++++
+
 I propose we make available our core product, Relativity, as a resource to obtain justice, not only to those who can afford our software, but to those who will never afford it.
 
 Before we look at my proposal, let's spend a couple minutes reviewing current pro bono work and its relation to electronic discovery so we can grasp the weight of this opportunity.
