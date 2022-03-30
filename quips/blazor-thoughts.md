@@ -1,1 +1,6 @@
++++
+author = "Alex Bilson"
+date = "2022-03-30 08:14:16"
+lastmod = "2022-03-30 08:14:21"
++++
 Even though I was able to produce a dotnet 6 Blazor Server app and run it in a production configuration locally on my Macbook Air, the compilation was so terrible to publish it on my Raspberry Pi that I'll have to abandon the project entirely for another language. Good riddance; while I don't mind using dotnet for work, it's really horrible to use for personal projects. It took me half a day just to configure the URL for my project because there are so many documented ways of doing it, with changes in the last three major versions of dotnet.
