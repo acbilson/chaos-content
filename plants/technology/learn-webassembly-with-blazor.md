@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-17T19:01:16.379390"
-lastmod = "2022-02-24 10:25:51"
+lastmod = "2022-03-30 15:25:34"
 epistemic = "seedling"
 tags = [ "wasm", "blazor", "csharp",]
 title = "Learn WebAssembly With Blazor"
@@ -82,3 +82,9 @@ dotnet package add System.Data.SQLite
 dotnet package add System.Data.SQLite.Core
 dotnet package add System.Data.SQLite.EF6
 {{< /highlight >}}
+
+## Further Resources
+
+- https://github.com/CuriousDrive/BlazingChat
+- https://github.com/JeremyLikness/PlanetaryDocs
+- https://github.com/chrissainty/AuthenticationWithClientSideBlazor

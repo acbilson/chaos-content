@@ -1,7 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-28T14:45:37.486883"
-lastmod = "2022-03-28T14:45:37.486985"
+lastmod = "2022-03-30 15:27:22"
+epistemic = "plant"
+tags = ["planning","future","love","dedication"]
 +++
 Amie, my grandmother and I watched the story of Richard Williams a couple evenings ago and I haven't been able to get my mind off of it.
 
