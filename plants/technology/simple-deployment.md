@@ -1,14 +1,15 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-05 08:52:40"
-lastmod = "2022-05-05 14:52:17"
+lastmod = "2022-05-09 07:39:08"
 epistemic = "sprout"
 tags = ["deployment","ansible","redis","ci/cd","systemd","git"]
 +++
 Inspired by Christian Ştefănescu's brilliant design for a [Tiny CI System](https://www.0chris.com/tiny-ci-system.html) and motivated by the need to redeploy my entire web stack to a cloud server while we move, I've crafted my own minimal deployment system.
+
 ## Step 1: SSH Access
 
-The first leg of the journey is to configure the server so that I can access it via SSH. I'll write down these steps again; for now just Google it.
+The first leg of the journey is to configure the server so that I can access it via SSH. These steps are common knowledge or a simple Google search so I won't reiterate.
 
 ## Step 2: Server Configuration
 
@@ -48,5 +49,5 @@ When the image is built and the service bounced, the script updates the hash set
 
 I have to log into my remote server to check the deployment status. It'd be awesome if I could either:
 
-a) host a lightweight web service that exposes job hash set data from Redis, or
+a) host a lightweight web service that exposes job hash set data from Redis, and/or
 b) get real-time notifications via a service like ntfy.sh
