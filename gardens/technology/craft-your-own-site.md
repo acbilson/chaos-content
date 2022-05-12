@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-01-28 09:06:50"
+lastmod = "2022-05-12 13:14:56"
 narrow = true
 title = "Software Shores"
 [coordinates]
@@ -17,26 +17,58 @@ Web development tools are the most comprehensive and flexible set of Lego blocks
 
 If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref src="/gardens/technology/steps-to-self-hosting" >}}
 
-# Coding Examples
+# Coding Snippets For Your Site
 - {{< backref src="/plants/technology/add-snippets-to-your-text-input" >}}
 - {{< backref src="/plants/technology/display-backlink-preview-on-hover" >}}
 - {{< backref src="/plants/technology/read-webpage-as-api" >}}
 - {{< backref src="/plants/technology/navigate-source-backlinks-in-vim" >}}
 - {{< backref src="/plants/technology/replace-text-across-all-content" >}}
 - {{< backref src="/plants/technology/verify-your-rss-feed" >}}
+- {{< backref src="/plants/technology/write-a-rust-service-dockerfile" >}}
 
-# Build Tool Examples
+# Build Tools And Such
 - {{< backref src="/plants/technology/self-documenting-makefile" >}}
-- {{< backref src="/plants/technology/host-a-webhook-server" >}}
 - {{< backref src="/plants/technology/detect-file-changes-with-entr" >}}
 - {{< backref src="/plants/technology/install-a-friendly-terminal-shell" >}}
 - Automate Tasks With CLI Kung-Fu = {{< outref src="http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" name="CLI Kung Fu" >}}
-- [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
-
-# Tooling Thoughts
-- {{< backref src="/plants/technology/ssg-is-a-developer-tool" >}}
 - Compress Images For Speed and Space - {{< outref src="http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" name="imagemagick" >}}
 - {{< backref src="/plants/technology/create-animations-with-imagemagick" >}}
+- {{< backref src="/plants/technology/favorite-cli-tools" >}}
 
-# Practice Thoughts
+# Deployment Thoughts
+- {{< backref src="/plants/technology/build-your-own-ci-cd-pipeline" >}}
+- {{< backref src="/plants/technology/deploy-nonroot-containers" >}}
+- {{< backref src="/plants/technology/host-a-webhook-server" >}}
+- {{< backref src="/plants/technology/deploy-a-web-service-with-ansible" >}}
+- {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" >}}
+- {{< backref src="/plants/technology/make-your-container-accessible-to-the-public-network" >}}
+- {{< backref src="/plants/technology/shrink-python-dockerfile" >}}
+- {{< backref src="/plants/technology/write-systemd-unit-files" >}}
+- {{< backref src="/plants/technology/connect-peer-containers-with-ssh-keys" >}}
+- [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
+
+# Software Architecture Thoughts
+- {{< backref src="/plants/technology/files-are-loosely-coupled-interfaces" >}}
+- {{< backref src="/plants/technology/use-response-objects" >}}
+- {{< backref src="/plants/technology/render-essential-content-server-side" >}}
+- {{< backref src="/plants/technology/ssg-is-a-developer-tool" >}}
+- {{< backref src="/plants/technology/technology-pendulum-observation" >}}
+- {{< backref src="/plants/technology/use-the-minimum-number-of-machines" >}}
+
+# Practical Development Concerns
 - Reduce Development Friction - {{< outref src="https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" name="Technical Ergonomics" >}}
+- {{< backref src="/plants/technology/debug-a-program-with-strace" >}}
+- {{< backref src="/plants/technology/front-end-development-checklist" >}}
+- {{< backref src="/plants/technology/pick-a-software-language-for-your-project" >}}
+- {{< backref src="/plants/technology/store-secret-text-in-the-cloud" >}}
+- {{< backref src="/plants/technology/set-remote-fish-prompt" >}}
+- {{< backref src="/plants/technology/vscode-tips" >}}
+- {{< backref src="/plants/technology/why-specialize-as-a-software-developer" >}}
+- {{< backref src="/plants/technology/javascript-build-tooling-is-a-mess" >}}
+
+# Miscellaneous
+- {{< backref src="/plants/technology/choosing-a-cms" >}}
+- {{< backref src="/plants/technology/angular-maxims" >}}
+- {{< backref src="/plants/technology/disable-startup-programs" >}}
+- {{< backref src="/plants/technology/visualize-open-source-data" >}}
+- {{< backref src="/plants/technology/learn-webassembly-with-blazor" >}}

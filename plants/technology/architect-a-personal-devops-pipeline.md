@@ -2,7 +2,7 @@
 aliases = ["/gardens/personal-devops"]
 author = "Alex Bilson"
 date = "2021-03-10"
-lastmod = "2022-01-25 10:36:02"
+lastmod = "2022-05-12 13:10:53"
 toc = true
 epistemic = "evergreen"
 +++
@@ -14,9 +14,9 @@ Once I had figured out the {{< backref src="/gardens/technology/steps-to-self-ho
 
 My first project after a working static site was to create a way to continuously publish. The coolest writing tools already have this functionality, so why can't I? My site's content is stored on Github, so it was fairly simple to use Github hooks, a webhook server, and a little client-side JavaScript to accomplish the same workflow. To improve security I ended up writing my own publishing server, but that's another story.
 
-Still amazed that my publishing server works, I discovered this amazing data publishing tool called [datasette](https://github.com/simonw/datasette). Simon's examples got me dreaming of what I might do with a plug-n-play sqlite web interface, and I landed on displaying the daily covid-related deaths in Cook county (see {{< backref src="/plants/technology/data-visualization" >}}).
+Still amazed that my publishing server works, I discovered this amazing data publishing tool called [datasette](https://github.com/simonw/datasette). Simon's examples got me dreaming of what I might do with a plug-n-play sqlite web interface, and I landed on displaying the daily covid-related deaths in Cook county (see {{< backref src="/plants/technology/visualize-open-source-data" >}}).
 
-Somewhere between running my static site and creating a publishing server, I became nervous that all my tinkering would be demolished if my raspberry pi's SD card were corrupted. Time for {{< backref src="/plants/technology/learning-ansible" >}}!
+Somewhere between running my static site and creating a publishing server, I became nervous that all my tinkering would be demolished if my raspberry pi's SD card were corrupted. Time for {{< backref src="/plants/technology/deploy-a-web-service-with-ansible" >}}!
 
 Ansible turned out to be a time-saver. Not only did it give me disaster recovery, it also simplified standardization. For example, when I began to secure my services by running each as a distinct non-root user, the boilerplate user/group setup was simple and replicable via Ansible. It would have been more error prone and annoying if I'd done each service by hand, one at a time.
 

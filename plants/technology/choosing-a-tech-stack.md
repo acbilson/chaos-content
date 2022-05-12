@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-18"
-lastmod = "2022-03-30 15:23:15"
-epistemic = "evergreen"
+lastmod = "2022-05-12 12:30:38"
+epistemic = "plant"
 tags = ["software"]
 +++
 Software projects often get postponed while I decide on the tech stack. What kind of data storage? What programming language? Which framework, if any? My abundant choices sometimes paralyze me from actual building.

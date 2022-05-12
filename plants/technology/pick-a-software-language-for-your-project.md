@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-12 08:25:34"
-lastmod = "2022-05-12 08:56:29"
-epistemic = "seedling"
+lastmod = "2022-05-12 12:23:01"
+epistemic = "plant"
 tags = ["software","design"]
 +++
 I've read many articles from software developers about the value of learning multiple software languages. It may not be for everyone, but that's been a good path for me. I enjoy the challenge of learning new idioms, solving challenges in new ways, and reading the codebases of my favorite tools.
@@ -22,3 +22,5 @@ In container deployments, Golang is one of my favorites for the simple reason th
 For CLIs, Rust wins the day. It's performant, safety-conscious, and has great package and documentation support for this use-case. The new wave of Unix commands-ripgrep, exa, and bat are a few of my favorites-are all written in Rust. There's good support in Python for CLIs, but you'll trade performance for scripting speed. And I don't know why you'd use .NET Core, though you might say that a PowerShell script qualifies (but then I'd have to throw in other shell programs and then we're off on a rabbit trail).
 
 As a web service, Python shines. It has beginner-friendly support for everything you'll need to run a web service, from authentication to database management. Yes, .NET Core is the enterprise pick-I'm not suggesting businesses convert to Flask-but it takes an enterprise's resources to run the suckers. Golang also has good support for web services, but my bias is towards what I've used more frequently. It's helpful in Python that you've got Flask and Django to choose from; Golang doesn't seem to have a de-facto set of web frameworks to run yet and, if you're going to build your service without a framework, why not use Rust?
+
+For previous thoughts on the topic also see {{< backref src="/plants/technology/choosing-a-tech-stack" >}}.

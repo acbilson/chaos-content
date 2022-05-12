@@ -1,8 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-05 08:52:40"
-lastmod = "2022-05-09 07:39:08"
+lastmod = "2022-05-12 13:15:21"
 epistemic = "sprout"
+title = "Build Your Own CI/CD Pipeline"
 tags = ["deployment","ansible","redis","ci/cd","systemd","git"]
 +++
 Inspired by Christian Ştefănescu's brilliant design for a [Tiny CI System](https://www.0chris.com/tiny-ci-system.html) and motivated by the need to redeploy my entire web stack to a cloud server while we move, I've crafted my own minimal deployment system.
