@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-29"
-lastmod = "2021-12-30 10:49:24"
+lastmod = "2022-05-12 13:01:26"
 epistemic = "evergreen"
-tags = ["ansible"]
+tags = ["ansible","systemd"]
 +++
 I’ve been self-hosting my blog for nearly six months, and it’s become such a fun outlet that I want to be sure I could replicate it were something to happen. The source code is easy to store with tools like git, but I’ve felt increasingly uncertain that I’ll remember all my server configurations if I needed to deploy my site to a fresh box. At last, a real-world reason to learn an infrastructure-as-code tool!
 

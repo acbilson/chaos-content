@@ -1,10 +1,10 @@
 +++
+aliases = ["/plants/technology/container-communication"]
 author = "Alex Bilson"
 date = "2020-07-22"
-lastmod = "2022-01-12 15:18:53"
+lastmod = "2022-05-12 13:12:10"
 epistemic = "evergreen"
 tags = ["docker","ssh","architecture","testing"]
-title = "Controller/Client Docker Connection"
 toc = true
 +++
 {{< muted >}}
