@@ -1,10 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-08"
-lastmod = "2021-12-01 14:48:04"
+lastmod = "2022-05-12 13:20:01"
 epistemic = "evergreen"
 tags = ["productivity"]
-title = "Order Your Week"
 +++
 I was recently inspired by Sharon Ello's  <a href="https://coffeetalkcounseling.com/blog/f/quarantine-question-of-the-day---1">Quarantine Question of the Day</a> to update my time budget, and it occurred to me that others might benefit from this tool. Many have lost their daily structure under the executive stay-at-home order and could use a visual aid to wrangle their schedules back into order.
 
