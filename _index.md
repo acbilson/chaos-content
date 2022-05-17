@@ -22,4 +22,4 @@ If you want to see what my family and I are doing, check out my {{< raw >}}<a hr
 
 When you're ready to hire me for a technology consulting project, my {{< raw >}}<a href="{{< ref "/resume" >}}">resumé</a>{{< /raw >}} will give you a taste of what I can offer.
 
-You can reach me via email to acbilson (at) gmail (dot) com.
+You can reach me via email to acbilson (at) ofchaosandorder (dot) com.
