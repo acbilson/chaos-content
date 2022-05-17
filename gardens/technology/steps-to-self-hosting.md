@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-13"
-lastmod = "2022-01-25 11:39:23"
+lastmod = "2022-05-17 15:15:28"
 toc = true
 title = "Self-Hosting Heights"
 [coordinates]
@@ -32,7 +32,9 @@ While I did use NOOBS to get started, I suggest you skip the extra cruft the NOO
 
 Note: my Amazon.com package also came with a handy SD Card adapter so I could plug my SD card directly into a USB port. If you can't access your SD card from your computer, follow the official [setup instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) before you continue.
 
-> before you pull the SD card from your computer, be sure to add an empty file titled 'ssh' to the card. You don't need to put it in any folder. This will enable SSH from square one, which allows you to interact with your new server without plugging in a mouse or keyboard.
+{{< notice >}}
+before you pull the SD card from your computer, be sure to add an empty file titled 'ssh' to the card. You don't need to put it in any folder. This will enable SSH from square one, which allows you to interact with your new server without plugging in a mouse or keyboard.
+{{< /notice >}}
 
 ### Server Accessibility
 
@@ -40,7 +42,9 @@ A server is hardly worth the name unless it's part of a network. Before we make 
 
 I added the server to my LAN by plugging the Raspberry Pi directly into an available ethernet port on my wireless router. The router assigns an IP address to the Raspberry Pi. To retrieve the IP address, log into your router and look for the attached Raspberry Pi under its attached devices. Every router provider is different, but you can figure it out.
 
-> Save yourself some trouble and permanently assign this IP address to your Raspberry Pi. This is called address reservation and was under LAN setup on my router. If you don't, your router may assign the IP address to another device the next time it's allocating addresses.
+{{< notice >}}
+Save yourself some trouble and permanently assign this IP address to your Raspberry Pi. This is called address reservation and was under LAN setup on my router. If you don't, your router may assign the IP address to another device the next time it's allocating addresses.
+{{< /notice >}}
 
 Now let's make our first connection to our server! Make sure it's turned on &#x1F609;.
 
@@ -59,7 +63,9 @@ It would be a shame to run your website only to have it hacked. Or worse. Follow
 
 I recommend you do not proceed until you have configured SSH access to accept only key-based authentication and set a lengthy private key passphrase. Your server, the one on your home network, will be accessible from anywhere in the world; think about it. If you're not familiar with SSH keys, check out the manual [here](https://www.ssh.com/ssh/keygen).
 
-> If you're following my steps, you may not require a firewall installation. A firewall isn't necessary for closed ports and we'll open only what we need.
+{{< notice >}}
+You may not require a firewall installation. A firewall isn't necessary for closed ports and we'll open only what we need.
+{{< /notice >}}
 
 ## Install Server Software
 
@@ -74,7 +80,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install nginx -y
 {{< / highlight >}}
 
-> The first line updates your package registry and upgrades all the installed software packages. You should run this command periodically to keep your server up-to-date with security patches. The second line installs our software, [Nginx](https://www.nginx.com/).
+The first line updates your package registry and upgrades all the installed software packages. You should run this command periodically to keep your server up-to-date with security patches. The second line installs our software, [Nginx](https://www.nginx.com/).
 
 We don't have a website yet, but Nginx comes with a default landing page. Start the server with:
 
@@ -82,7 +88,7 @@ We don't have a website yet, but Nginx comes with a default landing page. Start 
 sudo /etc/init.d/nginx start
 {{< / highlight >}}
 
-> This command launches the Nginx background process on your Raspberry Pi. You can also run similar commands to restart and stop the service.
+This command launches the Nginx background process on your Raspberry Pi. You can also run similar commands to restart and stop the service.
 
 Finally, navigate to the host address from your computer's browser (e.g. `http://192.168.1.2` - change to your Raspberry Pi's IP address). You should see a default landing page. This is where your site will display, but first, we have to create it!
 
@@ -96,13 +102,15 @@ From this point, I'll assume we'll run a static website, but many of these steps
 
 Nginx comes with sensible defaults, but you'll want to make some modifications to host your static site. The smart people at Nginx have already published a helpful article about [hosting static content](https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/) and supply useful [configuration examples](https://www.nginx.com/resources/wiki/start/topics/examples/full/).
 
-> Unless you're already familiar with Debian Linux, Hugo web development and Nginx, at this point you're probably drowning in information. Remember, you haven't exposed anything to the world yet! Rather than get bogged down in detail here, keep moving with defaults and get it working.
+Unless you're already familiar with Debian Linux, Hugo web development and Nginx, at this point you're probably drowning in information. Remember, you haven't exposed anything to the world yet! Rather than get bogged down in detail here, keep moving with defaults and get it working.
 
 ## Go Public!
 
 You've got a working website served on your LAN, now it's time to go public!
 
-> Don't proceed unless you're comfortable with your current security posture. If you're not certain, stop now and review the security documentation for your selected server software, for website dependencies (if any), for Debian Linux, and the Raspberry Pi.
+{{< notice type=warning >}}
+Don't proceed unless you're comfortable with your current security posture. If you're not certain, stop now and review the security documentation for your selected server software, for website dependencies (if any), for Debian Linux, and the Raspberry Pi.
+{{< /notice >}}
 
 ![Olympic Globe, Colorado Springs, CO](https://0urnmg.by.files.1drv.com/y4mYEu2FL8HQ-ifSSpD_d6XiCqTvYmdHD4GNbRG5Gz9Z1ArzZlxemU1X-bqBnnHzc-uZuZvfuR-orEYfAN2iRu9zHac0NAMlMcWcQ3BAqjwW-kn_5IwR-mWCC8O8a05TCUlaiohSQlx84tGFywgCC_wJ-UV9sN-jUlHBob0oedjypvNaaISoHtiMePGFDIEYjnXccxgfo-ZmDx8xzZfvYvDWg?width=768&height=1024&cropmode=none)
 
@@ -120,7 +128,9 @@ Choose a domain name to fit the content of your website. There are several domai
 
 Follow the registrar's instructions to configure an A Record that points to your router's public IP address. You may have to wait for a bit, but in time you can enter your new domain name (e.g. http://thisismycoolsite.com/) and get back the website hosted from your home office!
 
-> If you're familiar with DNS records, you'll notice that for the rest of this post I'll presume you have configured a bare domain name (i.e. no prepended www dot). This is for simplicity; tweak my examples to suit your site's DNS configuration.
+{{< notice >}}
+If you're familiar with DNS records, you'll notice that for the rest of this post I'll presume you have configured a bare domain name (i.e. no prepended www dot). This is for simplicity; tweak my examples to suit your site's DNS configuration.
+{{< /notice >}}
 
 Technically, if your ISP assigns a new IP address to your router, your hostname won't resolve until you've updated the A Record to the new IP address. The AAAA Record allows server software, such as ddclient, to dynamically update the record address. Dynamic configuration not required to continue, and some ISPs recycle addresses so infrequently that manual updates aren't arduous.
 
@@ -128,7 +138,9 @@ Technically, if your ISP assigns a new IP address to your router, your hostname 
 
 You've probably noticed that security is a theme. Your site may not require in-transit encryption today, but why wait until it does? Let's configure your site for {{< acronym HTTPS "Hyper-Text Transfer Protocol, Secure" >}}.
 
-> These notes include more manual steps than you may require. Between ISP restrictions and a lack of registrar support, I had to perform the certificate configuration manually. We'll be using [Let's Encrypt](https://letsencrypt.org/) as our certificate authority.
+{{< notice >}}
+These notes include more manual steps than you may require. Between ISP restrictions and a lack of registrar support, I had to perform the certificate configuration manually. We'll be using <a href="https://letsencrypt.org/">Let's Encrypt</a> as our certificate authority.
+{{< /notice >}}
 
 First, we need to install certbot on our Raspberry Pi. Log in and run the following command:
 
@@ -136,7 +148,7 @@ First, we need to install certbot on our Raspberry Pi. Log in and run the follow
 sudo apt-get install certbot python-certbot-nginx -y
 {{< / highlight >}}
 
-> This installs the certbot software that we'll use to register a certificate and helper software to update our Nginx configuration.
+This installs the certbot software that we'll use to register a certificate and helper software to update our Nginx configuration.
 
 The helper software didn't update my Nginx configuration properly. If this happens to you, see the Nginx docs for [configuring HTTPS servers](https://nginx.org/en/docs/http/configuring_https_servers.html).
 
@@ -155,11 +167,13 @@ Follow the prompts. When you get to a question about adding a DNS TXT record, ad
 &emsp;<acronym title="Time To Live">TTL</acronym>: Automatic
 {{< / raw >}}
 
-> Some registrars require that you append your domain name to the host value. Follow your registrar's instructions for TXT records.
+Some registrars require that you append your domain name to the host value. Follow your registrar's instructions for TXT records.
 
 Finally, you'll need to add a new port forwarding record to your router. HTTPS is port 443.
 
-> To limit your site's attack surface, when you can successfully navigate to your website with HTTPS (e.g. https://thisismycoolsite.com/), remove the port forwarding rule for port 80. All traffic can and should travel over HTTPS port 443.
+{{< notice >}}
+To limit your site's attack surface, when you can successfully navigate to your website with HTTPS (e.g. https://thisismycoolsite.com/), remove the port forwarding rule for port 80. All traffic can and should travel over HTTPS port 443.
+{{< /notice >}}
 
 ## Finalé
 
@@ -171,6 +185,14 @@ With the instructions I've laid out, you should have:
 2. A router configured to forward HTTPS requests to your web server.
 3. A domain name that resolves to your router's public IP address.
 
-> I didn't supply instructions to enable remote SSH. It would only take another port forwarding rule, but do you need to access the server outside of your LAN?
+{{< notice >}}
+I didn't supply instructions to enable remote SSH. It would only take another port forwarding rule, but do you need to access the server outside of your LAN?
+{{< /notice >}}
+
+## So You Want More, Do You?
+
+If you're publishing on the Internet under your own domain at all, well done and welcome! You've accomplished a feat that most never attempt. If that was such fun that you feel disappointed it's over, let me invite you down the rabbit hole.
+
+One of the first annoyances you'll face now that you've got a website to maintain is making updates to it. Depending on the complexity of what you're hosting, and especially if you begin to add web services, you may decide it's time to {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" >}}.
 
 Thanks for reading!

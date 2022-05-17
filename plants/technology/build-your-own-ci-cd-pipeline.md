@@ -1,12 +1,17 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-05 08:52:40"
-lastmod = "2022-05-13 11:00:51"
-epistemic = "sprout"
+lastmod = "2022-05-17 15:06:07"
+toc = true
+epistemic = "evergreen"
 title = "Build Your Own CI/CD Pipeline"
-tags = ["deployment","ansible","redis","ci/cd","systemd","git"]
+tags = ["deployment","ansible","redis","ci/cd","systemd","git","podman"]
 +++
-Inspired by Christian Ştefănescu's brilliant design for a [Tiny CI System](https://www.0chris.com/tiny-ci-system.html) and motivated by the need to redeploy my entire web stack to a cloud server while we move, I've crafted my own minimal deployment system.
+## The Journey Ends
+
+My journey towards a self-hosted devops pipeline began a few years ago with steps to {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" >}}. The system grew into the Podman era when I wrote how to {{< backref src="/plants/technology/host-your-services-with-podman" >}}.
+
+Inspired by Christian Ştefănescu's brilliant design for a [Tiny CI System](https://www.0chris.com/tiny-ci-system.html) and motivated by the need to redeploy my entire web stack to a cloud server while we move, I've crafted my own minimal deployment system that may be the last step in my devops saga for a while.
 
 ## Step 1: SSH Access
 
@@ -14,9 +19,11 @@ The first leg of the journey is to configure the server so that I can access it 
 
 ## Step 2: Server Configuration
 
-Now that I can use SSH I'm able to run my Ansible web/deployment server playbook. This playbook installs common admin programs, installs and configures my Nginx web server, and enables a firewall. It also installs podman, redis, and the glue scripts used for the CI/CD process, and the just cli from source.
+Now that I can use SSH I'm able to run my Ansible web/deployment server playbook. This playbook installs common admin programs, installs and configures my Nginx web server, and enables a firewall. It also installs podman, redis, and the glue scripts used for the CI/CD process.
 
-> shoutout to Steve Owens for Ansible help with [Ansible Git Server Installation](https://opensource.com/article/17/8/ansible-environment-management).
+{{< notice >}}
+Shoutout to Steve Owens for Ansible help with <a href="https://opensource.com/article/17/8/ansible-environment-management">Ansible Git Server Installation</a>.
+{{< /notice >}}
 
 ## Step 3: Chaos Suite Installation
 
@@ -31,18 +38,18 @@ The final step is to configure my local repo to push to the new remote.
 Let's say I'm working on my chaos-micropub service. I've finished a feature and want to deploy it to production, so I ~cut a release branch~ merge it into master. Then I push the changes to my CI/CD-enabled remote.
 
 {{< highlight sh >}}
-	git push pi master
+git push pi master
 {{< /highlight >}}
 
 I get a message back that reads:
 
 {{< notice >}}
-	started job 0d313b1e-cca8-11ec-8c59-67453021b8a9 for chaos-micropub.
+started job 0d313b1e-cca8-11ec-8c59-67453021b8a9 for chaos-micropub.
 {{< /notice >}}
 
-This job was added to a Redis queue with that UUID along with a few hash set values that are relevant to the build: ref, revision, and repo.
+This job was added to a Redis queue along with a few hash set values that are relevant to the build: timestamp, ref, revision, and repo.
 
-A tiny-ci.sh script waits for updates to this queue and takes my job off the top. It gets the hash set values from Redis and starts work by changing to the repo's directory and checking out the revision. It runs a standardized ci-build.sh bash script in the repo that kicks off a Podman build and restarts the systemd service.
+A tiny-ci.sh script waits for updates to this queue and takes my job off the top. It gets the hash set values from Redis, changes to the repo directory and checks out the revision. It runs a standardized ci-build.sh Bash script in the repo that kicks off a Podman build ~and restarts the systemd service~ (see note below).
 
 When the image is built and the service bounced, the script updates the hash set with success and output values.
 
@@ -53,7 +60,7 @@ You can make all of these steps work with root containers, but you'll hit one sn
 SystemD allows user-specific unit files which makes perfect sense to manage user-specific Podman containers. However, there's not presently a way to execute a systemctl command to restart your container from within a script. If you have a line in your bash script that looks like this:
 
 {{< highlight sh >}}
-	systemctl --user restart container-micropub`
+systemctl --user restart container-micropub`
 {{< /highlight >}}
 
 It will fail with a message about XDG_RUNTIME_DIR and DEBUS_SESSION_BUS_ADDRESS.
@@ -64,9 +71,32 @@ From what I have been able to gather, the problem (if you want to call it that) 
 
 So there's no way that I've found to run a user's systemd service except by logging in and doing it myself.
 
-## Future Enhancements
+## Additional Steps For Ease-of-Use
 
-I have to log into my remote server to check the deployment status. It'd be awesome if I could either:
+I initially thought I'll want a web UI to check the status of my builds. I may still; however, I've found a couple shortcuts that work perfectly fine for now. CLI to the rescue!
 
-a) host a lightweight web service that exposes job hash set data from Redis, and/or
-b) get real-time notifications via a service like ntfy.sh
+First, checking the status of the build is a straightforward redis-cli command.
+
+{{< highlight sh >}}
+ssh pi@web redis-cli hgetall c9a00824-d5fa-11ec-b339-27be07fe7dfd
+{{< /highlight >}}
+
+I can copy the Podman image hash from the output for later use. If the build succeeds, I restart the service (which works since it's  my terminal instance).
+
+{{< highlight sh >}}
+ssh pi@web systemctl --user restart container-micropub
+{{< /highlight >}}
+
+And as a sanity check I can verify that the production image matches the my newly minted image hash with a little more CLI Kung-Fu.
+
+{{< highlight sh >}}
+ssh pi@web 'podman inspect webhook | jq .[].Image'
+{{< /highlight >}}
+
+Voila!
+
+## Conclusion
+
+Time and again on the road to a personal devops pipeline I thought it would end with Kubernetes. I had zero experience operating Linux systemd services or running containers outside Dockerland. Now I can write an Ansible role and deploy any number of services, managed by native systemd, isolated in nonroot containers, in less than an hour.
+
+I keep my Ansible deployments public. You may find them on Github [here](https://github.com/acbilson/chaos-deploy).

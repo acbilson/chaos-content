@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-05-12 13:14:56"
+lastmod = "2022-05-17 15:22:38"
 narrow = true
 title = "Software Shores"
 [coordinates]
@@ -15,7 +15,7 @@ This garden is a sprawling mess of sofware development, self-hosting, build tool
 
 Web development tools are the most comprehensive and flexible set of Lego blocks any adult might desire. These are all the fun things I've thought to try recently. Some of them you may find implemented on this site, others are only ideas or proof-of-concepts.
 
-If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref src="/gardens/technology/steps-to-self-hosting" >}}
+If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref src="/gardens/technology/steps-to-self-hosting" >}}.
 
 # Coding Snippets For Your Site
 - {{< backref src="/plants/technology/add-snippets-to-your-text-input" >}}
@@ -43,6 +43,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" >}}
 - {{< backref src="/plants/technology/make-your-container-accessible-to-the-public-network" >}}
 - {{< backref src="/plants/technology/shrink-python-dockerfile" >}}
+- {{< backref src="/plants/technology/host-your-services-with-podman" >}}
 - {{< backref src="/plants/technology/write-systemd-unit-files" >}}
 - {{< backref src="/plants/technology/connect-peer-containers-with-ssh-keys" >}}
 - [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
@@ -56,7 +57,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/use-the-minimum-number-of-machines" >}}
 
 # Practical Development Concerns
-- Reduce Development Friction - {{< outref src="https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/" name="Technical Ergonomics" >}}
+- {{< backref src="/plants/technology/reduce-development-friction" >}}
 - {{< backref src="/plants/technology/debug-a-program-with-strace" >}}
 - {{< backref src="/plants/technology/front-end-development-checklist" >}}
 - {{< backref src="/plants/technology/pick-a-software-language-for-your-project" >}}
