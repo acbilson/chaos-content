@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-20 12:37:04"
-lastmod = "2022-05-20 12:59:23"
+lastmod = "2022-05-20 13:04:16"
 epistemic = "plant"
 tags = ["logs","journalctl","debug"]
 +++
@@ -48,4 +48,6 @@ If you're running nonroot Podman containers, you can still use journalctl. Here'
 journalctl --user -n 1000 --reverse -u container-webhook SYSLOG_IDENTIFIER=podman
 {{< /highlight >}}
 
-That's enough for now!
+## Additional Resources
+
+- [Sematext JournalD Logging Tutorial](https://sematext.com/blog/journald-logging-tutorial/)
