@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-05-17 15:22:38"
+lastmod = "2022-05-20 13:02:11"
 narrow = true
 title = "Software Shores"
 [coordinates]
@@ -44,7 +44,6 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/make-your-container-accessible-to-the-public-network" >}}
 - {{< backref src="/plants/technology/shrink-python-dockerfile" >}}
 - {{< backref src="/plants/technology/host-your-services-with-podman" >}}
-- {{< backref src="/plants/technology/write-systemd-unit-files" >}}
 - {{< backref src="/plants/technology/connect-peer-containers-with-ssh-keys" >}}
 - [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
 
@@ -62,10 +61,14 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/front-end-development-checklist" >}}
 - {{< backref src="/plants/technology/pick-a-software-language-for-your-project" >}}
 - {{< backref src="/plants/technology/store-secret-text-in-the-cloud" >}}
-- {{< backref src="/plants/technology/set-remote-fish-prompt" >}}
 - {{< backref src="/plants/technology/vscode-tips" >}}
 - {{< backref src="/plants/technology/why-specialize-as-a-software-developer" >}}
 - {{< backref src="/plants/technology/javascript-build-tooling-is-a-mess" >}}
+
+# Sysadmin Notes
+- {{< backref src="/plants/technology/read-logs-with-journalctl" >}}
+- {{< backref src="/plants/technology/set-remote-fish-prompt" >}}
+- {{< backref src="/plants/technology/write-systemd-unit-files" >}}
 
 # Miscellaneous
 - {{< backref src="/plants/technology/choosing-a-cms" >}}
