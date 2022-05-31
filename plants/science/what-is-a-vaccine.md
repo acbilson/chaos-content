@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-10"
-lastmod = "2021-12-30 08:05:29"
+lastmod = "2022-05-31 15:27:15"
 epistemic = "sprout"
 tags = ["vaccine","coronavirus","safety"]
 title = "What is a Vaccine?"

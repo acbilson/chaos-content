@@ -2,7 +2,7 @@
 aliases = ["/gardens/bible-discoveries"]
 author = "Alex Bilson"
 date = "2021-07-16"
-lastmod = "2022-01-25 10:34:18"
+lastmod = "2022-05-31 15:22:20"
 epistemic = "plant"
 +++
 TODO: organize this garden into broad categories (bible-meta, imago dei, God, etc.)
@@ -83,3 +83,10 @@ Jesus sees a crippled man. He takes note that this man has been waiting many yea
 ## God rescues individuals who repent, even in the midst of judgment
 
 {{< backref src="/plants/faith/god-favors-mercy-over-judgment" >}}
+
+## Resources
+
+- [How the Bible Thinks](https://engediresourcecenter.com/hebraic/thinking-biblically/)
+- [Lois Tverberg Blog](https://ourrabbijesus.com/blog/page/2/)
+- [Learn Biblical Hebrew](https://www.biblicallanguagecenter.com/live-video-classes-class-times-registration-2/?mc_cid=ebb71efcf2&mc_eid=84ffc98037)
+- [Theopolis Institute](https://theopolisinstitute.com/search/?category=chiasm)
