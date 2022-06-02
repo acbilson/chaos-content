@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-05-20 13:02:11"
+lastmod = "2022-06-02 09:45:18"
 narrow = true
 title = "Software Shores"
 [coordinates]
@@ -25,6 +25,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/replace-text-across-all-content" >}}
 - {{< backref src="/plants/technology/verify-your-rss-feed" >}}
 - {{< backref src="/plants/technology/write-a-rust-service-dockerfile" >}}
+- {{< backref src="/plants/technology/get-published-today-feed" >}}
 
 # Build Tools And Such
 - {{< backref src="/plants/technology/self-documenting-makefile" >}}
