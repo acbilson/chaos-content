@@ -4,7 +4,7 @@ authors = [
 ]
 copyright = "1999"
 date = "2021-12-07"
-page = "234"
+page = "224"
 source = "The Seven Storey Mountain"
 tags = ["truth"]
 +++
