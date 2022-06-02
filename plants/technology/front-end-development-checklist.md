@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-17"
-lastmod = "2022-03-30 15:32:07"
+lastmod = "2022-06-02 14:52:30"
 epistemic = "sprout"
 tags = ["checklist"]
 +++
@@ -25,5 +25,18 @@ In other fields than software development, checklists ensure a series of complex
     <input type=checkbox name=memory />
     <label for=memory>Memory leaks are resolved. Examples include: hanging subscriptions, etc.</label>
   </div>
+  <div>
+    <input type=checkbox name=states />
+    <label for=states>Alternative data states are handled. Alternate user, different institution type, etc.</label>
+  </div>
+  <div>
+    <input type=checkbox name=auth />
+    <label for=auth>Access restricted to only the correct users. Adopt the principle of least privilege.</label>
+  </div>
+  <div>
+    <input type=checkbox name=viewport />
+    <label for=viewport>All views of the site have been accounted. Mobile, print, etc.</label>
+  </div>
+
 </form>
 {{< /raw >}}
