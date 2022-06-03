@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2022-06-03 14:28:32"
+lastmod = "2022-06-03 16:02:40"
 toc = true
 narrow = true
 title = "Design Delta"
@@ -233,3 +233,31 @@ Perhaps this is the reasoning behind epistemics like "certain, hypothesis, wild 
 I also wonder, is this how my site becomes multiple? A single domain, say parenting, might benefit from having a sequestered list of theses. Not gonna do that right now though.
 
 Let's generate a couple gardens as an experiment, {{< backref src="/gardens/faith/disciple-making-theses" >}} and {{< backref src="/gardens/parenting/parenting-theses" >}}.
+
+## Writing a Thesis
+
+Umberto Eco, in _How to Write a Thesis_ (2015), suggests writing a thesis will benefit a person who has completed a doctorate thesis because they will have:
+
+1. Identified a precise topic
+2. Collected documents on that topic
+3. Ordered these documents
+4. Reexamined the topic in light of the documents collected
+5. Organized all this work into an organic form
+6. Ensured that his readers have understood him
+7. Provided the necessary documentation so that readers may reexamine the topic through his sources.
+
+Now, Umberto Eco describes a doctoral process that takes on average three years to complete, so to convert this list into a digital garden would not do justice to his original conception. A quality dissertation exhaustively handles its subject and context, and there's little hope that I will achieve this level of rigor through gradual collection of Internet tidbits; even if I add book clippings.
+
+However, I'm not seeking to demonstrate my research acumen and so can safely choose to take a less-than-exacting approach to my subjects. Neither do I write predominantly to add to the literature of a certain domain, but to digest the subjects most important to me and, possibly, to allow others an entrypoint into the same subjects.
+
+### The Strati of Sofware/Business Knowledge
+
+In my historical context, but a few years after Eco's original 1977 publication, there is a stratified field of knowledge (at least from my tiny observations in business and software architecture - I speak as a fool).
+
+Rigorous study and theses continue to be published in PhD dissertations and by those who conduct research in the fields of software and business. Well, maybe just business; software seems yet in its infancy, though we like to call ourselves "engineers".
+
+At the next stratus are those with sufficient skill to write a book or article series. The best of these are capable of digesting and referencing the relevant research, and these help society by translating sometimes difficult theses into meaning closer to daily life. Sadly, the most common are incapable of citing their sources and draw merely from a few personal stories and annecdotes.
+
+Finally, the lowest stratus consume and regurgitate the works of the middle stratus. They may accidentally align with higher research, but they'd never know it. There is no contribution without at least a tiny bit of originality.
+
+I aspire to the upper crust of the second stratus. I might have excelled in the upper stratus, but I have not invested the monumental time and money required to sit at that table. My ambition forbids me from the lower stratus. So I will do what I can from within the messy middle.
