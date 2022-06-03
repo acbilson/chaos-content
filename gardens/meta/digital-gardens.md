@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2022-01-25 11:35:01"
+lastmod = "2022-06-03 13:43:42"
 toc = true
 narrow = true
 title = "Design Delta"
@@ -12,7 +12,7 @@ title = "Design Delta"
     vertical = false
     bend = -20
 +++
-This is a meta garden; a garden full of ideas, dreams, and sketches for my "digital garden."
+This is a meta garden; a garden full of ideas, dreams, and sketches for my "digital garden" - the site you're on right now.
 
 There's not an official definition for the term, "digital garden," but the best overview of the concept is Maggie Appleton's [History of the Digital Garden](https://maggieappleton.com/garden-history). You might also glean insight into the differences between a digital garden and a blog by reviewing Shawn's [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos/), or by Tom Critchlow's analysis of three forms of digital communication in [Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
@@ -25,7 +25,7 @@ Implementations of the digital garden concept vary widely, but among the most co
 
 ## Content Growth
 
-Digital gardens use the imagery of a garden to explore the maturity level of the garden's content. As a plant can begin a seed, grow into a sprout, and mature to a flower that itself bears seeds, so can an idea or concept that's encapsulated in one's content. This analogy assists content creators to differentiate their work among various classifications, such as its polish, their certainty of its reliability, or the breadth of humanity for which it may be applicable. An exploration into the digital garden must, by this analogy, also delve into the ways that plants arrive in the garden and how they are classified.
+Digital gardens use the imagery of a garden to explore the maturity level of the garden's content. They stand in contrast to a database of completed work (traditional blogs) or a stream of thoughts (social media). As a plant can begin a seed, grow into a sprout, and mature to a flower that itself bears seeds, so can an idea or concept that's encapsulated in one's content. This analogy assists content creators to differentiate their work among various classifications, such as its polish, their certainty of its reliability, or the breadth of humanity for which it may be applicable. An exploration into the digital garden must, by this analogy, also delve into the ways that plants arrive in the garden and how they are classified.
 
 There are two core classifications, fluid and stable. A digital gardener must, even if it's never classified on their site, {{< backref src="/plants/meta/define-fluid-and-stable-content" >}}.
 
@@ -44,8 +44,6 @@ The boats floating in the stream are cohesive units of content. Every person has
 Inclusion does not equate to value. I may write journal entries to share the latest family updates with my family and friends. Just because it's mostly excluded doesn't make it drivel. And some of those updates are raw material for family stories that may be filled out and planted in my garden.
 
 ## A New Site Vision
-
-> These are rough, unorganized notes as I attempt to figure out how this applies to my own website. The best content is above.
 
 I'm tossing around a few tweaks to my own site after exploring the digital garden / digital bay concepts.
 
@@ -162,26 +160,7 @@ This type has no correlative today. It comprises any content, whether it's a quo
 - the only limitation to this one is figuring out how to host the tiddlers separate from the core empty.html file. I'd rather use Git to version control my content.
 - this is resolved, but I'm not convinced this is the best route for me to go.
 
-## Latest
-
-1. Create a TODO list
-2. Enter DG notes
-
-### TODO
-
-- Build a small Flask server to walk the content directory, generating a map of filename => backlinks[] and returning it as a JSON object for Hugo to consume as a [data template](https://gohugo.io/templates/data-templates/). This server will sit alongside the build to feed backlink data into the process so that I don't need to track backlinks, only backrefs
-- Complete gardens data migration
-- Complete plants data migration
-- Adjust micropub to create logs in the correct /year/month folder
-- Adjust micropub to create quips in place of notes
-- Upgrade /gardens SVG to include all gardens
-
-### Nice-to-have
-- Upgrade /gardens SVG with background river and island
-- Create separate TOML [data template](https://gohugo.io/templates/data-templates/) with a map of days and coordinates like 3 => (200, 300). This will be used in the build to place logs/quips at intervals along the river. A second-level JavaScript/CSS transform implementation could be next that moves the ships along a pre-defined SVG path (see commit 2a1a147).
-- Create a separate TOML [data template](https://gohugo.io/templates/data-templates/) with a map of gardens and coordinates like 'business-insights' => (300, 400). The values here may grow to include other features like size, svg id, color, etc. and is a good candidate for inclusion elsewhere. It's possible there needs to be no connection between the data template and the actual files since gardens are more rarely planted than other file types. UPDATE: Tried it on a simple example from the docs, but it didn't work. Huh?
-
-## More Notes
+## Notes to Self
 
 DON'T MIX METAPHORS!!! I'm tempted to create special pages for different gardens; maybe a tower here, a town there, but this leads to confusion. Alternative garden displays, configured in chaos-themes, is okay. Having a special layout for a specific garden is not okay. If I'm going to do that, I may as well make it a separate page entirely.
 
@@ -204,6 +183,72 @@ It may make sense at some future point to separate my site into alexbilson.dev a
 
 Hugo makes gardens of text and links easy, but styles of gardens, esp. with generated content lists and such, require separate content types. I could use front-matter like type = "english-walled" to build specific garden flavors, but the build automation, at least the automation that needs the build context, is not available to the page itself. The front-matter is all that's available from the page. A separate data template can only add complexity to the values available at build, but for entirely different HTML structures it takes a new content type.
 
-# Illustrations
+## Illustrations
 
 Now that I've made a foray into web illustration, Maggie Appleton's list of [Illustration Books & Courses](https://maggieappleton.com/illustration-resources) is my new favorite resource! I may not ever achieve Maggie's expertise, but I'd like to draw simple illustrations and diagrams to explain concepts and to pretty up my garden.
+
+## Towards a Standard Flow
+
+I've encountered a few obstacles now that this vision is _mostly_ realized.
+
+1. There's **a lot** of content. I recently exceeded 400 plants, 250 logs, and 80 stones. I've implemented some navigation options, such as full-text search, a tags/authors page, and plant filters, it remains an overwhelming amount of stuff to review.
+
+2. I've lost track of _why_ I'm doing this. Endless addition or revision of my site is not meaningful in and of itself. I maintain a log for family and posterity which has gotten a lot of positive feedback but the rest of the site is... complicated.
+
+Thanks to Baldur's research in {{< backref src="/plants/writing/note-taking-tools-and-strategies" >}}, I've realized there are a few concepts that were fuzzy to me when I began creating a "digital garden."
+
+### Stuck on Contextualization
+
+I'm stuck on stage #2 of the {{< backref src="/plants/writing/note-taking-process-towards-an-end" name="Note Taking Process" >}}, Contextualize. I've developed Collect habits and I have a willingness to synthesize what I've written into the larger picture, but there's no Map stage. Without a central project to accomplish that gravitates notes into it's orbit, motivation to draw note connections and draft summaries dries up. Much of my recent note-taking has circled around the subject of system administration and automated deployment precisely because I've been working on a project to deploy my site and it services to the Cloud in preparation for our move.
+
+Once I begin to think in terms of writing projects, my motivation juices begin flowing again. I have over 200 business insights but no motivation to do more with them. However, the thought of crafting them into a consulting guidebook intrigues me greatly and might be sufficient reason to review/edit/compile them into something new.
+
+But creating more projects for myself isn't the direction I'd prefer. I've got lists of private project ideas. What intrigues me about this writing roadblock is how I might use this discovery towards formation. I may not have writing projects that I really want to complete, but I do have ways of being in which I'd like to be formed. For example, I want to be:
+
+- a wise and gracious father and husband
+- a trusting and faithful disciple of Jesus
+- an organized and proficient software engineer
+- a welcoming and consistent host
+
+Formation is habit-based over project-based, although I suspect that projects might be tailored to achieve certain formative goals. An arduous work project certainly offers the chance to develop humility and patience.
+
+Habits tend to be helped by journal-like entries and reflection. These fit the stream concept more than the digital garden. But projects could still be selected under these formative goals, like explaining our parenting strategy for conflict resolution. It's fuzzy right now, but the effort to write a guide would spur research and clarify the subject.
+
+### Longing for Social Interaction
+
+The discovery that I'm stuck in the Contextualization stage surfaces another desire - I want more idea interaction with others. This desire is why I created the reminder plant, {{< backref src="/plants/writing/reply-to-others" >}}. Individual posts rarely feel worthy of an email to someone to "look at this and tell me what you think." But if I were working on a thesis, I'd have reason to pull in other voices. "How do humans become more patient?” is a fruitful dialog, “what do you think of my post about types of patience” is not (though such a post may be written in pursuit of the original thesis).
+
+The first barrier to crafting an in-network thesis is fear that it's already been explored. I don't want to redo the work of a recent writer. From the standpoint of adding to human knowledge, redo is waste, but from the standpoint of formation it's more effective to independently research a thesis than to read the summary of another's research. If knowledge is primary, people will assist to be part of a new branch of research. But if formation is primary, people will assist only if they too want to be formed by the thesis subject.
+
+### Solution: Thesis Design
+
+To motivate by offering concrete projects that interest me and to enable the contribution of outside voices, I propose a thesis design approach.
+
+Theses questions are compiled in gardens. Thesis statements are listed in answer to the question, and these are plants. Because the question and the answer are tied, they ought probably to be in the same file?
+
+Theses need an abstract that will display when a link is highlighted to build upon earlier theses. For example, a thesis about spiritual disciplines in DBS may have support from theses on the value of spiritual disciplines and the centrality of DBS. I want to highlight the link and read the abstract to see how it supports my current hypothesis.
+
+Perhaps this is the reasoning behind epistemics like "certain, hypothesis, wild guess" as differentiated from growth? I wonder if that would be more useful than growth or if both should co-exist?
+
+I also wonder, is this how my site becomes multiple? A single domain, say parenting, might benefit from having a sequestered list of theses. Not gonna do that right now though.
+
+#### Parenting Thesis Questions
+
+Where can I review early childhood research to learn if answers or supporting work exists?
+
+- What conflict resolution steps can be integrated into a child’s habits at different stages of childhood development?
+- How do childhood education approaches shape children? What characteristics differ between a public-school-educated child vs. a home-school-educated child?
+- What risk-taking rubric will help our children develop independence without severe threat to their safety?
+- What is our responsibility as parents to inculcate a worldview?
+- What effect would teaching phonetic reading to my children before Kindergarten have on their long-term reading comprehension?
+
+#### DMM Thesis Questions
+
+- How does a leader’s theological education affect the learning of attendees in a Discovery Bible study?
+- What obstacles does a traditional church have to a DBS-only small group model?
+- How does isolation of the DBS model to a church small group model limit its reproduction?
+- In what way can traditional spiritual discipline exercises be learned via DBS?
+
+#### Entrepreneurship Thesis Questions
+
+- What knowledge domains are most lacking among cross-cultural entrepreneurs?
