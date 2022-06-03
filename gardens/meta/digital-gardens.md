@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2022-06-03 13:43:42"
+lastmod = "2022-06-03 14:28:32"
 toc = true
 narrow = true
 title = "Design Delta"
@@ -232,23 +232,4 @@ Perhaps this is the reasoning behind epistemics like "certain, hypothesis, wild 
 
 I also wonder, is this how my site becomes multiple? A single domain, say parenting, might benefit from having a sequestered list of theses. Not gonna do that right now though.
 
-#### Parenting Thesis Questions
-
-Where can I review early childhood research to learn if answers or supporting work exists?
-
-- What conflict resolution steps can be integrated into a child’s habits at different stages of childhood development?
-- How do childhood education approaches shape children? What characteristics differ between a public-school-educated child vs. a home-school-educated child?
-- What risk-taking rubric will help our children develop independence without severe threat to their safety?
-- What is our responsibility as parents to inculcate a worldview?
-- What effect would teaching phonetic reading to my children before Kindergarten have on their long-term reading comprehension?
-
-#### DMM Thesis Questions
-
-- How does a leader’s theological education affect the learning of attendees in a Discovery Bible study?
-- What obstacles does a traditional church have to a DBS-only small group model?
-- How does isolation of the DBS model to a church small group model limit its reproduction?
-- In what way can traditional spiritual discipline exercises be learned via DBS?
-
-#### Entrepreneurship Thesis Questions
-
-- What knowledge domains are most lacking among cross-cultural entrepreneurs?
+Let's generate a couple gardens as an experiment, {{< backref src="/gardens/faith/disciple-making-theses" >}} and {{< backref src="/gardens/parenting/parenting-theses" >}}.
