@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-06-03 14:13:05"
-lastmod = "2022-06-03 14:49:31"
+lastmod = "2022-06-06 15:22:24"
 narrow = true
 title = "Disciple-Making Dale"
 [coordinates]
@@ -13,7 +13,7 @@ title = "Disciple-Making Dale"
 {{< notice >}}
 This is an experiment to try a new organizational form for motivation and collaboration. I'll call it thesis design.
 
-Thesis design begins with a thesis question, then one or more thesis statements will be developed.
+Thesis design begins with a thesis question, then one or more thesis statements will be developed in answer.
 {{< /notice >}}
 
 ## How does a leader’s theological education affect the learning of attendees in a Discovery Bible study?
