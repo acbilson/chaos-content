@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-06-09 10:57:58"
+lastmod = "2022-06-09 11:04:31"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -25,6 +25,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   match="Animals"
   example="These are my sea amimoses."
   origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Banay"
+  term="noun"
+  phonetic="Banǽ"
+  match="Bandaid"
+  example="(points to knee) I wan banay. Banay!"
+  origin="R.A. Bilson"
 >}}
 
 {{< vocab
