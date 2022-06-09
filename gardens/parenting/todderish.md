@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-01-28 09:34:03"
+lastmod = "2022-06-09 10:57:58"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -17,6 +17,15 @@ Todderish, or the language of toddlers, may share words from other tongues, but 
 English-influenced Todderish steals several words. “No,” “mine,” and “more” being some of the most recognizable. Some you may not recognize or may associate with another meaning.
 
 Todderish conjunctions have no matching correlation to the host language. Their meaning is unclear, but the intent is mimicry filler phrases.
+
+{{< vocab
+  word="Amimoses"
+  term="noun"
+  phonetic="amimōses"
+  match="Animals"
+  example="These are my sea amimoses."
+  origin="G.T. Bilson"
+>}}
 
 {{< vocab
   word="Beekie"
@@ -114,6 +123,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   match="Light"
   example="No eitch."
   origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Ganpa"
+  term="noun"
+  phonetic="Gänpa"
+  match="Grandpa"
+  example="Ganpa?"
+  origin="R.A. Bilson"
 >}}
 
 {{< vocab
