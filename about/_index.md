@@ -17,27 +17,29 @@ To see what I've done with code, check out my [Github Page](https://github.com/a
 From the perspective of the Enneagram, my results are a tie between a One (Reformer) and a Five (Investigator). My assessment is that I lean towards a Five. Here's a summary.
 
 {{< raw >}}
-<div style="display: flex; flex-flow: row nowrap; justify-content: space-evenly;">
+<div class="about__enneagram">
   <figure>
-  <img style="width: 200px;" src="/data/gif/enneagram-type-5.gif" />
-  <figcaption>Type 5 - The Investigator</figcaption>
+	  <img src="/data/gif/enneagram-type-5.gif" />
+	  <figcaption>Type 5 - The Investigator</figcaption>
   </figure>
   <figure>
-  <img style="width: 200px;" src="/data/gif/enneagram-type-1.gif" />
-  <figcaption>Type 1 - The Reformer</figcaption>
+	  <img src="/data/gif/enneagram-type-1.gif" />
+	  <figcaption>Type 1 - The Reformer</figcaption>
   </figure>
 </div>
 {{< /raw >}}
 
 ### Type 5 Overview
 
-> Fives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way.
+{{< notice type=quote src="https://www.enneagraminstitute.com/type-5" name="Enneagram Institute" >}}
+Fives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way.
+{{< /notice >}}
 
 ### Type 1 Overview
 
-> Ones are conscientious and ethical, with a strong sense of right and wrong. They are teachers, crusaders, and advocates for change: always striving to improve things, but afraid of making a mistake. Well-organized, orderly, and fastidious, they try to maintain high standards, but can slip into being critical and perfectionistic. They typically have problems with resentment and impatience. At their Best: wise, discerning, realistic, and noble. Can be morally heroic.
-
-<hr />
+{{< notice type=quote src="https://www.enneagraminstitute.com/type-1" name="Enneagram Institute" >}}
+Ones are conscientious and ethical, with a strong sense of right and wrong. They are teachers, crusaders, and advocates for change: always striving to improve things, but afraid of making a mistake. Well-organized, orderly, and fastidious, they try to maintain high standards, but can slip into being critical and perfectionistic. They typically have problems with resentment and impatience. At their Best: wise, discerning, realistic, and noble. Can be morally heroic.
+{{< /notice >}}
 
 Save for being a polyglot, I'm geared to be a modern-day renaissance man. There are few subjects that don't fascinate me; if it were not for time limitations, I'd study everything. Here are a few of the subjects I think about weekly, in alphabetical order:
 
