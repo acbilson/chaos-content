@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-06-09 11:04:31"
+lastmod = "2022-06-28 08:31:44"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -23,8 +23,17 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="noun"
   phonetic="amimōses"
   match="Animals"
-  example="These are my sea amimoses."
+  example="Dese are my sea amimoses."
   origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Bam"
+  term="noun"
+  phonetic="Bäm"
+  match="Graham"
+  example="(who's your brother?) Bam!"
+  origin="R.A. Bilson"
 >}}
 
 {{< vocab
@@ -59,7 +68,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="noun"
   phonetic="bubalīs"
   match="Butterflies"
-  example="look bubba-lies."
+  example="look at the bubba-lies."
   origin="G.T. Bilson"
 >}}
 
@@ -86,7 +95,7 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   term="noun"
   phonetic="kȯkäks"
   match="Chocolate"
-  example="I got cawcox, me!"
+  example="I want cawcox, me!"
   origin="G.T. Bilson"
 >}}
 
@@ -174,6 +183,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="hüs"
   match="Horse, or large dog"
   example="Hoos dere."
+  origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Hopipal"
+  term="noun"
+  phonetic="häpipəl"
+  match="Hospital"
+  example="You got a fever, Mama. Need to go to the hopipal."
   origin="G.T. Bilson"
 >}}
 
@@ -282,6 +300,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="yäk"
   match="To kick, smack"
   example="Yak ball! I no yak de bebe."
+  origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Woil"
+  term="noun"
+  phonetic="wȯi(-ə)l"
+  match="Royal"
+  example="Woil, gimme back my twuck!"
   origin="G.T. Bilson"
 >}}
 
