@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-06-28 08:31:44"
+lastmod = "2022-06-28 08:34:03"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -295,20 +295,20 @@ Todderish conjunctions have no matching correlation to the host language. Their 
 >}}
 
 {{< vocab
-  word="Yawk"
-  term="verb"
-  phonetic="yäk"
-  match="To kick, smack"
-  example="Yak ball! I no yak de bebe."
-  origin="G.T. Bilson"
->}}
-
-{{< vocab
   word="Woil"
   term="noun"
   phonetic="wȯi(-ə)l"
   match="Royal"
   example="Woil, gimme back my twuck!"
+  origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Yawk"
+  term="verb"
+  phonetic="yäk"
+  match="To kick, smack"
+  example="Yak ball! I no yak de bebe."
   origin="G.T. Bilson"
 >}}
 
