@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-09-03"
-lastmod = "2021-12-30 08:05:57"
+lastmod = "2022-07-01 10:31:21"
 epistemic = "sprout"
 tags = ["gif","cli"]
 +++
