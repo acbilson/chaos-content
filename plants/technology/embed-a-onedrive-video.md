@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
-date = "2022-06-09T20:35:50.579819"
-lastmod = "2022-06-09T20:35:50.579851"
+date = "2022-08-10 07:49:26"
+lastmod = "2022-08-10 07:49:53"
+epistemic = "plant"
 +++
-To embed a OneDrive video I must follow these steps:
+To embed a OneDrive video I follow these steps:
 
 ## Step 1: Convert
 

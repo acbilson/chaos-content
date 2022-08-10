@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-08-10 06:45:12"
-lastmod = "2022-08-10 07:36:56"
+lastmod = "2022-08-10 08:07:50"
 epistemic = "evergreen"
 tags = ["travel", "moving"]
 +++
@@ -17,9 +17,13 @@ Overall, the stay at Mt. Olympus Resort in the Wisconsin Dells was a bust. The h
 
 While they spent the day wandering the resort, I was steadily finishing the packing and cleaning. My Uber driver got me to the U-Haul depot early and I waited for them to open at 7:00 a.m. The U-Haul attendant, when she learned I was driving so far, picked out another truck with better tread. Thanks!
 
+{{< video caption="Before all our stuff is gone. There's a funny philosophical reflection towards the end. Graham and Amie think so at least." src="https://onedrive.live.com/download?cid=208B78DFCF965C7A&resid=208B78DFCF965C7A%2132323&authkey=AByiaQqjK3GIW2g" >}}
+
 With the truck secured, next was loading it. Dolly helpers arrived at 9:30 and the four of us hustled to get everything packed by 11:30. I can't recommend Dolly enough, thank you so much!
 
 Another two hours and our condo was clear and clean. All except the television wall mount. Kati Ray drove me to Home Depot to buy the right tool bit (I must have packed it), then brought me back; after a rain deluge.
+
+{{< video caption="And now after everything is out of our condo." src="https://onedrive.live.com/download?cid=208B78DFCF965C7A&resid=208B78DFCF965C7A%2132322&authkey=AGKdSfHjCjOWdLU" >}}
 
 {{< caption caption="Coffee, check. Snacks, check. 21ft U-Haul packed solid with all our earthly belongings, double-check. Ready!" src="https://bn02pap001files.storage.live.com/y4m5EHS2G51kqUZhoDendBIVdCSuonps7Ef8Haqiaf3Xd5ZHDl5FeaAqtEZ-hGxSeNy2pCMp73Q27h-TMCsXwzl4-KRgnzTCGMFugg4E6WJWc1w4bDMt2WaABAUD6IXpiE3dYYzZA55yxXt-SJtxBmP_Mzj3TY41Zm3L4oHklA471CRUkgUSZ-NK6yQ3jVBTGaM?width=768&height=1024&cropmode=none" >}}
 
