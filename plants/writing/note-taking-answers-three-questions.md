@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-06-02T18:07:27.216795"
-lastmod = "2022-06-02 15:32:42"
-epistemic = "plant"
+lastmod = "2022-08-11 08:59:33"
+epistemic = "evergreen"
 tags = ["writing", "note-taking", "telos"]
 +++
 Baldur sees note-taking as answering one of [three questions](https://www.baldurbjarnason.com/2022/the-different-kinds-of-notes/#the-different-kinds-of-notes):
@@ -31,10 +31,12 @@ Baldur sees note-taking as answering one of [three questions](https://www.baldur
 </ol>
 {{< /raw >}}
 
-The note-taking tools one might build are formed by the priorities of each question.
+## Examples
 
-A creative-first note-taking tool favors flexible expression over organization or recall. A blank canvas.
+No single approach will satisfactorily meet all three of these questions, so note-taking tools tend to favor one. For example,
 
-A knowledge-first note-taking tool favors structured recall over flexibility. A database.
+- A creative-first note-taking tool favors flexible expression over organization or recall. A blank canvas.
+- A knowledge-first note-taking tool favors structured recall over flexibility. A database.
+- An understanding-first note-taking tool favors atomicity and relationship over recall or flexibility. A mind map.
 
-An understanding-first note-taking tool favors atomicity and relationship over recall or flexibility. A mind map.
+These categories are helpful both in categorizing the plethora of note-taking tools by their intended purpose. The questions may also serve as a guide to the right tool for a particular project.
