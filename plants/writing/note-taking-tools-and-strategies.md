@@ -1,10 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2022-06-02 11:57:00"
-lastmod = "2022-06-03 11:51:27"
+lastmod = "2022-08-11 09:39:03"
 epistemic = "evergreen"
 tags = ["writing","note-taking","design"]
 +++
+TODO: move to a garden
 A broad review of note-taking strategies for long-form writing was conducted by Baldur Bjarnason in a three-part series as part of his [Colophon Cards](https://www.colophon.cards) project.
 
 Before reading Baldur's excellent research, you should know that {{< backref src="/plants/writing/notes-are-a-means-to-an-end" >}}. Much of note-taking is a form of idea-hoarding, but Baldur's research is sourced from writers who use note-taking **for** something, whether a thesis, a book, or some other project.
