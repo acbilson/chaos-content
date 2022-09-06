@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-08-29 13:36:07"
-lastmod = "2022-08-30 15:01:02"
+lastmod = "2022-09-06 13:50:26"
 epistemic = "evergreen"
 in-reply-to = "https://werd.io/2022/10-things-im-worrying-about-on-the-verge-of-new"
 tags = ["children", "fear", "future"]
@@ -58,11 +58,17 @@ Inside myself I feel a gulf betwixt myself and most others. The distance has gro
 
 Each experience, when I let it, also builds compassion for greater swaths of humanity than I had available before.
 
-Thus it is a paradox: the more I embrace what is true, both the beautiful and the horrific, both in myself and in the world about me, the deeper my compassion. Yet also the the greater my isolation and the desolation from lonely uniqueness.
+Thus it is a paradox: the more I embrace what is true, both the beautiful and the horrific, both in myself and in the world about me, the deeper my compassion. Yet also the greater my isolation and the experience of desolation from lonely uniqueness.
 
-If all this suffering is what it's taken to shape me, will it take any less for them? I am painfully aware that it's the discomforts and difficulties which have stirred my compassion. Therein lies the friction of parenting.
+If all this suffering is what it's taken to shape me, will it take any less for my children? I am painfully aware that it's the discomforts and difficulties which have stirred my compassion.
 
 And this is how I land on the subject of helicopter parenting.
+
+It seems that most helicopter parenting stems from fear. Fear of injury, as the mother who forbids risk-taking and stays close to her toddler at the slightest danger. Later on, fear of one's brand of failure. Parents who control their children's schedule, especially when it's done to ensure the "right" activities, seem to fear their children will not be successful in life, usually financially. Underlying both of these is, I think, a fear that their child will be harmed, and so we try to shield them from what we think is most harmful.
+
+The fear that our children will be harmed affects both helicopter and anti-helicopter parents. The helicopter parents believes, honorably, that they can protect their child from harm through proximity and control. The anti-helicopter parent believes, also honorably, that they can protect their child from harm by allowing small doses of independence and risk-taking in early childhood while the danger is still minimal.
+
+If these things are true, then our parenting style is subsidiary to how we handle our fears. We can tend towards either of these styles with confidence if we're not ruled by fear, but it's doubtful that either approach will serve our children well if it's driven by fear.
 
 ### I want to keep them healthy and happy. That, in itself, is incredibly daunting. What if I hurt them somehow?
 
@@ -82,18 +88,12 @@ Graham's favorites, ordered by time: Little Baby Bum, Stinky & Dirty, Thomas the
 
 I've reserved Gmail accounts for my boys, but not more than that. If they show interest later I may spin up subdomains for each of them. [What Jeff Kaufman's doing is fun](https://www.jefftk.com). Follow the links on his children's names to go to their websites.
 
-
-
-
-### My parents made friends through pre-natal and baby classes - and that’s where a lot of my early friends came from, too. Everything’s online now because of covid. Where are baby-friends supposed to come from?
-
 ### How do we share photos and information with family and friends without compromising on privacy? Social media sites like Instagram and Facebook will be data-mined; email feels insecure because I don’t know who will end up seeing photos and messages. The really private tools and services are too hard to use for a lot of people. What’s the best practice? What does baby infosec look like?
 
+If we were to ask the generation one degree older than our children, I wonder what they would say? I gratefully didn't face the Internet harassment and injustice that more recent generations take for granted.
 
-### More Thoughts
+Information about our children is easy to publish but _very_ hard to remove, so it's best to be conservative. I always ask the same question before I send any picture or video to anyone, by any technology. Would I want my version of this content shown to my spouse, my coworkers, and my friends?
 
-One longing I have had to move towards natural beauty was to find peace in contemplation. To remember again the power and love of God through the trees of the hills and the stars in the sky. My aim is good, but my hopes may be in vain,
+My family receives maybe ten photos/videos of the children a month, mostly by direct text message. A larger audience gets what I post on my website; maybe another five photos, though there's usually some overlap with the ones send via text message. If any family member wants to see more, they'll have to be physically with us to look at our private repository of photos and videos.
 
-{{ /notice type=quote src="Thomas Merton" }}
-Let no one hope to find in contemplation an escape from conflict, from anguish or from doubt. On the contrary, the deep, inexpressible certitude of the contemplative experience awakens a tragic anguish and opens many questions in the depths of the heart like wounds that cannot stop bleeding. For every gain in deep certitude there is a corresponding growth of superficial "doubt."
-{{ /notice }}
+On a more sober vein, auto-generated content has become rampant. Even if we prevent embarrassing photos from escaping onto the Internet, cruel people can still trivially paste our children's faces onto all kinds of repulsive things, even creating semi-realistic fake videos. Just the thought of it makes me want to burn the whole Internet to the ground, but I think the most effective leverage to combat this kind of heinous abuse is legislation. In this current moment, however, a measure of isolation, if not from the danger of attack, at least from the exposure to the attacker's content, is necessary.
