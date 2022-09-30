@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-01-25 10:45:29"
+lastmod = "2022-09-30 14:40:51"
 toc = true
 narrow = true
 title = "Business Bay"
@@ -47,7 +47,6 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 
 ## Entrepreneurial Insights
 
-- {{< backref src="/plants/business/most-software-oppresses-humans" >}}
 - {{< backref src="/plants/business/encompass-complex-thought-with-diagrams" >}}
 - {{< backref src="/plants/entrepreneurship/entrepreneurial-ability-is-more-than-creativity" >}}
 - {{< backref src="/plants/entrepreneurship/felt-needs-are-startup-opportunities" >}}
@@ -132,6 +131,7 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/entrepreneurship/entrepreneurs-will-be-judged-first" >}}
 - {{< backref src="/plants/entrepreneurship/partner-with-a-venture-capital-firm-with-care" >}}
 - {{< backref src="/plants/entrepreneurship/investors-are-partners-long-after-the-contract-is-signed" >}}
+- {{< backref src="/plants/business/corporations-can-oppress-millions" >}}
 
 ## Leadership Insights
 

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-06-02 09:45:18"
+lastmod = "2022-09-30 14:44:58"
 narrow = true
 title = "Software Shores"
 [coordinates]
@@ -28,6 +28,8 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/get-published-today-feed" >}}
 
 # Build Tools And Such
+- {{< backref src="/plants/technology/create-developer-setups-with-tmux-and-justfile" >}}
+- {{< backref src="/plants/technology/save-and-restore-a-tmux-session" >}}
 - {{< backref src="/plants/technology/self-documenting-makefile" >}}
 - {{< backref src="/plants/technology/detect-file-changes-with-entr" >}}
 - {{< backref src="/plants/technology/install-a-friendly-terminal-shell" >}}
@@ -49,6 +51,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
 
 # Software Architecture Thoughts
+- {{< backref src="/plants/technology/embed-web-components-into-static-html" >}}
 - {{< backref src="/plants/technology/files-are-loosely-coupled-interfaces" >}}
 - {{< backref src="/plants/technology/use-response-objects" >}}
 - {{< backref src="/plants/technology/render-essential-content-server-side" >}}
