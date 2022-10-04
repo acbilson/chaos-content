@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2021-09-28T15:14:00"
-lastmod = "2022-01-04 14:19:17"
-epistemic = "sprout"
-tags = ["parable","story","communication"]
+author = "Alex Bilson"
+tags = [ "parable", "story", "communication",]
+epistemic = "plant"
+lastmod = "2022-10-05T21:10:28.277Z"
 +++
 While reading _The Space Traders_ by Derrick Bell it struck me that short stories are the modern world's parables. The genre's are different: parables are bare-bones and have one main point, while short stories can expand beyond a single point and include details which don't develop the message directly.
 

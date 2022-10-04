@@ -1,11 +1,11 @@
 +++
-author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 08:09:09"
-epistemic = "sprout"
-tags = ["communication","feedback","leadership"]
+author = "Alex Bilson"
+tags = [ "communication", "feedback", "leadership",]
+epistemic = "evergreen"
+lastmod = "2022-10-05T22:15:38.205Z"
 +++
-**It's not enough to ask the room what it thinks. A leader must ask individuals.**
+### It's not enough to ask the room what it thinks. A leader must ask individuals.
 
 Imagine you're one of a dozen presidential aids gathered to assist Kennedy in the growing Cuban crisis. You've had a week to consider current events and chart potential results from the available presidential responses. Earlier, in conversation with other aids, you discover the most popular approach is an invasion trained and funded in secret by American forces. You disagree but leave the issue unchallenged, planning to raise your concerns now, when you're all gathered. One after another, the aids argue in favor of an invasion. You listen carefully to their arguments, but when the arguments are exhausted you're still not convinced ({{< cite name=Marquardt loc="pg. 17-18" >}}). What do you do next?
 

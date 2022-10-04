@@ -1,10 +1,10 @@
 +++
-author = "Alex Bilson"
 date = "2022-03-30"
-lastmod = "2022-03-30 15:49:59"
+author = "Alex Bilson"
+tags = [ "software", "vscode",]
 epistemic = "sprout"
-tags = ["software","vscode"]
+lastmod = "2022-10-05T21:21:14.326Z"
 +++
-{{ notice }}
+{{< notice >}}
 Use `CTRL-SHIFT-SPACE` to show constructor arguments while creating a class. Extremely useful when your trying to wire properties to the correct argument.
-{{ /notice }}
+{{< /notice >}}

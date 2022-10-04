@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2022-03-16 12:30:37"
-lastmod = "2022-03-16 13:27:02"
-epistemic = "sprout"
-tags = ["interoperability","file","interface","markdown","api"]
+author = "Alex Bilson"
+tags = [ "interoperability", "file", "interface", "markdown", "api",]
+epistemic = "evergreen"
+lastmod = "2022-10-05T21:37:22.266Z"
 +++
 How does one build an interoperable ecosystem of personal (or communal) applications? Impressed by Linus Lee's [enormous ecosystem](https://github.com/thesephist), I emailed him with my own questions about underlying data structures. He pointed me to an invaluable article by Gordon Brander, [if headers did not exist, it would be necessary to invent them](https://subconscious.substack.com/p/if-headers-did-not-exist-it-would?s=r). Linus summarizes:
 

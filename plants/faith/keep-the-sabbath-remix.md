@@ -1,39 +1,43 @@
 +++
-author = "Alex Bilson"
 date = "2021-06-11T16:27:53"
-lastmod = "2022-03-30 15:38:04"
-epistemic = "sprout"
-tags = ["sabbath","rest"]
+author = "Alex Bilson"
+tags = [ "sabbath", "rest",]
+epistemic = "plant"
+lastmod = "2022-10-05T21:45:02.340Z"
 +++
 The first renewed concept of the Sabbath for the present day came from a sermon I'd heard in Turkey from a pastor in Minnesota. He talked about drinking craft beer and cooking dinner for friends because these things brought him joy and rest. He referred to Isaiah 58:13 and called out that the Sabbath isn't only a rule about not working; it's a delight.
 
-> If you turn back your foot from the Sabbath, from doing your pleasure on my holy day, and **call the Sabbath a delight** and the holy day of the LORD honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly; (_ESV_)
+{{< notice type=quote short=true name="Isaiah 58:13 (ESV)" >}}
+If you turn back your foot from the Sabbath, from doing your pleasure on my holy day, and **call the Sabbath a delight** and the holy day of the LORD honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly;
+{{< /notice >}}
 
 Children have put a sharp edge to our need for one day in seven for rest and delight. We realized with our first that we could easily live in a constant state of emergency. We had an ah-ha moment like Ben describes:
 
-> If something like the Orthodox Sabbath seems impossibly hard, or if you try to keep it but end up breaking it every week - as my Reform Jewish family did - then you should consider that perhaps, despite the propaganda of the palliatives, you are in a permanent state of emergency. (Benquo, [Sabbath as alarm](https://www.lesswrong.com/s/HXkpm9b8o964jbQ89/p/p7hW7E3fHF3PDzErk))
+{{< notice type=quote short=true name="Benquo" src="https://www.lesswrong.com/s/HXkpm9b8o964jbQ89/p/p7hW7E3fHF3PDzErk" >}}
+If something like the Orthodox Sabbath seems impossibly hard, or if you try to keep it but end up breaking it every week - as my Reform Jewish family did - then you should consider that perhaps, despite the propaganda of the palliatives, you are in a permanent state of emergency.
+{{< /notice >}}
 
 We're discovering much about how actions can appear to be restful but are net-negative. I'd like to review Zvi's [hierarchy of the Shabbistic](https://www.lesswrong.com/s/HXkpm9b8o964jbQ89/p/ZoCitBiBv97WEWpX5) to glean more insights and perhaps write some of them here.
 
 ## A Study on the Sabbath
 
-Day 1: God rests. Genesis 2:1-3
-Day 2: God command Sabbath. Exodus 20:8-10; Deuteronomy 5:12-15
-Day 3: Sabbath as a test of trust. Exodus 16:22-30
-Day 4: Sabbath for the land, the poor, the widow/orphan and the sojourner. Exodus 23:10-12; Leviticus 25:1-7; Amos 8:4-6
-Day 5: Elijah's rest. 1 Kings 19:3-8
-Day 6: Sabbath and the LORD's response. Isaiah 58:13-14
-Day 7: Lord of the Sabbath. Matthew 12:1-8
-Day 8: Human care more important than strict observance. Matthew 12:9-14
-Day 9: A final Sabbath joining in the LORD's rest. Psalm 95:1-11; Hebrews 4:4-11 (see also Exodus 33:14)
+- Day 1: God rests. Genesis 2:1-3
+- Day 2: God command Sabbath. Exodus 20:8-10; Deuteronomy 5:12-15
+- Day 3: Sabbath as a test of trust. Exodus 16:22-30
+- Day 4: Sabbath for the land, the poor, the widow/orphan and the sojourner. Exodus 23:10-12; Leviticus 25:1-7; Amos 8:4-6
+- Day 5: Elijah's rest. 1 Kings 19:3-8
+- Day 6: Sabbath and the LORD's response. Isaiah 58:13-14
+- Day 7: Lord of the Sabbath. Matthew 12:1-8
+- Day 8: Human care more important than strict observance. Matthew 12:9-14
+- Day 9: A final Sabbath joining in the LORD's rest. Psalm 95:1-11; Hebrews 4:4-11 (see also Exodus 33:14)
 
-X Sabbath as a sign of Israel's covenant. Exodus 31:12-17
-X Sabbath and the festivals. Leviticus 23:4-8;9-12;15-17;23-25;26-32 - how to apply?
-X Sabbath and forced rest. 2 Chronicles 36:17-21; Jeremiah 17:19-27 (see also Leviticus 26:34-35)
-X Sabbath and the priesthood. Leviticus 24:5-9; Numbers 28:9-10
-X Severity of the Sabbath. Numbers 15:32-36
-X Sabbath and closeness to the LORD. Isaiah 56:1-8
-X Sabbath commitment and failure. Nehemiah 10:30;13:15-22
+- X Sabbath as a sign of Israel's covenant. Exodus 31:12-17
+- X Sabbath and the festivals. Leviticus 23:4-8;9-12;15-17;23-25;26-32 - how to apply?
+- X Sabbath and forced rest. 2 Chronicles 36:17-21; Jeremiah 17:19-27 (see also Leviticus 26:34-35)
+- X Sabbath and the priesthood. Leviticus 24:5-9; Numbers 28:9-10
+- X Severity of the Sabbath. Numbers 15:32-36
+- X Sabbath and closeness to the LORD. Isaiah 56:1-8
+- X Sabbath commitment and failure. Nehemiah 10:30;13:15-22
 
 {{< notice type=quote name="Rabbi Abraham Heschel" >}}
 The sabbath is to time what the temple and tabernacle are to space. The sabbath is a cathedral in time. On the seventh day we experience in time what the tabernacle and temple represented as spaces which is eternal life, God in the complete creation.
