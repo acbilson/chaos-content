@@ -1,13 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-04 13:26:34"
-lastmod = "2022-10-04 15:28:05"
+lastmod = "2022-10-04 15:37:30"
 epistemic = "plant"
 tags = ["solitude","surrender","formation","compassion"]
 +++
 The Desert Fathers and Mothers of the fourth and fifth centuries A.D. exited common Roman society to live in the Egyptian desert. According to Henri Nouwen,
 
-{{< notice type=quote short=true name="Henri Nouwen, The Way of the Heat, pg. 7" >}}
+{{< notice type=quote short=true name="Henri Nouwen, The Way of the Heart, pg. 7" >}}
 They escaped from the sinking ship [of Roman society] and swam for their lives. And the place of salvation is called desert, the place of solitude.
 {{< /notice >}}
 
@@ -28,6 +28,8 @@ Whereas the false self bears the fruit of anger and greed, {{< backref src="/sto
 {{< notice type=quote short=true name="Henri Nouwen, The Way of the Heart, pg. 12. Quoting Thomas Merton, Wisdom of the Desert, pg. 23" >}}
 They knew that they were helpless to do any good for others as long as they floundered about in the wreckage. But once they got a foothold on solid ground, things were different. Then they had not only the power but even the obligation to pull the whole world to safety after them.
 {{< /notice >}}
+
+Elsewhere Nouwen confirms that {{< backref src="/stones/henri-nouwen/confrontation-with-suffering-does-not-lead-to-compassion" >}}. Therefore solitude, not exposure to suffering, is crucial to compassion.
 
 ### Rebuttal
 
