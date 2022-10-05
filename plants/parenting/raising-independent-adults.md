@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2021-06-11T16:04:51"
-lastmod = "2021-11-30 08:02:28"
-epistemic = "sprout"
-tags = ["parenting","independence","interdependence"]
+author = "Alex Bilson"
+tags = [ "parenting", "independence", "interdependence",]
+epistemic = "plant"
+lastmod = "2022-10-05T21:22:24.907Z"
 +++
 Our approach to raising children has closely aligned with the traditional Montessori value for children's independence. We've been shaped by working with Graham's Montessori teachers, by reading Cline and Fay's _Love & Logic_, and by our own desperation to reduce fear and incessant help.
 
@@ -14,4 +14,3 @@ I believe healthy humans are never independent. Instead, a healthy human relies 
 For example, it's necessary for Graham to learn to tie his own shoes. He depends upon us for this task today, but it would be an unsightly dependence if he still needed our help at six years old. However, I don't want him to infer that he should not ask for help if it's something he can accomplish alone.
 
 I want Graham to be an adept at every skill adults need in our society, from shoe-tying to budgeting to conflict resolution, yet wise enough to ask for assistance and humble enough to receive help.
-
