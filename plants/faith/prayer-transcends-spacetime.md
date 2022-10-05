@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2020-08-05T13:21:17+01:00"
-lastmod = "2021-11-30 07:58:37"
-epistemic = "sprout"
-tags = ["prayer", "spacetime"]
+author = "Alex Bilson"
+tags = [ "prayer", "spacetime",]
+epistemic = "plant"
+lastmod = "2022-10-05T21:40:04.640Z"
 +++
 What if it’s true that prayer moves forwards _and_ backwards in time?
 
