@@ -1,11 +1,11 @@
 +++
-author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 15:43:43"
-epistemic = "sprout"
-tags = ["judgment","hypocrisy","repentance"]
+author = "Alex Bilson"
+tags = [ "judgment", "hypocrisy", "repentance",]
+epistemic = "plant"
+lastmod = "2022-10-05T21:46:47.052Z"
 +++
-** The behavior I judge in others exists unnoticed and unrepented of in myself.**
+### The behavior I judge in others usually exists unnoticed and unrepented of in myself.
 
 My judgment of others is aroused when their sin resembles my own. The teenager addicted to heroin draws no judgment from my heart, for I do not share the teen's addiction. But watch how fast ire arises when I see a proud man! His pride is a vivid reminder of my own and, seeing it from outside, his preening attitude not only makes him look foolish, it exposes how ridiculous I appear when I act with pride.
 
