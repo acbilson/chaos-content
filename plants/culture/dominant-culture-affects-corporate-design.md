@@ -2,7 +2,7 @@
 path = "/plants/culture/dominant-culture-affects-corporate-design/"
 tags = [ "culture", "society",]
 epistemic = "seedling"
-lastmod = "2022-10-05T20:13:22.804Z"
+lastmod = "2022-10-05T20:12:47.420Z"
 +++
 **The idea of the corporation is a seed which grows different flowers in diverse soils, and the wise entrepreneur will ask questions and temper expectations accordingly.**
 
@@ -19,3 +19,5 @@ I've read before how a company must encourage cultures to express themselves dif
 ## References
 
 - Micklethwait, John, and Adrian Wooldridge. (2005) _The Company: A Short History of a Revolutionary Idea_. Modern Library. Chapter 4: The Rise of Big Business in America and Chapter 5: The Rise of Big Business in Britain, Germany, and Japan.
+
+Testing a tester
