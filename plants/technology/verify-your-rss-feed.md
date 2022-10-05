@@ -1,10 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2021-07-27T17:04:15"
-lastmod = "2021-12-01 14:48:11"
-epistemic = "sprout"
-tags = ["rss","javascript","snippet"]
-title = "Verify Your RSS Feed"
+author = "Alex Bilson"
+tags = [ "rss", "javascript", "snippet",]
+epistemic = "evergreen"
+lastmod = "2022-10-05T21:36:29.059Z"
 +++
 If you have an RSS feed, you can use this snippet as a starting place to review the output. I'm printing the titles of each RSS item to the console, but go as deep as necessary to ensure the right information ends up in your feed.
 
@@ -25,4 +24,5 @@ fetch('https://my-url-here.com')
 	return Array.from(items).map(item => item.querySelector('title').textContent);
 }).then(titles => console.log(titles));
 {{< /highlight >}}
+
 
