@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2021-06-10T16:41:22"
-lastmod = "2022-01-12 15:37:22"
-epistemic = "sprout"
-tags = ["sacrifice","worship"]
+author = "Alex Bilson"
+tags = [ "sacrifice", "worship",]
+epistemic = "plant"
+lastmod = "2022-10-05T22:23:00.868Z"
 +++
 Many Christians associate the value of a sacrifice with its cost. An act or decision isn't a _real_ sacrifice unless it's painfully costly. But is that how the Bible treats the word?
 
@@ -13,8 +13,6 @@ Sacrifice does relate to cost, but not as its primary meaning. It happens that t
 
 Thomas Merton has a clarifying definition which restores the purpose of sacrifice to its core of worship.
 
-> A sacrifice is an action which is objectively sacred, primarily of a social character, and what is important is no so much the pain or difficulty attached to it as the meaning, the sacred significance which not only conveys an idea but effects a divine and religious transformation in the worshipper, thus consecrating and uniting him more closely to God ("Life in Christ", pg. 167).
-
-### References
-
-- Merton, Thomas. (1961) _New Seeds of Contemplation_. Abbey of Gethsemani, Inc.
+{{< notice type=quote short=true name="Thomas Merton, New Seeds of Contemplation, pg. 167" >}}
+A sacrifice is an action which is objectively sacred, primarily of a social character, and what is important is no so much the pain or difficulty attached to it as the meaning, the sacred significance which not only conveys an idea but effects a divine and religious transformation in the worshipper, thus consecrating and uniting him more closely to God.
+{{< /notice >}}
