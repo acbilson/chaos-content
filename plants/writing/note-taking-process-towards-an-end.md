@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2022-06-02 11:57:00"
-lastmod = "2022-08-11 09:37:18"
-epistemic = "evergreen"
-tags = ["writing","note-taking","design"]
+author = "Alex Bilson"
+tags = [ "writing", "note-taking", "design",]
+epistemic = "seedling"
+lastmod = "2022-10-05T20:39:33.088Z"
 +++
 {{< backref src="/plants/writing/note-taking-answers-three-questions" name="Purpose" >}} is one perspective you might take when researching note-taking and the tools at your disposal. Another is process.
 
@@ -28,4 +28,3 @@ Most note-taking I've seen stops at conceptualize. The concept of a Map of Conte
 ## Self-Assessment
 
 In my system, collection happens via quips. Contextualization is not automated and is handled both by tags, which offer a bucket-style organization, and backlinks, which are hard references between entries. Mapping is a fuzzier concept in my system, but gardens are the closest correlary. My gardens were started after-the-fact as a way to aggregate entries under a common heading. I could also consider starting a garden with the intent of filling it with ideas.
-
