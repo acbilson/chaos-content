@@ -1,9 +1,9 @@
 +++
-author = "Alex Bilson"
 date = "2022-08-08 10:02:58"
-lastmod = "2022-08-08 10:11:48"
-epistemic = "sprout"
-tags = ["design","programming","testing"]
+author = "Alex Bilson"
+tags = [ "design", "programming", "testing",]
+epistemic = "evergreen"
+lastmod = "2022-10-05T21:34:57.897Z"
 +++
 Thanks to Mikel Evins' post [Programming as teaching](https://mikelevins.github.io/posts/2020-02-03-programming-as-teaching/) I realized that my favored programming style is at odds with common practice. I knew something was off from the kinds of conflict I'd have with other developers, but Mikel made the difference stand out to me.
 
