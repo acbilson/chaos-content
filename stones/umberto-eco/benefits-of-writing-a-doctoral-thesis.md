@@ -1,11 +1,14 @@
 +++
-author = "Alex Bilson"
-date = "2022-10-07 10:17:22"
-lastmod = "2022-10-07 10:21:56"
-epistemic = "evergreen"
-tags = ["writing", "thesis","benefits"]
+authors = [
+  "Umberto Eco"
+]
+copyright = "2015"
+date = "2022-10-07"
+page = "22"
+source = "How to Write a Thesis"
+tags = ["writing","thesis","benefits"]
 +++
-Umberto Eco, in _How to Write a Thesis_ (2015, pg 22), suggests writing a thesis will benefit a person who has completed a doctorate thesis because they will have:
+Umberto Eco suggests writing a thesis will benefit a person who has completed a doctorate thesis because they will have:
 
 1. Identified a precise topic
 2. Collected documents on that topic

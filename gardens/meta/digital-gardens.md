@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2022-10-07 10:24:06"
+lastmod = "2022-10-07 10:36:02"
 toc = true
 narrow = true
 title = "Design Delta"
@@ -236,7 +236,7 @@ Let's generate a couple gardens as an experiment, {{< backref src="/gardens/fait
 
 ## Writing a Thesis
 
-Umberto Eco describes {{< backref src="/plants/writing/benefits-of-writing-a-doctoral-thesis" >}}, however, I'm not seeking to demonstrate my research acumen and so can safely choose to take a less-than-exacting approach to my subjects. Neither do I write predominantly to add to the literature of a certain domain, but to digest the subjects most important to me and, possibly, to allow others an entrypoint into the same subjects.
+Umberto Eco describes the {{< backref src="/stones/umberto-eco/benefits-of-writing-a-doctoral-thesis" >}}, however, I'm not seeking to demonstrate my research acumen and so can safely choose to take a less-than-exacting approach to my subjects. Neither do I write predominantly to add to the literature of a certain domain, but to digest the subjects most important to me and, possibly, to allow others an entrypoint into the same subjects.
 
 Now, Umberto Eco describes a doctoral process that takes on average three years to complete, so to convert this list into a digital garden would not do justice to his original conception. A quality dissertation exhaustively handles its subject and context, and there's little hope that I will achieve this level of rigor through gradual collection of Internet tidbits; even if I add book clippings.
 
