@@ -2,9 +2,10 @@
 aliases = ["/gardens/data-visualization"]
 author = "Alex Bilson"
 date = "2020-11-05"
-lastmod = "2022-01-25 10:35:49"
+lastmod = "2022-10-12 15:13:59"
 toc = true
 epistemic = "evergreen"
+tags = ["datasette","cli","diagram","journalism"]
 +++
 {{< raw >}}
 <style>

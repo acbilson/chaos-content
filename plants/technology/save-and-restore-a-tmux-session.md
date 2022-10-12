@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-09-14 08:49:34"
-lastmod = "2022-09-14 08:56:04"
+lastmod = "2022-10-12 14:40:55"
 epistemic = "plant"
-tags = ["tmux","configuration"]
+tags = ["tmux","cli"]
 +++
 As the number of running commands has increased from one to four, I've needed a better way to manage all the running terminals. I've always wanted to give `tmux` a try, and this was the perfect opportunity. But it takes a little time to run all the commands across different Git repositories so that my entire environment is ready for local development. What I needed was a way to save my session, and that's exactly what the `tmux-resurrect` plugin does.
 

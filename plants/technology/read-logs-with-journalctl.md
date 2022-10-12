@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-20 12:37:04"
-lastmod = "2022-05-20 13:04:16"
+lastmod = "2022-10-12 15:10:55"
 epistemic = "plant"
-tags = ["logs","journalctl","debug"]
+tags = ["cli","logs","journalctl","debug"]
 +++
 `journalctl` is one of the best tools I've learned to use often when debugging my set of chaos services running Podman via systemd on my Raspberry Pi. Lots still to learn, but here are a few tidbits.
 

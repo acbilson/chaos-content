@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-06-03 10:40:03"
-lastmod = "2022-06-03 10:57:43"
+lastmod = "2022-10-12 14:45:31"
 epistemic = "plant"
-tags = ["benchmark","cli"]
+tags = ["ab","benchmark","cli"]
 +++
 Time to test your web service with more than a single request? Let's use `ab`!
 

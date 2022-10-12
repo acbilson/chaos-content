@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-09-29 15:06:19"
-lastmod = "2022-09-29 15:21:14"
+lastmod = "2022-10-12 14:40:26"
 epistemic = "plant"
-tags = ["tmux","configuration"]
+tags = ["tmux","cli"]
 +++
 After learning how to {{< backref src="/plants/technology/save-and-restore-a-tmux-session" >}}, I began to wonder if I couldn't leverage tmux for a more project-specific use. To my joyful surprise, that's even simpler than using the plugin.
 

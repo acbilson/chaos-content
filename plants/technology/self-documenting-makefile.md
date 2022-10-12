@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-10-08T21:06:02"
-lastmod = "2021-12-01 14:47:35"
+lastmod = "2022-10-12 14:41:45"
 epistemic = "plant"
-tags = ["makefile","html","testing"]
+tags = ["makefile","cli"]
 +++
 My favorite build tool is `make`. It's ironic that I've written little clang code given that the tool was created to manage building all those C libraries with header and source files. But whenever I see a `Makefile` I get excited.
 
