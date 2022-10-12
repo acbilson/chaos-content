@@ -1,8 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-09-30 14:44:58"
+lastmod = "2022-10-12 15:14:49"
 narrow = true
+toc = true
 title = "Software Shores"
 [coordinates]
     x = 500
@@ -17,66 +18,90 @@ Web development tools are the most comprehensive and flexible set of Lego blocks
 
 If you're just getting started but have enough technical acumen to follow the procedure, I suggest starting with {{< backref src="/gardens/technology/steps-to-self-hosting" >}}.
 
-# Coding Snippets For Your Site
+## Coding Snippets
+
+### JavaScript
+
 - {{< backref src="/plants/technology/add-snippets-to-your-text-input" >}}
 - {{< backref src="/plants/technology/display-backlink-preview-on-hover" >}}
-- {{< backref src="/plants/technology/read-webpage-as-api" >}}
-- {{< backref src="/plants/technology/navigate-source-backlinks-in-vim" >}}
-- {{< backref src="/plants/technology/replace-text-across-all-content" >}}
-- {{< backref src="/plants/technology/verify-your-rss-feed" >}}
-- {{< backref src="/plants/technology/write-a-rust-service-dockerfile" >}}
+- {{< backref src="/plants/technology/embed-web-components-into-static-html" >}}
 - {{< backref src="/plants/technology/get-published-today-feed" >}}
+- {{< backref src="/plants/technology/hide-nodes-by-sum-of-attribute" >}}
+- {{< backref src="/plants/technology/navigate-source-backlinks-in-vim" >}}
+- {{< backref src="/plants/technology/one-subscription-per-resource" >}}
+- {{< backref src="/plants/technology/read-webpage-as-api" >}}
+- {{< backref src="/plants/technology/recurse-tree-nodes" >}}
+- {{< backref src="/plants/technology/replace-text-across-all-content" >}}
+- {{< backref src="/plants/technology/save-unfinished-notes-in-local-storage" >}}
+- {{< backref src="/plants/technology/smart-components-observe-state-over-input" >}}
+- {{< backref src="/plants/technology/store-secret-text-in-the-cloud" >}}
+- {{< backref src="/plants/technology/use-http-response-objects" >}}
+- {{< backref src="/plants/technology/verify-your-rss-feed" >}}
 
-# Build Tools And Such
-- {{< backref src="/plants/technology/create-developer-setups-with-tmux-and-justfile" >}}
+### Dockerfile
+
+- {{< backref src="/plants/technology/write-a-rust-service-dockerfile" >}}
+
+## CLI Tools
+
+- {{< backref src="/plants/technology/benchmark-your-web-service-with-ab" >}}
+- {{< backref src="/plants/technology/create-animations-with-imagemagick" >}}
+- {{< backref src="/plants/technology/debug-a-program-with-strace" >}}
+- {{< backref src="/plants/technology/deploy-a-web-service-with-ansible" >}}
+- {{< backref src="/plants/technology/detect-file-changes-with-entr" >}}
+- {{< backref src="/plants/technology/disable-startup-programs-with-launchctl" >}}
+- {{< backref src="/plants/technology/double-entry-accounting-with-ledger-cli" >}}
+- {{< backref src="/plants/technology/favorite-cli-tools" >}}
+- {{< backref src="/plants/technology/grocery-shopping-with-computer-vision" >}}
+- {{< backref src="/plants/technology/read-logs-with-journalctl" >}}
 - {{< backref src="/plants/technology/save-and-restore-a-tmux-session" >}}
 - {{< backref src="/plants/technology/self-documenting-makefile" >}}
-- {{< backref src="/plants/technology/detect-file-changes-with-entr" >}}
-- {{< backref src="/plants/technology/install-a-friendly-terminal-shell" >}}
-- Automate Tasks With CLI Kung-Fu = {{< outref src="http://blog.commandlinekungfu.com/search?updated-max=2009-03-04T05:00:00-05:00&max-results=7&start=173&by-date=false&m=1" name="CLI Kung Fu" >}}
-- Compress Images For Speed and Space - {{< outref src="http://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/#more-4257" name="imagemagick" >}}
-- {{< backref src="/plants/technology/create-animations-with-imagemagick" >}}
-- {{< backref src="/plants/technology/favorite-cli-tools" >}}
+- {{< backref src="/plants/technology/visualize-open-source-data" >}}
+- {{< backref src="/plants/technology/create-developer-setups-with-tmux-and-justfile" >}}
 
-# Deployment Thoughts
+### Fish Shell
+
+- {{< backref src="/plants/technology/configure-fish-shell-for-python" >}}
+- {{< backref src="/plants/technology/install-a-friendly-terminal-shell" >}}
+- {{< backref src="/plants/technology/set-remote-fish-prompt" >}}
+
+## Deployment
+
+- {{< backref src="/plants/technology/backup-vps-preparations" >}}
 - {{< backref src="/plants/technology/build-your-own-ci-cd-pipeline" >}}
-- {{< backref src="/plants/technology/deploy-nonroot-containers" >}}
 - {{< backref src="/plants/technology/host-a-webhook-server" >}}
 - {{< backref src="/plants/technology/deploy-a-web-service-with-ansible" >}}
+- {{< backref src="/plants/technology/host-your-services-with-podman" >}}
+- {{< backref src="/plants/technology/choose-a-static-site-host" >}}
+
+### Dockerfile
+
+- {{< backref src="/plants/technology/deploy-nonroot-containers" >}}
 - {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" >}}
 - {{< backref src="/plants/technology/make-your-container-accessible-to-the-public-network" >}}
-- {{< backref src="/plants/technology/shrink-python-dockerfile" >}}
-- {{< backref src="/plants/technology/host-your-services-with-podman" >}}
+- {{< backref src="/plants/technology/shrink-your-python-dockerfile" >}}
 - {{< backref src="/plants/technology/connect-peer-containers-with-ssh-keys" >}}
-- [Compare Static Site Hosts](https://kevq.uk/comparing-static-site-hosts-best-host-for-a-static-site)
 
-# Software Architecture Thoughts
-- {{< backref src="/plants/technology/embed-web-components-into-static-html" >}}
+## Software Architecture
+
 - {{< backref src="/plants/technology/files-are-loosely-coupled-interfaces" >}}
-- {{< backref src="/plants/technology/use-response-objects" >}}
 - {{< backref src="/plants/technology/render-essential-content-server-side" >}}
 - {{< backref src="/plants/technology/ssg-is-a-developer-tool" >}}
 - {{< backref src="/plants/technology/technology-pendulum-observation" >}}
 - {{< backref src="/plants/technology/use-the-minimum-number-of-machines" >}}
+- {{< backref src="/plants/technology/write-systemd-unit-files" >}}
 
-# Practical Development Concerns
+## Development Concerns
+
 - {{< backref src="/plants/technology/reduce-development-friction" >}}
-- {{< backref src="/plants/technology/debug-a-program-with-strace" >}}
 - {{< backref src="/plants/technology/front-end-development-checklist" >}}
 - {{< backref src="/plants/technology/pick-a-software-language-for-your-project" >}}
-- {{< backref src="/plants/technology/store-secret-text-in-the-cloud" >}}
 - {{< backref src="/plants/technology/vscode-tips" >}}
 - {{< backref src="/plants/technology/why-specialize-as-a-software-developer" >}}
 - {{< backref src="/plants/technology/javascript-build-tooling-is-a-mess" >}}
 
-# Sysadmin Notes
-- {{< backref src="/plants/technology/read-logs-with-journalctl" >}}
-- {{< backref src="/plants/technology/set-remote-fish-prompt" >}}
-- {{< backref src="/plants/technology/write-systemd-unit-files" >}}
+## Miscellaneous
 
-# Miscellaneous
 - {{< backref src="/plants/technology/choosing-a-cms" >}}
 - {{< backref src="/plants/technology/angular-maxims" >}}
-- {{< backref src="/plants/technology/disable-startup-programs" >}}
-- {{< backref src="/plants/technology/visualize-open-source-data" >}}
 - {{< backref src="/plants/technology/learn-webassembly-with-blazor" >}}

@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-11T20:05:50"
-lastmod = "2021-12-01 14:43:55"
+lastmod = "2022-10-12 14:31:10"
 epistemic = "plant"
-tags = ["snippet","javascript","software"]
+tags = ["snippet","javascript","html"]
 +++
 If you have a textarea where you enter content on a regular basis and want to implement snippets to help with certain constructs, this JavaScript example might be just your style. I may use it in my publishing service so I can easily enter Hugo shortcodes I've developed for my site.
 
