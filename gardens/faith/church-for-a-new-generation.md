@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2022-10-12 15:52:23"
+lastmod = "2022-10-12 15:58:41"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -60,6 +60,16 @@ The most common reaction to the word "evangelism" is discomfort. This can range 
 - {{< backref src="/plants/faith/spiritual-rituals" >}}
 - {{< backref src="/plants/faith/we-find-our-true-selves-via-death" >}}
 - {{< backref src="/plants/faith/what-is-the-daily-office" >}}
+- {{< backref src="/stones/henri-nouwen/confrontation-with-suffering-does-not-lead-to-compassion" >}}
+- {{< backref src="/stones/henri-nouwen/the-great-secret-of-the-spiritual-life-is-that-you-already-know-the-little-steps" >}}
+
+### Solitude
+
+- {{< backref src="/stones/henri-nouwen/dependence-on-worldly-perception-produces-anger-and-greed" >}}
+- {{< backref src="/stones/henri-nouwen/solitude-bears-compassion" >}}
+- {{< backref src="/stones/henri-nouwen/solitude-is-the-furnace-of-transformation" >}}
+- {{< backref src="/stones/henri-nouwen/solitude-exposes-our-false-selves" >}}
+- {{< backref src="/stones/henri-nouwen/solitude-is-the-place-of-conversion" >}}
 
 ### Prayer
 
