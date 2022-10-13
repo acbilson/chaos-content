@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-27T01:09:08+01:00"
-lastmod = "2021-12-01 14:45:57"
+lastmod = "2022-10-13 12:16:31"
 epistemic = "sprout"
 tags = ["remote-work", "overwork"]
 in-reply-to = "https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/"
@@ -18,4 +18,8 @@ My personality leans towards the “don’t bother me, I’m getting \*\*\*\* do
 
 5. Assumptions. This is big. Do you want a fluid lifestyle where all time might be work time? Do you have a dedicated work space? Do you have reliable childcare?
 
+5. Working through sickness. Anne Petersen writes a [persuasive article](https://annehelen.substack.com/p/the-normalization-of-working-through) that remote work has driven people to work even through horrific illness.
+
 Thanks for your [thoughts](https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/) Sean, especially the correlation between American steelworkers and future knowledge workers in point 1.
+
+

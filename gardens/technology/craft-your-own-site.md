@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-10-12 15:14:49"
+lastmod = "2022-10-13 12:22:50"
 narrow = true
 toc = true
 title = "Software Shores"
@@ -90,6 +90,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/technology-pendulum-observation" >}}
 - {{< backref src="/plants/technology/use-the-minimum-number-of-machines" >}}
 - {{< backref src="/plants/technology/write-systemd-unit-files" >}}
+- TODO: read and respond to a few [Arc Notes](https://architecturenotes.co)
 
 ## Development Concerns
 
