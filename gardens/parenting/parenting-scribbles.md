@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-06-03 14:13:05"
-lastmod = "2022-10-12 15:32:51"
+lastmod = "2022-10-13 12:04:45"
 narrow = true
 title = "Parenting Pinnacle"
 [coordinates]
@@ -16,6 +16,7 @@ title = "Parenting Pinnacle"
 - {{< backref src="/plants/parenting/a-parents-relationship-to-sickness" >}}
 - {{< backref src="/plants/parenting/potty-training" >}}
 - {{< backref src="/plants/parenting/the-verge-of-new-parenthood" >}}
+- {{< backref src="/plants/parenting/a-prayer-for-my-children" >}}
 
 ## Advice
 
@@ -24,6 +25,7 @@ title = "Parenting Pinnacle"
 - {{< backref src="/plants/parenting/parent-with-a-plan" >}}
 - {{< backref src="/plants/parenting/child-resources" >}}
 - {{< backref src="/plants/parenting/raising-independent-adults" >}}
+- {{< backref src="/plants/parenting/evidence-based-decisions-reduce-stress" >}}
 
 ## Miscellaneous
 
