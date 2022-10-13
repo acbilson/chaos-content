@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-10T15:54:31"
-lastmod = "2022-10-12 15:07:25"
+lastmod = "2022-10-13 10:05:44"
 epistemic = "sprout"
 tags = ["snippet","python","errors","design"]
 title = "Use HTTP Response Objects"
@@ -44,3 +44,5 @@ function readStuff() {
 {{< /highlight >}}
 
 Consumption of this kind of API is straightforward and reduces the amount of error handling necessary in the front-end code. I don't know that I'd recommend this for writing a library to read data from the file share, but for a web API, absolutely. Thoughts?
+
+If you're using TypeScript like my example above, read on to find that {{< backref src="/conditional-and-union-types-are-better" >}}.
