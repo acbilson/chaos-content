@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-10-13 12:22:50"
+lastmod = "2022-10-14 14:05:14"
 narrow = true
 toc = true
 title = "Software Shores"
@@ -100,6 +100,10 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/vscode-tips" >}}
 - {{< backref src="/plants/technology/why-specialize-as-a-software-developer" >}}
 - {{< backref src="/plants/technology/javascript-build-tooling-is-a-mess" >}}
+
+## Design
+
+- There's a ton of helpful tips and tools about CSS design on this [example](https://buildexcellentwebsit.es).
 
 ## Miscellaneous
 
