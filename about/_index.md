@@ -17,7 +17,7 @@ To see what I've done with code, check out my [Github Page](https://github.com/a
 From the perspective of the Enneagram, my results are a tie between a One (Reformer) and a Five (Investigator). My assessment is that I lean towards a Five. Here's a summary.
 
 {{< raw >}}
-<div class="about__enneagram">
+<div class="spread">
   <figure>
 	  <img src="/data/gif/enneagram-type-5.gif" />
 	  <figcaption>Type 5 - The Investigator</figcaption>

@@ -6,21 +6,19 @@ kind = "page"
 This page is to demonstrate and test styles, from the basic styles to my custom shortcodes. Since I don't use these everywhere, I can go here to figure out how they'll look with style changes and test interactions.
 
 {{< raw >}}
-<article>
+<section class="flow-l">
+<article class="flow-m">
   <h1>Colors</h1>
-
-  <div class="style-circle-container">
-    <div title="background" class="style-circle style-circle-background"></div>
-    <div title="stroke" class="style-circle style-circle-stroke"></div>
-    <div title="headline" class="style-circle style-circle-headline"></div>
-    <div title="paragraph" class="style-circle style-circle-paragraph"></div>
-    <div title="link" class="style-circle style-circle-link"></div>
-  </div>
-
+  <ul class="spread style-circles" role="list">
+    <li title="primary"></li>
+    <li title="secondary"></li>
+    <li title="tertiary"></li>
+    <li title="stroke"></li>
+  </ul>
 </article>
 
-<article>
-  <h1>Text</h1>
+<article class="flow-m">
+  <h1>Heading Text</h1>
 
   <h1>Big Title</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -59,6 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </article>
 
 
+<article class="flow-m">
 {{< /raw >}}
 
 # Shortcodes
@@ -87,10 +86,12 @@ This is a bit of information.
 This is an anonymous quote
 {{< /notice >}}
 
+{{< raw >}}
+</article>
+<article class="flow-m">
+{{< /raw >}}
 
 ## Sections
-
-{{< raw >}}<article>{{< /raw >}}
 
 {{< accordion name=Accordion >}}
 This is the content of my accordion example.
@@ -117,24 +118,19 @@ caption="This is an optional caption for this image. Isn't Royal cute?"
 
 ### Poetry
 
-{{< poetry >}}
+{{< poetry title="Genesis 2:4">}}
   These are the generations
   of the heavens and the earth when they were created,
   in the day that the LORD God made the earth and the heavens.
 {{< /poetry >}}
 
 
-{{< raw >}}</article>{{< /raw >}}
+{{< raw >}}
+</article>
+<article class="flow-m">
+{{< /raw >}}
 
 ## Special
-{{< raw >}}<article>{{< /raw >}}
-
-{{< table
-title="Programming Languages"
-headers="Language|Acumen"
-rows="C#|9^Python|8^JavaScript|8^T-SQL|7^Rust|4"
-examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub|https://github.com/acbilson/chaos-micropub|https://github.com/acbilson/statement_converter^chaos-hugo-theme|https://github.com/acbilson/chaos-theme"
->}}
 
 {{< vocab
   word="Beesh"
@@ -144,5 +140,4 @@ examples="Budget App|https://github.com/acbilson/plaintext-budget^chaos-micropub
   example="Go beesh?"
 >}}
 
-
-{{< raw >}}</article>{{< /raw >}}
+{{< raw >}}</article></section>{{< /raw >}}
