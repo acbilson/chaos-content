@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-01T19:30:13+01:00"
-lastmod = "2021-12-01 14:45:15"
+lastmod = "2022-10-12 14:42:24"
 epistemic = "plant"
-tags = ["cli","devops"]
+tags = ["entr", "cli"]
 +++
  How have I never heard of entr? This amazing CLI makes it possible to run my custom build scripts on file change, just like many of my favorite tools. Thanks for [sharing](https://jvns.ca/blog/2020/06/28/entr/) Julia!
 

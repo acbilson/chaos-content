@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-04-19 07:24:56"
-lastmod = "2022-04-19 07:29:43"
+lastmod = "2022-10-12 14:46:29"
 epistemic = "plant"
-tags = ["macos","cli"]
+tags = ["launchctl","macos","cli"]
 +++
 From time to time on MacOS I end up with a program that decides it's so important that it deserves to open a GUI every time I log in. Annoying. These programs seem to deliberately enjoy keeping their settings out of the normal setup so that I cannot uncheck "Open at Login" in the right-click menu and disable it. But there's a CLI for that.
 

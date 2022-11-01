@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-08"
-lastmod = "2022-10-07 10:36:02"
+lastmod = "2022-10-12 15:22:53"
 toc = true
 narrow = true
 title = "Design Delta"
@@ -231,8 +231,6 @@ Theses need an abstract that will display when a link is highlighted to build up
 Perhaps this is the reasoning behind epistemics like "certain, hypothesis, wild guess" as differentiated from growth? I wonder if that would be more useful than growth or if both should co-exist?
 
 I also wonder, is this how my site becomes multiple? A single domain, say parenting, might benefit from having a sequestered list of theses. Not gonna do that right now though.
-
-Let's generate a couple gardens as an experiment, {{< backref src="/gardens/faith/disciple-making-theses" >}} and {{< backref src="/gardens/parenting/parenting-theses" >}}.
 
 ## Writing a Thesis
 

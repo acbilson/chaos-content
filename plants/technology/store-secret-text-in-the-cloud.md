@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-08"
-lastmod = "2021-12-01 14:47:28"
+lastmod = "2022-10-12 15:10:16"
 epistemic = "evergreen"
-tags = ["security", "cloud"]
+tags = ["gpg", "tar", "snippet", "cli", "security", "cloud"]
 +++
 I was updating my resume the other day when something creepy happened. Dropbox, where my resume sits, showed me an advertisement for resume assistance.
 

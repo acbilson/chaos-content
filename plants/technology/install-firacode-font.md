@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-01-07"
-lastmod = "2022-05-31 15:27:19"
+lastmod = "2022-10-12 14:47:57"
 epistemic = "plant"
-tags = ["font","cli"]
+tags = ["font"]
 +++
 Every once in a while I discover a visual tweak to my software programming work that makes me wonder how I ever lived without it. For example, Victoria's post on [technical ergonomics](https://victoria.dev/blog/technical-ergonomics-for-the-efficient-developer/) is a great source for delightful tools.
 
