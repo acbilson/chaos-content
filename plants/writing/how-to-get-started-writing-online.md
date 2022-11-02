@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-05"
-lastmod = "2022-08-11 08:15:25"
+lastmod = "2022-11-02 10:13:12"
 epistemic = "evergreen"
 tags = ["writing", "consulting"]
 +++
@@ -18,6 +18,8 @@ You might have a few obstacles (I know I did). Here are a few you don't need to 
 - Let the tools handle the distribution. One of the reasons to write in your own digital space is that you can share it anywhere. Tools exist to share automatically, like posting a blurb on Facebook or a link to Twitter. Or both. And if you don't like where it's at today, you can move it tomorrow.
 
 - Don't stress about perfection. Another reason to write in your own digital space is that you can add/delete anything you want, whenever you want.
+
+- You can also look at the {{< backref src="/plants/writing/writing-reminders" >}} I use to keep going.
 
 # Find inspiration
 

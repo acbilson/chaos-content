@@ -1,13 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2022-06-02T18:07:27.216795"
-lastmod = "2022-08-11 09:54:50"
+lastmod = "2022-11-02 10:13:59"
 epistemic = "plant"
 tags = ["writing", "note-taking", "telos"]
 +++
 Notes are a means to an end, or telos. The 'end' might be visualized by either a concrete object or a formative experience.
 
-# Concrete Telos
+## Concrete Telos
 
 Most note-taking is for the purpose of a deliverable. A thesis perhaps, or some other concrete project. Note-taking that has no end in mind lacks a context and is in danger of what Baldur calls "an intimidating database of opaque words and alien ideas" ([The Different Kinds of Notes](https://www.baldurbjarnason.com/2022/the-different-kinds-of-notes/#contextualise)). Without an end, notes lose direction. But a note corpus is invaluable for a project as a way both to collect and understand your work.
 
