@@ -1,6 +1,6 @@
 +++
 Title = "Ship's Log"
-displayInMenu = false
+displayInMenu = true
 kind = "section"
 narrow = true
 +++

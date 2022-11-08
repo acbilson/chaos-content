@@ -1,8 +1,8 @@
 +++
 IsHome = true
+displayInMenu = true
 narrow = true
 kind = "home"
-title = ""
 +++
 {{< raw >}}
 <figure class="portrait">

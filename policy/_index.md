@@ -1,6 +1,6 @@
 +++
 Title = "Policies"
-displayInMenu = false
+displayInMenu = true
 kind = "page"
 narrow = true
 +++

@@ -1,4 +1,4 @@
 +++
-Title = "Network"
+Title = "Quips"
 displayInMenu = true
 +++

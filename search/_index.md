@@ -1,4 +1,4 @@
 +++
-Title = "Search Me!"
-displayInMenu = false
+Title = "Search"
+displayInMenu = true
 +++

@@ -1,4 +1,4 @@
 +++
 Title = "Login"
-displayInMenu = false
+displayInMenu = true
 +++
