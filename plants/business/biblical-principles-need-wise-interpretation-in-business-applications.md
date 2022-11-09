@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-05-27"
-lastmod = "2021-11-30 07:55:15"
-epistemic = "sprout"
+lastmod = "2022-11-09 08:55:22"
+epistemic = "plant"
 tags = ["integration","ethics","morality"]
 +++
 Employees want to receive a fair wage, to work in a safe environment, and to be respected. Employers want their employees to work towards the benefit of the business efficiently and consistently. The dramatic examples where this does not occur only reinforce the rule. Burkett's descriptions, if followed as rigidly as they're written, would not produce the results employees and employers want.
@@ -13,9 +13,9 @@ While the Bible contains wisdom and instruction relevant and valuable for busine
 
 The enforcement of biblical principles that Burkett prescribes would create unnecessary boundaries in a business that already has a sense of ethical responsibility, and would only engender hostility in a company that did not. If his audience is, as I suspect, the Bible Belt, he would do more good to recommend they abandon the title 'Christian' than to suggest they add a veneer of biblical ethics to their failing businesses.
 
-Were I to select literature for the managers of my company to read, I would take pains to ensure 'Business by the Book' never made the list.  If my employees are not convinced we should treat our employees fairly, should pay taxes, or should think ahead then I'm in more trouble than this book can save save me from!
+Were I to select literature for the managers of my company to read, I would take pains to ensure 'Business by the Book' never made the list. If my employees are not convinced we should treat our employees fairly, should pay taxes, or should think ahead then I'm in more trouble than this book can save save me from!
 
-In place of this burdensome book, I will instead maintain a concise description of our vision and character as a company.  These concise bullet points will describe what our business looks like when it's functioning well. When the values are not useful for my employees to settle matters I will re-word or remove them so that they are, but I will not keep adding constraints until there's a 224-page manual for business practices.
+In place of this burdensome book, I will instead maintain a concise description of our vision and character as a company. These concise bullet points will describe what our business looks like when it's functioning well. When the values are not useful for my employees to settle matters I will re-word or remove them so that they are, but I will not keep adding constraints until there's a 224-page manual for business practices.
 
 {{< citation >}}
 Burkett, Larry. (2006) Business by the Book: The Complete Guide of Biblical Principles for the Workplace. Thomas Nelson. 2006

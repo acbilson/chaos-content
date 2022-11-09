@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:24:06"
-epistemic = "sprout"
+lastmod = "2022-11-09 08:53:28"
+epistemic = "evergreen"
 tags = ["balance","process","health"]
 +++
-**The pursuit of balance, not its attainment, builds a healthy life and business.**
-
 Each individual has four core areas they must balance: spirituality, emotions, relationships, and body. Let one decline for any length of time and stress rises. Each influence one another, so that where there is balance in three the lop-sided area is easier to re-center, while the stress and influence of more than one can be life-altering.
 
 Take me for example. When I am listening for God's voice and ingesting his words my emotions find expression in prayer, that I have more to offer others, and my body is less tense. When I am identifying and expressing my emotions I connect deeply with God, am present and vulnerable with others, and have better self-control around food. When my relationships are strong, I am more likely to celebrate God with others, I feel part of a team and community, and... I don't know how this relates to the body. Lastly, if I am exercising and eating well, my heart rises more readily to God, my emotions are steadier, and I have more focus to listen to others.

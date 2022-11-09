@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:26:16"
-epistemic = "sprout"
-tags = ["benefits","hiring"]
+lastmod = "2022-11-09 08:53:48"
+epistemic = "evergreen"
+tags = ["benefits","hiring","retention"]
 +++
-**Benefits attract employees and benefit the business itself.**
-
 When I think of the benefits of a job, the first is pay. A steady income may be the most enticing benefit to workers everywhere. It's the only reason high school students want a job. But a U.S. employer has many optional, and some mandatory, benefits beyond pay. While the employer may feel these benefits are expensive - and a few are demonstrably so - a wise employer will view benefits as a means to attract and quality employees and strengthen their business.
 
 One such benefit is health insurance. After pay, health care is the most expensive benefit to an employer but, since the enactment of the Patient Protection and Affordable Care Act (PPACA), even businesses who forgo this benefit must pay an opt-out fee. Health care encourages employees to seek medical attention early, before conditions require lengthy sick leave. Employees with family are enabled to continue work while their spouse or children are sick because they can afford a doctor's visit. And many capable employees with chronic conditions will be unable to take a job without ongoing health support.

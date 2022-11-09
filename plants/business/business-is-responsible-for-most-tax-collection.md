@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 11:52:44"
-epistemic = "sprout"
-tags = ["taxes"]
+lastmod = "2022-11-09 08:56:05"
+epistemic = "evergreen"
+tags = ["taxes","corporation"]
 +++
-**Businesses are responsible for the bulk of tax collection.**
-
 Many nations use business as the principal means of tax collection. Two reasons exist for this.
 
 First, the effect of most taxation does not depend on who collects it. In economic terms, incidence refers to the impact of taxes on a segment of the economy. Split into "formal" and "effective," the study of incidence seeks to determine who actually pays for taxes. What economists have discovered is that, while the party formally responsible for tax may differ, the effective responsibility rests upon the same economic segment. In the case of income tax, the formal incidence belongs to the employee, but the party who actually calculates and submits the employee's income tax is typically the employee's place of work. This is because, whether the employee or the place of work submits the tax, the effective incidence of that tax always rests upon the employee.

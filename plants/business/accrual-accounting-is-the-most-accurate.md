@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:12:48"
-epistemic = "sprout"
+lastmod = "2022-11-09 08:48:47"
+epistemic = "evergreen"
 tags = ["accounting","accrual"]
 +++
-**Accrual accounting strives to be the most accurate way to record the financial statements of a business.**
-
 Two major types of accounting exist: accrual and cash accounting. One might say there's really only one type, with cash accounting being a simplified version of accrual. Accrual accounting attempts to describe the financial story of a business at every point in time; not only when cash is received or expended, but when assets of all kind are affected. A payment for a future service is simply listed as income in cash accounting; only cash is recognized. Accrual counting recognizes the obligation of the business to supply the paid-for service and does not record income until the obligation has been satisfied. Cash accounting is less accurate because it does not specify that the business has any obligation to fulfill its service, or that it may be required to return the money if the service is not provided.
 
 Small businesses may operate by cash accounting because their financial statements are less complex and cash accounting takes less overhead to maintain. Small businesses may also opt to pay their taxes using the same accounting methodology and therefore keep simpler records for tax purposes. The simplicity of cash accounting reduces the information available to business decision-makers; however, and can muddle the true assets of a business from day-to-day. A photography business woman that operates by cash accounting may read her income statement for the month of April and think, "wow, I'm doing great!" because her cash assets have grown tremendously. She received a large cash increase in July because several people paid in advance for photo shoots in May and July. If she's unwise, she may choose to spend a majority of that money on the assumption that her business is growing. Had she used accrual accounting; however, it would not have been possible to make this error. She would have balanced the increase in cash assets with an equal increase in liabilities and thus had a more true story of her present situation. In reality, her business is obligated for work several weeks in the future and she may not have room for more immediate cash income in that busy season. She will see this reality on her balance sheet and take better care of the not-yet-earned cash assets that have suddenly flooded her bank account.

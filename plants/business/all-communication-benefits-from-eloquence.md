@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-05 14:57:27"
-epistemic = "sprout"
+lastmod = "2022-11-09 08:49:39"
+epistemic = "plant"
 tags = ["entrepreneurship","communication","eloquence"]
 +++
-**All communication benefits from eloquence.**
-
 Although the title suggests sales pitches are the only target, McGowan's book "Pitch Perfect" applies to a wide range of communication types. Presentations and interviews are listed, but so are speeches, business meetings, one-on-one conversations, and Q&A sessions. His seven principles of eloquence shape both impromptu speeches and carefully executed announcements {{< cite name=Mcgowan >}}.
 
 Due to the universal need for eloquence, each principle may be honed any number of ways. From tomorrow's morning stand-up to an answer to your wife's "How was your day?," each one can be intentionally developed no matter one's role. If you become a master at illustrating your entire day in a vivid story, your Scorsese skills will be invaluable to the next business presentation you give.

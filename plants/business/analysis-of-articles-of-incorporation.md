@@ -1,17 +1,17 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:49:08"
-epistemic = "sprout"
-tags = ["corporation","legal","shares"]
+lastmod = "2022-11-09 08:50:17"
+epistemic = "evergeen"
+tags = ["corporation","legal","shares","llc"]
 +++
 This is a comparison of the articles of incorporation for an LLC published by the United States and by India.
 
-### Similarities
+## Similarities
 
 The foremost similarity between the Indian and American articles of incorporation for a limited liability corporation (LLC) is the concept of business members and business managers or directors. Membership in the Indian articles is closely tied to ownership of shares (3.ii), and the American articles also tie membership with business share ownership (2.3). In both cases, membership in the business alone does not grant decision privileges. A separate identity, the manager or director (for simplicity, hereafter referred to as manager), holds decision-making power. Managers are given decision-making authority and also provision for their efforts on behalf of the business. For example, in the Indian articles managers are allowed remuneration for all meetings, including incidental expenses (19). Managers in the American articles are not explicitly given remuneration; however, specific guidelines for meetings ensures that each manager's influence is equally relevant (Article 3). Lastly, both articles include clauses specifying indemnity, the protocol for ending (winding up) the business, and statements about business continuance.
 
-### Differences
+## Differences
 
 The focus of the Indian and American articles of incorporation differs considerably.
 
@@ -19,7 +19,7 @@ The Indian articles focus the entirety of the document on business shares and th
 
 Conversely, the American articles address a variety of concerns. Where the Indian articles center on share value, the American articles center on member rights. Decision authority and operational requirements comprise the bulk of the American articles, such as meeting guidelines, accounting practices and changes in membership. There are no restrictions on business requirements, such as number of members or starting capital.
 
-### Questions
+## Questions
 
 The first question that arises from my review of the Indian articles of incorporation is, "Why incorporate at all?" While incorporation is necessary for business operations in the United States, the paid-up share capital of the Indian articles makes it unlikely that the average proprietor could even afford to incorporate. I would ask about the definition of "minimum paid-up share capital" and the duration this capital must be present in the business' account as it's not clear whether this is necessary at all times or only upon incorporation.
 

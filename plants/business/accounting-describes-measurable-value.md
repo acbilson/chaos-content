@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:09:05"
-epistemic = "sprout"
-tags = ["accounting","value"]
+lastmod = "2022-11-09 08:47:01"
+epistemic = "evergreen"
+tags = ["accounting","value","measurement"]
 +++
-**Accounting describes the measurable value of a business.**
-
 If an asset may be measured reliably, it belongs to Accounting. The dollar amount in the bank is accountable, for it has an exact value at any point in time. Property value is accountable, for the market estimate of its value may be reliably calculated. The right to be reimbursed for services is accountable, for the value of those services may be measured.
 
 There are some assets which cannot be reliably measured and therefore do not belong to Accounting. The future value of employee labor is an asset, but it cannot be reliably measured when any employee may decline to give their labor (translation: leave the business) at any moment. The business' brand is an asset, perhaps one of the most valuable assets, yet it does not belong to Accounting because it cannot be reliably measured.
