@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-09"
-lastmod = "2021-11-30 07:53:42"
-epistemic = "sprout"
+lastmod = "2022-11-09 09:42:45"
+epistemic = "plant"
 tags = ["education","business","service"]
 +++
-**Education is meant to equip leaders to be more valuable servants of others.**
-
 The purpose of education is to equip the student to better serve others.  Whether business or health, science or philosophy, the goal of education is to make the person a more effective servant of others.  A business person learns how to write lean canvases and design validation tests to help guide others towards a profitable business model.  A surgeon learns the human anatomy so he's able to heal the person.  A philosopher thinks deeply about the issues plaguing his society in order to find solutions that will benefit all (Maxwell).
 
 The motivations of business students often doesn't include others.  The fast-track to 'manager', the most common business leadership title, is often through a business degree.  In the military, the people with Bachelor's degrees are officers.  They are addressed as 'sir' and saluted by all enlisted personnel.  In the Pharisee's day it was one's rigorous study of the law that elevated one to a position of leadership.  The best managers, officers, and religious leaders are those who learn much to be of much value to others.

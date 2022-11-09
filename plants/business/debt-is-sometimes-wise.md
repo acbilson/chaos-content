@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-09"
-lastmod = "2021-11-30 07:53:36"
-epistemic = "sprout"
-tags = ["debt"]
+lastmod = "2022-11-09 09:38:51"
+epistemic = "evergreen"
+tags = ["debt","wisdom"]
 +++
-**A business that goes into a measure of debt in order to obtain a competitive advantage is not necessarily rejecting Godly principles.**
-
 Lending money at interest is not inherently abhorrent to God.  For example, Jesus tells a parable about a man who leaves money with his servants while he takes a journey.  When the man returns from his journey, he berates the one servant who hid the money, telling him that he ought to have at least lent the money to the bank so he would receive interest.  Conversely this means borrowing money at interest is not inherently wicked in God's sight.  While there are numerous examples of foolishly borrowing what one cannot hope to repay, the act itself is not evil.  In fact, the ability to borrow above one's current income is one way people may gain traction in a new business.
 
 An entrepreneur that follows the Bible has more options to consider if this is true of God.  There is risk whenever a person takes on debt, and an entrepreneur may forgo debt entirely when starting their business.  However, knowledge that God is not against the act of lending and borrowing at interest grants the entrepreneur the opportunity to grow faster than they would be able to if debt were off the table.  For example, a mechanic may discover a new technology that allows them to inspect the undercarriage of a vehicle for damage without lifting the vehicle and in under 5 minutes.  This would give them a competitive advantage over every other shop.  The only roadblock is, the system costs $30,000 and they make only $5,000 profit after basic family needs.  In the six years it'll take to purchase this system, their competitors may have already put them out of business.  With a loan; however, the mechanic is able to purchase the inspection system immediately, and use the increased profit to pay off the system in under six years.

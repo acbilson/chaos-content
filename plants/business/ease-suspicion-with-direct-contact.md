@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2021-11-30 07:53:41"
-epistemic = "sprout"
+lastmod = "2022-11-09 09:42:28"
+epistemic = "evergreen"
 tags = ["culture","business","trust"]
 +++
-**A personal approach to cross-cultural entrepreneurship will help ease the suspicion of the business in the eyes of the culture.**
-
 Suspicion is a barrier to cross-cultural entrepreneurship.  Many will not trust an outside venture until they hear reports from others in their own culture that it holds value for them.  Even when some benefit from the business venture, interest will often build slowly.  The entrepreneur, knowing acceptance of his business venture will take time, may choose to market his business to the whole population in hope that for some his business venture may be recognized as valuable.  But rather than convince many at once of the value his venture provides them, he may find no one recognizes it as valuable.
 
 When Tochisako began to market the value of MFIC’s remittance services to the local Hispanic population, he first chose newspaper ads - an example of wide marketing strategy.  But when he and his staff spoke face-to-face with Hispanics in their neighborhoods, handing them fliers in their own language (and in Tochisako’s case, also speaking in Spanish), some began to adopt his remittance service. (Isenberg, chapter 2, pg. 50)

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-11"
-lastmod = "2021-11-30 07:52:46"
-epistemic = "plant"
+lastmod = "2022-11-09 09:26:26"
+epistemic = "evergreen"
 tags = ["leadership","management","happiness"]
 +++
 You may have heard the adage, "people leave managers, not businesses." If this is true, what does it mean for your next job? Through a story with two endings, I'll demonstrate that this adage means more about your job hunt than your exit strategy.

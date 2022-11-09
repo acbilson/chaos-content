@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-03"
-lastmod = "2021-11-30 07:53:23"
-epistemic = "sprout"
+lastmod = "2022-11-09 09:31:43"
+epistemic = "evergreen"
 tags = ["entrepreneurship","corporation"]
 +++
-**A corporation is a collection of individuals dedicated to a common profitable goal.**
+**Corporation: a collection of individuals dedicated to a common profitable goal.**
 
 The profitable corporation is relatively new in human history.  The first, East India Company, was notorious both as a new invention and as a powerful entity distinct from the nation state.  With the combined capital and influence of a quarter million people at its peak, it had the political power of a wealthy country.  Its existence started and was maintained by one goal - to profit from controlled trade between India and Europe (The New Internationalist).
 Corporations today have the same features.  They all consist of multiple investors, both owners and employees, who give their time and resources to the pursuit of a common objective with the design to receive more in return than they expend.  Although other goals may exist, there is always a profit motive.
@@ -18,6 +18,7 @@ The fact that the corporation has only existed for approx. 400 years surprises m
 
 The recognition that corporations have been some of the most influential entities in history applies well to the pursuit of entrepreneurship.  An entrepreneur must reckon with the reality that if his venture is successful, it will become a corporation.  The decisions he makes along the way, especially the people he partners with, will impact whether the corporation is ultimately a force for good in his community and nation, or a force for harm.  Therefore he must have, not only the goal of meeting a felt need at profit, but of building a corporation whose goal and existence brings good to the world.
 
-- The New Internationalist. A Short History of Corporations. link: https://newint.org/features/2002/07/05/history
+## References
 
+- The New Internationalist. A Short History of Corporations. link: https://newint.org/features/2002/07/05/history
 - Al Lopata. Establishing a Profit Motive When Starting a New Business Venture. link: http://www.komisarbrady.com/pdf/profit-motive-article.pdf

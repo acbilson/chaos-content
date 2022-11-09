@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-12 15:00:15"
-epistemic = "sprout"
+lastmod = "2022-11-09 09:29:00"
+epistemic = "evergreen"
 tags = ["contract","integrity","promise"]
 +++
-**Entrepreneurial Insight:** If an agreement could sink your business, get it in writing.
-
 If accounting is the life blood of business, contracts are the arteries. Contracts, whether oral or written, bind parties by agreements through which assets flow. There are vena cava contracts which supply the business with its essential funds, such as a property loan to a restaurant. Others are minor capillary contracts which perform limited support, such as an oral contract to sell a sofa at a 5% discount if it's paid in cash.
 
 The nearer a contract gets to the heart of a business, the more critical it becomes to certify the agreement in case of a dispute. A disagreement about the discount percentage on a sofa won't bankrupt your business, but an interest rate spike on your property loan might.

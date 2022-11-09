@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-12 15:41:53"
-epistemic = "sprout"
+lastmod = "2022-11-09 09:33:58"
+epistemic = "evergreen"
 tags = ["entrepreneurship","globalization","strategy","sales"]
 +++
-**Entrepreneurs must embrace the influence of the Internet and easy access via smartphones if they're to survive and sell to 21st-century customers.**
-
 One of the chief suspicions aroused in a customer when he's sold to is, "What do they know that I don't?"  If the item is a bargain, it must have a defect.  If it's more costly, the seller's trying to rip him off.  With greater complexity and a higher cost comes higher suspicion.  A car sale is more suspicious than a rummage sale.  Companies have adopted ways to encourage customers to take the risk by offering money-back guarantees, warranties, and test drives, and.  The seller has always had the knowledge advantage, but that's changing.
 
 Companies like CarMax have discovered customers engage with more information about their product (used vehicles) than ever before {{< cite name=Pink loc="pg. 59" >}}.  They know if a car has been in an accident, they know what the going price is, how much wear-and-tear it ought to have, the common defects, and a host of other items which before they risked discovering after they've driven off with the car.  Most people can identify with the knot of fear as they drive away with a used vehicle, their imagination whirling various worst-case scenarios and the snicker of the salesman.  CarMax has embraced the shared knowledge by expecting and offering it freely in their offices.  Their posture is to partner with the customer to find the right car, and they modify their sales strategy to accommodate this new method by supplying both their customers and their employees a different experience.

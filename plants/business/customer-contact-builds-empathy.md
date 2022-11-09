@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 09:55:54"
-epistemic = "sprout"
+lastmod = "2022-11-09 09:32:56"
+epistemic = "evergreen"
 tags = ["customer","empathy"]
 +++
-**Customer contact builds empathy at every level of an organization.**
-
 To be efficient, company's specialize the work their employees accomplish. Customer Service Representatives speak to clients all day long, they don't organize financial reports or manage people. Likewise, those who manage Service Representatives aren't likely to interact with a customer unless a problem arises. One step above them and customer interaction has been removed entirely - they are entirely isolated from the customers they serve.
 
 The same happens on the product side of business. Software developers are buffered from interaction with customers so they can more efficiently finish their piece of code. If there is a position that interacts with customers at all it's usually reserved to a single person such as a Product Manager. This creates a bottleneck for customer feedback; everyone assumes the Product Manager knows what the customers want, and the Product Manager doesn't speak with the Customer Service Representatives.
