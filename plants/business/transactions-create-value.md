@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-05"
-lastmod = "2021-11-30 07:55:04"
-epistemic = "sprout"
-tags = ["transaction","wealth"]
+lastmod = "2022-11-09 14:32:32"
+epistemic = "evergreen"
+tags = ["transaction","wealth","value"]
 +++
-**The transaction of buying and selling creates value beyond the sum of its parts.**
-
 When a tailor makes a hand-made dress, she spends time and effort to make it special.  The cost of the materials added to the cost of her time and expertise determine what the value of the dress is.  Prior to the tailor's labor, there were only raw materials, able to be sold at the same value as they were purchased.  Yet the price she sells the dress for reflects not only the sum of the materials and labor that went into it, but also a margin for profit.  Where does this margin come from?  It is because what has been created is more than the sum of its parts, new value has been generated that did not previously exist.  More value has been added to the world!
 
 The value that is in the world is constantly increasing.  From the first business transaction to the last, the labor of each person in business has added value for all.  This is an incredible thought, that our labor does not merely transform raw materials into finished goods, but actually _increases_ the value that is in the world!  If it were not for the interaction of humans in buying and selling, the place where we evaluate a good or service in terms greater than the cost of its parts, our work would never truly add value to the world.  It would only convert raw materials into other things.  But the interaction that occurs between parties _creates_ value that wasn't there before.  Amazing!

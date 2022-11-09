@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:27:08"
-epistemic = "sprout"
+lastmod = "2022-11-09 14:34:54"
+epistemic = "plant"
 tags = ["innovation"]
 +++
-**Innovation must be encouraged at the uppermost levels of leadership (but not commanded) for it to happen among those who interact with the customer and product.**
-
 Opportunities to simplify communication and processes are most prevalent at the base of a company where the product is made and client interactions occur. The people best equipped to innovate with customers are also at this level, since they are the most familiar with the current processes and can elicit direct feedback from customers about changes they have made or intend to make. Nevertheless, an inverse relationship often happens in a company: the top leaders are the most innovative and the lowest managers are the least. Etzkorn and Siegel's research has found that "among executives and managers, the lower the position in the company, the higher resistance to innovation ({{< cite name=Siegel loc="pg. 158" >}})." Why is that?
 
 I propose it's the inverse power relationship present in most organizations that perpetuates the absence of innovation at the lowest ranks. Middle managers feel they must justify every change to their superiors and often settle into a rhythm which causes the least friction. In the rare event change does take place it's the result of the top leadership's directive and is therefore unquestioned. Thus, the people most connected to innovation opportunities are shut down while those least connected are able to enact changes unchallenged.

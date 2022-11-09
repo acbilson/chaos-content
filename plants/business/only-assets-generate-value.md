@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:07:48"
-epistemic = "sprout"
+lastmod = "2022-11-09 14:47:59"
+epistemic = "evergreen"
 tags = ["value","assets","balance-sheet"]
 +++
-**Assets are valuable, while liabilities and equity are only concepts.**
-
 The structure of accounting around the world rests upon five fundamental categories: assets, liabilities, equity, income, and expense. Every possible financial iteration may be represented by a transfer from one of these categories to another. Take out a $10,000 loan? Your assets increase by $10,000, and your liability to the bank increases by the same amount. Pay $1,000 off the loan? Your liabilities decrease to $9,000 and your equity grows by the same amount. In each of these transactions, the only valuable item is the cash; the asset. Equity is a calculation of the owner's share of the assets, and liability is, in this case, the bank's share of the assets, but only the assets represent a real value. If you fail to pay off your debt to the bank, the bank doesn't go after your equity, it goes after the cash. While it's possible for assets to be intangible, the right to use a service for example, it is the only one of the five categories that can represent something tangible and can create value.
 
 Assets are the most important category in a business' financial story, because assets represent the ability of that business to generate value. Without assets, the business cannot possess or create value. While the concept of equity is important for the business owner; after all, equity represents what the owner walks away with if the business closes, it is an intangible concept to the business itself. For the business, all that matters are assets. In fact, one could say that, for the owner, all that matters are assets as well, since the business equity translates exactly into owner asset. For this reason, a business that wishes to grow has one measure; the growth of its assets. The greater the assets, the greater the value potential of the business.

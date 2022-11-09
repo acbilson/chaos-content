@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-08"
-lastmod = "2022-05-12 13:20:01"
+lastmod = "2022-11-09 14:28:53"
 epistemic = "evergreen"
 tags = ["productivity"]
 +++
-I was recently inspired by Sharon Ello's  <a href="https://coffeetalkcounseling.com/blog/f/quarantine-question-of-the-day---1">Quarantine Question of the Day</a> to update my time budget, and it occurred to me that others might benefit from this tool. Many have lost their daily structure under the executive stay-at-home order and could use a visual aid to wrangle their schedules back into order.
+I was recently inspired by Sharon Ello's <a href="https://coffeetalkcounseling.com/blog/f/quarantine-question-of-the-day---1">Quarantine Question of the Day</a> to update my time budget, and it occurred to me that others might benefit from this tool. Many have lost their daily structure under the executive stay-at-home order and could use a visual aid to wrangle their schedules back into order.
 
 I have many priorities to cram into a week. It happens that, if I don't plan chunks of time to meet these priorities, the quietest priorities are pushed out by the loudest. I find that a time budget, a tool I've been using for years, gives me a helpful visual of my day so that I can make space for every priority.
 

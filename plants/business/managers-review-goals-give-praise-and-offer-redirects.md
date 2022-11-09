@@ -1,12 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:43:09"
-epistemic = "sprout"
+lastmod = "2022-11-09 14:50:21"
+epistemic = "evergreen"
 tags = ["goals","praise","direction"]
+title = "Managers Review Goals, Give Praise, and Offer Redirects"
 +++
-**Three one-minute activities form the core of an effective manager's daily activity, goals, praises, and re-directs.**
-
 Think of traditional management. What comes to mind? Perhaps you remember the person in your company who tells you what to do next. Or a performance review given to you by a previous manager that outlined every mistake you made that year? Or the time you made a mistake and the manager's angry response? Is this the role of a manager, to tell employees what to do, to let them know how poorly they did it, and to punish them for mistakes? Didn't you wish that you had a manager who cared about you?
 
 Again, what comes to mind if you employed a manager to supervise employees at your business? Do you expect them to tally metrics while your employees decide on their own what they should be doing? Will you be content if the manager tells his employees only good news? What if the manager strengthens your least productive employees to continue working the minimum amount? Wouldn't you wish you had a manager who cared about results?

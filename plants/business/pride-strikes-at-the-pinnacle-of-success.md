@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:39:21"
-epistemic = "sprout"
+lastmod = "2022-11-09 14:37:22"
+epistemic = "evergreen"
 tags = ["pride","success","humility"]
 +++
-**Pride strikes at the pinnacle of success.**
-
 If pride were a snake, it would live on the mountaintop. When you receive a generous promotion, make a major sale, garner work accolades for a critical project; these are times when pride comes near to kill. There's little time to bask in one's self-sufficiency on the climb up. Pitfalls hide on both sides, the peak is still distant, the possibility of success tentative. At the exhilarating finish, the temptation to rely on yourself and to boast in your achievement is high, and there is little protection from your environment.
 
 Mark describes three events in Jesus' life that caused him to leave everyone to pray by himself. First, Mark records that he left before dawn to pray after a full day of healing the sick and casting out demons in Capernaum (_ESV_, Mark 1:35). Second, Mark tells us that Jesus sent away his disciples and the crowd to pray after multiplying the fishes and loaves to feed five thousand (_ESV_, Mark 6:46). Lastly, Mark writes that Jesus fell to the ground by himself to pray in the garden of Gethsemane before his betrayal took place (_ESV_, Mark 14:35). Luke writes about Jesus' practice of departing to pray as a regular occurrence (_ESV_, Luke 5:16).

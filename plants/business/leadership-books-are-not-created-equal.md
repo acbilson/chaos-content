@@ -1,14 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-12 15:04:28"
-epistemic = "sprout"
-tags = ["leadership","knowledge"]
+lastmod = "2022-11-09 14:53:30"
+epistemic = "plant"
+tags = ["leadership","knowledge","critique"]
 +++
-**Not all leadership books supply what they promise.**
-OR
-REJECT: Leadership 2.0
-
 Bradberry and Greaves' leadership book promises "a new way to understand great leadership and an innovative method for any leader to become great (loc. 66)." What it supplies is a research compendium of distinct, pithy paragraphs and examples of the positive and negative feedback from which the paragraphs were drawn. Perhaps in an attempt to validate the research effort expended, the authors resort to detached, directive explanations and tacked-on snippets of feedback stripped of context. Wanting detailed leadership examples, the book strives to categorize every possible leadership quality in their research in hope that the reader will patiently filter their lists to find qualities in which to grow. To their credit, the authors do at least offer a systematized way to isolate strengths and weaknesses via an online test which, if taken, would at least allow their readers to skip large portions of their book. How an online test qualifies as "an innovative method" or a bullet-point list of qualities "a new way to understand" I do not know.
 
 Above every other type of literature, business writers excel at the generation of "innovative" and "life-changing" remarks. The writer's blind confidence in ever-new tradition is often exposed in the parroting of other's thoughts (not dissimilar from most of my own posts). "If only you would act as I describe," the writer urges, "then you too would be a great leader." This habit of business books might be overlooked when one gem may be mined from the heap, but some have buried their insights so deep under the habitual drivel that a business leader ought not waste the effort extracting it again. Certain book qualities may guide the discerning leader to trash a book sooner.

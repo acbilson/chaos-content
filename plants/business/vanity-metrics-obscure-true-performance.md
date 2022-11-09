@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-11-30 07:55:07"
-epistemic = "sprout"
+lastmod = "2022-11-09 14:32:06"
+epistemic = "evergreen"
 tags = ["entrepreneurship","metrics","pride"]
 +++
-**Although measurement is key to informed business decisions, even experienced entrepreneurs are tempted to use 'vanity metrics'.**
-
 'Vanity metrics' are any statistic that makes the business _sound_ successful but do not inform stakeholders about actual performance or give insight into areas of growth (Ries, pg 143).
 
 - Sold 3,000 widgets last month alone!  That's a 112% increase over last month!

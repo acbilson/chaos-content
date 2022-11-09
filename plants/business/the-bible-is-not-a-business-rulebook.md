@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-12 15:38:51"
-epistemic = "sprout"
-tags = ["scripture","business","hypocrisy"]
+lastmod = "2022-11-09 14:33:01"
+epistemic = "plant"
+tags = ["scripture","business","hypocrisy","critique"]
 +++
-**A business that ignores sound business practices only makes their situation worse by claiming absolute Christian values.**
-
 Employees want to receive a fair wage, to work in a safe environment, and to have the freedom to possess differences of viewpoint when those opinions don't relate to the work being done (or, to be respected).  Employers want their employees to work towards the benefit of the business in an efficient and consistent manner.  The dramatic examples where this does not occur only reinforce the rule.  Burkett's descriptions, if followed as rigidly as they're written, would not produce the results employees and employers want.
 
 An employer who, in the name of his Christian faith, enforces a structure of morality that requires his employees to abide by the teachings of Jesus will create two problems.  First, the people who are genuine in their desire to follow Jesus are likely to end up experiencing their work as a judgment zone, where their every decision is silently weighed in order to test its adherence to the preferred Christian teaching.  Second, those who have no present desire to follow Jesus are likely to conclude that being a Christian is a straight-jacket life that complicates business matters and that God is watching everything they do to catch them in some mischief.

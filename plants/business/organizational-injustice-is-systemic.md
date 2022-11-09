@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:46:03"
-epistemic = "sprout"
+lastmod = "2022-11-09 14:47:50"
+epistemic = "plant"
 tags = ["justice"]
 +++
-**Organizational justice is an ivory tower idea ignored by most companies.**
-
 In my excavation of Bradberry and Greaves' book _Leadership 2.0_, trying to dig up an insight, I unearthed a jarring discontinuity. Bold claims are made in the first choppy pages of the chapter on organizational justice, but the actions fall short of the vision for organizational justice.
 
 "The ability to get what we deserve from the tremendous effort that we put into our work," "the feeling that your efforts are respected and valued," "[feeling] empowered" and "feeling satisfied with how you spent your time" are all given as definitions for organizational justice (pg. 12). The actions Bradberry and Greaves recommend to achieve these feelings; however, are to communicate decisions early, to share the rationale for those decisions, and to show concern for the impact of those decisions on direct reports. No explanation is given to how "communicating before, during, and after (pg. 15)" produces "the ability to get what we deserve (pg. 12)." The connection between feelings of respect, value, empowerment and satisfaction are tentative, but I can infer that the opportunity to share my opinion of decisions does give me a voice, and I may feel more empowered as a result.
