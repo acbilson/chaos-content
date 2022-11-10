@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:46:46"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:24:52"
+epistemic = "evergreen"
 tags = ["hiring","employment"]
 +++
-**A job's title requires precision and careful thought to attract and retain employees.**
-
 What's in a job title? Is it only a placeholder to pin to a job board? Does it matter whether a tech opening is called "software engineer" or "junior software developer?" Why would you append "senior" or "junior" to a title? There's more in a job title than you may expect.
 
 First, consider the addition of levels to a business' job titles; designations such as "junior" or "senior". A business may choose levels to insert gradation in skill and experience with the intention to outline career progression. If a woman is hired as a "junior sales associate" then her next career aspiration (if she chooses to stay in this role) is to advance to "sales associate" or "senior sales associate. When a customer interacts with your sales force; however, the complications of this job title gradation emerge. Main and Smith rhetorically ask, "Does dealing with a 'junior' inspire confidence? ({{< cite name=Smith loc="pg. 2" >}})." If a customer calls the sales department and are connected to a "junior sales associate" the customer may wonder about the capability of the associate to help them. Likewise, a "senior sales associate" may give the customer a sense of special treatment. A similar effect may occur within the business itself as departments interact with one another. If a business does decide to gradate their job titles in this way, the business must describe clear milestones to advance from "junior" to the next level or risk losing qualified employees who feel snubbed because, after two years of solid performance, the employee is still a "junior."

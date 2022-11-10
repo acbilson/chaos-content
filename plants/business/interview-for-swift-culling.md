@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:23:28"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:24:43"
+epistemic = "evergreen"
 tags = ["hiring","interview"]
 +++
-**Interview for quick knock-out.**
-
 Recruiters are hired to get people in the door, but the decision to hire is always in the hands of business managers. Managers often have little more to review about their candidate than a single page resume, maybe a cover letter, and what they can find on social media. When a candidate passes those preliminary checks, a manager must decide what sort of interview to begin with. Phone interview? Written assessment? In-person interview? Each of these methods gleans more insight about the candidate at a rising cost to the manager. A single position can have ten or more candidates before an optimal candidate is found. How does a manager handle this heavy burden on her time and focus? Knock out the candidates quick.
 
 While the knock-out policy applies to the earliest recruiting efforts, it becomes even more important as managers become involved. When a manager reviews resumes, then, she must show no compromise in applying her company's standards. Misspelled words indicate a lack of seriousness or attention to detail and should be rejected. Written assessments should be difficult to pass and be set at the standards required for the position. The interview should be most difficult of all, with questions probing for weakness in character, inconsistencies in experience vs. the resume, and genuine interest in the vision and mission of the company.

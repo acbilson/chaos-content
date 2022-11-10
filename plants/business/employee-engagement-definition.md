@@ -1,11 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 16:06:07"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:18:34"
+epistemic = "evergreen"
 tags = ["engagement","employees"]
 +++
-**"Employee engagement is the emotional commitment an employee has to the organization and its goals ({{< cite name=Kruse loc="pg. 8" >}})."**
+{{< notice type=quote name="Kruse, pg. 8" >}}
+Employee engagement is the emotional commitment an employee has to the organization and its goals.
+{{< /notice >}}
 
 As an employee, feeling engaged at work is a better way to live. It's wonderful to have open, two-way communication with your leaders, to have opportunities to grow and learn, to receive recognition for work well done, and to trust your leaders and know they trust you. One might say that every employee longs for engagement. But why does an employer care about engagement?
 

@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-12 15:09:07"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:24:12"
+epistemic = "evergreen"
 tags = ["taxes","progressive","regressive"]
 +++
-**Direct taxes tend to be progressive, while indirect taxes tend to be regressive.**
-
 When calculating the impact of taxes on a nation's population, an economist looks for the distributional incidence among segments. While every nation differs in the way their taxes are gained - some receive a majority via direct income tax while others through an indirect sales tax - in general, direct taxes are progressive and indirect taxes are regressive. What this means for a distribution of the nation's population is that the poorest population are less impacted than the richest in a progressive tax scheme, while the inverse is true in a regressive tax scheme.
 
 Income tax is typically calculated as a function of an employee's gross income. As income rises, the employee enters a new tax bracket with a higher percentage. For the lowest income bracket, no income tax may be incurred. This makes for a clear progressive tax scheme.

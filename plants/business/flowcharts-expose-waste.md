@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 08:17:45"
-epistemic = "sprout"
-tags = ["diagram","flowchart","waste"]
+lastmod = "2022-11-10 07:22:30"
+epistemic = "evergreen"
+tags = ["diagram","flowchart","waste","refine"]
 +++
-**Flowcharts help a user find waste when all symbols of non-value-adding activity are known and used.**
-
 My first insight, that process maps are primarily to make processes more efficient and not to document them leads naturally into this - flowcharts which identify all non-value-adding activity are most valuable in illuminating inefficiencies.
 
 An initial draft of a flowchart that describes one's own work process is likely to miss waste. Users don't naturally think of a wait they're familiar with as a non-value-adding activity that might be removed or shortened. The familiar is accepted as a fact of life; only the unusual comes to our attention. It's when we look for instances of the various types, such as waits, movements, and approvals, that we begin to accurately draw our flow and the waste becomes apparent ({{< cite name=Damelio >}}).

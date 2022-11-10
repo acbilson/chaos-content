@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 15:00:35"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:20:05"
+epistemic = "evergreen"
 tags = ["culture","diversity"]
 +++
-**Cultural Insight:** Europe is more culturally diverse than it might appear from a world map.
-
 With the exception of America, the melting pot of the earth, one may consider cultures to spread across the globe in a predictable manner; pools of culture that ebb and flow like the ocean.  Natural boundaries act as the ocean's shores, eroded by influence or violent action over the years but generally unchanged.  A review of the European continent, when taken from this perspective, would lead the spectator to assume the entire small continent, stretching from Portugal to Ukraine, would share the same cultural distinctions.  This assumption couldn't be more wrong.
 
 Instead of cultural unity, we find the European region divided into three cultural groups.  Following the French border, with a shortcut through the center of Switzerland, then around the border of Italy - all this to its south-western corner in Portugal shares a similar culture.  A second group, starting on the far side of the French border, encompassing the other half of Switzerland, the whole of Austria, and as far as the border of Denmark, comprises another culture entirely.  The third takes the rest of Eastern Europe, with a thick Czech finger stretching into German territory.

@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:20:22"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:22:03"
+epistemic = "evergreen"
 tags = ["accounting","analysis","operations"]
 +++
-**Financial analysis raises questions for business operations.**
-
 Financial analysis has fantastic potential to raise questions about the operations of a business, but alone it can conclude little. A glance at assets may reveal an imbalance in current assets vs current liabilities, but it cannot tell the story of how this came to be or what decisions brought this about. Another step deeper into the individual transactions may supply more light, but even then educated guesses are all that's possible; it takes questions posed to the actors before answers can be fully complete.
 
 A financial analyst spots that this month has 25% higher expenses than the following three, but this doesn't give the analyst enough information to form a conclusion. What it does do; however, is raise a question to business operations: what's different about our value destroying activities this month? The answer may range from an impulse purchase for expensive inventory to a natural disaster that's affecting prices.

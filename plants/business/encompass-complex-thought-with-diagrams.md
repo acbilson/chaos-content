@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-01-06T11:25:26"
-lastmod = "2022-01-12 15:26:42"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:19:54"
+epistemic = "plant"
 tags = ["diagram","design","model"]
 +++
 The software project I’ve been building has grown to the point that it’s no longer simple enough that I can reason about it without the assistance of a diagramming tool. To my surprise, there are a proliferation of such tools, but few open source versions I could spin up today. Then I discovered [PlantUML](https://plantuml.com/)!

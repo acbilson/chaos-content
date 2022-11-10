@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-12 15:28:15"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:19:14"
+epistemic = "evergreen"
 tags = ["goals","priority","direction"]
 +++
-**Business leaders direct the efforts of their employees towards the most important work.**
-
 Employees want their work to matter and their workplace to have a positive impact in the world ({{< cite name=Kruse >}}). How do leaders give their employees the conviction that their work matters? More effective than affirmation, a leader who gives clear priorities to his employees motivates them that the business is moving forward.
 
 Consider two employees, Fred and Sally. Both hold the same sales position at their company, but they have different managers. Once a year the CEO announces to the company what their sales goal is, and the sales department decides how to meet that goal. Fred's manager reminds him of the goal at their weekly one-on-one, but he doesn't give any direction to Fred's sales efforts. When Fred makes a sale, his manager recognizes him, but it doesn't matter who the new sales opportunity is or who Fred is selling to next. Sally, on the other hand, is given the same reminders and recognition as Fred, but her manager adds a monthly review to focus Sally's efforts on the biggest sales opportunities.

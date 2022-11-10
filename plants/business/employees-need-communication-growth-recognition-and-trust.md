@@ -1,12 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 16:03:19"
-epistemic = "sprout"
+lastmod = "2022-11-10 07:19:05"
+epistemic = "evergreen"
 tags = ["engagement","communication","growth","recognition","trust"]
 +++
-**There are four primary drivers to employee engagement in the United States: Communication, Growth, Recognition, and Trust.**
-
 What makes employees feel engaged at work? Answers range from the complex to the simple, but Kruze believes engagement can be distilled into four categories: Communication, Growth, Recognition, and Trust ({{< cite name=Kruse loc="pg. 23" >}}). Employees typically favor one category over the other three, although some have the advantage to equally value two or more. The category an employee favors is the most important factor to the employee's feeling of engagement in the workplace and, while all four should be present, this factor makes the greatest difference. For example, an employee who favors growth may continue to feel engaged when given diverse, challenging tasks, even though the employee's communication with his manager is sub-par. Let's dig into each of the drivers.
 
 Communication refers to the two-way communication pattern between an employee and his manager. To a lesser extent, communication applies to the employee's relationship with the entire team, but the key relationship is with the manager because no relationship is charged with such importance as that. The manager has the authority to affect an employee's career, to fire the employee or recommend them to greater responsibility. It's common to have one-way communication, but this type won't lead to employee engagement because the employee needs to be a participant rather than simply a receiver of the manager's communication.
