@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 09:42:19"
+lastmod = "2022-11-10 13:24:50"
 epistemic = "evergreen"
 tags = ["pay","regulation","law"]
+title = "Don't underpay your employees"
 +++
 When the number of wage options is first listed to a crooked business owner, he may see many opportunities to take advantage of his workforce. Does he have a job which often exceeds forty hours per week? Make it a salaried position and cap the pay no matter the hours! Does he regularly need to pay overtime hours on Fridays to a subset of his business? Change the payday to Thursday and cut their hours short on Wednesday so they don't exceed forty hours! While these may seem effective ways to get around the fair labor system, his crooked ways are certain to land him in legal trouble.
 

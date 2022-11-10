@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 08:53:28"
+lastmod = "2022-11-10 13:23:40"
 epistemic = "evergreen"
 tags = ["balance","process","health"]
+title = "Balance is journey, not destination"
 +++
 Each individual has four core areas they must balance: spirituality, emotions, relationships, and body. Let one decline for any length of time and stress rises. Each influence one another, so that where there is balance in three the lop-sided area is easier to re-center, while the stress and influence of more than one can be life-altering.
 

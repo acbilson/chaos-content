@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 14:50:21"
+lastmod = "2022-11-10 13:25:57"
 epistemic = "evergreen"
 tags = ["goals","praise","direction"]
-title = "Managers Review Goals, Give Praise, and Offer Redirects"
+title = "Managers review goals, give praise, and offer redirects"
 +++
 Think of traditional management. What comes to mind? Perhaps you remember the person in your company who tells you what to do next. Or a performance review given to you by a previous manager that outlined every mistake you made that year? Or the time you made a mistake and the manager's angry response? Is this the role of a manager, to tell employees what to do, to let them know how poorly they did it, and to punish them for mistakes? Didn't you wish that you had a manager who cared about you?
 

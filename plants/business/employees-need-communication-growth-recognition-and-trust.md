@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-10 07:19:05"
+lastmod = "2022-11-10 13:25:17"
 epistemic = "evergreen"
 tags = ["engagement","communication","growth","recognition","trust"]
+title = "Employees need communication, growth, recognition and trust"
 +++
 What makes employees feel engaged at work? Answers range from the complex to the simple, but Kruze believes engagement can be distilled into four categories: Communication, Growth, Recognition, and Trust ({{< cite name=Kruse loc="pg. 23" >}}). Employees typically favor one category over the other three, although some have the advantage to equally value two or more. The category an employee favors is the most important factor to the employee's feeling of engagement in the workplace and, while all four should be present, this factor makes the greatest difference. For example, an employee who favors growth may continue to feel engaged when given diverse, challenging tasks, even though the employee's communication with his manager is sub-par. Let's dig into each of the drivers.
 

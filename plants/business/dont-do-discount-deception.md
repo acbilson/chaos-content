@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-11-09 09:41:49"
+lastmod = "2022-11-10 13:24:40"
 epistemic = "evergreen"
 tags = ["business","discount"]
-title = "Don't Do Discount Deception"
+title = "Don't do discount deception"
 +++
 Discounts are everyday practice at storefronts across America. Every window is plastered with the sale inside, as though it's only purpose was to announce this fact. Consumers who weren't looking for a product may buy it when they believe it's a steal. This is commonplace, but is it right? Two case studies:
 

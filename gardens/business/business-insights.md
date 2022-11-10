@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-09-30 14:40:51"
+lastmod = "2022-11-14 11:02:13"
 toc = true
 narrow = true
 title = "Business Bay"
@@ -119,7 +119,6 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/entrepreneurship/globalize-your-business-name" >}}
 - {{< backref src="/plants/entrepreneurship/consider-sole-proprietorship-for-a-lean-startup" >}}
 - {{< backref src="/plants/business/organizational-injustice-is-systemic" >}}
-- {{< backref src="/plants/business/feed-your-business-good-fruit" >}}
 - {{< backref src="/plants/entrepreneurship/choose-insurance-with-both-analysis-and-imagination" >}}
 - {{< backref src="/plants/business/contracts-are-the-arteries-of-business" >}}
 - {{< backref src="/plants/entrepreneurship/launch-your-business-with-an-exit-plan" >}}
