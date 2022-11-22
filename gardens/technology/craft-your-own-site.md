@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-10-14 14:05:14"
+lastmod = "2022-11-22 07:39:30"
 narrow = true
 toc = true
 title = "Software Shores"
@@ -37,6 +37,14 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/store-secret-text-in-the-cloud" >}}
 - {{< backref src="/plants/technology/use-http-response-objects" >}}
 - {{< backref src="/plants/technology/verify-your-rss-feed" >}}
+
+### Web Components
+
+- {{< backref src="/plants/technology/inject-web-component-dependencies" >}}
+- {{< backref src="/plants/technology/build-web-components-for-forms" >}}
+- {{< backref src="/plants/technology/embed-web-components-into-static-html" >}}
+- {{< backref src="/plants/technology/custom-container-queries-with-resize-observer" >}}
+- {{< backref src="/plants/technology/test-web-components-with-playwright" >}}
 
 ### Dockerfile
 

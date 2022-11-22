@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-17 12:39:27"
-lastmod = "2022-11-17 13:23:41"
+lastmod = "2022-11-22 07:39:44"
 epistemic = "plant"
-tags = ["javascript","typescript","testing","playwright","web-test-runner"]
+tags = ["javascript","typescript","testing","playwright","web-test-runner","web-components"]
 +++
 So you've created a native web component or two. How do you test them in popular browsers?
 
