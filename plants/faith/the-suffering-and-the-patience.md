@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-22 13:38:27"
-lastmod = "2022-11-22 13:38:29"
+lastmod = "2022-11-23 08:48:29"
 epistemic = "plant"
 tags = ["endurance","patience","suffering","pressure","victory","surrender"]
 +++
@@ -9,7 +9,7 @@ Current favorite Greek words? [θλῖψις](https://www.blueletterbible.org/le
 
 The first is translated "tribulation" in the KJV, but that translation doesn't do much good for me who, after all these years, still can't get the claws of dispensationalism totally out of my head. Seeing the word "tribulation", I still envision either some future period of intense suffering or an exceptionally intense personal struggle.
 
-What I am discovering; however, is that the etymology of the word is a metaphor taken from intense pressure, as in the pressing of grapes to produce wine. Fleming Rutledge notes that the word in context means {{< backref src="https://alexbilson.dev/stones/fleming-rutledge/suffering-undertaken-for-a-higher-cause/" >}}.
+What I am discovering; however, is that the etymology of the word is a metaphor taken from intense pressure, as in the pressing of grapes to produce wine. Fleming Rutledge notes that the word in context means {{< backref src="/stones/fleming-rutledge/suffering-undertaken-for-a-higher-cause" >}}.
 
 The second is closely related and usually translated "patience" in the KJV, but "patient endurance" is the rarer and perhaps more fitting translation.
 
