@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-11-22 07:39:30"
+lastmod = "2022-12-05 14:01:01"
 narrow = true
 toc = true
 title = "Software Shores"
@@ -45,6 +45,12 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/embed-web-components-into-static-html" >}}
 - {{< backref src="/plants/technology/custom-container-queries-with-resize-observer" >}}
 - {{< backref src="/plants/technology/test-web-components-with-playwright" >}}
+
+#### GitHub Projects I'm Learning From
+
+- [Elix](https://github.com/elix/elix)
+- [Vanilla-Colorful](https://github.com/web-padawan/vanilla-colorful)
+- [Vaadin](https://github.com/vaadin/web-components)
 
 ### Dockerfile
 
@@ -99,6 +105,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/use-the-minimum-number-of-machines" >}}
 - {{< backref src="/plants/technology/write-systemd-unit-files" >}}
 - TODO: read and respond to a few [Arc Notes](https://architecturenotes.co)
+- TODO: learn how to use [credentials with systemd](https://systemd.io/CREDENTIALS/)
 
 ## Development Concerns
 

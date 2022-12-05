@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-02 09:56:03"
-lastmod = "2022-11-02 10:57:27"
+lastmod = "2022-12-05 14:21:58"
 epistemic = "evergreen"
 tags = ["writing","encouragement"]
 toc = true
@@ -54,3 +54,9 @@ This is what I've observed so far.
 I write to explore the world around me. As I've moved my website from a typical blog to a digital garden, the Obsidian-style format has changed the way I interact with my existing content. I'm more curious about the edges left unexplored and the connections between concepts. I'm also more likely to search what's already there instead of adding new content. Not sure if that's a good thing...
 
 It may be that writing for intellectual stimulation **is** writing for research.
+
+### Write to Build Relationships
+
+CJ Chivers has build relationships at #1 on his list of [Personal Publishing Principles](https://www.cjchilvers.com/personal-publishing-principles/). Unfortunately, I haven't found an email so I could ask him how that works. But I'm very interested to build more relationships via this website and curious how to do it better.
+
+One of the effects of writing relationships with others online is what Perell calls [The Content Triangle](https://perell.com/essay/the-ultimate-guide-to-writing-online/#write-from-conversation). Essentially, oddball ideas are safest to share with friends, then explore with a broader audience, refine with editors, and finally publish for the world.
