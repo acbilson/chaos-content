@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-06 10:47:26"
-lastmod = "2022-12-06 12:16:39"
+lastmod = "2022-12-06 12:21:40"
 epistemic = "sprout"
 tags = ["interpretation","bible"]
 +++
@@ -21,10 +21,11 @@ And Jesus went throughout all the cities and villages, teaching in their synagog
 
 Which of these perspectives, if any, consider that the "sermon" is a summary of Jesus’ teaching on the kingdom just as the twelve stories after are a selection of his actions?
 
+I haven't read D.A. Carson's work, but I suspect he picks up on this same design pattern. Noticing this pattern is an important starting place instead of trying to fit the whole into one's preferred theological framework.
+
+There could be more insights into the internal structure, however. The passage is highly organized, and while a kingdom center is definite (as the whole of Matthew's scroll is kingdom-centric), it also shows categorical structure. What might be gleaned from its internal design?
+
 {{< notice >}}
 Courtesy to Scot McKnight (or was it Dallas Willard?) via Nathan Lutz for pointing out the bookends to me
 {{< /notice >}}
 
-I haven't read D.A. Carson's work, but I suspect he picks up on this same design pattern. Noticing this pattern is an important starting place instead of trying to fit the whole into one's preferred theological framework.
-
-There could be more insights into the internal structure, however. The passage is highly organized, and while a kingdom center is definite (as the whole of Matthew's scroll is kingdom-centric), it also shows categorical structure. What might be gleaned from its internal design?
