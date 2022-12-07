@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2022-06-28 08:34:03"
+lastmod = "2022-12-07 07:36:07"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -224,6 +224,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
 >}}
 
 {{< vocab
+  word="Murder"
+  term="noun"
+  phonetic="Mərdər"
+  match="(unknown)"
+  example="Murder!"
+  origin="R.A. Bilson"
+>}}
+
+{{< vocab
   word="Nack"
   term="noun"
   phonetic="näk"
@@ -282,6 +291,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   phonetic="wä-wä"
   match="Water"
   example="More wa-wa."
+  origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Weer"
+  term="adjective"
+  phonetic="wēr"
+  match="Really"
+  example="I weer, weer tired Mama."
   origin="G.T. Bilson"
 >}}
 
