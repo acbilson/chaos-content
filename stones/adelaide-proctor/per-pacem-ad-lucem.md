@@ -9,7 +9,7 @@ source = "A Sacrifice of Praise"
 tags = ["peace","suffering","joy","darkness"]
 +++
 {{< raw >}}
-<div class=poem>
+<div class="poem flow-s">
   <p>I do not ask, O Lord, that life may be</p>
   <p>A pleasant road;</p>
   <p>I do not ask that thou would'st take from me</p>
