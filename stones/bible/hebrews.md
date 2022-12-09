@@ -15,5 +15,9 @@ Or again, "I will be to him a father, and he shall be to me a son"?
 
 And again, when he brings the firstborn into the world, he says, "Let all God's angels worship him[2]"
 
+Of the angels he says, "He makes his angels winds, and his ministers a flame of fire."
+
+But of the Son he says, "Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom. You have loved righteousness and hated wickeness; therefore God, your God, has anointed you with the oil of gladness beyond your companions."
+
 1. Deuteronomy 32:3 has the same unique phrase "Majesty" μεγαλωσύνη in the Septuagint. TODO: Look also for sitting down at the right hand.
 1. Deuteronomy 32:43 has the same unique phrase "worship him" προσκυνέω in the Septuagint. The version of the OT text seems to matter here. This section of Hebrews is tightly connected to Moses' song in Deuteronomy 32.
