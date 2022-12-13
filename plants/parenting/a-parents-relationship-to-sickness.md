@@ -1,11 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-02-07"
-lastmod = "2022-10-13 12:23:21"
+lastmod = "2022-12-13 07:16:41"
 epistemic = "evergreen"
 tags = ["sickness"]
 +++
-TODO: figure out the overarching topic this fits, then make _that_ garden
 If I was sick more than once a year, I don't remember it. Excluding periods of childhood and the occasional hospitalization, for over a decade I'd never been sick more than once per year; the kind of sick where I'd think, "I should stay home and recover from this." All that changed with Graham.
 
 **The inability to recover**. When I'd get sick, even with a fever, one full day's rest was all I needed to recover. When Graham came, I said goodbye to recovery days. Amie and Graham's immediate needs became a priority, and sickness had to wait. Which led to the next change...
