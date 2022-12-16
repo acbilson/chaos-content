@@ -1,16 +1,16 @@
 +++
 author = "Alex Bilson"
 date = "2021-03-10"
-lastmod = "2022-05-17 14:52:18"
+lastmod = "2022-12-16 13:21:05"
 toc = true
 epistemic = "evergreen"
 tags = ["podman","kubernetes","k3s"]
 +++
 ## Recollecting the Journey
 
-My {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" name="earlier foray" >}} into self-hosting a devops pipeline was little more than an Nginx proxy serving up Hugo-generated HTML files. As needs arose I began to add web services. Automated deployments with a webhook server and mobile publishing with a custom publishing service were two of the first. At the time I wrote this post, I was also running a data-publishing service called {{< outref name="datasette" src="https://github.com/simonw/datasette" >}}, deploying server updates with Ansible, and managing all processes with supervisord.
+My {{< backref src="/plants/technology/architect-a-personal-devops-pipeline" name="earlier foray" >}} into self-hosting a devops pipeline was little more than an Nginx proxy serving up Hugo-generated HTML files. As needs arose I began to add web services. Automated deployments with a webhook server and mobile publishing with a custom publishing service were two of the first. At the time I wrote this post, I was also running a data-publishing service called [datasette](https://github.com/simonw/datasette), deploying server updates with Ansible, and managing all processes with supervisord.
 
-I thought the natural progression was towards Kubernetes, so I attempted to make the transition to {{< outref name=k3s src="https://k3s.io/" >}}. When I drafted a network diagram, however, I discovered that the CI/CD process I wanted to implement to deploy my Kube nodes would require a second machine, and I didn't want to spend the money or manage the extra configuration. I had attempted an intermediary Podman installation but had run into difficulties configuring Debian Buster since it's not officially supported. But I didn't get very far until I also experienced trouble with k3s and, unwilling to let my site languish for weeks while I tried to implement a deployment process I didn't need, I abandoned the project. Fortunately, after bit of tinkering I _did_ get Podman working. And it's been a dream come true.
+I thought the natural progression was towards Kubernetes, so I attempted to make the transition to [k3s](https://k3s.io/). When I drafted a network diagram, however, I discovered that the CI/CD process I wanted to implement to deploy my Kube nodes would require a second machine, and I didn't want to spend the money or manage the extra configuration. I had attempted an intermediary Podman installation but had run into difficulties configuring Debian Buster since it's not officially supported. But I didn't get very far until I also experienced trouble with k3s and, unwilling to let my site languish for weeks while I tried to implement a deployment process I didn't need, I abandoned the project. Fortunately, after bit of tinkering I _did_ get Podman working. And it's been a dream come true.
 
 ## The Podman Era
 
@@ -29,7 +29,7 @@ Podman has been a pleasure to operate for three reasons.
 
 ## Conclusion
 
-Thanks to {{< outref name="Jeff Geerling's" src="https://www.jeffgeerling.com/" >}} invaluable YouTube {{< outref name="Cluster Series - Part 1" src="https://youtu.be/kgVz4-SEhbE" >}}, it's evident that I need at least three nodes are necessary before Kubernetes is a worthwhile option. One node is dedicated to operating the cluster and offers little but resource consumption if it's the only node. Two nodes allow for only a single node for the master node to manage - again offering little and supplying no opportunity for Kubernete's container distribution logic. Two nodes for the master node to manage does give Kubernetes the chance to select the best node for a given pod, to have a backup for failed pods, and starts to become tedious to operate independently (barely).
+Thanks to [Jeff Geerling's](https://www.jeffgeerling.com/) invaluable YouTube [Cluster Series - Part 1](https://youtu.be/kgVz4-SEhbE), it's evident that I need at least three nodes are necessary before Kubernetes is a worthwhile option. One node is dedicated to operating the cluster and offers little but resource consumption if it's the only node. Two nodes allow for only a single node for the master node to manage - again offering little and supplying no opportunity for Kubernete's container distribution logic. Two nodes for the master node to manage does give Kubernetes the chance to select the best node for a given pod, to have a backup for failed pods, and starts to become tedious to operate independently (barely).
 
 {{< notice >}}
 ...at least three nodes are necessary before Kubernetes is a worthwhile option.
