@@ -2,7 +2,7 @@
 aliases = ["/gardens/data-visualization"]
 author = "Alex Bilson"
 date = "2020-11-05"
-lastmod = "2022-10-12 15:13:59"
+lastmod = "2022-12-16 14:13:14"
 toc = true
 epistemic = "evergreen"
 tags = ["datasette","cli","diagram","journalism"]
@@ -79,7 +79,7 @@ Now let's do some analysis.
 
 First, I wanted to know the age span of COVID-related deaths. I filtered out ages with fewer than 25 deaths to remove data outliers, but it's worth noting that deaths span from age 12-108 (and one infant).
 
-![deaths-by-age](/data/covid/cook_covid_deaths_by_age.svg)
+{{< image "/data/covid/cook_covid_deaths_by_age.svg" "tall-chart" >}}
 
 Cook county fits international COVID death patterns in that the majority of deaths are among those older than 50.
 
@@ -135,7 +135,7 @@ One more. What if we reviewed all the towns in Cook county, bucketed by month?
 
 If you ran that query yourself, you'd notice that Chicago dwarfs all the others. So I removed Chicago and ended up with:
 
-![death-group-city](/data/covid/cook_covid_deaths_group_city_month.svg)
+{{< image "/data/covid/cook_covid_deaths_group_city_month.svg" "tall-chart" >}}
 
 Two insights stand out.
 
