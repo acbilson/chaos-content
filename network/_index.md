@@ -6,4 +6,4 @@ I'm trying something new with the network. Instead of a d3.js rendered diagram (
 
 The purpose of this change is to make the network page a little more useful. Particularly, this can be my one-stop-shop to see how much of my site has been interlinked via backrefs. Eventually I'd like to improve the tree navigation through backrefs, and this is the first attempt.
 
-To the left of the arrow is a post. It could be anything that has at least one reference from another post. On the right of the arrow are all the posts that reference that post.
+For each originating link in bold, pages which directly reference it are below the ⬆️ arrow.
