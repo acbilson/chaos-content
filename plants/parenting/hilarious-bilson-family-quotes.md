@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-07 13:20:49"
-lastmod = "2022-12-21 15:29:12"
-epistemic = "epistemic"
+lastmod = "2022-12-21 16:18:59"
+epistemic = "evergreen"
 tags = ["comedy","review","children","parenting"]
 +++
 This is a tear-inducing, hilarious list of quotes and circumstances with our boys Graham and Royal. Enjoy!
