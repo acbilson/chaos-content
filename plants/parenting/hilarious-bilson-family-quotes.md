@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-07 13:20:49"
-lastmod = "2022-12-22 08:24:34"
+lastmod = "2022-12-22 08:25:42"
 epistemic = "evergreen"
 tags = ["comedy","review","children","parenting"]
+Title = "Hilarious Bilson family quotes"
 +++
 This is a tear-inducing, hilarious list of quotes and circumstances with our boys Graham and Royal. Enjoy!
 
