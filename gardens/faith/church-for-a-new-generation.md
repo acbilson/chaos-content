@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2022-10-12 15:58:41"
+lastmod = "2022-12-27 15:24:13"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -31,6 +31,8 @@ The most common reaction to the word "evangelism" is discomfort. This can range 
 - {{< backref src="/plants/faith/we-give-more-than-we-have" >}}
 - {{< backref src="/plants/faith/what-is-the-gospel" >}}
 - {{< backref src="/plants/faith/when-are-they-converted" >}}
+
+Sometimes we consider sharing the good news about Jesus as an invitation to trust. Therefore, any conversation about evangelism ought to consider how it is that people {{< backref src="/gardens/faith/what-i-have-learned-about-trust" name="learn to trust" >}}.
 
 ## Bible
 
