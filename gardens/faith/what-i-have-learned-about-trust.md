@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-27 14:27:30"
-lastmod = "2022-12-27 15:17:18"
+lastmod = "2022-12-28 13:34:00"
 narrow = true
 toc = true
 title = "Trust Trench"
@@ -41,3 +41,8 @@ Abram's path of faith is our example: to follow on a trust built by a cognitive 
 
 As I've walked the path of faith, I've found there are uphills and downhills. {{< backref src="/plants/faith/the-now-and-not-yet" >}}. I think these seasons happen in individual people's lives, but also in the lives of organizations and even of nations.
 
+The ways that faith deepens does not look the same as a human journeys through life. The {{< backref src="/plants/faith/stages-of-faith-development" >}} do an admiral job of exploring the faith epocs, overlapping and repeating, that define most human experience.
+
+### Trust and Finances
+
+Because {{< backref src="/plants/business/finances-expose-faith-more-than-words" >}}, what we do with our money, and our time (time is money?) is a potent indicator of trust. It shows trust in an individual when we give resources freely to them; it shows our trust in God when we follow even when it looks like we'll lose our earthly possessions. Not to be confused with the faith preacher's call to give them more money, which is nothing more than greed clothed in false righteousness, but an {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provisio" name="open hand" >}} towards the needy and a loose grasp of the many ways that humans create to give themselves future security, even at the expense of others.
