@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-21T01:24:57"
-lastmod = "2021-11-30 07:58:31"
+lastmod = "2022-12-29 11:18:48"
 epistemic = "seedling"
 tags = ["children","kingdom","obedience"]
+title = "Obedience is not Jesus' first priority"
 +++
 > This note was taken in exasperation with my children as I reflected on the passage, "Unless you become like this little child, you will by no means enter the kingdom of heaven."
 

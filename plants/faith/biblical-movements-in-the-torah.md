@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-20 13:20:38"
-lastmod = "2022-10-20 13:27:08"
+lastmod = "2022-12-29 11:06:53"
 epistemic = "evergreen"
-tags = ["bible","interpretation","structure"]
+tags = ["bible","interpretation","structure","torah"]
 +++
 Thanks to [The Bible Project](https://bibleproject.com) I've gotten a better feel for the shape of the Torah. Here's the general outline by movement, as Tim and Jon would put it. There is also sub-structures which I hope to fill in.
 
@@ -35,5 +35,5 @@ Numbers (Into the Wilderness) - Three Movements
 Deuteronomy - Three Movements
 
 - The Agreement 1:1-11:32
-- TBD
-- TBD
+- The Instruction 12:1-26:14
+- The Choice 26:15-34:12

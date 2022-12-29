@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-27 14:27:30"
-lastmod = "2022-12-29 08:31:28"
+lastmod = "2022-12-29 12:38:21"
 narrow = true
 toc = true
 title = "Trust Trench"
@@ -25,7 +25,7 @@ Affective trust is build on the confidence that we know who a person is at their
 
 While it's common for American's to expect only cognitive trust in their work relationships, most of the world feels that {{< backref src="/plants/leadership/foster-trust-with-both-performance-and-vulnerability" name="both cognitive and affective trust are vital" >}}. And the sense of {{< backref src="/plants/business/employees-need-communication-growth-recognition-and-trust" name="being trusted is crucial for work engagement" >}}.
 
-Both categories of trust apply to business, but these ideas also resonate in trust of Yahweh. Evangelism in American contexts has leaned heavily towards cognitive trust. Read the Bible, remember Yahweh's works, trust him. Trust built upon Yahweh's track record is {{< backref src="/stones/bible/hear-obey-and-live" name="recommended at all times" >}}, but not to the exclusion of an affective trust. For this reason, helping people discover Jesus must include information about him, but it must also include a real encounter with him, through prayer, healing, prophesy, etc. Perhaps this helps explain why {{< backref src="/plants/faith/evangelism-is-a-process" >}}?
+Both categories of trust apply to business, but these ideas also resonate in trust of Yahweh. Evangelism in American contexts has leaned heavily towards cognitive trust. Read the Bible, remember Yahweh's works, trust him. Trust built upon Yahweh's track record is {{< backref src="/stones/bible/hear-obey-and-live" name="recommended at all times" >}}, but not to the exclusion of an affective trust. For this reason, helping people discover Jesus must include information about him, but it must also include a real encounter with him, through prayer, healing, prophesy, etc. Perhaps this helps explain why {{< backref src="/plants/faith/becoming-a-christian-is-a-process" >}}?
 
 ### Trust in Marketing
 

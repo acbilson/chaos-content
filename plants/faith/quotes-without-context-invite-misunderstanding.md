@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-06 11:19:07"
-lastmod = "2022-12-06 12:13:55"
+lastmod = "2022-12-29 12:40:57"
 epistemic = "sprout"
 tags = ["interpretation","bible","misunderstanding","confusion","context","wisdom"]
 +++
@@ -11,7 +11,7 @@ Some Christians like to publish verses on social media, or put verses on their w
 
 There are two primary dangers. First, that others will not understand what the verses mean without context, and second, that they will conclude that you are concealing the truth about the Bible.
 
-Christians think they understand a verse's meaning only to discover that, with a wider context, the meaning of the verse deepens and, sometimes, completely changes. That's because {{< backref src="/plants/faith/bible-interpretation-is-cyclical" >}}. If that's true for a student of the Bible, a person who has been on the merry-go-round of interpretation for years, what sort of understanding do you anticipate someone with no Bible background will take away from a bare verse?
+Christians think they understand a verse's meaning only to discover that, with a wider context, the meaning of the verse deepens and, sometimes, completely changes. That's because {{< backref src="/plants/faith/biblical-interpretation-is-cyclical" >}}. If that's true for a student of the Bible, a person who has been on the merry-go-round of interpretation for years, what sort of understanding do you anticipate someone with no Bible background will take away from a bare verse?
 
 One is wise to be suspicious when a person vilifies another by quoting scandalous quotes out of context. One is also wise to question a person who hides the faults of another by selecting only positive quotes. Many who read a Bible verse about love immediately, and rightly, dismiss its message because they have also been exposed to verses about hate and cannot, with what they know, reconcile the two. What bipolar message would you conclude the Bible contains if all you know is "you hate all evildoers" and "for God so loved the world"?
 
