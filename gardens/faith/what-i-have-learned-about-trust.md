@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-27 14:27:30"
-lastmod = "2022-12-28 13:34:00"
+lastmod = "2022-12-29 08:31:28"
 narrow = true
 toc = true
 title = "Trust Trench"
@@ -45,4 +45,4 @@ The ways that faith deepens does not look the same as a human journeys through l
 
 ### Trust and Finances
 
-Because {{< backref src="/plants/business/finances-expose-faith-more-than-words" >}}, what we do with our money, and our time (time is money?) is a potent indicator of trust. It shows trust in an individual when we give resources freely to them; it shows our trust in God when we follow even when it looks like we'll lose our earthly possessions. Not to be confused with the faith preacher's call to give them more money, which is nothing more than greed clothed in false righteousness, but an {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provisio" name="open hand" >}} towards the needy and a loose grasp of the many ways that humans create to give themselves future security, even at the expense of others.
+Because {{< backref src="/plants/business/finances-expose-faith-more-than-words" >}}, what we do with our money, and our time (time is money?) is a potent indicator of trust. It shows trust in an individual when we give resources freely to them; it shows our trust in God when we follow even when it looks like we'll lose our earthly possessions. Not to be confused with the faith preacher's call to give them more money, which is nothing more than greed clothed in false righteousness, but an {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provision" name="open hand" >}} towards the needy and a loose grasp of the many ways that humans create to give themselves future security, even at the expense of others.
