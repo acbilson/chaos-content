@@ -5,36 +5,141 @@ ref = "Hebrews 1-13"
 +++
 Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
 
-He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power[1].
+He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe[1] by the word of his power[2].
 
-After making purification for sins, he sat down at the right hand of the Majesty on high[2], having become as much superior to angels as the name he has inherited is more excellent than theirs.
+After making purification for sins, he sat down at the right hand of the Majesty[3] on high, having become as much superior to angels as the name he has inherited is more excellent than theirs.
 
-For to which of the angels did God ever say, "You are my Son, today I have begotten you[3]"?
+For to which of the angels did God ever say,
 
-Or again, "I will be to him a father, and he shall be to me a son[4]"?
+{{< poetry >}}
+You are my Son,
+today I have begotten you[4]
+{{< /poetry >}}
 
-And again, when he brings the firstborn into the world, he says, "Let all God's angels worship him[5]"
+Or again,
 
-Of the angels he says, "He makes his angels winds, and his ministers a flame of fire."
+{{< poetry >}}
+I will be to him a father,
+and he shall be to me a son[5]
+{{< /poetry >}}
 
-But of the Son he says, "Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom. You have loved righteousness and hated wickeness; therefore God, your God, has anointed you with the oil of gladness beyond your companions."
+And again, when he brings the firstborn into the world, he says,
 
-And, "You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands; they will perish, but you remain; they will wear out like a garment, like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end."
+{{< poetry >}}
+Let all God's angels worship him[6]
+{{< /poetry >}}
 
-And to which of the angels has he ever said, "Sit at my right hand until I make your enemies a footstool for your feet?[6]"
+Of the angels he says,
+
+{{< poetry >}}
+He makes his angels winds,
+and his ministers a flame of fire[7]
+{{< /poetry >}}
+
+But of the Son he says,
+
+{{< poetry >}}
+Your throne, O God, is forever and ever,
+the scepter of uprightness is the scepter of your kingdom.
+You have loved righteousness and hated wickeness;
+therefore God, your God, has anointed you
+with the oil of gladness beyond your companions[8]
+{{< /poetry >}}
+
+And,
+
+{{< poetry >}}
+You, Lord, laid the foundation of the earth in the beginning,
+and the heavens are the work of your hands;
+they will perish, but you remain;
+they will wear out like a garment,
+like a robe you will roll them up,
+like a garment they will be changed.
+But you are the same,
+and your years will have no end[9]
+{{< /poetry >}}
+
+And to which of the angels has he ever said,
+
+{{< poetry >}}
+Sit at my right hand until I make your enemies a footstool for your feet[10]
+{{< /poetry >}}
 
 Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
 
-Therefore we must pay much closer attention to what we have heard, lest we drift away from it.
+{{< raw >}}
+<hr />
+{{< /raw >}}
+
+Therefore we must pay much closer attention to what we have heard, lest we drift away from it.[11]
 
 For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution, how shall we escape if we neglect such a great salvation?
 
 It was declared at first by the Lord, and it was attested to us by those who heard, while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will.
 
-1. This strange phrase, "upholds the universe by the word of his power" may be an allusion to Psalm 75:3 "When the earth totters, and all its inhabitants, it is I who keep steady its pillars. Selah". The ESV translates πάντα as universe, but it is commonly translated "all". Thus not an allusion to the voice of God, his "one speech", as I had supposed.
-2. Deuteronomy 32:3 has the same unique phrase "Majesty" μεγαλωσύνη in the Septuagint.
-3. A quotation from Psalm 2:7. Also quoted by Paul in his early speech on Cyprus (Acts 13:33).
-4. Refers to multiple Davidic statements (2Sa 7:14; 1Ch 17:13; 1Ch 22:10). Possibly also a reference to Ps 89:27 "And I will make him the firstborn,
+For it was not to angels that God subjected the world to come, of which we are speaking[12]. It has been testified somewhere,
+
+{{< poetry >}}
+What is man, that you are mindful of him,
+or the son of man, that you care for him?
+You made him for a little while lower than the angels;
+you have crowned him with glory and honor,
+putting everything in subjection under his feet.[13]
+{{< /poetry >}}
+
+Now in putting everything in subjection to him, he left nothing outside his control.
+
+At present, we do not yet see everything in subjection to him.
+
+But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.
+
+For it was fitting that he, for whom and by whom all things exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering.
+
+For he who sanctifies and those who are sanctified all have one source.
+
+That is why he is not ashamed to call them brothers, saying,
+
+{{< poetry >}}
+I will tell of your name to my brothers;
+in the midst of the congregation I will sing your praise.[14]
+{{< /poetry >}}
+
+And again,
+
+{{< poetry >}}
+I will put my trust in him.[15]
+{{< /poetry >}}
+
+And again,
+
+{{< poetry >}}
+Behold, I and the children God has given me.[16]
+{{< /poetry >}}
+
+Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil, and deliver those who through fear of death were subject to lifelong slavery.
+
+For surely it is not angels that he helps, but he helps the offspring of Abraham.
+
+Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make propitiation for the sins of the people.
+
+For because he himself has suffered when tempted, he is able to help those who are being tempted.
+
+## Ongoing Notes & Discoveries
+
+1. The ESV translates πάντα as universe, but it is commonly translated "all". Thus not an allusion to the voice of God, his "one speech", as I had supposed.
+2. This strange phrase, "upholds the universe by the word of his power" may be an allusion to Psalm 75:3 "When the earth totters, and all its inhabitants, it is I who keep steady its pillars. Selah".
+3. Deuteronomy 32:3 has the same unique noun "Majesty" μεγαλωσύνη in the Septuagint.
+4. A quotation from Psalm 2:7. Also quoted by Paul in his early speech on Cyprus (Acts 13:33).
+5. Refers to multiple Davidic statements (2Sa 7:14; 1Ch 17:13; 1Ch 22:10). Possibly also a reference to Ps 89:27 "And I will make him the firstborn,
 the highest of the kings of the earth" especially given the author's use of firstborn in the next sentence.
-5. Deuteronomy 32:43 has the same unique phrase "worship him" προσκυνέω in the Septuagint. The version of the OT text seems to matter here. This section of Hebrews is tightly connected to Moses' song in Deuteronomy 32.
-6. A direct quote of Psalm 110:1.
+6. Deuteronomy 32:43 has the same unique phrase "worship him" προσκυνέω in the Septuagint. The version of the OT text seems to matter here. This section of Hebrews is tightly connected to Moses' song in Deuteronomy 32.
+7. A direct quote of Psalm 104:4.
+8. A direct quote of Psalm 45:6-7.
+9. A direct quote of Psalm 102:25-27.
+10. A direct quote of Psalm 110:1.
+11. This is deeply unsettling when I consider how poorly the original hearers of the Torah responded, and they to a visible presence on Mount Sinai! I suspect that the unstated problem behind this warning is that the Jewish readers of this letter were tempted to discount Jesus' person and words as only that of a prophet or teacher (or angel?). If so, it may be similar to Jesus' rebuke in John 8:37 that, even though his listeners are descendants of Abraham, they prove themselves false by their treatment of him. This doesn't limit the sufficiency of the Hebrew scriptures for true faith; see Jesus' parable of the rich man and Lazarus, where the Torah and Prophets are implicitly sufficient.
+12. alluding back to the Psalm 102:25-27 quote.
+13. A direct quote of Psalm 8:4-6.
+14. A direct quote of Psalm 22:22.
+15. Could be one of many references. Gotta look for one that makes sense with the brother/children reference.
+16. A direct quote of Isaiah 8:18.
