@@ -2,6 +2,7 @@
 type = "bible"
 tags = ["reconnaisance","faith","courage"]
 ref = "Joshua 2:1-24"
+title = "Rahab preserves Israelite spies"
 +++
 And Joshua the son of Nun sent two men secretly from Shittim as spies, saying, "Go, view the land, especially Jericho." And they went and came into the house of a prostitute whose name was Rahab and lodged there. And it was told to the king of Jericho, "Behold, men of Israel have come here tonight to search out the land." Then the king of Jericho sent to Rahab, saying, "Bring out the men who have come to you, who entereed your house, for they have come to search out all the land." But the woman had taken the two men and hidden them. And she said, "True, the men came to me, but I did not know where they were from. And when the gate was about to be closed at dark, the men went out. I do not know where they men went. Pursue them quickly, for you will overtake them." But she had brought them up to the roof and hid them with the stalks of flak that she had laid in order on the roof. So the men pursued after them on the way to the Jordan as far as the fords. And the gate was shut as soon as the pursuers had gone out.
 
