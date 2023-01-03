@@ -124,6 +124,35 @@ Therefore he had to be made like his brothers in every respect, so that he might
 
 For because he himself has suffered when tempted, he is able to help those who are being tempted.
 
+{{< raw >}}
+<hr />
+{{< /raw >}}
+
+Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession, who was faithful to him who appointed him, just as Moses also was faithful in all God's house.
+
+For Jesus has been counted worthy of more glory than Moses–as much more glory as the builder of a house has more honor than the house itself.
+
+(For every house is built by someone, but the builder of all things is God.)
+
+Now Moses was faithful in all God's house[17] as a servant, to testify to the things that were to be spoken later, but Christ is faithful over God's house as a son.
+
+And we are his house, if indeed we hold fast our confidence and our boasting in our hope.
+
+Therefore, as the Holy Spirit says,
+
+{{< poetry >}}
+Today, if you hear his voice,
+do not harden your hearts as in the rebellion,
+on the day of testing in the wilderness,
+where your fathers put me to the test
+and saw my works for forty years.
+Therefore I was provoked with that generation,
+and said, "They always go astray in their heart;
+they have not known my ways."
+As I swore in my wrath,
+"They shall not enter my rest."[18]
+{{< /poetry >}}
+
 ## Ongoing Notes & Discoveries
 
 1. The ESV translates πάντα as universe, but it is commonly translated "all". Thus not an allusion to the voice of God, his "one speech", as I had supposed.
@@ -143,3 +172,5 @@ the highest of the kings of the earth" especially given the author's use of firs
 14. A direct quote of Psalm 22:22.
 15. Could be one of many references. Gotta look for one that makes sense with the brother/children reference.
 16. A direct quote of Isaiah 8:18.
+17. A reference to Numbers 12:7 "Not so with my servant Moses. He is faithful in all my house."
+18. A direct quote of Psalm 95:7-11.
