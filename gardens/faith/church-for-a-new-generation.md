@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2023-01-04 14:28:23"
+lastmod = "2023-01-04 15:53:40"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -23,7 +23,7 @@ Don't take this as a list of ingredients for Jesus' perfect disciple; it's not. 
 
 ### Disciples Who Share Jesus
 
-If we're following Jesus, we'll have to use our voices. {{< backref src="/stones/peyton-jones/jesus-modeled-taking-the-gospel-to-the-people/" >}}, and we who are apprentices of his will speak of him from time to time in settings vacant of good news too.
+If we're following Jesus, we'll have to use our voices. {{< backref src="/stones/peyton-jones/jesus-modeled-taking-the-gospel-to-the-people" >}}, and we who are apprentices of his will speak of him from time to time in settings vacant of good news too.
 
 Let's examine how we teach disciples to share the good news about Jesus. Introducing others to Jesus is crucial to the expansion of the Kingdom in our midst, and one of the most exhilarating and terrifying practices of the Body corporate.
 
