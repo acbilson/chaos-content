@@ -43,7 +43,7 @@ tags = ["children","sacrifice","ambiguity","evil"]
 
 <style>
   .poem > p {
-    line-height: 12px;
+    line-height: 0.4rem;
   }
 
   .poem > p.space {

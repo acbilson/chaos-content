@@ -32,7 +32,7 @@ tags = ["prayer"]
 </div>
 <style>
   div.poem p {
-    line-height: 9px;
+    line-height: 0.4rem;
   }
   div.poem p:nth-child(even) {
     padding-left: 24px;

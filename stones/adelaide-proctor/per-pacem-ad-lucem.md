@@ -44,7 +44,7 @@ tags = ["peace","suffering","joy","darkness"]
 <style>
 
   .poem > p {
-    line-height: 12px;
+    line-height: 0.4rem;
   }
 
   .poem > p:nth-child(even) {

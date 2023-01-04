@@ -1,6 +1,6 @@
 +++
 date = "2021-06-10T16:41:22"
-lastmod = "2022-12-27 15:37:44"
+lastmod = "2023-01-04 14:00:41"
 author = "Alex Bilson"
 tags = [ "sacrifice","worship","atonement"]
 epistemic = "plant"
@@ -14,7 +14,7 @@ Sacrifice does relate to cost, but not as its primary meaning. It happens that t
 Thomas Merton has a clarifying definition which restores the purpose of sacrifice to its core of worship.
 
 {{< notice type=quote short=true name="Thomas Merton, New Seeds of Contemplation, pg. 167" >}}
-A sacrifice is an action which is objectively sacred, primarily of a social character, and what is important is no so much the pain or difficulty attached to it as the meaning, the sacred significance which not only conveys an idea but effects a divine and religious transformation in the worshipper, thus consecrating and uniting him more closely to God.
+A sacrifice is an action which is objectively sacred, primarily of a social character, and what is important is not so much the pain or difficulty attached to it as the meaning, the sacred significance which not only conveys an idea but effects a divine and religious transformation in the worshipper, thus consecrating and uniting him more closely to God.
 {{< /notice >}}
 
 [The Bible Project](https://bibleproject.com/) explores the meaning of the Levitical sacrifices in their series on Leviticus ([which starts here](https://bibleproject.com/podcast/how-god-reveals-himself-leviticus/)). There are two facets of the sacrifice which shed great light on the topic of sacrifice.
