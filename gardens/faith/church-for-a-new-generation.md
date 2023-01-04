@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2022-12-29 12:41:39"
+lastmod = "2023-01-04 13:56:52"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -15,7 +15,15 @@ The American Church is in the midst of a slow-burning crisis. Because I love the
 
 I can't think of anything better for the revival of the Church of the United States than the {{< backref src="/plants/faith/launch-a-dmm" name="ignition of disciple-making movements" >}}. We've become hyper-focused on expanding brick-and-mortar churches, but {{< backref src="/stones/peyton-jones/christ-never-commanded-his-disciples-to-plant-churches" >}}. Let's get back to a focus on disciples themselves, and hold the models for gathering, instruction and worship loosely.
 
-## Disciples Who Share Jesus
+## What Kind of Disciple Are You?
+
+I've heard the refrain to "return to Biblical disciple-making" for so long that I'm desensitized to the message. Aren't we all disciples anyways?
+
+Don't take this as a list of ingredients for Jesus' perfect disciple; it's not. At its root, a disciple is simply one who follows, listens, and does. That will look remarkably different for each person in each season and, while we can generalize a little, it's dangerous to assume that every disciple will openly display each of these characteristics in every season of their lives.
+
+### Disciples Who Share Jesus
+
+If we're following Jesus, we'll have to use our voices. {{< backref src="/stones/peyton-jones/jesus-modeled-taking-the-gospel-to-the-people/">}}, and we who are apprentices of his will speak of him from time to time in settings vacant of good news too.
 
 Let's examine how we teach disciples to share the good news about Jesus. Introducing others to Jesus is crucial to the expansion of the Kingdom in our midst, and one of the most exhilarating and terrifying practices of the Body corporate.
 
@@ -31,7 +39,7 @@ We might liken sharing the good news about Jesus as an invitation to trust. Ther
 
 There are ways we could communicate good news that would excel the business and education domains. More thinking to do, but parable was Jesus' primary mode of communication. See {{< backref src="/plants/writing/parable-and-poetry-hit-harder-than-prose" >}} and {{< backref src="/plants/writing/short-stories-are-modern-parables">}}.
 
-## Disciples Who Understand the Bible
+### Disciples Who Understand the Bible
 
 For all the good that's come from preaching, there's a dearth of disciples who read, understand and apply the Bible for themselves. Our leaders may have developed the skills to read, understand, and apply, but these skills aren't making it to their disciples. Do any of them hold a view that {{< backref src="/plants/faith/the-bible-is-for-wisdom-and-pleasure" >}}?
 
@@ -41,9 +49,9 @@ I wonder if there's an advantage for leaders to maintain a view of the Bible as 
 
 Our greatest successes with training disciples to read, understand and apply the Bible (in community) is through Discovery Bible Study (DBS). Here are a few {{< backref src="/plants/faith/discovery-stories" >}} that highlight the difference.
 
-## Disciples Who Look More Like Jesus Every Week
+### Disciples Who Look More Like Jesus Every Month
 
-Encountering Jesus in the Bible is crucial to discipleship into his likeness, which is why reading the Bible in community is a non-negotiable. A review of Jesus' lifestyle does suggest a number of spiritual exercises which Christians throughout the centuries have codified. While spiritual disciplines should be descriptive, not prescriptive, they can help Christians in their obedience to Jesus. I recommend, however, that no practice be embraced which cannot be taught through public example.
+Encountering Jesus in the Bible is crucial to discipleship into his likeness, which is why reading the Bible in community is a non-negotiable. A review of Jesus' lifestyle does suggest a number of spiritual exercises which Christians throughout the centuries have codified. While spiritual disciplines should be descriptive, not prescriptive, they can help Christians in their obedience to Jesus. I recommend, however, that no practice be embraced which cannot be taught through public example. Even solitude was a practice Jesus shared with his disciples.
 
 - {{< backref src="/plants/faith/definition-of-biblical-sacrifice" >}}
 - {{< backref src="/plants/faith/expect-divine-strength-and-miracles" >}}
@@ -59,23 +67,23 @@ Encountering Jesus in the Bible is crucial to discipleship into his likeness, wh
 - {{< backref src="/stones/henri-nouwen/confrontation-with-suffering-does-not-lead-to-compassion" >}}
 - {{< backref src="/stones/henri-nouwen/the-great-secret-of-the-spiritual-life-is-that-you-already-know-the-little-steps" >}}
 
-### Solitude
+#### Solitude
 
 I enjoy being alone. Not everyone does. Jesus spent many mornings alone in the wilderness with his Father. {{< backref src="/plants/faith/from-solitude-through-surrender-to-compassion" name="The practice of solitude built compassion for others" >}}. It also creates {{< backref src="/plants/faith/freedom-from-comparison-produces-humility" name="an environment free of comparision" >}}, which produces humility because {{< backref src="/stones/henri-nouwen/solitude-exposes-our-false-selves" >}}.
 
 The desert fathers and mothers are often cited as examples of this practice, but I think it's likely that we're losing sight of their community. They may have spent a lot of time alone, but they also had disciples. From whence did their disciples learn to navigate the dangers and embrace the riches of solitude? Monasteries provide the best modern-day examples of how to practice solitude with disciples.
 
-### Prayer
+#### Prayer
 
 Jesus prayed. He taught his disciples to pray. And we must teach our disciples to pray also.
 
 There are as many ways to pray as there are people. Prayer stretches into the past, the present and the future because {{< backref src="/plants/faith/prayer-transcends-spacetime" >}}. Let us learn from our mentors and teach by example prayer to our disciples.
 
-### Sabbath
+#### Sabbath
 
 It's been my experience that most Christians have lost sight of Sabbath. We don't realize anymore that {{< backref src="/plants/faith/sabbath-is-a-social-imperative" >}}. We don't attempt to {{< backref src="/plants/faith/keep-the-sabbath-remix" name="keep the Sabbath" >}} in our own context. And what a shame, for Sabbath is made to be shared; it's the perfect disciple-making space! TODO: write more about Sabbath as disciple-making focus-time.
 
-### Generosity
+#### Generosity
 
 - {{< backref src="/plants/faith/generosity-builds-kingdom-equity" >}}
 - {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provision" >}}
@@ -83,7 +91,7 @@ It's been my experience that most Christians have lost sight of Sabbath. We don'
 - {{< backref src="/plants/faith/tithe-goes-to-the-levites" >}}
 - There's something here, but I haven't reviewed it yet: {{< backref src="a-stunted-view-of-god-limits-imitation" >}}
 
-## Disciples Who Exercise Their Gifts
+### Disciples Who Exercise Their Gifts
 
 We look to Jesus as the ultimate example, because {{< backref src="/plants/faith/jesus-fulfills-the-roles-and-gifts" >}}. And we are to follow him, but we're not all equally gifted in every area of the five-fold ministry (APEST for short).
 
@@ -105,7 +113,7 @@ A few thoughts worth developing further.
 - {{< backref src="/plants/faith/apostles-co-create-with-god" >}}
 - {{< backref src="/plants/faith/what-is-the-five-fold-ministry" >}}
 
-## Disciples Who Gather
+### Disciples Who Gather
 
 My magnum opus, the {{< backref src="/plants/faith/kingdom-manifesto" >}} is my best effort to describe the bleeding edge between the established Church and the frontier in language and categories both helpful to the former and relevant to the latter.
 
@@ -113,3 +121,8 @@ My magnum opus, the {{< backref src="/plants/faith/kingdom-manifesto" >}} is my 
 - {{< backref src="/plants/faith/god-has-mercy-for-many-methods" >}}
 - {{< backref src="/plants/business/spider-followers-need-an-extra-push" >}}
 
+### Disciples Who Have Disciples
+
+Who are your disciples? Each disciple ought to be themselves training disciples in an unbroken network of disciple-makers.
+
+Relationships between disciples will conform to their gifting. Two prophets, a mentor and disciple, will invest their time differently than two teachers. And again, A prophet mentoring a teacher will look different than a prophet mentoring an apostle.
