@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2023-01-04 13:56:52"
+lastmod = "2023-01-04 14:28:23"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -23,7 +23,7 @@ Don't take this as a list of ingredients for Jesus' perfect disciple; it's not. 
 
 ### Disciples Who Share Jesus
 
-If we're following Jesus, we'll have to use our voices. {{< backref src="/stones/peyton-jones/jesus-modeled-taking-the-gospel-to-the-people/">}}, and we who are apprentices of his will speak of him from time to time in settings vacant of good news too.
+If we're following Jesus, we'll have to use our voices. {{< backref src="/stones/peyton-jones/jesus-modeled-taking-the-gospel-to-the-people/" >}}, and we who are apprentices of his will speak of him from time to time in settings vacant of good news too.
 
 Let's examine how we teach disciples to share the good news about Jesus. Introducing others to Jesus is crucial to the expansion of the Kingdom in our midst, and one of the most exhilarating and terrifying practices of the Body corporate.
 
@@ -53,19 +53,9 @@ Our greatest successes with training disciples to read, understand and apply the
 
 Encountering Jesus in the Bible is crucial to discipleship into his likeness, which is why reading the Bible in community is a non-negotiable. A review of Jesus' lifestyle does suggest a number of spiritual exercises which Christians throughout the centuries have codified. While spiritual disciplines should be descriptive, not prescriptive, they can help Christians in their obedience to Jesus. I recommend, however, that no practice be embraced which cannot be taught through public example. Even solitude was a practice Jesus shared with his disciples.
 
-- {{< backref src="/plants/faith/definition-of-biblical-sacrifice" >}}
-- {{< backref src="/plants/faith/expect-divine-strength-and-miracles" >}}
-- {{< backref src="/plants/faith/holiness-starts-in-the-heart" >}}
-- {{< backref src="/plants/faith/how-does-the-holy-spirit-change-humanity" >}}
-- {{< backref src="/plants/faith/how-to-be-hot-or-cold" >}}
-- {{< backref src="/plants/faith/jesus-identity-was-formed-by-the-hebrew-scriptures" >}}
-- {{< backref src="/plants/faith/judgment-of-others-is-aroused-by-shared-behavior" >}}
-- {{< backref src="/plants/faith/spiritual-formation" >}}
-- {{< backref src="/plants/faith/spiritual-rituals" >}}
-- {{< backref src="/plants/faith/we-find-our-true-selves-via-death" >}}
-- {{< backref src="/plants/faith/what-is-the-daily-office" >}}
-- {{< backref src="/stones/henri-nouwen/confrontation-with-suffering-does-not-lead-to-compassion" >}}
-- {{< backref src="/stones/henri-nouwen/the-great-secret-of-the-spiritual-life-is-that-you-already-know-the-little-steps" >}}
+The purpose of spiritual rituals is to fall more deeply in love with Jesus. If a few week's practice doesn't produce a more joyful attachment to Jesus, jettison the practice and try something else.
+
+I've borrowed a list of {{< backref src="/plants/faith/spiritual-rituals" >}} from Bridgeport Church.
 
 #### Solitude
 
@@ -79,17 +69,19 @@ Jesus prayed. He taught his disciples to pray. And we must teach our disciples t
 
 There are as many ways to pray as there are people. Prayer stretches into the past, the present and the future because {{< backref src="/plants/faith/prayer-transcends-spacetime" >}}. Let us learn from our mentors and teach by example prayer to our disciples.
 
+One of the oldest and most prolific ways to pray is to model your prayer from Jesus' own example. I've written some notes about it in {{< backref src="/plants/faith/your-kingdom-come" >}}.
+
+C.S. Lewis explores the experience of speaking both to and by God in his poem, {{< backref src="/stones/clive-staples-lewis/prayer" >}}, while Madeleine L'Engle validates {{< backref src="/stones/madeleine-lengle/before-i-can-listen-to-god-in-prayer-i-must-fumble-through-the-prayers-of-words" name="the need for words, even in listening" >}}. She also ties prayer with both discipline and art when she says {{< backref src="/stones/madeleine-lengle/the-greatest-moments-of-prayer-come-in-the-midst-of-fumbling" >}}. And {{< backref src="/stones/madeleine-lengle/we-are-afraid-of-this-kind-of-prayer" name="the experience of personal death" >}} links with Thomas Merton's thoughts about {{< backref src="/stones/thomas-merton/there-is-only-one-vocation" name="vocation" >}}, {{< backref src="/stones/thomas-merton/to-become-myself-i-must-cease-to-be-what-i-thought-i-wanted-to-be" name="identity" >}} and {{< backref src="/stones/thomas-merton/contemplation-is-no-escape-from-anguish" name="doubt" >}}.
+
 #### Sabbath
 
 It's been my experience that most Christians have lost sight of Sabbath. We don't realize anymore that {{< backref src="/plants/faith/sabbath-is-a-social-imperative" >}}. We don't attempt to {{< backref src="/plants/faith/keep-the-sabbath-remix" name="keep the Sabbath" >}} in our own context. And what a shame, for Sabbath is made to be shared; it's the perfect disciple-making space! TODO: write more about Sabbath as disciple-making focus-time.
 
 #### Generosity
 
-- {{< backref src="/plants/faith/generosity-builds-kingdom-equity" >}}
-- {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provision" >}}
-- {{< backref src="/plants/faith/money-is-a-cruel-master" >}}
-- {{< backref src="/plants/faith/tithe-goes-to-the-levites" >}}
-- There's something here, but I haven't reviewed it yet: {{< backref src="a-stunted-view-of-god-limits-imitation" >}}
+Wealth promises security and freedom, but {{< backref src="/plants/faith/money-is-a-cruel-master" >}}.
+
+My thinking about generosity and the concept of the tithe is regularly changing, see {{< backref src="/plants/faith/tithe-goes-to-the-levites" >}}, but let's remember that this practice, like all the others, should help us fall more deeply in love with Jesus. As our trust in him grows, {{< backref src="/plants/faith/generosity-evidences-faith-in-gods-provision" >}}. If we're not generous, we may have a misshapen view of God as {{< backref src="a-stunted-view-of-god-limits-imitation" >}}.
 
 ### Disciples Who Exercise Their Gifts
 
@@ -126,3 +118,5 @@ My magnum opus, the {{< backref src="/plants/faith/kingdom-manifesto" >}} is my 
 Who are your disciples? Each disciple ought to be themselves training disciples in an unbroken network of disciple-makers.
 
 Relationships between disciples will conform to their gifting. Two prophets, a mentor and disciple, will invest their time differently than two teachers. And again, A prophet mentoring a teacher will look different than a prophet mentoring an apostle.
+
+TODO: describe the disciple-making relationship in more detail
