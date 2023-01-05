@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-18T19:39:00"
-lastmod = "2022-12-05 14:01:01"
+lastmod = "2023-01-05 10:01:53"
 narrow = true
 toc = true
 title = "Software Shores"
@@ -45,6 +45,7 @@ If you're just getting started but have enough technical acumen to follow the pr
 - {{< backref src="/plants/technology/embed-web-components-into-static-html" >}}
 - {{< backref src="/plants/technology/custom-container-queries-with-resize-observer" >}}
 - {{< backref src="/plants/technology/test-web-components-with-playwright" >}}
+- [Web Components Today](https://webcomponents.today) is an all-inclusive resource for the subject of web components.
 
 #### GitHub Projects I'm Learning From
 
