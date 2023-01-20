@@ -153,6 +153,31 @@ As I swore in my wrath,
 "They shall not enter my rest."[18]
 {{< /poetry >}}
 
+Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God.
+
+But exhort one another every day, as long as it is called "today", that none of you may be hardened by the deceitfulness of sin.
+
+For we have come to share in Christ, if indeed we hold our original confidence firm to the end.
+
+As it is said,
+
+{{< poetry >}}
+Today, if you hear his voice,
+do not harden your hearts as in the rebellion.
+{{< /poetry >}}
+
+For who were those who heard and rebelled? Was it not all those who left Egypt led by Moses?
+
+And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
+
+And to whom did he swear that they would not enter his rest, but to those who were disobedient?
+
+So we see that they were unable to enter because of unbelief.
+
+{{< raw >}}
+<hr />
+{{< /raw >}}
+
 ## Ongoing Notes & Discoveries
 
 1. The ESV translates πάντα as universe, but it is commonly translated "all". Thus not an allusion to the voice of God, his "one speech", as I had supposed.
