@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-22 10:58:10"
-lastmod = "2022-11-22 10:58:34"
+lastmod = "2023-01-23 10:13:48"
 epistemic = "evergreen"
 tags = ["christmas"]
 +++
@@ -25,7 +25,9 @@ Graham and Royal's lists are easiest to manage on Amazon, but you don't have to 
 #### Alex
 
 - Posters and/or cards from [The Thinking Shop](https://thethinkingshop.org).
+- Artwork or a calendar from [David Bird](https://www.davidmbird.com/videos).
 - A one-time subscription to [Every Layout](https://every-layout.dev).
+- [A Responsibility To Awe by Rebecca Elson](https://bookshop.org/p/books/a-responsibility-to-awe-rebecca-elson/7001011?ean=9781784106553)
 - [Prayer by Hans Urs Von Balthasar](https://bookshop.org/p/books/prayer-hans-urs-von-balthasar/8327037?ean=9780898700749)
 - [Crafting a Plot by James Scott Bell](https://bookshop.org/p/books/plot-structure-techniques-and-exercises-for-crafting-a-plot-that-grips-readers-from-start-to-finish-james-scott-bell/18331834?ean=9781582972947)
 - [Steering the Craft by Ursula K Le Guin](https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610)

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-02 09:56:03"
-lastmod = "2022-12-05 14:21:58"
+lastmod = "2023-01-23 10:20:51"
 epistemic = "evergreen"
 tags = ["writing","encouragement"]
 toc = true
@@ -27,6 +27,16 @@ I deny that. I'm not looking for a niché. I'm {{< backref src="/plants/identity
 ### Writing and reading one's writing connects ideas together, sometimes forming new ideas and connections
 
 There's something innovative when ideas from multiple domains are placed together. I'm heard that this is Elon Musk's primary strategy for creating new solutions - find a solution in one domain and apply it to another.
+
+### Writing is Magic
+
+As Marc [explores](https://brooker.co.za/blog/2022/11/08/writing.html), writing is one of the most authoritative ways to communicate with others. To listify his notes:
+
+- Writing brings clarity to one's ideas.
+- Writing captures people's attention. They only hear your voice (and their own) while reading your work.
+- Writing scales. It can be shared to many, across years.
+- Writing lends authority. We believe written words more than spoken (typically).
+- Writing cements memory.
 
 ### Write for intellectual stimulation
 
