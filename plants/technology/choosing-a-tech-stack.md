@@ -1,13 +1,17 @@
 +++
 author = "Alex Bilson"
 date = "2022-03-18"
-lastmod = "2022-10-13 10:39:04"
+lastmod = "2023-01-25 13:59:10"
 epistemic = "plant"
-tags = ["software"]
+tags = ["software", "optimization"]
 +++
 Software projects often get postponed while I decide on the tech stack. What kind of data storage? What programming language? Which framework, if any? My abundant choices sometimes paralyze me from actual building.
 
-There are many stories one might approach software development, but one that I might benefit from goes, "code is cheap. Build it with what you know and, if it needs to be improved, rebuild it."
+There are many stories one might approach software development, but one that I might benefit from goes, "code is cheap. Build it with what you know and, if it needs to be improved, rebuild it." Julia Evan's [three points from Ines Sombra](https://jvns.ca/blog/2017/01/24/choosing-the-best-thing/) explores this in the reverse; what motivates a system change:
+
+1. It’s too expensive
+2. It’s too difficult to operate (humans spend a ton of time worrying about it)
+3. It’s not doing the job it’s supposed to
 
 The chaos-micropub service I'm using to write this quip is written in Python with Flask. I went through a few iterations applying best practices, but the original code was quickly implemented because I'm already familiar with Python and the Flask micro-framework. My backlog's had a task to re-write it in Golang for weeks now, but it's hard to justify rebuilding what works fine. Original projects are often written in Python because it's so easy to build a rapid prototype. Maybe I should just stick with Python...
 
