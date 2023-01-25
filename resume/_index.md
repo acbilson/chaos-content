@@ -131,7 +131,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 </tr>
 <tr>
 	<td>Rustlang</td>
-	<td><meter value="5" min="1" max="10">5 out of 10</meter></td>
+	<td><meter value="6" min="1" max="10">6 out of 10</meter></td>
 </tr>
 <tr>
 	<td>Golang</td>
@@ -141,9 +141,10 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 
 <h4>Examples</h4>
 <ul role="list">
-<li><a href="https://github.com/acbilson/chaos-theme">Chaos Theme (TypeScript/SCSS)</a></li>
+<li><a href="https://github.com/acbilson/chaos-theme">Chaos Theme (Golang/TypeScript/SCSS)</a></li>
 <li><a href="https://github.com/acbilson/chaos-micropub">Chaos Micropub (Python)</a></li>
-<li><a href="https://github.com/acbilson/chaos-webhook">Chaos Webhook (Golang)</a></li>
+<li><a href="https://github.com/acbilson/chaos-webhook">Chaos Webhook (Rustlang)</a></li>
+<li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Python/T-SQL)</a></li>
 </ul>
 
 <h3>Frontend Frameworks</h3>
@@ -194,6 +195,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <h4>Examples</h4>
 <ul role="list">
 <li><a href="https://github.com/acbilson/chaos-micropub">Chaos Micropub (Flask)</a></li>
+<li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Flask)</a></li>
 </ul>
 
 <h3>DevOps Tools</h3>
@@ -239,7 +241,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 </tr>
 <tr>
 	<td>Neovim</td>
-	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
+	<td><meter value="10" min="1" max="10">10 out of 10</meter></td>
 </tr>
 <tr>
 	<td>PowerShell</td>
@@ -248,10 +250,6 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <tr>
 	<td>Bash shell</td>
 	<td><meter value="8" min="1" max="10">8 out of 10</meter></td>
-</tr>
-<tr>
-	<td>Postman</td>
-	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
 	<td>Postman</td>
@@ -309,6 +307,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 
 <h4>Examples</h4>
 <ul role="list">
+<li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Sqlite)</a></li>
 <li><a href="https://github.com/acbilson/chaos-chat">Chaos Chat (Sqlite)</a></li>
 <li><a href="https://github.com/acbilson/plaintext-budget">Budget App (Flat Files)</a></li>
 </ul>
