@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
-lastmod = "2021-12-07 15:13:32"
+lastmod = "2023-01-25 16:04:29"
 epistemic = "seedling"
 tags = ["paradigm","conversion","evangelism"]
-title = "When Are They Converted?"
+title = "When are they converted?"
 +++
 Certain theological systems define conversion at a single point in an individual's life when they were {{< acronym saved "a Christian term loaded with many meanings depending upon context. Essentially, a transition from being an outsider to an insider." >}}. Identifying this moment is a crucial piece of a person's {{< acronym testimony "a Christian term which means a personal story of an encounter with God" >}}. The moment is marked by inward experience in some traditions, or an outward ritual in others. Depending on the system, the authenticity of this moment can be brought into question if the converted's life exhibits little or temporary change. In these cases, the conversion moment is nullified and must _actually_ happen in order to truly be saved.
 

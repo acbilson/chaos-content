@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-02-07"
-lastmod = "2022-12-13 07:16:41"
+lastmod = "2023-01-25 16:02:11"
 epistemic = "evergreen"
 tags = ["sickness"]
+title = "A parent's relationship to sickness"
 +++
 If I was sick more than once a year, I don't remember it. Excluding periods of childhood and the occasional hospitalization, for over a decade I'd never been sick more than once per year; the kind of sick where I'd think, "I should stay home and recover from this." All that changed with Graham.
 

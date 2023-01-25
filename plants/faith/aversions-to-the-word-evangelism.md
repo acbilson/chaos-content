@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
-lastmod = "2021-11-30 07:56:19"
+lastmod = "2023-01-25 16:04:05"
 epistemic = "seedling"
 tags = ["aversion","evangelism"]
-title = "Aversions To The Word 'Evangelism'"
+title = "Aversions to the word 'Evangelism'"
 +++
 There is a range of aversions to the word "evangelism," and it's not only among Christians.
 

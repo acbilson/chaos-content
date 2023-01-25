@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-17T19:01:16.379390"
-lastmod = "2022-03-30 15:25:34"
+lastmod = "2023-01-25 16:05:22"
 epistemic = "seedling"
 tags = [ "wasm", "blazor", "csharp",]
-title = "Learn WebAssembly With Blazor"
+title = "Learn WebAssembly with Blazor"
 +++
 My manager asked me today what technology I'd like to explore. Could be anything, just have to bring back something for my team to learn. The first topic that came to mind was browser-native web components, but he suggested I look into WebAssembly. Since wasm has greater implications for my day-to-day work, I agreed to take it on.
 

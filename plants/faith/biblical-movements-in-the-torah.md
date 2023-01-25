@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-20 13:20:38"
-lastmod = "2022-12-29 11:06:53"
+lastmod = "2023-01-25 16:02:24"
 epistemic = "evergreen"
 tags = ["bible","interpretation","structure","torah"]
+title = "Biblical movements in the Torah"
 +++
 Thanks to [The Bible Project](https://bibleproject.com) I've gotten a better feel for the shape of the Torah. Here's the general outline by movement, as Tim and Jon would put it. There is also sub-structures which I hope to fill in.
 

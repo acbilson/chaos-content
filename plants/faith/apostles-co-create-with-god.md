@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-02-02"
-lastmod = "2022-02-02 08:22:26"
+lastmod = "2023-01-25 16:05:05"
 epistemic = "seedling"
-title = "Apostles Co-Create With God"
+title = "Apostles co-create with God"
 tags = ["apostolic","creation","apest","interdependence"]
 +++
 When I ponder the spiritual gifts listed in Ephesians, {{< acronym APEST "Apostles Prophets Evangelists Shepherds & Teachers" >}}, I think about function. What does an apostle _do_? How is it different/similar to the evangelist's gift? Rarely do I consider the experience of using the gift with God.
