@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-02 09:56:03"
-lastmod = "2023-01-23 10:20:51"
+lastmod = "2023-01-25 13:02:33"
 epistemic = "evergreen"
 tags = ["writing","encouragement"]
 toc = true
@@ -17,6 +17,14 @@ The internet isn't like a crowded room. When you're saying something, it's not l
 ### Don't repeat yourself, write it down and share it
 
 It's part of {{< backref src="/stones/bell-labs/unix-philosophy" >}} to write a function once and share it across the project instead of duplicating it. This same philosophy applies to ideas.
+
+### Writing about tons of different topics is okay
+
+What if I write about a Python idiom today, a note about John chapter 12 tomorrow, and a partial article on vaccine regulation the day after? Linus has a great perspective on this: if someone wants more about that topic, there are many resources they'll go before my website. Mine is for my voice and those who want to hear said voice.
+
+{{< notice type=quote src="https://thesephist.com/posts/how-i-write/" name="Linus Lee" >}}
+There’s so many places online for people to read about Lua or the pandemic or finding cofounders for your startup; if people are here, they’re probably here because of the way I look at things, whether the subject of that study happens to be technical or human in nature on a particular day.
+{{< /notice >}}
 
 ### I'm a Polymath; deal with it
 
