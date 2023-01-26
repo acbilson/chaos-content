@@ -67,10 +67,6 @@ Sit at my right hand until I make your enemies a footstool for your feet[10]
 
 Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
 
-{{< raw >}}
-<hr />
-{{< /raw >}}
-
 Therefore we must pay much closer attention to what we have heard, lest we drift away from it.[11]
 
 For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution, how shall we escape if we neglect such a great salvation?
@@ -173,6 +169,44 @@ And with whom was he provoked for forty years? Was it not with those who sinned,
 And to whom did he swear that they would not enter his rest, but to those who were disobedient?
 
 So we see that they were unable to enter because of unbelief.
+
+Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it.
+
+For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.
+
+For we who have believed enter that rest, as he has said,
+
+{{< poetry >}}
+As I swore in my wrath,
+"They shall not enter my rest,"
+{{< /poetry >}}
+
+although his works were finished from the foundation of the world.
+
+For he has somewhere spoken of the seventh day in this way: "And God rested on the seventh day from all his works."
+
+And again in this passage he said,
+
+{{< poetry >}}
+"They shall not enter my rest."
+{{< /poetry >}}
+
+Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience, again he appoints a certain day, "Today," saying through David so long afterward, in the words already quoted,
+
+{{< poetry >}}
+Today, if you hear his voice,
+do not harden your hearts.
+{{< /poetry >}}
+
+For if Joshua had given them rest, God would not have spoken of another day later on.
+
+So then, there remains a Sabbath rest for the people of God, for whoever has entered God's rest has also rested from his works as God did from his.
+
+Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience.
+
+For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.
+
+And no creature is hidden from his sight, but all are naked and exposed to the eyes of him to whom we must give account.
 
 {{< raw >}}
 <hr />
