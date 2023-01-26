@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2023-01-04 15:53:40"
+lastmod = "2023-01-26 09:21:23"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -13,9 +13,13 @@ title = "Church Cañon"
 +++
 The American Church is in the midst of a slow-burning crisis. Because I love the Body and long for its renewal, and because I'm {{< backref src="/plants/identity/the-apostolic-gift" name="apostolically gifted" >}}, I spend many hours agonizing over Her health and future. Broadly, this garden is where I plant thoughts related to the renovation of the Church of the United States.
 
-I can't think of anything better for the revival of the Church of the United States than the {{< backref src="/plants/faith/launch-a-dmm" name="ignition of disciple-making movements" >}}. We've become hyper-focused on expanding brick-and-mortar churches, but {{< backref src="/stones/peyton-jones/christ-never-commanded-his-disciples-to-plant-churches" >}}. Let's get back to a focus on disciples themselves, and hold the models for gathering, instruction and worship loosely.
+I can't think of anything better for the revival of the Church of the United States than the {{< backref src="/plants/faith/launch-a-dmm" name="ignition of disciple-making movements" >}}. We've become hyper-focused on expanding brick-and-mortar churches, but {{< backref src="/stones/peyton-jones/christ-never-commanded-his-disciples-to-plant-churches" >}}; churches are the derivative. Let's get back to a focus on disciples themselves, and hold the models for gathering, instruction and worship loosely.
 
-## What Kind of Disciple Are You?
+## The Gatherings: A Kingdom Manifesto
+
+How do we organize? With our preoccupation with ideal Sunday gatherings, let's consider how we might orient our times together in a more holistic manner. I've written about this in-depth in the {{< backref src="/plants/faith/kingdom-manifesto" >}}.
+
+## The Core: Making Disciples
 
 I've heard the refrain to "return to Biblical disciple-making" for so long that I'm desensitized to the message. Aren't we all disciples anyways?
 
@@ -33,7 +37,7 @@ A return to making disciples who make disciples corrects many misunderstandings,
 
 Alan Hirsch states that {{< backref src="/stones/alan-hirsch/discipleship-done-biblically-is-always-in-community" >}}. For sharing Jesus, that means {{< backref src="/plants/faith/evangelism-is-a-team-sport" >}}. We're on the hunt to {{< backref src="/plants/faith/find-the-peaceful-people" >}} together, not to {{< backref src="/plants/faith/evangelism-is-not-a-winners-game" name="win souls" >}}. That's why together we {{< backref src="/plants/faith/look-everywhere-for-the-spiritually-open" >}}.
 
-Our discomfort isn't always because we're doing it alone, however. We also don't know what to say. Many of us have discovered that gospel synopses produce more confusion than conversion in our climate, because {{< backref src="/plants/faith/the-good-news-begins-with-the-back-story" >}} but no one knows that story anymore. That's assuming we even know {{< backref src="/plants/faith/what-is-the-gospel" >}}. Others don't share because they feel empty or incomplete, not knowing that {{< backref src="/plants/faith/we-give-more-than-we-have" >}}.
+Our discomfort isn't always because we're doing it alone, however. We also don't know what to say. Many of us have discovered that gospel synopses produce more confusion than conversion in our climate, because {{< backref src="/plants/faith/the-good-news-begins-with-the-back-story" >}} but no one knows that story anymore. That's assuming we even have an answer to the question {{< backref src="/plants/faith/what-is-the-gospel" >}}. Others don't share because they feel empty or incomplete, not knowing that {{< backref src="/plants/faith/we-give-more-than-we-have" >}}.
 
 We might liken sharing the good news about Jesus as an invitation to trust. Therefore, any conversation about evangelism ought to consider how it is that people {{< backref src="/gardens/faith/what-i-have-learned-about-trust" name="learn to trust" >}}. Jessie Cruikshank's work on the {{< backref src="/plants/faith/stages-of-faith-development" >}} is very helpful.
 
@@ -41,7 +45,7 @@ There are ways we could communicate good news that would excel the business and 
 
 ### Disciples Who Understand the Bible
 
-For all the good that's come from preaching, there's a dearth of disciples who read, understand and apply the Bible for themselves. Our leaders may have developed the skills to read, understand, and apply, but these skills aren't making it to their disciples. Do any of them hold a view that {{< backref src="/plants/faith/the-bible-is-for-wisdom-and-pleasure" >}}?
+For all the good that's come from preaching, there's a dearth of disciples who read, understand and apply the Bible for themselves. Our leaders may have developed the skills to read, understand, and apply, but these skills aren't making it to their disciples.
 
 Sometimes its errors in teaching. For all our desire to see people change because of our conviction that {{< backref src="/plants/faith/to-listen-and-obey-jesus-word-brings-life" >}}, dolling out applications is ineffective because {{< backref src="/plants/faith/direct-application-hinders-discovery" >}}. At other times teachers are too convinced of their own interpretation and too critical of other's, often cloaked in a fear of heresy, forgetting that {{< backref src="/plants/faith/biblical-interpretation-is-cyclical" >}}. There are interpretive dangers, such as how {{< backref src="/plants/faith/interpretive-replacements-sometimes-erase-context" >}} or when {{< backref src="/plants/faith/quotes-without-context-invite-misunderstanding" >}}, but how will disciples learn to interpret well without practicing it with us?
 
