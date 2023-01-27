@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-22 10:58:10"
-lastmod = "2023-01-23 10:13:48"
+lastmod = "2023-01-27 11:25:41"
 epistemic = "evergreen"
 tags = ["christmas"]
 +++
@@ -32,7 +32,6 @@ Graham and Royal's lists are easiest to manage on Amazon, but you don't have to 
 - [Crafting a Plot by James Scott Bell](https://bookshop.org/p/books/plot-structure-techniques-and-exercises-for-crafting-a-plot-that-grips-readers-from-start-to-finish-james-scott-bell/18331834?ean=9781582972947)
 - [Steering the Craft by Ursula K Le Guin](https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610)
 - [What Great Parents Do by Erica Reischer](https://bookshop.org/p/books/what-great-parents-do-75-simple-strategies-for-raising-kids-who-thrive-erica-reischer/11310410?ean=9780399176692)
-- [The Wild Places by Robert MacFarlane](https://bookshop.org/p/books/the-wild-places-robert-macfarlane/11717101?ean=9780143113935)
 - [The Genealogical Adam and Eve by Joshua Swamidass](https://bookshop.org/p/books/the-genealogical-adam-and-eve-the-surprising-science-of-universal-ancestry-s-joshua-swamidass/16646398?ean=9781514003831)
 - [A Long Obedience in the Same Direction by Eugene Peterson](https://bookshop.org/p/books/a-long-obedience-in-the-same-direction-discipleship-in-an-instant-society-eugene-h-peterson/15527711?ean=9780830848638)
 - [The Prophets by Abraham Heschel](https://bookshop.org/p/books/the-prophets-two-volumes-in-one-abraham-joshua-heschel/11122288?ean=9781598561814)
