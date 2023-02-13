@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2023-01-26 09:21:23"
+lastmod = "2023-02-13 10:35:24"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -18,6 +18,37 @@ I can't think of anything better for the revival of the Church of the United Sta
 ## The Gatherings: A Kingdom Manifesto
 
 How do we organize? With our preoccupation with ideal Sunday gatherings, let's consider how we might orient our times together in a more holistic manner. I've written about this in-depth in the {{< backref src="/plants/faith/kingdom-manifesto" >}}.
+
+## The Values of Disciple-Making Movements
+
+The DMM mission resounds with the Hamilton Broadway quote, "I wanna make sumpthin that's gonna outlive me." It's Disciple-Making Movements in every geography and every affinity. Chicago and Mozambique, soccer fans and pregnant mothers.
+
+1. God directed. We listen to the Father and do what he says. That's at the individual and community level (micro/macro).
+2. Replication obsessed. The process goes with the growth. Psalm 105 - God’s command to a thousand generations. Degradation of the DNA is natural; it takes obsessive perceverance to keep the DNA stable.
+3. Apostolically spirited. Send the news where it has never been or has never flourished. Won’t happen without us, but won’t depend on us either
+4. Locally directed. Those who live in an area/context, lead in that context
+5. Kingdom committed. We expect the good news transforms people and communities. The world is broken, but we are not impotent
+
+You cannot make one-size fits all, but neither can you do violence to the essence (DNA).
+
+Deuteronomy 6:1-9
+
+The only way that this passes on well is out of passionate love for Jesus.
+
+Every day in every way you reinforce the DNA.
+
+**10 Seismic Shifts**
+
+1. Professional -> Ordinary People
+2. Knowledge -> Obedience
+3. Slow -> Fast
+4. Expensive -> Low Cost
+5. Addition -> Replication
+6. Quantity -> Quantity + Quality
+7. From strangers -> from friends/family
+8. Spectators -> Participants
+9. Wait until sent -> share what you know
+10. Gospel + outside culture -> gospel only
 
 ## The Core: Making Disciples
 
