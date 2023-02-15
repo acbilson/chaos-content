@@ -2,10 +2,10 @@
 aliases = ["/gardens/discovery-stories"]
 author = "Alex Bilson"
 date = "2020-08-05"
-lastmod = "2022-01-25 10:34:57"
+lastmod = "2023-02-15 12:52:58"
 epistemic = "evergreen"
 +++
-{{< caption caption="This is not, in fact, a discovery group. It's my birthday party. But DBS looks just like this (though often on typical furniture)." src="https://d3swaw.by.files.1drv.com/y4mOh8gstJ5hblHu38vc9Zxre1C2EUzg4Y9xmsP7yb3MYa8aY5z31eXYNTAmVUHzJ5uFlMbiT9sXnproX7ULJo53dEjgh9Ucc4Qoi01IfKebrfcu31fNir1ogOqMVTWD0fK0vjbpmL75V1vyBbkOkRarNQiYMkfw1dldsgF_R_-w-owoIduU55RySMER_hCTtrSzZE_Q7-vupn9y9YKU1dPgw?width=1024&height=768&cropmode=none" >}}
+{{< caption caption="This is not, in fact, a discovery group. It's my birthday party. But DBS looks just like this (though often on typical furniture)." alt="Neighborhood friends seated in a big circle on the floor at my birthday party." src="https://images.alexbilson.dev/2016-04-03 15.36.05.webp" >}}
 
 Powerful innovation happens when an innovator takes a concept developed from one discipline and transfers its principles to another domain. Elon Musk is reported to do this himself. By studying a broad range of subjects he utilizes the greatest innovations in one discipline to solve challenges in another. The biochemist may not realize how her chemical innovation might revolutionize space travel because she doesn't know the challenges of that domain. An astronaut might.
 

@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-07 13:20:49"
-lastmod = "2022-12-22 08:48:24"
+lastmod = "2023-02-15 14:26:34"
 epistemic = "evergreen"
 tags = ["comedy","review","children","parenting"]
 Title = "Hilarious Bilson family quotes"
@@ -33,7 +33,7 @@ Graham: "You miss alot mama. So so much."
 Graham: "I love Royal (first time he has ever said this!), but sometimes he smashes my train."
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mDzvbxxlJcJLzgKWJlwEQD6Ku1Wz39WeQojMWMKb2OyhBSOxPfy6lzAASWaGWckKEjosxALRjmb38VLfcTmb7aCCtbB_wKhauTaAX2ryAcog-Vemkyp1XbpSEDIkWrG7jR188CKwtUshe7naIlDVLxfvLRLtiwo4sTcJPRmYnU4rocCY2nX9lObdh-GionMEY?width=1024&height=768&cropmode=none" >}}
+{{< caption alt="Graham and Royal holding hands walking along a concrete walkway." src="https://images.alexbilson.dev/20211001_160038892_iOS.webp" >}}
 
 ### Oct 2021
 
@@ -53,13 +53,13 @@ Graham: "My teeth hurt." "Can you show me where?" He points to his "tooth" far i
 Graham: Holding up a plastic toy otter. "Look mama he has poo" (referring to the tail)
 {{< /story >}}
 
-#### Oct 20, 2022
+#### Oct 20, 2021
 
 {{< story >}}
 I helped Graham and Royal climb a tree branch today. Graham was proud of himself for learning to jump off without help, and Royal doesn't want to be left out so he climbed right behind Graham! They are amazing little boys. I love them so much.
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mVbuzDcs8EiO2YmjCPfN8_cGDFPhMckGrVPsb-Gaj-2urum3DG-Ob9lpSt4WPmCsiLW7yzBFNobBGYIjT8yON5_HaRw3QkIqmxxZsl3IX6yzTx4TaLcVUUqBzg-jHMVAYtEjIfqWnD0S20_7gVCNpBVdaR1oLIWyzQQYiyggMoKum-a19jGSLqZKxv5C_F8Tx?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal in a tree. Graham is wearing his bicycle helmet." src="https://images.alexbilson.dev/20211015_154848625_iOS.webp" >}}
 
 ### November 2021
 
@@ -128,7 +128,7 @@ Amie: "We need to go Graham. You can clean the grass when we get back."
 In the checkout lane at the grocery store after the groceries we placed in the cart and I was paying. Royal slyly looks around then pulls out an entire carton of grapes from one of the bags.
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4myNpfMQLSUrBA5LHpuINVA78xgCs-0c4NtGz7kusruge7mpWXZVy2dZbSpeaq3iz7pZLrFOquNbHbSzdL0oqaLJfrA4LtDf6dsBs5AsMyhaQRLVCoUBKle9VSD2L4K5GCAVl6idvEOdUkkxjtJ7qpxxPcj5OAph5iZzxxNqbZEhR367Wg1QXJ2lOCRQ67Gn2T?width=1024&height=768&cropmode=none" >}}
+{{< caption alt="Graham and Royal laughing together." src="https://images.alexbilson.dev/20211109_141134723_iOS.webp" >}}
 
 ### Dec 2021
 
@@ -158,7 +158,7 @@ Coming out of his room on Christmas morning (Graham), "it's so exciting!"
 Christmas Eve: Both boys diagnosed with hand foot and mouth virus. And Royal with croup and developing ear infection. Not how we thought Christmas was going to start.
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mHjrDJZ_8hn2mixNj-xeoXiV5l68RF0_Ol__U_96bSbw1ITGKrl3wb_AMDmPdf01OTLSjwdGRP8u4rbvHI1nXU5XbLJ5FUHML1NXW5Yzh-SI_a2e8pK6wIg1SfZ1DrAj17T3CVO-vfZPoj8SfJtoEqNMCggQQfpeNnQ4o0dvmsHCN_dzXR5dFA7cuOV_S1AFE?width=1024&height=768&cropmode=none" >}}
+{{< caption alt="Graham and Royal snuggling on the couch under our Canadian blanket." src="https://images.alexbilson.dev/20211225_160718.webp" >}}
 
 ### January 2022
 
@@ -201,7 +201,7 @@ Graham came into the bedroom and saw a small bit of spilled water on the floor. 
 Graham: "Papa peed on the floor!"
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4m2PpetbJFCFiEl9T7i_8tOv7RmarMYV7OzNdfhzsXOcBU5qgRqDhZ-jVJALO6oTnlkS0mXg2wj-5303ORx19yaGScVK_tAZu98YSpQ9V64p0alMut1FiF06rZ_cwIuvtxL4qWf81UHpFL44fuxv5DTLbe2T-NesVbO7FP1teTRSWThdDKhE3ud-vcyTedet7s?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal drinking from the same cup." src="https://images.alexbilson.dev/20220117_173848087_iOS.webp" >}}
 
 ### February 2022
 
@@ -224,7 +224,7 @@ Graham: "Oh, ok…I'm not going to give up."
 Graham: "Royal, can I snuggle on your face?!"
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mnqR4XdfmLz54p9iihLev8cMEZp-aOoeiMyQoUufxaqUIK-U9guAKk82Vm_x9mg0yOJZJ7beP_v3ixHYj6ygjteD7fHVd9wZ-0ugH8bPZusqzMFotoGVN_2zYBDL2H11U6T3gVapTQzSSIpK8akfCLZFp56BUPPcSSTe3hYwgdXbCS2_QKUI2jsDlxs0y7aRP?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal with yellow stools on their heads." src="https://images.alexbilson.dev/20220207_210130590_iOS.webp" >}}
 
 ### March 2022
 
@@ -250,7 +250,7 @@ Royal pood in the bath tonight…a more regular occurance than i ever imagined! 
 We went in to Royal's bedroom and sang happy birthday this morning. Royal scowled and said “No!”  Then I took him to the living room to snuggle and he threw up on me. This is how Royals second birthday started! We all had a fun day celebrating Royal!!
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4m4nm6_DmMUAruqoyogVKQyX-cwWebfi_1jixUpU8Bt-vh4elhzM0HZ3lju6xtv3XSzcgiBMZRQ3OIDKxmpWG4rULVC13hZ0lfNQLhADfI2IUqDi_8Kb2hX7hYpRlw5BW0Vmfg6ifkZjdNywtGOXPzZxLubXTGxPxCMyCi9Wraoiy98WHTK-_MeKn-Ca2QaVRA?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal watching a show." src="https://images.alexbilson.dev/20220311_140743.webp" >}}
 
 ### April 2022
 
@@ -301,7 +301,7 @@ Royal laughing, "I'm funny!
 Royal woke early this morning around 5:45. I was so tired so I thought I'd pull him into bed and see if he would snuggle for a few minutes before getting up. I dozed off and woke seeing Royal sitting on top of Alex with the biggest grin. Alex- "Get off me Graham!" (Poor Graham wasn't even awake yet!).  As I helped Royal get off of Alex, he laughed saying "That's funny!"
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mMn14w46GzllURm_xnBpQJP2fSkSwRnOZJ1ESJfKyy6znsw7E6mD4KMxYcc1SEXfpBej633xwMTalI2PCzCbCi6d2_Hi3fbEgl8KHwWF6lN9qJyO-Rz4FZtqXFYCZ5zdnQtDeBBPIZUv-mAUqzycP9o8Jxg05f-96hpCA-JyjzdWj5dbaopAGoZoHglEsTyrX?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal riding a tilter at the park." src="https://images.alexbilson.dev/20220421_210715394_iOS.webp" >}}
 
 ### May 2022
 
@@ -309,7 +309,7 @@ Royal woke early this morning around 5:45. I was so tired so I thought I'd pull 
 Graham: "Mama, do you want to wink with me?!"
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mM4zoPcqSDpX3-x8-atphOauvdXRH6ppEOm38T555Y1arKXl5eDn45nbnmjx_3CM_7VX3CMviHen6xZVlqfipSxc5i1LCgdmxRNxpbNdCM1pIEG-dr2Gdr8vovzW9AuM3a_AsN0wBqB2dh7KE5nMayAwvq7OhcDI93nCaPh7r25xokidVj89veC5UEXazrLJf?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal eating Minion ice creams." src="https://images.alexbilson.dev/20220510_202229192_iOS.webp" >}}
 
 ### June 2022
 
@@ -325,7 +325,7 @@ I've been trying to help Graham practice wiping his own butt after using the toi
 Graham's association to bones is that they are found in the ground like dinosaur bones. Today he was fascinated to learn that we have bones in our bodies! We spent time feeling our bones.
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4myzgpTwvB4VoIeZ4go5tEdwN7nqMlHbRx58mh-favZseT5GHYNOmE_tkSD6WREqy8BQ1t4BounLCF917_B0PHJAPSLS7p7aHY77ouZx9k8XxCS9fRjBsXGu6sIBtFVTi_31TEw3tOyhIPpp1gOVn3OSLLIkx-NauF4DLhwf6CCfB8GMknAWYHydI_w-6sNqM9?width=1024&height=768&cropmode=none" >}}
+{{< caption alt="Graham and Royal with the Chicago skyline." src="https://images.alexbilson.dev/20220710_211351428_iOS.webp" >}}
 
 ### August 2022 (in SD)
 
@@ -335,7 +335,7 @@ Amie: "Why?"
 Graham: "It has a big booger on it!"
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mKsjMx8gbmQ6QNfBA0voI1ywY5S5gkLdSdtmMviEhcfBBXNq9CBeXp5qruRvNiyW_APQHru5ZQnFD3cZHiNZnaP5dFK9Dbv0jJ00ihPtcPBRhXOpyZxfem8dnOP8Gay1xg9GYLOfX47SL0Jsx3DOkjMIlpCjhlPaD6FqAbaLsezDO6LrfyBxYkJwDN9XhfOds?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal on the L train." src="https://images.alexbilson.dev/20220716_170214956_iOS.webp" >}}
 
 ### Sept 2022
 
@@ -345,12 +345,11 @@ Amie: "You know what Mr. Rogers says…It is very very very very very very very 
 Royal: "No!" (Short pause) "I want grandma now!"
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4maF4DmwIGo282pt4GM6cB8a5WhABXch44RYvYbxV0zv4eEv7q97niOFAci7MonzCTR5Cd-yMTEDsZQYGx0nKSSYhZBLABEeiHeYnbcXSIwwqXkO-ga5rbsXuIJ6jmDE1TXkyLZLa85YTz5yA-N2emILrvkXq5eW_pfvdNHkohUPREeSolXBV1fvRK5jZwkDsI?width=1024&height=768&cropmode=none" >}}
-
+{{< caption alt="Graham and Royal in the Ash tree in our front yard." src="https://images.alexbilson.dev/20220802_161924543_iOS.webp" >}}
 
 ### October 2022
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mbgl9L4tdUvs_3auTjY2G6_dtN_LEdoUKVxbK9Z43i-wyBvt-tNNkFUo1CcBIOZOI9r7OPyCZdpFLwrStpHNcTI4w8MGtgTB_qoezeIaje3arNdofC6PdcUiwdIuQFDkDqNJ_7BuwcT6P3TJSjd_-yvw-X5hJJbZ8aLl8o-zvCrM_Y72twBNlef4qbiIjexjV?width=1024&height=768&cropmode=none" >}}
+{{< caption alt="Graham and Royal in the fall leaves." src="https://images.alexbilson.dev/20221021_213254200_iOS.webp" >}}
 
 ### December 2022
 
@@ -379,4 +378,4 @@ Amie: "Oh you want a turn to sing?"
 Royal: "Yes, la la la..."
 {{< /story >}}
 
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4mvJo6hSHIteBt54MCapxeBcAXprAKPfKC9DrbV7WolutcHcSudQw-LFTuXlaCHqCc1-HuNiSOrip7F4XE84JKW1kLgEX20f1HuXch9Wqbd_d1w-g9-I7Tho7-tGtCrXk6yyUotmrch4axLRKMYaQWsgTTQ0-PYPO2bXzdD1briKIAp_hhkOzSzuE2lNTYwrhq?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="Graham and Royal together. Royal is in a toy bin." src="https://images.alexbilson.dev/20221212_011020610_iOS.webp" >}}

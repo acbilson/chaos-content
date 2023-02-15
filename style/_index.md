@@ -111,7 +111,7 @@ Bilson, Alex. Chaos and Order, Mark II (2021).
 ### Image with a caption
 
 {{< caption
-src="https://bn02pap001files.storage.live.com/y4mYunje7Ps5pTlKWXvzNovYS0y4Oemfv5RDbyug0hRyK-ILG3pw9pDiZg6w4wwtFzj3jKDT8ex4GF0e9-rkbAUADIyeBeJFDYkXTHfByIl0dn6xZt3T8EqtIsbJycCuYZgDYb5pqGPGI9x5QUttmPYuztKAN-VHBjmP_uy25W_acp3NVgutzihWT6m0jFQf5c_?width=768&height=1024&cropmode=none"
+src="https://images.alexbilson.dev/20210626_185256743_iOS.webp"
 alt="Royal Plays in Diamond"
 caption="This is an optional caption for this image. Isn't Royal cute?"
 >}}

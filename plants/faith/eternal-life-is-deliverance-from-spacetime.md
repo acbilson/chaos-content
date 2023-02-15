@@ -1,11 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-17 09:59:24"
-lastmod = "2022-05-17 10:11:46"
+lastmod = "2023-02-15 12:55:11"
 epistemic = "seedling"
 tags = ["spacetime","eternity","death"]
 +++
-{{< caption caption="" src="https://bn02pap001files.storage.live.com/y4m7CQsrFAuXnH_zTuj4CX-j0iwiPEgv7Oa8b5_3e760yFG9BtVd9NvwFbjq27Rwc9an22gdIEIqiQm0aCKsLwHfdEQO93FEWOEPa-fK91w5QFn3GsoPU-TQ6XlcuacHGtO6rB2YaZ46EtQNxD1a_xQiEH3FwnCc491C2cjxljoJAy0XeA_ldYwX2rM-Xu1BtM0?width=768&height=1024&cropmode=none" >}}
+{{< caption alt="A painting of a tree, with each leaf the thumbprint of a friend." src="https://images.alexbilson.dev/20220516_010051234_iOS.webp" >}}
 
 This image is encouraging to me at this time because I’ve also been meditating on eternal life.
 
