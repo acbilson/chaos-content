@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-12-06"
-lastmod = "2021-12-06 15:33:21"
-epistemic = "sprout"
+lastmod = "2023-02-22 15:22:34"
+epistemic = "plant"
 tags = ["docker","python"]
 +++
 A discovery I made when moving services to Docker containers was the sheer size of a Python container! If you only pull down the latest Python base image and install your dependencies, your image can be upwards of 200Mb. Fortunately, there's at least one multi-stage Dockerfile build tip that can save you lots of space.
