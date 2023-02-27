@@ -2,7 +2,7 @@
 aliases = ["/gardens/discovery-stories"]
 author = "Alex Bilson"
 date = "2020-08-05"
-lastmod = "2023-02-27 15:24:14"
+lastmod = "2023-02-27 15:26:17"
 epistemic = "evergreen"
 +++
 {{< caption caption="This is not, in fact, a discovery group. It's my birthday party. But DBS looks just like this (though often on typical furniture)." alt="Neighborhood friends seated in a big circle on the floor at my birthday party." src="https://images.alexbilson.dev/2016-04-03 15.36.05.webp" >}}
@@ -13,7 +13,7 @@ Powerful innovation happens when an innovator takes a concept developed from one
 
 Jesus used stories to challenge people's conceptions of reality and plant seeds that would later transform their worldview. Here are hand-picked stories from our own experience that I pray will transform your vision of what's possible.
 
-- In 2014, Amie and I co-led the first {{< "Chicago Neighborhood" "A church plant of the Evanston Vineyard" >}} small group as a trimmed-down DBS co-led with our pastor. At thirteen attendees, it's the largest DBS group we've led. The format allowed full participation from a widely diverse group. The questions were so easy to remember that the group self-corrected when conversations strayed off-course and left the facilitators plenty of room to participate. Our pastor prepared another study just in case showing up to read the Bible together wasn't enough, but abandonded it after the first week. **DBS facilitation requires minimal training and energy.**
+- In 2014, Amie and I co-led the first {{< acronym "Chicago Neighborhood" "A church plant of the Evanston Vineyard" >}} small group as a trimmed-down DBS co-led with our pastor. At thirteen attendees, it's the largest DBS group we've led. The format allowed full participation from a widely diverse group. The questions were so easy to remember that the group self-corrected when conversations strayed off-course and left the facilitators plenty of room to participate. Our pastor prepared another study just in case showing up to read the Bible together wasn't enough, but abandonded it after the first week. **DBS facilitation requires minimal training and energy.**
 
 - In 2015, after only four weeks of meeting together, we invited an unlikely leader to facilitate the night's study. She'd recently returned to faith, did not consider herself "leadership material" and had debilitating illness. She accepted, and her first words to the group were, "there are two things I've hoped never to do, speak and pray in front of others. Tonight I will do both." She facilitated the entire group splendidly and stated after the meeting that it was easier than she'd expected. The discovery questions were so helpful to her that she took them home to study the bible in private. DBS means **Anyone** can facilitate.
 
