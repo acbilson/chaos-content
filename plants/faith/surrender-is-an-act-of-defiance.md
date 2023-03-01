@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2023-03-01 13:21:50"
-lastmod = "2023-03-01 13:25:10"
+lastmod = "2023-03-01 13:26:31"
 epistemic = "plant"
-tags = ["defiance","warfare","faith","prayer","kingdom"]
+tags = ["defiance","warfare","faith","prayer","kingdom","surrender"]
 +++
 I tend to be allergic to the word "surrender." I don't think I've ever joined in singing that old hymn "I Surrender All." It's my own hang-up–whatever–but I've been meditating on Jesus' victory over the powers of darkness through his surrender unto death and it occurred to me that surrender isn't always a passive thing. Perhaps sometimes it's passive, but it's also sometimes militant.
 
