@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2023-03-02"
-lastmod = "2023-03-02 13:14:02"
+lastmod = "2023-03-02 13:28:29"
 +++
 
 ## Purpose
@@ -35,3 +35,7 @@ I'm a reluctant user of Visual Studio. The way it hides what it's doing behind a
 When I had the most basic Console app imaginable I wrote up the Dockerfile and generated my image. To my dismay the thing was 200MB! With a little investigation I found some {{< backref src="/plants/technology/slim-your-dotnet-dockerfile" name="configuration steps" >}} that brought the final output down to 52MB.
 
 After adding the NSwag dependencies I was no longer able to trim the published code with IL Linker. It's not completely clear to me why that's so, but it's a significant liability that any package added to my project might force me to accept 100MB of unused libraries. Now my bloated Docker image sits at 163MB. Not cool 🙁.
+
+## Unit Testing
+
+I'm a huge fan of unit tests, so no project lasts long before I'm refactoring to make it testable. I was pleasantly surprised to discover that the host configuration tools which Microsoft produces and which often baffle me make writing testable code easy. So this is how to {{< backref src="/plants/technology/test-a-dotnet-web-service" >}}.
