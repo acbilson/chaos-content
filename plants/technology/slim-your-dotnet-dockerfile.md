@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2023-02-22"
-lastmod = "2023-02-22 15:47:30"
+lastmod = "2023-03-02 13:05:01"
 epistemic = "plant"
 tags = ["docker","dotnet"]
 +++
@@ -26,7 +26,7 @@ The most relevant flags are `--runtime`, which lets us compile our code specific
 
 ### Optimize Code Linking
 
-I don't fully understand how dotnet code is compiled, but any compiler option which leaves out what isn't needed is bound to cut down on our image size. Add the following XML to the relevant `.csproj` file(s) to reduce the final output. I'm building a console app, so that'd be the console project.
+I don't fully understand how dotnet code is compiled, but any compiler option which leaves out what isn't needed is bound to cut down on our image size. Add the following XML to the relevant `.csproj` file(s) to reduce the final output with the IL Linker tool. I'm building a console app, so that'd be the console project.
 
 {{< highlight html >}}
 	<PropertyGroup>
