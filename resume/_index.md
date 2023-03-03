@@ -96,6 +96,12 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <h5>2022</h5>
 <ul role="list">
 <li>My second major project at Performance Trust was one of my best, the <a href="{{< ref "/resume/ratio-sorting-page" >}}">Data+ Web Tool</a>. My growing know-how with Angular development paid off in a flexible, performant, low-bug offering. In the words of Bart Smith, "This is *!$#%^ awesome!". Most of the praise for the performant engine, however, goes to our resident database whiz, Mary Mistica, for an amazing SQL Stored Procedure.</li>
+<li>My third major project at Performance Trust, the <a href="{{< ref "/resume/call-report-parser" >}}">Call Report Parser</a>, was given to me because I was the only one on my team proficient in Python. I leveraged a lot of skills to get this working and learned a ton. I even submitted a bug report for the Python Selenium package!</li>
+</ul>
+
+<h5>2023</h5>
+<ul role="list">
+<li>My current project at Performance Trust is the <a href="{{< ref "/resume/call-report-parser" >}}">Regulatory Crawler</a>. I'm really enjoying building out a .NET Core app from sratch and learning how to use NSwag to generate OpenAPI clients.</li>
 </ul>
 
 </article>
