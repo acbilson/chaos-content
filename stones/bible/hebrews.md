@@ -41,7 +41,7 @@ But of the Son he says,
 {{< poetry >}}
 Your throne, O God, is forever and ever,
 the scepter of uprightness is the scepter of your kingdom.
-You have loved righteousness and hated wickeness;
+You have loved righteousness and hated wickedness;
 therefore God, your God, has anointed you
 with the oil of gladness beyond your companions[8]
 {{< /poetry >}}
@@ -172,7 +172,7 @@ So we see that they were unable to enter because of unbelief.
 
 Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it.
 
-For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.
+For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened[19].
 
 For we who have believed enter that rest, as he has said,
 
@@ -233,3 +233,4 @@ the highest of the kings of the earth" especially given the author's use of firs
 16. A direct quote of Isaiah 8:18.
 17. A reference to Numbers 12:7 "Not so with my servant Moses. He is faithful in all my house."
 18. A direct quote of Psalm 95:7-11.
+19. The singular verb, συγκεκραμένος (united, as in water mixed with wine) is a variant with less support than its plural form συγκεκραμένους. This is significant, since the object of the verb switches from faith (singlular) to the listeners (plural). The BDAG supplies an alternative translation with this plural form, "the word that they heard did not benefit those who were not united with those who listened in faith." However, the meaning is not clear to me either way; of faith mixing with listening obedience (that doesn't make sense) or the faithless not mixing with those who in listening obedience reveal their faith (better, but mixing with others like water with wine is a strange analogy. Not unprecedented in modern language, but is this an ancient near-East saying?)
