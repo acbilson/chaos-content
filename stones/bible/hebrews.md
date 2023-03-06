@@ -212,6 +212,40 @@ And no creature is hidden from his sight, but all are naked and exposed to the e
 <hr />
 {{< /raw >}}
 
+Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession.
+
+For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.
+
+Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.
+
+For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins.
+
+He can deal gently with the ignorant and wayward, since he himself is beset with weakness.
+
+Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people.
+
+And no one takes this honor for himself, but only when called by God, just as Aaron was.
+
+So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him,
+
+{{< poetry >}}
+You are my son,
+today I have begotten you;
+{{< /poetry >}}
+
+As he says also in another place,
+
+{{< poetry >}}
+You are a priest forever,
+after the order of Melchizedek[20].
+{{< poetry >}}
+
+In the days of his flesh, Jesus offered up prayers and supplications, with load cries and tears, to him who was able to save him from death, and he was heard because of his reverence.
+
+Although he was a son, he learned obedience through what he suffered.
+
+And being made perfect, he became the source of eternal salvation to all who obey him, being designated by God a high priest after the order of Melchizedek.
+
 ## Ongoing Notes & Discoveries
 
 1. The ESV translates πάντα as universe, but it is commonly translated "all". Thus not an allusion to the voice of God, his "one speech", as I had supposed.
@@ -234,3 +268,4 @@ the highest of the kings of the earth" especially given the author's use of firs
 17. A reference to Numbers 12:7 "Not so with my servant Moses. He is faithful in all my house."
 18. A direct quote of Psalm 95:7-11.
 19. The singular verb, συγκεκραμένος (united, as in water mixed with wine) is a variant with less support than its plural form συγκεκραμένους. This is significant, since the object of the verb switches from faith (singlular) to the listeners (plural). The BDAG supplies an alternative translation with this plural form, "the word that they heard did not benefit those who were not united with those who listened in faith." However, the meaning is not clear to me either way; of faith mixing with listening obedience (that doesn't make sense) or the faithless not mixing with those who in listening obedience reveal their faith (better, but mixing with others like water with wine is a strange analogy. Not unprecedented in modern language, but is this an ancient near-East saying?)
+20. A direct quote of Psalm 110:4.
