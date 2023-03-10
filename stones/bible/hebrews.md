@@ -238,7 +238,7 @@ As he says also in another place,
 {{< poetry >}}
 You are a priest forever,
 after the order of Melchizedek[20].
-{{< poetry >}}
+{{< /poetry >}}
 
 In the days of his flesh, Jesus offered up prayers and supplications, with load cries and tears, to him who was able to save him from death, and he was heard because of his reverence.
 
