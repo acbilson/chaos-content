@@ -8,50 +8,36 @@ page = ""
 source = "Leavings"
 tags = ["children","sacrifice","ambiguity","evil"]
 +++
-{{< raw >}}
-<div class="poem flow-s">
-<p>1. How much poison are you willing</p>
-<p>to eat for the success of the free</p>
-<p>market and global trade? Please</p>
-<p>name your preferred poisons.</p>
+{{< poetry >}}
+1. How much poison are you willing
+to eat for the success of the free
+market and global trade? Please
+name your preferred poisons.
 
-<p class="space">2. For the sake of goodness, how much</p>
-<p>evil are you willing to do?</p>
-<p>Fill in the following blanks</p>
-<p>with the names of your favorite</p>
-<p>evils and acts of hatred.</p>
+2. For the sake of goodness, how much
+evil are you willing to do?
+Fill in the following blanks
+with the names of your favorite
+evils and acts of hatred.
 
-<p class="space">3. What sacrifices are you prepared</p>
-<p>to make for culture and civilization?</p>
-<p>Please list the monuments, shrines,</p>
-<p>and works of art you would</p>
-<p>most willingly destroy.</p>
+3. What sacrifices are you prepared
+to make for culture and civilization?
+Please list the monuments, shrines,
+and works of art you would
+most willingly destroy.
 
-<p class="space">4. In the name of patriotism and</p>
-<p>the flag, how much of our beloved</p>
-<p>land are you willing to desecrate?</p>
-<p>List in the following spaces</p>
-<p>the mountains, rivers, towns, farms</p>
-<p>you could most readily do without.</p>
+4. In the name of patriotism and
+the flag, how much of our beloved
+land are you willing to desecrate?
+List in the following spaces
+the mountains, rivers, towns, farms
+you could most readily do without.
 
-<p class="space">5. State briefly the ideas, ideals, or hopes,</p>
-<p>the energy sources, the kinds of security,</p>
-<p>for which you would kill a child.</p>
-<p>Name, please, the children whom</p>
-<p>you would be willing to kill.</p>
-</div>
-
-<style>
-  .poem > p {
-    line-height: 0.4rem;
-  }
-
-  .poem > p.space {
-  	margin-top: 2rem;
-  }
-
-</style>
-
-{{< /raw >}}
+5. State briefly the ideas, ideals, or hopes,
+the energy sources, the kinds of security,
+for which you would kill a child.
+Name, please, the children whom
+you would be willing to kill.
+{{< /poetry >}}
 
 (discovered on [The Marginalian](https://www.themarginalian.org/2019/08/14/wendell-berry-questionnaire-amanda-palmer/))

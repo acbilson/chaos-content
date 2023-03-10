@@ -8,34 +8,24 @@ page = "736"
 source = "A Sacrifice of Praise"
 tags = ["prayer"]
 +++
-{{< raw >}}
-<div class="poem">
-<p>Master, they say that when I seem</p>
-<p>To be in speech with you,</p>
-<p>Since you make no replies, it's all a dream</p>
-<p>––One talker aping two.<br /><br /></p>
+{{< poetry >}}
+Master, they say that when I seem
+To be in speech with you,
+Since you make no replies, it's all a dream
+––One talker aping two.
 
-<p>They are half right, but not as they</p>
-<p>Imagine; rather, I</p>
-<p>Seek in myself the things I meant to say,</p>
-<p>And lo! the wells are dry.<br /><br /></p>
+They are half right, but not as they
+Imagine; rather, I
+Seek in myself the things I meant to say,
+And lo! the wells are dry.
 
-<p>Then, seeing me empty, you forsake</p>
-<p>The Listener's role, and through</p>
-<p>My dead lips breathe and into utterance wake</p>
-<p>The thoughts I never knew.<br /><br /></p>
+Then, seeing me empty, you forsake
+The Listener's role, and through
+My dead lips breathe and into utterance wake
+The thoughts I never knew.
 
-<p>And thus you neither need reply</p>
-<p>Nor can; thus, while we seem</p>
-<p>Two talking, though art One forever, and I</p>
-<p>No dreamer, but thy dream.</p>
-</div>
-<style>
-  div.poem p {
-    line-height: 0.4rem;
-  }
-  div.poem p:nth-child(even) {
-    padding-left: 24px;
-  }
-</style>
-{{< /raw >}}
+And thus you neither need reply
+Nor can; thus, while we seem
+Two talking, though art One forever, and I
+No dreamer, but thy dream.
+{{< /poetry >}}
