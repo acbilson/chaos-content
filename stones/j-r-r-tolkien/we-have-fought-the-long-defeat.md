@@ -1,6 +1,6 @@
 +++
 authors = [
-  "J. R. R. Tolkein"
+  "J. R. R. Tolkien"
 ]
 copyright = "2005"
 date = "2023-01-20"
