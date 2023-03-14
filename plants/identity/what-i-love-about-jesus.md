@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-07-16T19:55:03"
-lastmod = "2021-12-30 11:29:35"
+lastmod = "2023-03-14 16:38:49"
 epistemic = "evergreen"
 tags = ["love","gratitude"]
+title = "What I love about Jesus"
 +++
 There's so much to love about Jesus. Here's my endlessly growing list of loves, along with curiosities, questions, and otherwise.
 

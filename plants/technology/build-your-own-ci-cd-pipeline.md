@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-05 08:52:40"
-lastmod = "2022-05-17 15:06:07"
+lastmod = "2023-03-14 16:37:29"
 toc = true
 epistemic = "evergreen"
-title = "Build Your Own CI/CD Pipeline"
+title = "Build your own CI/CD pipeline"
 tags = ["deployment","ansible","redis","ci/cd","systemd","git","podman"]
 +++
 ## The Journey Ends

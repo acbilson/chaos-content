@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-04-29"
-lastmod = "2021-12-30 08:02:47"
+lastmod = "2023-03-14 16:39:59"
 epistemic = "evergreen"
 tags = ["privilege"]
-title = "Privilege: Practical Steps"
+title = "Privilege: practical steps"
 +++
 {{< muted >}}
 This is part three in a series on the subject of privilege. Review my first post, {{< backref src="/plants/faith/privilege-definition" >}}, and second post, {{< backref "/plants/faith/privilege-advocate-vulnerable" >}} for context.

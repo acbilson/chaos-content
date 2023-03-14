@@ -1,10 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-21"
-lastmod = "2022-01-12 15:16:18"
+lastmod = "2023-03-14 16:38:19"
 epistemic = "evergreen"
 toc = true
 tags = ["attributes","character"]
+title = "Attributes of God"
 +++
 When I was a new Christian, I compiled a link list of God's attributes from books I had access to, like A.W. Tozer's _Knowledge of the Holy_. It's not an exhaustive list, nor do I necessarily agree now with every implicit theological leaning it represents, but I think it's a helpful catalog.
 

@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2023-01-20 14:16:10"
-lastmod = "2023-01-20 14:30:38"
+lastmod = "2023-03-14 16:43:01"
 epistemic = "seedling"
 tags = ["energy","electromagnetism","spectrum"]
+title = "What is electromagnetic energy?"
 +++
 I had not considered that heat radiance, such as that put forth by my space heater, is a form of energy in exactly the same way as light and Wi-Fi. I seem to have the same view of the world which existed before the 1980's.
 

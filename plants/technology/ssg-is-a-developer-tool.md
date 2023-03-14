@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-25T18:49:39+01:00"
-lastmod = "2021-12-01 14:47:54"
+lastmod = "2023-03-14 16:42:01"
 epistemic = "plant"
 tags = ["static-site", "hosting", "indieweb"]
-title = "SSG is a Developer Tool"
+title = "SSG is a developer tool"
 +++
 While I agree with much of Florens’ [critique](https://fvsch.com/static-site-generators), I think the static site concept has a different purpose than he suggests.
 

@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-11-10 13:23:21"
+lastmod = "2023-03-14 16:36:35"
 epistemic = "evergreen"
 tags = ["entrepreneurship","attunement","buoyancy","clarity","communication","resilience","empathy"]
-title = "Attunement, buoyancy, and clarity Are crucial sales skills"
+title = "Attunement, buoyancy, and clarity are crucial sales skills"
 +++
 Those who sell must be emotionally aware, able to rebound, and clear in their goals, presentation, and next steps. If you're in sales–Pink would argue almost everyone–you'll need to develop three skills: Attunement, Buoyancy, and Clarity {{< cite name=Pink loc="pg. 66" >}}.
 

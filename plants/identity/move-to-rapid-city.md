@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2022-08-10 06:45:12"
-lastmod = "2023-02-15 13:15:34"
+lastmod = "2023-03-14 16:35:47"
 epistemic = "evergreen"
 tags = ["travel", "moving"]
+title = "Move to Rapid City"
 +++
 When we {{< backref src="/plants/identity/summer-vacation" name="vacationed in Rapid City" >}} last summer, I didn't expect we'd be _living_ in Rapid City the next year. But that's what has happened.
 

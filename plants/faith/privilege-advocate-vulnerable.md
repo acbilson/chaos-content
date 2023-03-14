@@ -2,9 +2,9 @@
 author = "Alex Bilson"
 date = "2020-04-15"
 epistemic = "evergreen"
-lastmod = "2021-12-30 08:02:37"
+lastmod = "2023-03-14 16:39:28"
 tags = ["privilege"]
-title = "Privilege: An Advocate for the Vulnerable"
+title = "Privilege: an advocate for the vulnerable"
 +++
 {{< muted >}}
 This is part two in a series on the subject of privilege. Review my first post, {{< backref src="/plants/faith/privilege-definition" >}}, for context.

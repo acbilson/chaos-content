@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-02-10T15:54:31"
-lastmod = "2022-10-13 10:05:44"
+lastmod = "2023-03-14 16:42:19"
 epistemic = "sprout"
 tags = ["snippet","python","errors","design"]
-title = "Use HTTP Response Objects"
+title = "Use HTTP response objects"
 +++
 As Victoria mentions in her [post](https://victoria.dev/blog/do-i-raise-or-return-errors-in-python/), the type of code you're writing affects how you'll handle errors. Her example matches code that integrates with other systems on the same machine (and probably other cases).
 

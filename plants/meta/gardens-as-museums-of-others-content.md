@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-11-10"
-lastmod = "2021-11-30 08:02:05"
+lastmod = "2023-03-14 16:45:36"
 epistemic = "seedling"
 tags = ["digital-garden","web-design"]
-title = "Gardens As Museums of Other's Content"
+title = "Gardens As museums of other's content"
 +++
 [Nick Trombly](https://barnsworthburning.net) organizes his content by tag and author. There are nuances, but a typical page shows all the content he's collected on the subject, such as [anxiety](ihttps://barnsworthburning.net/spaces/anxiety). By contrast, [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) organizes his notes by hyperlink reference. The typical page shows a single note, with the option to display references to and references from side-by-side, such as [Evergreen notes](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C).
 

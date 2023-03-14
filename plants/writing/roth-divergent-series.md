@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-12-19"
-lastmod = "2021-12-01 14:42:53"
+lastmod = "2023-03-14 16:40:42"
 epistemic = "evergreen"
 tags = ["evolution", "genetics", "virtue"]
-title = "Recommend: Divergent Series"
+title = "Recommend: Divergent series"
 +++
 Well, I've done it. In the space of four days I've finished the entire Divergent series. Yes, all 1215 pages. Don't look at me like that.
 

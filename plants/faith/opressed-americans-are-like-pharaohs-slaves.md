@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-09-09"
-lastmod = "2022-01-12 15:34:29"
+lastmod = "2023-03-14 16:38:01"
 epistemic = "evergreen"
 tags = ["racism","privilege","history","gratitude"]
+title = "Oppressed Americans are like Pharaoh's slaves"
 +++
 Have you watched this?
 

@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-12-03"
-lastmod = "2021-12-03 08:23:42"
+lastmod = "2023-03-14 16:45:14"
 epistemic = "seedling"
 tags = ["goals","planning"]
+title = "Where I see myself in 2024"
 +++
 Mike, my manager, asked me to produce a three-year-plan and a five-year-plan as a means for him to understand the trajectory of my career and know how he can help me arrive. Thoughtful question, even if it does feel a little like homework coming from my boss.
 

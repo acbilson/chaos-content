@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-10T09:02:00"
-lastmod = "2023-01-26 09:16:22"
+lastmod = "2023-03-14 16:44:37"
 epistemic = "seedling"
 tags = ["paradigm","kingdom","evangelism","community"]
+title = "Allegiance to Jesus is communal"
 +++
 Christians, even those in a highly individualistic culture, recognize the communal nature of our allegiance to Jesus when we advocate for church attendance.
 

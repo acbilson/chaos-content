@@ -1,10 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2020-03-04"
-lastmod = "2021-12-01 14:48:38"
+lastmod = "2023-03-14 16:41:09"
 epistemic = "evergreen"
 tags = ["children", "potty-training"]
-title = "Potty Training: Aftermath"
+title = "Potty training aftermath"
 +++
 {{< muted >}}
 This is part two in a series about potty training. To start from the beginning, go to {{< backref src="/plants/parenting/potty-training" >}}.
