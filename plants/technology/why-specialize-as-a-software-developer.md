@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-02-04"
-lastmod = "2022-02-04 14:22:32"
+lastmod = "2023-03-16 13:48:48"
 epistemic = "sprout"
 tags = ["software", "career"]
 +++
@@ -22,3 +22,11 @@ Ah well, guess that's another reason I'm not likely ever to be a senior software
 Baldur claims the industry's bent towards "full-stack developers" is a cost-saving measure and turns us away from specialization. I think the full-stack moniker actually forces specialization by limiting developers to a single technology at each level of the stack. Where a front-end developer might become intimate with multiple front-end frameworks, a full-stack developer can't afford to dabble outside their chosen technology. But maybe they're not specialized because they're required to use SQL, C#, and Angular? However, we probably do emphasize full-stack as a cost-saving measure due to limited developer (and financial) supply. If there was a glut of developers who were paid less, we'd see more applicants who only write one language in one context and more teams composed of specialists.
 
 His insight into research methodology is invaluable. There are endless numbers of new technologies fighting for attention and I've been guilty of wasting time learning awesome new tech that's not likely to be used in a corporate setting for years (or never). Setting clear thesis questions and limiting my exploration to answering those questions focuses my learning and ensures it's more immediately relevant.
+
+## When Not To Specialize
+
+If you're an entrepreneurial {{< backref src="/plants/identity/embracing-my-polymath-identity" name="polymath" >}} like me, you might find the advice to specialize makes you queasy. It can be disheartening to recognize that many in your current field have outpaced you by becoming specialists. But Tom Critchlow offers some hope in his wonderful article titled "Rejecting Specialization."
+
+{{< notice type=quote name="Tom Critchlow" src="https://tomcritchlow.com/2022/06/16/rejecting-specialization/" >}}
+Many independent consultants are independent for a reason - we’re contrarian, we’re attracted to a myriad, varied array of work. We chase novelty and surprise - we’re often seeking an alternative path. And specialization doesn’t lend itself well to novelty and surprise.
+{{< /notice >}}

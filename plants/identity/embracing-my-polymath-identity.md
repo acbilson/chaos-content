@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-17"
-lastmod = "2021-12-30 11:44:50"
+lastmod = "2023-03-16 13:58:11"
 epistemic = "evergreen"
 tags = ["polymath","renaissance","identity"]
 +++
@@ -24,3 +24,9 @@ Salman's experience echoes my own:
 I write software, but not as skillfully as those younger than I who have no other consuming passion. And those burgeoning experts don't know what it's like to live on an Army base in Afghanistan, learn ancient Greek, or complete a 100-page MBA thesis. They don't spend sleepless nights building systems for wide-spread Christian revival or read about sociology, theology, and general relativity. So when I'm among my work colleagues, most of myself is hidden in shadow. But also in my Church community and family too.
 
 It is a growing realization that to be myself is to be known by God alone. Just like {{< backref src="/plants/identity/the-apostolic-gift" >}}.
+
+## Developing a Point of View
+
+Tom Critchlow [posits](https://tomcritchlow.com/2022/06/16/rejecting-specialization/) that, for the entrepreneurial polymath, generalization is essential. Many who go into consulting follow the popular advice to specialize, but it's a painful experience that puts them back into the same kind of box they were trying to escape from when they entered private consulting.
+
+If you're not a specialist, it can be impossible to communicate what it is that you **DO**. Tom suggests that the generalist markets, not a set of tools that can be applied to defined projects, but a point of view that gives them a unique vibe.
