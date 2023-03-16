@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-11-09 14:54:08"
+lastmod = "2023-03-16 11:17:19"
 epistemic = "evergreen"
-tags = ["business","adoption","product"]
+tags = ["business","product-adoption"]
 +++
 I've noticed a trend at kCura. As the company has grown, the departments have drifted into their own separate and siloed operations. Product managers advocate for further separation of the Engineering teams from the customers, claiming that they need heads-down time to finish product features (which they do. Despite following an iterative approach, we have years of work on our plates). Customer Support managers advocate for a customer separation from the engineers because they don't know how to talk to customers. Both sides agree the most efficient way to manage customers is to segregate their interactions to the support personnel and keep them from the engineers.
 

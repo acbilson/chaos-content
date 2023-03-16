@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2023-03-16 07:46:18"
+lastmod = "2023-03-16 11:10:05"
 epistemic = "evergreen"
 tags = ["decision","communication"]
 +++
@@ -18,6 +18,8 @@ Decisions between cultures must be made often. Whether the decisions span nation
 Meyer describes a merger between an American and German company. His involvement is requested after negotiations cease between both parties, and the leadership hopes Smith can help them understand one another. The Germans are confused and irritated by the flakiness of the American's decisions. Meetings that represent a fraction of the American's employees often end in decisions without input from others. Later, those same decisions may be modified or rescinded - the Germans don't know what to make of this behavior that withholds the opinion of many and goes back on previous agreements. Likewise, the Americans are impatient with the Germans. No amount of pressure on the leaders has given them a decision, and the Americans question the German's sincerity and willingness to negotiate, especially when the Germans do make a decision and then refuse to make concessions later.
 
 When making decisions on a diverse team or in a cross-team setting, I need to specify how we'll come to our decision. If, as in the case of a typical American meeting, the final decision will be made exclusively by me it's important to notify those who favor consensus. Otherwise, these same individuals may feel distrusted because the decision I made wasn't fully hashed out with them in a formal meeting. Likewise, where consensus is preferable, I need to inform the team that the decision and responsibility will be shared among us all. This may reduce the shock if the decision has consequences which are borne by the entire team and I am not taking full responsibility for them. Because people are diverse and decisions differ, there may be opportunity to exercise both styles of decision-making depending on the circumstances. Those decisions which require the greatest buy-in may benefit from consensus to establish mutual responsibility and action. Other decisions may require quick execution best served by a top-down decision-making style. Communication to the team about the style of decision-making will reduce confusion when both of these styles are present.
+
+Related to clarity in who makes decisions, there's some cross-over with the need for {{< backref src="/plants/business/maintenance-requires-a-single-owner" name="single ownership of an action" >}}.
 
 ## References
 

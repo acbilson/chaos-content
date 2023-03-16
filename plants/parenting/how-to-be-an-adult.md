@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2023-01-17 14:58:26"
-lastmod = "2023-03-16 08:08:24"
+lastmod = "2023-03-16 11:16:38"
 epistemic = "evergreen"
-tags = ["parenting","adulting","skills","teaching","specialization"]
+tags = ["parenting","teaching","specialization"]
 in-reply-to = "https://piszek.com/2023/01/17/personal-logistics/"
 +++
 Artur Piszek describes the situation of many adults in the United States,

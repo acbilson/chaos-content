@@ -1,10 +1,12 @@
 +++
 author = "Alex Bilson"
 date = "2022-01-19"
-lastmod = "2022-01-19 07:07:42"
+lastmod = "2023-03-16 11:12:30"
 epistemic = "sprout"
-tags = ["accountability","maintenance","ownership"]
+tags = ["maintenance","ownership","responsibility"]
 +++
-## Maintenance requires a single owner
+{{< notice type=quote name="Church Plantology by Peyton Jones, pg. 79" >}}
+If two men feed a horse, it will lose weight; if two men keep a boat, it will soon leak.
+{{< /notice >}}
 
-Quote Chinese proverb from Church Plantology. Use household maintenance as an example.
+TODO: Use household maintenance as an example.

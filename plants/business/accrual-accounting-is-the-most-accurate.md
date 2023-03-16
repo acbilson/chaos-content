@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 08:48:47"
+lastmod = "2023-03-16 11:13:22"
 epistemic = "evergreen"
-tags = ["accounting","accrual"]
+tags = ["accounting"]
 +++
 Two major types of accounting exist: accrual and cash accounting. One might say there's really only one type, with cash accounting being a simplified version of accrual. Accrual accounting attempts to describe the financial story of a business at every point in time; not only when cash is received or expended, but when assets of all kind are affected. A payment for a future service is simply listed as income in cash accounting; only cash is recognized. Accrual counting recognizes the obligation of the business to supply the paid-for service and does not record income until the obligation has been satisfied. Cash accounting is less accurate because it does not specify that the business has any obligation to fulfill its service, or that it may be required to return the money if the service is not provided.
 

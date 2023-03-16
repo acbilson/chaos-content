@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2023-03-16 08:14:37"
+lastmod = "2023-03-16 11:17:35"
 epistemic = "evergreen"
-tags = ["business","adoption","product"]
+tags = ["business","product-adoption"]
 +++
 **Entrepreneurs may overlook the complexity of constraints customers face.**
 
