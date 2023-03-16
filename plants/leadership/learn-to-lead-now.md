@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:27:49"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:07:46"
+epistemic = "evergreen"
 tags = ["service","leadership"]
 +++
 **Future leaders serve as though they were already in their future role.**

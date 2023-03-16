@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 14:35:54"
-epistemic = "sprout"
-tags = ["culture"]
+lastmod = "2023-03-16 08:07:12"
+epistemic = "evergreen"
+tags = ["culture", "leadership"]
 +++
 **Leaders pay careful attention to develop their company culture.**
 

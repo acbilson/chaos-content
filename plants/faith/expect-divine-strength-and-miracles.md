@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2021-11-30 07:56:42"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:41:14"
+epistemic = "evergreen"
 tags = ["miracles","trust"]
 +++
 **Christians in business may expect divine strength and miracles to accompany their work.**

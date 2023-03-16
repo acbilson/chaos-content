@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 09:32:11"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:47:50"
+epistemic = "evergreen"
 tags = ["culture","investment"]
 +++
 The story of Bill Browder is not a pleasant one. He moved to Russia in 1996 with $25 million dollars to invest in the Russian oil and gas industry. After revealing corruption in many Russian corporations he was at last kicked out of Russia in November, 2005. His company was seized and used to obtain $230 million in fraudulent tax rebates. One of his Russian employees, Sergei Magnitsky, refused to flee and was detained in prison for over a year. Magnitsky died in captivity. ([Triesman](http://www.billbrowder.com/reviews)).

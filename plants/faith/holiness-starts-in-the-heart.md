@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 11:47:39"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:42:00"
+epistemic = "evergreen"
 tags = ["holiness","heart","behavior"]
 +++
 **Holiness comes from heart resolve, not specific actions.**

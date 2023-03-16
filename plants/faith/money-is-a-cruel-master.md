@@ -2,8 +2,8 @@
 date = "2018-07-01"
 author = "Alex Bilson"
 tags = [ "money", "master",]
-epistemic = "sprout"
-lastmod = "2022-10-05T22:00:39.582Z"
+epistemic = "evergreen"
+lastmod = "2023-03-16 07:39:41"
 +++
 {{< notice type=quote short=true name="Ecclesiastes 5:10-12 (ESV)" >}}
 He who loves money will not be satisfied with money, nor he who loves wealth with his income; this also is vanity. When goods increase, they increase who eat them, and what advantage has their owner but to see them with his eyes? Sweet is the sleep of a laborer, whether he eats little or much, but the full stomach of the rich will not let him sleep.

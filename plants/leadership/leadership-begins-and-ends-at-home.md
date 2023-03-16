@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-11-30 07:54:09"
-epistemic = "sprout"
-tags = ["leadership"]
+lastmod = "2023-03-16 07:46:42"
+epistemic = "evergreen"
+tags = ["leadership","parenting"]
 +++
 **Leadership begins and ends at home.**
 

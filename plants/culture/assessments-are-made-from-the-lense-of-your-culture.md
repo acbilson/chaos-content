@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 08:23:35"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:43:54"
+epistemic = "evergreen"
 tags = ["interpretation","contradiction"]
 +++
 **Cultural Insight:** Assessments of other cultures are made from one's own culture as the baseline, but this can lead to contradictory results.

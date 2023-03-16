@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 15:41:42"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:50:16"
+epistemic = "evergreen"
 tags = ["priority","schedule","time"]
 +++
 **Scheduled priorities are kept priorities.**

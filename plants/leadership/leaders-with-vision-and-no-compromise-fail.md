@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-10-01"
-lastmod = "2022-01-05 15:02:27"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:04:57"
+epistemic = "evergreen"
 tags = ["business","leadership","vision","compromise","success"]
 +++
 **Leaders with a holy vision and no compromise fail.**
@@ -11,11 +11,7 @@ Early in the rise of Lincoln's political career his party was at a crossroads.  
 
 Lincoln had rallied once before behind a candidate on behalf of their vision alone, and the disappointment when they lost taught him much.  Although anti-slavery sentiments already existed, he chose to back the moderate candidate; an Army general who held the respect of many for his service but excited no one with his policies (Loosely remembered from White).  Lincoln had learned the Law of Buy-in, "People buy into the leader, then the vision {{< cite name=Maxwell loc="pg. 169" >}}."
 
-## Importance
-
 Leaders with a holy vision and no compromise fail.  People must trust that the leader is worthy and wise before they will enact his vision.  A business person who crusades against homosexuality will never transform homosexual behavior in his community because he will attract only the few who share his unassailable conviction.  Another business person makes compromises a crusader finds unthinkable and, with the relational currency gained from his positive influence on the community, is later positioned to effect change.
-
-## Application
 
 Is it better to be right and change nothing, or to be lambasted and chance achieving one's vision?  Lincoln's choice, like the mild auditorium decision of Maxwell's day {{< cite name=White loc="pg. 176" >}}, inspires me towards the latter.  While I want my business to rise upon four concrete pillars, the business decisions to accomplish that vision are driven as equally by relationship as by conviction.
 

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-09"
-lastmod = "2021-11-30 07:54:27"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:11:37"
+epistemic = "evergreen"
 tags = ["entrepreneurship","model"]
 +++
 **Business models encapsulate complex ideas into simple and sharable patterns.**

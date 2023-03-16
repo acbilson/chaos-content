@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-11"
-lastmod = "2021-11-30 07:55:02"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:12:14"
+epistemic = "evergreen"
 tags = ["entrepreneurship","teamwork"]
 +++
 **Teamwork is more efficient than gaining all the skills an entrepreneur needs.**

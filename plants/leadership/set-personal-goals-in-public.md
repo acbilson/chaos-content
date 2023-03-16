@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:33:38"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:01:53"
+epistemic = "evergreen"
 tags = ["goals","feedback"]
 +++
 **Set personal goals in public.**

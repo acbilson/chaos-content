@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:51:55"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:04:16"
+epistemic = "evergreen"
 tags = ["leadership","situation","flexibility"]
 +++
 **Situational leaders select the right leadership style for the person and their goal.**

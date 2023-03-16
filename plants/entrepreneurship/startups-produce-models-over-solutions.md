@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-05"
-lastmod = "2022-01-12 15:23:01"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:10:54"
+epistemic = "evergreen"
 tags = ["entrepreneurship","business-model","startup"]
 +++
 **The product of a startup is a business model, not a solution.**

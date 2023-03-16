@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-10-15T12:39:15"
-lastmod = "2022-12-06 11:17:26"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:39:28"
+epistemic = "evergreen"
 tags = ["interpretation","discovery","scripture"]
 +++
 There's a practice I've encountered in Biblical interpretation which often leaves me with some unease. Not because I haven't done it myself, I have. Maybe it's because the practice feels too close to interpretation by mystic symbology.

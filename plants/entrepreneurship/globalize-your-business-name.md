@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:39:02"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:11:28"
+epistemic = "evergreen"
 tags = ["globalization","internet"]
 +++
 **Globalization and the Internet influence local small business in unexpected ways.**

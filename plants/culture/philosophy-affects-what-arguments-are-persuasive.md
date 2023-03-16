@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 11:51:05"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:45:42"
+epistemic = "evergreen"
 tags = ["intellect","culture","persuasion"]
 +++
 **A person's intellectual background shapes what arguments persuade them.**

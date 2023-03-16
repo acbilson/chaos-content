@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 13:08:21"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:09:44"
+epistemic = "evergreen"
 tags = ["negotiation","contract"]
 +++
 **In a contract, don't forget to negotiate the worst-case too.**

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-13"
-lastmod = "2021-11-30 07:53:44"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:44:10"
+epistemic = "evergreen"
 tags = ["culture","bias","empathy"]
 +++
 **Understanding one's own cultural values from the perspective of an outsider helps to accept differences in other cultures.**

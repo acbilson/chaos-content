@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:54:43"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:46:31"
+epistemic = "evergreen"
 tags = ["mentorship","discipleship","leadership"]
 +++
 **When it comes to mentorship, everyone gets to play.**

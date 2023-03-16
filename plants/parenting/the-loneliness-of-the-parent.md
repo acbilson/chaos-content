@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-12 09:27:59"
-lastmod = "2022-12-12 11:13:34"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:08:07"
+epistemic = "plant"
 tags = ["loneliness"]
 +++
 Parenting can be lonely. Despite our best efforts to understand and support one another, Amie and I still cannot fully grasp the experience of the other. I suspect this is common, just the process of {{< backref src="/plants/parenting/becoming-a-father" >}} can be lonely.

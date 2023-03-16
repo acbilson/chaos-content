@@ -1,22 +1,20 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-05 14:58:55"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:14:37"
+epistemic = "evergreen"
 tags = ["business","adoption","product"]
 +++
 **Entrepreneurs may overlook the complexity of constraints customers face.**
 
 As the inventor of a brilliant new solution, a microwave we'll say, it's common to think others will be ecstatic to learn of my solution and use it immediately.  "They just don't know this amazing machine would save them hours!" I might say to myself as I drive to my first sale.  When my customer says it's too hard to learn, I may be tempted to blow them off.  "He lacks motivation; he doesn't see how great this could be."  This is an example of how an entrepreneur can oversimplify their customers and the constraints that have kept them from seeking a solution or using a new product.
 
-## Importance
-
 It's not enough to find a solution to a problem; an entrepreneur must also overcome the reasons a customer may not use their solution.  If the problem is serious and the customer knows about your solution, there must be additional reasons they aren't using it.  Cindy Alvarez lists four she's noticed:
 
-* Problem is not perceived as a problem
-* Lack of awareness of what's possible technologically
-* Limited resources (environment, time, budget)
-* Cultural or social expectations that limit behaviors ({{< cite name=Alvarez loc="pg. 71" >}})
+- Problem is not perceived as a problem
+- Lack of awareness of what's possible technologically
+- Limited resources (environment, time, budget)
+- Cultural or social expectations that limit behaviors ({{< cite name=Alvarez loc="pg. 71" >}})
 
 First, the customer may not perceive a problem.  We find a solution that works for us and, if we think everyone else solves it the same way, we don't bother finding a new solution.  I didn't know I had a problem with holding everything in my head until I read David Allen's [_Getting Things Done_](http://gettingthingsdone.com/) - now I regularly use a system to write down goals, tasks, and ideas.
 

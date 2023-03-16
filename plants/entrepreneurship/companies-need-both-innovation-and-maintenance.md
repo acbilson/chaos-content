@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:57:10"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:10:30"
+epistemic = "evergreen"
 tags = ["management"]
 +++
 **Leadership Insight:** A business requires both managers who invest and managers who maintain.

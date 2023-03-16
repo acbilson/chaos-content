@@ -1,13 +1,11 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:52:58"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:14:02"
+epistemic = "evergreen"
 tags = ["crisis","leadership","proactive"]
 +++
 **Leaders must mitigate the effect of crisis on their businesses by moving from reactive to proactive engagement quickly.**
-
-###Explanation
 
 When a crisis affects a business, four leadership reactions often happen. If nothing is done to transform the reactions into proactive effort, the crisis may spell the end of the business, or at least of the leader.
 

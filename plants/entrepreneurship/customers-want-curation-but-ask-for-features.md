@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 09:47:13"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:15:11"
+epistemic = "evergreen"
 tags = ["simplicity","curation","customer"]
 +++
 **People's first impulse is to request more features, but they're more satisfied with curated choices.**

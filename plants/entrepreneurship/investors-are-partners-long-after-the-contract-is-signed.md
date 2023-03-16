@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 15:43:05"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:14:09"
+epistemic = "evergreen"
 tags = ["investment","contract","negotiation"]
 +++
 **Treat the term sheet negotiation as only a part of the total deal.**

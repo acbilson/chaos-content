@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-11-30 07:54:57"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:50:47"
+epistemic = "plant"
 tags = ["organization","leadership"]
 +++
 A spider organization, first coined by Ori Brafman in _The Spider and the Starfish_, is an organization where a tiny group holds authority over the entire organization's power and decision-making. The test of the spider organization is, if your top leaders were to disappear (the head), what would happen to the rest (the body)?

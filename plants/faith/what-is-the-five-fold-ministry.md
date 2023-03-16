@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-02-02"
-lastmod = "2022-02-02 16:12:11"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:40:33"
+epistemic = "evergreen"
 tags = ["spiritual-gifts","apest"]
 +++
 The acronym {{< acronym APEST "Apostle Prophet Evangelist Shepherd & Teacher" >}} describes five spiritual gifts that {{< backref name="Christ embodied" src="/plants/faith/jesus-fulfills-the-roles-and-gifts" >}} and distributed to humanity. It's not the only list of spiritual gifts, but it's the one that seems most to describe the architecture of a church community, since these are given for the building up of the Church. But what are they exactly?

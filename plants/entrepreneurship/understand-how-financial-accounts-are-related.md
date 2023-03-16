@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:22:01"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:13:50"
+epistemic = "evergreen"
 tags = ["accounting","analysis"]
 +++
 **Quality financial analysis depends on the analyst's grasp of the interrelationship between accounts.**

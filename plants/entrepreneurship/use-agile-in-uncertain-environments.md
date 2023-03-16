@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:40:37"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:09:29"
+epistemic = "evergreen"
 tags = ["agile","project-management","volatile","uncertainty"]
 +++
 **Projects with uncertain requirements and volatile environments benefit from Agile methods.**

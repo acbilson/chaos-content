@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-03"
-lastmod = "2021-11-30 07:54:06"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:05:35"
+epistemic = "evergreen"
 tags = ["leadership","humility","strength"]
 +++
 **Humble leaders spend considerable time observing and considering their people's strengths.**
@@ -11,13 +11,9 @@ There is constant temptation to hide one's weaknesses, and all the more as a lea
 
 In contrast, humble leaders admit they are not strong in every area, and will not demand others be so either.  They focus their attention on strengths in themselves and others.  When their weaknesses are exposed they have no need to hide them, for they trust others' strength.  They follow Drucker's advice with themselves and others, "Waste as little effort as possible on improving areas of low competence." (Drucker, pg. 220)
 
-### Importance
-
 Have you ever had a boss who noted every flaw in you?  Who pressed you to improve where he thought you were weak, but overlooked where you were strong?  Then you recognize the value of leaders who practice humility in this way.
 
 They are quick to give praise because they regularly look for your strongest abilities.  They work with you to find projects which play on your stengths, believing you will be most happy and the business most successful if you're doing what your best at.  They are humble because their mind is not filled with critique but with anticipation of discovering how unique you are.  Such leaders are attractive, and their people are happy and efficient working in their strengths.
-
-### Application
 
 It's not difficult to recognize the universal need of humility in leadership, but growth is not so easy to explain or practice.  Krames promises that humility can be learned-at least Pope Francis believes it-but I'm still waiting to find out how (Krames, pg. 7).  I readily identify with the desire to be a humble leader, but the gulf between my current state and my imagination is wide.  To learn others' strengths one must spend time thinking about them, what they have done, and imagining their future, what they could do.  This requires sacrifice of some activities in order to observe, pray and consider.
 

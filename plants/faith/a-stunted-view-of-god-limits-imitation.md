@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-01"
-lastmod = "2021-11-30 07:59:34"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:41:47"
+epistemic = "plant"
 tags = ["formation","character"]
 +++
 **A stunted view of God's character limits our imitation of him.**

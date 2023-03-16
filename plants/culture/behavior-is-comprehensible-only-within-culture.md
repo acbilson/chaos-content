@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-12 15:10:15"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:44:38"
+epistemic = "evergreen"
 tags = ["culture","diversity","behavior"]
 +++
 **The reasons for a nation's cultural distinctions are not always decipherable from the actions of its people.**
@@ -13,11 +13,7 @@ On the flip side I imagine that, were I a Chinese citizen, my understanding of t
 
 Both sides operate under different cultural values, but they aren't necessarily obvious from the news room.  The Confucian value of order and the peace that grows from it {{< cite name=Livermore loc="loc. 1084" >}} may be the heart of Chinese culture, but Americans don't think, "Wow, their culture is so orderly and peaceful!"  Likewise, although Americans value individual freedoms the average Chinese person isn't thinking, "Those people possess great freedom."
 
-## Importance
-
 As a business owner it's important to consider the cultural perspective of individual employees.  But when launching a business in a culturally different nation one must be cognizant how actions made by the entire business will be understood.  An entrepreneur in China may assume he could leverage benefits from the individualist perspective in a collectivist culture, but instead of being perceived as a forward-thinker, he may be labeled a disrupter of harmony.  Likewise a Chinese businessman in the United States may find that his competitors don't recognize his deliberations to avoid conflict with them and actively take advantage of his desire for harmony.
-
-## Application
 
 There's more to cultural awareness than realizing the views of the person whose hand I'm shaking!
 

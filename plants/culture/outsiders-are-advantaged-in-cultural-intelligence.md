@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-03"
-lastmod = "2021-11-30 07:54:35"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:45:28"
+epistemic = "evergreen"
 tags = ["culture","cultural-intelligence"]
 +++
 **The counter-cultural lifestyle is an advantage to one’s development of cultural intelligence.**

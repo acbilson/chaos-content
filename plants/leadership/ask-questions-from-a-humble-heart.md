@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:29:02"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:05:55"
+epistemic = "evergreen"
 tags = ["questions","humility","answers"]
 +++
 **Questions are powerful when asked with the right heart.**

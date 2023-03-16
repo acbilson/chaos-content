@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-05"
-lastmod = "2021-11-30 07:53:49"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:12:27"
+epistemic = "evergreen"
 tags = ["entrepreneurship","work"]
 +++
 **An entrepreneur finds opportunity and captures what value he can, even if he’s working for an employer.**

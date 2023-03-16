@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-10-01"
-lastmod = "2022-01-12 15:07:22"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:08:52"
+epistemic = "evergreen"
 tags = ["entrepreneurship","customer","vision"]
 +++
 **A company with no stance doesn't stand out.**

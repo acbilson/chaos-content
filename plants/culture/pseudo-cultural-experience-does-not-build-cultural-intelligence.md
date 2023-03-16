@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-05"
-lastmod = "2021-11-30 07:54:51"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:44:24"
+epistemic = "evergreen"
 tags = ["culture","society","cultural-intelligence"]
 +++
 **Pseudo-cultural experiences do not build cultural intelligence, and may give a false sense of assurance.**

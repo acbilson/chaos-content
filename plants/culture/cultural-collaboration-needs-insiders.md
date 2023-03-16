@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-05"
-lastmod = "2021-11-30 07:53:28"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:44:52"
+epistemic = "evergreen"
 tags = ["culture","insiders"]
 +++
 **Globalized business demands more cultural wisdom than ever before, and the wise businessperson will seek the help of cultural insiders to negotiate effectively.**

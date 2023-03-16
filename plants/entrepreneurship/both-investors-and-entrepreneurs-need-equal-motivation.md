@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 13:15:39"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:11:00"
+epistemic = "evergreen"
 tags = ["contract","investment","motivation"]
 +++
 **The economic clauses on the term sheet have long-term implications to the motivation both of investors and of owners.**

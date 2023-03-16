@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-05"
-lastmod = "2021-11-30 07:55:09"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:10:13"
+epistemic = "evergreen"
 tags = ["entrepreneurship","partners"]
 +++
 **Any venture that will capture value must have motivated, committed partners.**

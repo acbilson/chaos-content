@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:48:44"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:03:12"
+epistemic = "evergreen"
 tags = ["leadership","sacrifice","death"]
 +++
 **Leaders give up more and more of what they have to succeed.**

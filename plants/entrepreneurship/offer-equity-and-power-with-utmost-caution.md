@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-12 15:24:40"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:11:59"
+epistemic = "evergreen"
 tags = ["startup","equity","contract"]
 +++
 **Hoard equity like gold and protect it accordingly.**

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-11-01"
-lastmod = "2022-01-12 15:28:56"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:11:09"
+epistemic = "evergreen"
 tags = ["entrepreneurship","sales"]
 +++
 **Not every prospect deserves equal time.**
@@ -13,12 +13,8 @@ Vampires are intent to draw value (blood) from your time and business (veins).  
 
 Gatekeepers appear to be the product champions that sell your services to their company.  What makes them dangerous is that they cannot answer questions about your product, don't have the authority to select it, and often are not sure what the problem is.
 
-## Importance
-
 The launch of a new business is laden with pressure: to build the right product, to find the early adopters, to make their experience great, to expand into the market, to name a few.  An entrepreneur knows he must win customers if his idea is to become a profitable business.  When a new customer shows interest, the entrepreneur may run blindly into a relationship which wastes his time and sours his
 perspective on the market.
-
-## Application
 
 I needed this book eight months ago when I began to sell our development services to clients.  At that time I didn't see my work as sales, and I was only to willing to agree to free labor in an effort to apply the kCura core value "exceed the expectations of our customers and colleagues ([kCura](https://www.kcura.com/about-us/core-values/))."  The vampires we've fed with our over-inclusive application of the policy haunt us still.
 

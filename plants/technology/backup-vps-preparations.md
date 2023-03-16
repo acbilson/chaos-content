@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-05-19 14:26:51"
-lastmod = "2022-05-20 09:11:42"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:48:54"
+epistemic = "plant"
 tags = ["deployment","ansible"]
 +++
 Before I can run my Ansible scripts on a backup server there are a few preparations to get it ready to connect.

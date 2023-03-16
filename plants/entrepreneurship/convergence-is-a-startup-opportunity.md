@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-07"
-lastmod = "2021-11-30 07:52:51"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:12:21"
+epistemic = "evergreen"
 tags = ["entrepreneurship","convergence"]
 +++
 **Convergence is the first opportunity a cross-cultural entrepreneur is likely to spot.**

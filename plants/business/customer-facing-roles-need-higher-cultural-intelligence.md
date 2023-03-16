@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 09:33:19"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:50:54"
+epistemic = "evergreen"
 tags = ["cultural-intelligence","cost"]
 +++
 Cultural Intelligence (CQ) is applicable in every interaction because each individual is a unique blend of cultural values, even in a homogeneous setting. Whether meeting with a friend one's known for years or asking directions of a stranger, one's success rate rises where he applies CQ. Nevertheless, not every interaction requires the same level of motivation, preparation, or focus.

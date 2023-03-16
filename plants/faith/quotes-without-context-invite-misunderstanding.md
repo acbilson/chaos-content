@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-06 11:19:07"
-lastmod = "2022-12-29 12:40:57"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:37:25"
+epistemic = "evergreen"
 tags = ["interpretation","bible","misunderstanding","confusion","context","wisdom"]
 +++
 Out-of-context quoting is a practice weaponized to deface people, but I don't want to address that here. Instead, I will consider the practice of well-meaning Christians to publish Bible verses to a mass audience.

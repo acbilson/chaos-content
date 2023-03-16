@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-17T03:28:56+01:00"
-lastmod = "2021-11-30 07:59:11"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:39:10"
+epistemic = "plant"
 tags = ["tithe","levites"]
 +++
 Everything belongs to the LORD. To eleven of Israel’s tribes, the LORD gives an inheritance of land and its fruits. To the Levite, 10% of the land’s produce is given as an inheritance. The Levite receives no land because his work is not farming, but the tabernacle ministry.

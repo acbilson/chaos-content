@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 14:25:21"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:09:49"
+epistemic = "evergreen"
 tags = ["venture-capital","investment"]
 +++
 **Selecting a healthy VC firm is a critical step in raising venture capital.**

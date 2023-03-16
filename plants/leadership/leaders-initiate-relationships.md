@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-15"
-lastmod = "2021-11-30 07:54:07"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:06:02"
+epistemic = "evergreen"
 tags = ["initiation","leadership","relationships"]
 +++
 **Leaders initiate connections with their people.**

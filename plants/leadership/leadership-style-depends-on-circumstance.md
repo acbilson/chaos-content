@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-12 15:20:20"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:03:58"
+epistemic = "evergreen"
 tags = ["business","leadership","context"]
 +++
 **Leadership styles can be developed and applied based on the circumstance.**

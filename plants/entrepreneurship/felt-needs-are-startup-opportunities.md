@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2021-11-30 07:53:54"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:09:35"
+epistemic = "evergreen"
 tags = ["entrepreneurship","opportunity"]
 +++
 **For a venture to be entrepreneurial, it must meet a felt need within a population.**

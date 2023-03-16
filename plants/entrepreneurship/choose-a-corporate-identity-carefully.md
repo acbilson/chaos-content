@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 14:39:30"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:15:04"
+epistemic = "evergreen"
 tags = ["taxes","legal","corporation"]
 +++
 **Choose the corporate identity that makes legal and tax sense for your circumstances.**

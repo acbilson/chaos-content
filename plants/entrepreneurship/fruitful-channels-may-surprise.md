@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-09-01"
-lastmod = "2022-01-12 15:13:45"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:09:16"
+epistemic = "evergreen"
 tags = ["entrepreneurship","channel","sales"]
 +++
 **The most effective channel for a business to begin may not be the obvious one.**

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-11-09 15:00:23"
-lastmod = "2022-11-09 15:28:26"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:48:13"
+epistemic = "plant"
 tags = ["javascript","web-component","dom"]
 +++
 Forms are an obvious web component, but there are a few gotchas. Stephen solves a common problem when writing my own web components: [How to communicate with a form tag](https://dev.to/steveblue/form-associated-custom-elements-ftw-16bi). I'm curious to try his approach for myself.

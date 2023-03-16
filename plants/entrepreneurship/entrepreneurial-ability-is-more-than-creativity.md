@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2021-11-30 07:53:47"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:10:19"
+epistemic = "evergreen"
 tags = ["entrepreneurship","creativity","success"]
 +++
 **Entrepreneurial success cannot be predicted on the basis of the entrepreneur’s creativity.**

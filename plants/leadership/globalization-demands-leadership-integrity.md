@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-01"
-lastmod = "2021-11-30 07:53:55"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:05:23"
+epistemic = "evergreen"
 tags = ["entrepreneurship","globalization","character"]
 +++
 **The complexity of global economics emphasizes the need for business leaders of character.**

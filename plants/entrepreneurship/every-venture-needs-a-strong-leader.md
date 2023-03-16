@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2021-11-30 07:53:50"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:09:55"
+epistemic = "evergreen"
 tags = ["entrepreneurship","leadership"]
 +++
 **Though any venture requires sets of skills not usually found in one person, if one person does not have leadership ability there will be no team.**

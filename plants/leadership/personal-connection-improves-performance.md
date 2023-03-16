@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-10-01"
-lastmod = "2022-01-05 15:03:59"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:06:57"
+epistemic = "evergreen"
 tags = ["business","leadership","communication"]
 +++
 **Short interpersonal connections make work a better place to be.**
@@ -11,13 +11,9 @@ Although the man who spent 27 years alone in the wilderness may not agree, ([Fin
 
 When a leader connects on a personal level with his direct reports the opportunity to know them is made.  With knowing them comes the insight needed to assist them well and to give them work they'll excel at.
 
-## Importance
-
 In the rush to accomplish business objectives a leader can overlook the importance of connecting with their people.  With always a new hill to climb, a new problem to solve, a leader can begin to see people as tools to use and shelve again when needed.  A wise leader will still their own rush to accomplish in order to pause and connect with the person they're interacting with.  Besides handing out work, they reach out a hand {{< cite name=Maxwell loc="pg. 113" >}}.
 
-## Application
-
-Where I work, I know some people better than others.  Some that I know the least sit right next to me.  The people outside my team that I know best are those who connect personally, not just on work matters.
+Where I used to work work, I knew some people better than others.  Some that I knew the least sat right next to me.  The people outside my team that I knew best are those who connect personally, not just on work matters.
 
 When a person only asks me to do things, they become task masters, not coworkers.  It's hard to be engaged with them because they don't show any interest in my involvement but only want something done, or something off their plate.
 

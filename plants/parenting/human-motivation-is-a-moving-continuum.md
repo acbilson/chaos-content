@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2023-03-15 09:33:46"
-lastmod = "2023-03-15 12:03:13"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:46:12"
+epistemic = "evergreen"
 tags = ["motivation","autonomy","integration","relationship","control","competence","relatedness"]
 toc = true
 +++

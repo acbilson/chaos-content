@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-06-09T21:06:30"
-lastmod = "2022-03-30 15:49:56"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:50:25"
+epistemic = "evergreen"
 tags = ["software","axiom","angular","design"]
 +++
 This is an incomplete list of maxims I've gleaned while working on Angular/RxJS development.

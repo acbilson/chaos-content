@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-03-19"
-lastmod = "2022-01-12 15:27:16"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:50:04"
+epistemic = "plant"
 tags = ["docker","container","networking"]
 +++
 From what I've gathered, these are the steps one must go through to allow a Podman container, such as a traefik proxy, to be accessible from the public network.

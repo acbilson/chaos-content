@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 09:50:42"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:02:41"
+epistemic = "evergreen"
 tags = ["questions","culture"]
 +++
 **Quality questions are pivotal for a strong organizational culture.**

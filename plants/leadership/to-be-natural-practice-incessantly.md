@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:19:29"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:04:47"
+epistemic = "evergreen"
 tags = ["practice","communication","skill","repetition"]
 +++
 **To be natural, practice incessantly.**

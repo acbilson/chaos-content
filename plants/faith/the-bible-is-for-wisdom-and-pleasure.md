@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2021-10-28"
-lastmod = "2022-01-12 15:35:57"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:39:01"
+epistemic = "seedling"
 tags = ["scripture","pleasure","wisdom"]
 +++
 While reflecting on one of the Psalms, I thought, "Wow, this song is so generic; I'm not getting _anything_ out of it." Then I noticed in the textual notes that the Psalm and the one to follow were an acrostic, and the Holy Spirit reminded me of a verse out of Genesis. God's words both supply nourishment _and_ delight.

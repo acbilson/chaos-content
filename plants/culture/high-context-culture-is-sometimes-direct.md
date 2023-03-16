@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:44:57"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:44:44"
+epistemic = "evergreen"
 tags = ["context","culture","feedback"]
 +++
 **Some high-context cultures are direct with critical feedback.**

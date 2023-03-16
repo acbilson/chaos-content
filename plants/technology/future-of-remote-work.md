@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-07-27T01:09:08+01:00"
-lastmod = "2022-10-13 12:16:31"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:48:20"
+epistemic = "plant"
 tags = ["remote-work", "overwork"]
 in-reply-to = "https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/"
 +++

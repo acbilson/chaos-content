@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-06 10:12:12"
-lastmod = "2022-12-06 10:46:40"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:48:38"
+epistemic = "plant"
 tags = ["web-component","javascript","html","dom"]
 title = "Prefer Light DOM to Shadow DOM"
 +++

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:46:44"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:51:10"
+epistemic = "evergreen"
 tags = ["hiring","character"]
 +++
 **Leaders hire at or below their own character.**

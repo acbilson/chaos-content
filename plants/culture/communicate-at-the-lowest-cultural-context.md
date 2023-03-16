@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 09:59:06"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:37:05"
+epistemic = "evergreen"
 tags = ["culture","communication","context"]
 +++
 **Multicultural teams must communicate in the lowest context for the cultures in that group.**

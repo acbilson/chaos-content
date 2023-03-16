@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:41:18"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:08:58"
+epistemic = "evergreen"
 tags = ["insurance","liability","corporation","taxes"]
 +++
 **Consider a sole proprietorship with liability insurance over a Limited Liability Corporation (LLC) for a lean startup.**

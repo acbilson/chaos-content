@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 13:17:03"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:13:44"
+epistemic = "evergreen"
 tags = ["investment","contract","power"]
 +++
 **The control clauses on the term sheet can reorient the power of investors or owners regardless of share percentage.**

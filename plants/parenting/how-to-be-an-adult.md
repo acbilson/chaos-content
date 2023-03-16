@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2023-01-17 14:58:26"
-lastmod = "2023-01-17 15:16:57"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:08:24"
+epistemic = "evergreen"
 tags = ["parenting","adulting","skills","teaching","specialization"]
 in-reply-to = "https://piszek.com/2023/01/17/personal-logistics/"
 +++

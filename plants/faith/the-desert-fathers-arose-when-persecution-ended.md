@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-09-30 14:57:24"
-lastmod = "2022-09-30 14:57:57"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:43:01"
+epistemic = "plant"
 tags = ["spiritual-discipline","formation","history","wisdom"]
 +++
 According to Henri Nouwen, the Desert Mothers and Fathers came into being as a response to the end of physical persecution. They sought a new form of witness in a world where it was no longer dangerous to claim the name of Christ. And they sought to separate themselves from a society that they felt was poisonous to Christian faith and practice.

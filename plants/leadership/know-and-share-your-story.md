@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:22:16"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:01:43"
+epistemic = "evergreen"
 tags = ["story","communication"]
 +++
 **Effective entrepreneurs know and share their stories.**

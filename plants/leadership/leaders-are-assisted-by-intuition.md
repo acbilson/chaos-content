@@ -1,27 +1,19 @@
 +++
 author = "Alex Bilson"
 date = "2018-10-01"
-lastmod = "2022-01-05 15:02:02"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:47:12"
+epistemic = "evergreen"
 tags = ["business","leadership","intuition","spiritual-gifts"]
 +++
 **Intuition is like spiritual gifts in that it only assists a person but doesn't define them.**
-
-## Explanation
 
 Intuition is a word with an ambiguous definition.  We know it exists because others aren't the same as we are.  Little Jimmy could play the piano before he could walk, and we couldn't carry a tune after graduating high school.  Nevertheless, the knowledge that there's a leadership intuition does little to change one's perspective on leadership (although it may change one's perspective on themselves).
 
 When Paul addresses the spiritual differences in the Corinthian Church he emphasizes that the purpose of these differences is not to divide the Church into bodies of people; "the leaders over there, merciful there, administrators in that corner," but to enrich the Church and to cause the Church to "have the same care for one another." (_ESV_, 1 Cor 12:25)
 
-## Importance
-
 Intuition appears synonymous with the possession of spiritual gifts, and this emphasizes how it, like spiritual gifts, is meant by God as a source of unity and care for one another, not to separate the gifted from the ordinary.  This is important in business because, as Maxwell states, everyone has intuition "in their area of strength," {{< cite name=Maxwell loc="pg. 87" >}} and the business can choose to include the diversity of gifts or to exclude those who lack intuition in favored areas.  This may happen most often when the leaders don't see the relevance of certain gifts, such as if Maxwell did not see how his wife Margaret's clothes-matching skill was a benefit to others {{< cite name=Maxwell loc="pg. 87-88" >}}.
 
-## Application
-
 Besides taking a personal inventory, it's difficult to find an application to this ambiguous concept.  In prior assessments, I have concluded my gifts more closely align to knowledge, teaching, and mercy.  Since a child I have been able to acquire and recall information with little effort, to digest it, and to explain it to others in ways they can grasp.  When I walk into a room I am often immediately aware of the emotional states of most and can usually pinpoint those who are hurting.  In spite of a lack of notable leadership gifting; however, I am still compelled to develop as a leader in the same way that natural leaders are compelled to become more merciful.
-
-### DMM Application
 
 Because Disciple-Making Movements (DMM) is a personal goal in the integration of spirituality in business, I'd like to include a brief snippet under this heading going forward.
 

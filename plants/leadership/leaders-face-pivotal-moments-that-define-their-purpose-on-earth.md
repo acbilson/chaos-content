@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 16:00:24"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:06:18"
+epistemic = "evergreen"
 tags = ["leadership","pivot","purpose"]
 +++
 **Leaders face pivotal moments that define their purpose on earth.**

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-03"
-lastmod = "2022-11-09 09:31:01"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:50:11"
+epistemic = "evergreen"
 tags = ["formation","character"]
 +++
 The title of the book this week is _Soul at Work_, but it's definition of 'soul' is vague beyond application (Benefiel). The stories I can appreciate, but their business selections are too typical. A non-profit organization for the homeless with a heart in spirituality and non-violence? It's more surprising to find a secular environment with the same purposes. The author's most recognized selection, Southwest Airlines, is also notable for it's lack of spiritual motive. She pushes the concept of soul so far, essentially fun and caring community, that she loses the definition entirely. To be fair, the author is attempting to appeal to a wide audience and without a bias for any one spiritual practice (although Catholic-Christian influence overpowers the rest).

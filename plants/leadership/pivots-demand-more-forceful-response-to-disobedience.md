@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 14:31:13"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:01:59"
+epistemic = "evergreen"
 tags = ["pivot","character","feedback"]
 +++
 **Character flaws at pivotal moments deserve immediate, extreme feedback.**

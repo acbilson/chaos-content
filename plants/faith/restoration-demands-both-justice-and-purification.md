@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2023-01-17 15:59:13"
-lastmod = "2023-01-17 16:16:19"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:41:36"
+epistemic = "plant"
 tags = ["justice","purity","recompense"]
 +++
 It didn't occur to me until reading [Matt Webb's musings](https://interconnected.org/home/2023/01/17/filtered), but sometimes direct restitution is insufficient for true justice.

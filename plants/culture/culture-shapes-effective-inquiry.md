@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:30:38"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:45:22"
+epistemic = "evergreen"
 tags = ["culture","inquiry"]
 +++
 **To acquire an answer to your questions, you must change the question to fit the culture.**

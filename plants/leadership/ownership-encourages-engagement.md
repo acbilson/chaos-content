@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:26:01"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:04:04"
+epistemic = "evergreen"
 tags = ["ownership","engagement"]
 +++
 **Ownership encourages engagement.**

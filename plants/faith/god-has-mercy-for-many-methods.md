@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-07"
-lastmod = "2021-11-30 07:56:50"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:38:32"
+epistemic = "plant"
 tags = ["business-model","mercy"]
 +++
 **God's mercy encompasses a multitude of business perspectives and models.**

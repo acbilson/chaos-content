@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-08-01"
-lastmod = "2022-01-12 15:11:13"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:05:49"
+epistemic = "evergreen"
 tags = ["leadership","empathy","presence"]
 +++
 **The emotional presence of a leader has a wide-ranging impact on all business functions.**
@@ -11,9 +11,7 @@ All functions of a business are relational.  The salesperson and the customer re
 
 Of all relationships, that between a leader and his followers is the most influential.  "Leadership is influence, nothing more, nothing less" Maxwell wrote ({{< cite name=Maxwell loc="pg. 11" >}}), and this means not only are the leader's words able to influence; even the mood of the leader alters other's emotional states.  It follows therefore that a leader's mood sets a tone for the entire organization.  The salespeople are likely to have short tempers when the CEO regularly 'flies off the handle'.  The engineers will be pessimistic if the engineering manager regularly sees the glass half-empty.
 
-## Importance
-
-Why does the leader's emotions matter?  Goleman writes, "more than anyone else, the boss creates the conditions that directly determine people's ability to work well." ({{< cite name=Goleman loc="pg. 18" >}}).
+Why do the leader's emotions matter?  Goleman writes, "more than anyone else, the boss creates the conditions that directly determine people's ability to work well." ({{< cite name=Goleman loc="pg. 18" >}}).
 
 Take for example a manager delivering the news his team must work late to complete a project.
 
@@ -22,8 +20,6 @@ The manager who sullenly blames others for their misfortune will demotivate his 
 The manager who shapes the message to express the opportunity this project represents and his confidence in the team will motivate his team towards excellence.  His team tackles the project together, motivated to finish well, and is likely to get it done faster.
 
 Such is the impact a leader's emotions can have upon his team's effectiveness.
-
-## Application
 
 As I've read this chapter I've often thought of the mood of my workplace.  Our CEO exhibits a passionate, straight-forward influence upon the company and embodies the core values in a contageous way.  Interactions with him inspire and excite me to work hard and serve our customers well.  Even so, the attitudes of others on our team makes a significant contribution.
 

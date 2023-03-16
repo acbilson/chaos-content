@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-05"
-lastmod = "2021-11-30 07:53:59"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:47:31"
+epistemic = "evergreen"
 tags = ["leadership","humility"]
 +++
 **The long road of humility is better than the proud confidence our society esteems.**

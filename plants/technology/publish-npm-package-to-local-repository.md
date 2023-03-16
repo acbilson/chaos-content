@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-09-14 15:08:59"
-lastmod = "2022-09-14 15:13:01"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:49:31"
+epistemic = "plant"
 tags = ["npm","deployment","authentication","web-component"]
 +++
 I wanted to share a set of authentication web components from chaos-auth so I could use them in my website’s static build. Keeping these components close to the authentication server lets me keep the responsibilities close, since these components will be heavily tied to my authentication implementation.

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:44:06"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:04:11"
+epistemic = "evergreen"
 tags = ["cultural-intelligence","integration"]
 +++
 **Culturally intelligent leaders modify their actions to better fit the culture of those they interact with, without mimicking the other culture entirely.**

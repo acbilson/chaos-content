@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:52:23"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:10:02"
+epistemic = "evergreen"
 tags = ["insurance","imagination"]
 +++
 **Sound insurance calculations require a vivid imagination and a calculating mind.**

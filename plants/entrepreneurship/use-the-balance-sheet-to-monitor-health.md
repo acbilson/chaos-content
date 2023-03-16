@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:14:34"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:14:57"
+epistemic = "evergreen"
 tags = ["accounting","balance-sheet","income-statement"]
 +++
 **The balance sheet shows a business' financial state at a point in time, while the income statement shows the operation of your business over a period of time.**

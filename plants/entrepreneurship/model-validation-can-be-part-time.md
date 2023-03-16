@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-05"
-lastmod = "2022-01-12 15:22:52"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:13:10"
+epistemic = "evergreen"
 tags = ["entrepreneurship","business-model"]
 +++
 **Validating a business model can be part-time work.**

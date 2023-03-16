@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-06-05"
-lastmod = "2021-11-30 07:54:34"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:14:15"
+epistemic = "evergreen"
 tags = ["entrepreneurship","non-profit","market"]
 +++
 **There are some markets only non-profits can reach.**

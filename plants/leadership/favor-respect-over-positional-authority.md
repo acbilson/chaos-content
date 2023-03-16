@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-11"
-lastmod = "2021-11-30 07:53:52"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:03:52"
+epistemic = "evergreen"
 tags = ["respect","leadership","authority"]
 +++
 **Leaders who grow don't depend on the same motivations for others to follow them.**

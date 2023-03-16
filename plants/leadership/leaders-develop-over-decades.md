@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-05"
-lastmod = "2021-11-30 07:54:02"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:02:31"
+epistemic = "evergreen"
 tags = ["leadership","growth","formation"]
 +++
 **Growth in leadership is a multi-decade investment with a clear direction.**

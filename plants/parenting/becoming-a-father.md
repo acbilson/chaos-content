@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2022-12-12 09:27:59"
-lastmod = "2022-12-12 11:11:31"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:07:59"
+epistemic = "plant"
 tags = ["loneliness","formation"]
 +++
 The process of becoming a father is more lonely and ambiguous than I anticipated.

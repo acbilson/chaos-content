@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-12 15:23:38"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:10:37"
+epistemic = "evergreen"
 tags = ["entrepreneurship","discovery","business-model","scale"]
 +++
 **It's more comfortable to scale to big business than stay in the customer discovery cycle until there's a repeatable, scalable business model.**

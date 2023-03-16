@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 10:48:54"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:02:49"
+epistemic = "evergreen"
 tags = ["questions","change","culture"]
 +++
 **If a leader hasn't led with questions, they need to ease into the practice.**

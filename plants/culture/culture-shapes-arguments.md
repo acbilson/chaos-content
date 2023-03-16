@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2020-10-08"
-lastmod = "2022-01-12 15:30:59"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:44:01"
+epistemic = "evergreen"
 tags = ["culture","sales"]
 in-reply-to = "http://interconnected.org/home/2020/10/07/orthogonal"
 +++

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-05 15:51:54"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:13:38"
+epistemic = "evergreen"
 tags = ["contract","hiring"]
 +++
 **Business owners must take care when signing an employment contract.**

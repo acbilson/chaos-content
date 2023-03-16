@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-06 15:54:34"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:06:07"
+epistemic = "evergreen"
 tags = ["empathy","leadership","service"]
 +++
 **Leaders select their style by the rule, "whatever you wish that others would do to you, do also to them (_ESV_, Matthew 7:12)".**

@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-01-07 12:00:00"
-epistemic = "sprout"
+lastmod = "2023-03-16 07:46:18"
+epistemic = "evergreen"
 tags = ["decision","communication"]
 +++
 **Specify when a decision is final or temporary.**

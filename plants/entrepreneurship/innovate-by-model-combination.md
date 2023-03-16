@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-09"
-lastmod = "2022-01-12 15:22:40"
-epistemic = "sprout"
+lastmod = "2023-03-16 08:13:04"
+epistemic = "evergreen"
 tags = ["entrepreneurship","business-model","innovation"]
 +++
 **The number of business models are limitless, and can be implemented as brand new offerings, existing offerings with limited innovations, or combinations of both.**
