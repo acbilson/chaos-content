@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-08-21T19:25:08"
 lastmod = "2022-01-12 15:09:43"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["apostolic","disciple-making-movements","discipleship"]
 +++
 There are at least two flavors of apostle focus in Acts. The first mobilizes the existing faith community towards multiplicative disciple- making. The second catalyzes networks outside the faith community for the same purpose.

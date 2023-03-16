@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-07-16"
 lastmod = "2021-11-30 08:05:21"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["privacy"]
 +++
 It's notoriously difficult to grasp what's at stake in digital privacy. Most Americans have no concept of the ways they're being monitored and monetized unless it impedes on their freedom.

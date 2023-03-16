@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-01-19"
 lastmod = "2022-11-02 10:55:43"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["meaning","community"]
 +++
 Linus Lee laments that tools aren't built to assist community leaders in the formation of lively communities and suggests that we have a long ways to go. Here are a few tools I've found that might help.

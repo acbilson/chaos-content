@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-05-12 08:05:34"
 lastmod = "2022-05-12 08:22:39"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["podman","container","deployment"]
 +++
 One of the advantages touted by the Podman team over Docker is that you can choose to run containers as a user other than root. This is a security feature since, if a container were compromised by a malicious user and broke out of its container process, they would not have root privileges.

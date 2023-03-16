@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-02-21T01:24:57"
 lastmod = "2022-12-29 11:18:48"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["children","kingdom","obedience"]
 title = "Obedience is not Jesus' first priority"
 +++

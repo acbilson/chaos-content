@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
 lastmod = "2022-01-18 11:43:30"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["paradigm","gospel","evangelism"]
 title = "What is the Gospel?"
 +++

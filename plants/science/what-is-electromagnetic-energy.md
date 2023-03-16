@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2023-01-20 14:16:10"
 lastmod = "2023-03-14 16:43:01"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["energy","electromagnetism","spectrum"]
 title = "What is electromagnetic energy?"
 +++

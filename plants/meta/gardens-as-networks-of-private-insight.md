@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-11-10"
 lastmod = "2021-11-30 08:02:08"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["digital-garden","web-design"]
 +++
 Andy's site, referred to as "working notes", construct a "thinking environment" that Andy uses to generate his own content [About these notes](https://notes.andymatuschak.org/About_these_notes). He does encorporate external resources, but these are secondary to his own writing and typically consist of links rather than unique objects. Subjects are explores in sections, marked with a '§'.

@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-06-11T20:05:50"
 lastmod = "2022-01-12 15:32:52"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["snippet","javascript","software","observable","rxjs"]
 +++
 In component design there are two buckets, smart and dumb components. Smart components are keepers of data models and reactive to changes. Dumb components render explicit data models to views.

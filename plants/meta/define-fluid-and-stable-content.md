@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-11-10"
 lastmod = "2021-11-30 08:02:10"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["digital-garden","web-design"]
 +++
 There are two elemental types of content in any digital garden: fluid and stable. Gardeners will make their own distinctions about the two, but a distinction is necessary because of the differing approaches one might take with entry and upkeep. To merge these types into the same workflow invites confusion.

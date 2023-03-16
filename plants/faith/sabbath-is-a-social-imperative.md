@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-12-07"
 lastmod = "2021-12-07 15:05:45"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["sabbath","society","power"]
 +++
 {{< notice type=quote short=true name="Exodus 20:8-10 (ESV)" >}}

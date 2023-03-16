@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 tags = [ "snippet", "oath2", "authentication", "mastodon",]
-epistemic = "seedling"
+epistemic = "sprout"
 date = "2022-12-3"
 lastmod = "2022-12-03T15:00:47.758Z"
 +++

@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-08-17"
 lastmod = "2022-01-12 15:21:58"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["business-model","entropy"]
 +++
 I was in Amman, Jordan at the launch of my MBA program when I first encountered the Business Model Canvas. Bob Goldmann had a revised version that added spiritual and environmental concerns to the canvas.

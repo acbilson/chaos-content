@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
 lastmod = "2023-01-25 16:04:29"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["paradigm","conversion","evangelism"]
 title = "When are they converted?"
 +++

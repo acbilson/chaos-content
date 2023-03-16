@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-06-08T02:37:00"
 lastmod = "2023-01-26 09:19:11"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["paradigm","gospel","evangelism"]
 +++
 Gospel-tract evangelism is a typical example of a single-event approach to sharing one's faith. Get the basics of the message out, maybe ask for a response, and you're done. Case closed.

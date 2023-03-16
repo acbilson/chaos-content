@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2023-01-20"
 lastmod = "2023-01-20 13:46:34"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["spirit","energy","force"]
 +++
 Much of what is true has its echo in many cultures. It's been an ageless wonder that, despite the struggles to identify the origins of various people groups, nearly every one shares a story of a devastating flood (e.g. Noah's flood).

@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-06-10T09:02:00"
 lastmod = "2021-12-30 12:13:05"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["paradigm","kingdom","evangelism","peace"]
 +++
 There's a subtle mantra that underlies sharing Jesus. It goes something like, "If you love someone, you won't stop trying until they trust in Jesus."

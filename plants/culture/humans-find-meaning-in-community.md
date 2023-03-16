@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-01-19"
 lastmod = "2022-11-02 10:53:08"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["meaning","community"]
 +++
 TODO: Refer to hosting friends over the weekend. Talk about how covid affects meaning.

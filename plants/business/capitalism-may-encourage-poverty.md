@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 tags = [ "capitalism", "poverty",]
-epistemic = "seedling"
+epistemic = "sprout"
 date = "2022-10-5"
 lastmod = "2022-10-05T22:11:22.664Z"
 +++

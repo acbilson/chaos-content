@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-02-02"
 lastmod = "2023-01-25 16:05:05"
-epistemic = "seedling"
+epistemic = "sprout"
 title = "Apostles co-create with God"
 tags = ["apostolic","creation","apest","interdependence"]
 +++

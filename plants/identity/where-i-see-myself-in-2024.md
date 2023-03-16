@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-12-03"
 lastmod = "2023-03-14 16:45:14"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["goals","planning"]
 title = "Where I see myself in 2024"
 +++

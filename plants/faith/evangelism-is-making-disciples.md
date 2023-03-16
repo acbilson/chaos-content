@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-12-30"
 lastmod = "2021-12-30 12:34:22"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["paradigm","formation","evangelism","discipleship"]
 +++
 In our attempts to define evangelism, sometimes we can make it so narrow that it's no longer connected with the holistic mission of the Church. Overnarrowing has affected both evangelists and "regulars".

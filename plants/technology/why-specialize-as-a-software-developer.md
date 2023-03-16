@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-02-04"
 lastmod = "2022-02-04 14:22:32"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["software", "career"]
 +++
 ## Specialization for role advancement

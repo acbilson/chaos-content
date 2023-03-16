@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-11-10"
 lastmod = "2023-03-14 16:45:36"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["digital-garden","web-design"]
 title = "Gardens As museums of other's content"
 +++

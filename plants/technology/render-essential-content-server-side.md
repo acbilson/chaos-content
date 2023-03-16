@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-01-07"
 lastmod = "2022-01-07 08:57:26"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["web-design","server-side"]
 +++
 Modern Angular and React {{< acronym SPAs "Single Page Applications" >}} compose entire websites from the client. Components construct the HTML, fetch all the data, and render the site from a bare HTML page and a JavaScript bundle. It's efficient for the programmer, but can be unnecessary or even harmful.

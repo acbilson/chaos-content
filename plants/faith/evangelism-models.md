@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-07-16T17:35:58"
 lastmod = "2022-08-11 15:12:27"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["evangelism","model"]
 +++
 ## Healing Prayer

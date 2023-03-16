@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-06-10T09:02:00"
 lastmod = "2021-11-30 07:56:37"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["paradigm","kingdom","evangelism","winning"]
 +++
 Some Christian circles say the goal of evangelism is to "win" people to Jesus. There are two concepts floating below this word.

@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-09-03"
 lastmod = "2021-12-01 14:45:31"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["javascript","observable","rxjs"]
 +++
 Observables are extremely helpful; however, the observable.subscribe() pattern hides whether the call is expected to return once or multiple times. It's important to distinguish when there will be a single update and when there will be a series. Series observables usually belong in the onInit() method and drive component behavior when they receive dispatches. One-time observables are merely getting data. The methods to interact with each are different.

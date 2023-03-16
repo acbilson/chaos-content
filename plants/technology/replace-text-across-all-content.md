@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-07-23T12:49:13"
 lastmod = "2021-12-01 14:47:06"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["terminal","sed","grep"]
 +++
 As my content grows, so does my need to make adjustments across dozens of files. I'm familiar with `grep` and it's successor, `ripgrep`, and I'm familiar with `sed`, but I can never quite remember how to make replacements in-place. Here's how:

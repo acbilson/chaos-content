@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-11-17T19:01:16.379390"
 lastmod = "2023-01-25 16:05:22"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = [ "wasm", "blazor", "csharp",]
 title = "Learn WebAssembly with Blazor"
 +++

@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-09-16"
 lastmod = "2023-01-25 16:04:41"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["disciple-making-movements"]
 title = "Launch a DMM"
 +++

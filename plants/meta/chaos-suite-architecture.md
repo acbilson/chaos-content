@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-03-04"
 lastmod = "2022-03-30 15:34:39"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["web-design","architecture"]
 +++
 Re-inspired by Linus Lee, I'm thinking about what's left to fill out the chaos architecture.

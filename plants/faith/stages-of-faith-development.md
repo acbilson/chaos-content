@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-02-03"
 lastmod = "2022-02-03 16:13:28"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["faith","formation","discipleship"]
 +++
 How does a person's faith develop over the course of their lives? In broad categories, what distinct stages might a person move through in their development? These are the kinds of questions that Faith Development Theory tries to answer.

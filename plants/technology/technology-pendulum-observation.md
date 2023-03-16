@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2021-10-26 15:36:01"
 lastmod = "2022-01-12 15:41:17"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["pendulum","cycle"]
 +++
 There's a pendulum I've observed in the world of technology. It may be a law that extends beyond software developers, but it's evident from individual technologies in software development. I suspect it's a broad business principal that is more easily observed in technology because of the rapid pace of innovation.

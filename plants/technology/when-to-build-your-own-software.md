@@ -2,7 +2,7 @@
 author = "Alex Bilson"
 date = "2022-12-06 11:13:07"
 lastmod = "2022-12-06 11:16:17"
-epistemic = "seedling"
+epistemic = "sprout"
 tags = ["software","spreadsheet"]
 +++
 Mike outlines the transition between a custom-build workflow using proprietary software and the building of custom software. He calls it [The Spreadsheet Gap](https://m1ke.me/2021/03/the-spreadsheet-gap/#more).
