@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2017-09-01"
-lastmod = "2022-11-14 11:02:13"
+lastmod = "2023-03-16 11:01:39"
 toc = true
 narrow = true
 title = "Business Bay"
@@ -97,7 +97,7 @@ This is a curated garden of business insights. Like an English Walled Garden, I 
 - {{< backref src="/plants/leadership/ownership-encourages-engagement" >}}
 - {{< backref src="/plants/entrepreneurship/use-agile-in-uncertain-environments" >}}
 - {{< backref src="/plants/entrepreneurship/lean-startups-live-by-the-agile-manifesto" >}}
-- {{< backref src="/plants/entrepreneurship/prepare-for-crisis" >}}
+- {{< backref src="/plants/entrepreneurship/owners-must-prepare-for-crisis" >}}
 - {{< backref src="/plants/business/business-is-responsible-for-most-tax-collection" >}}
 - {{< backref src="/plants/business/indirect-taxes-tend-to-be-regressive" >}}
 - {{< backref src="/plants/entrepreneurship/lean-startups-leverage-tax-deductions" >}}
