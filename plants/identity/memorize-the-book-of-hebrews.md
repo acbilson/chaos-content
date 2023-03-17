@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
-lastmod = "2023-03-17 08:10:43"
-lastmod = "2023-03-17 08:10:43"
+date = "2023-03-17 08:10:43"
+lastmod = "2023-03-17 08:11:37"
 epistemic = "sprout"
 tags = ["memorization","bible"]
 +++
