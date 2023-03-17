@@ -1,14 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2023-03-17 08:10:43"
-lastmod = "2023-03-17 08:11:37"
+lastmod = "2023-03-17 14:15:29"
 epistemic = "sprout"
 tags = ["memorization","bible"]
 +++
-Below is a ChatGPT prompt response to help with my memorization (with a little formatting). I was five prompts deep into training ChatGPT (Mar 14) to help me scaffold my memorization of the book of Hebrews. It explained space repetition and mind palaces fairly accurately, but it wasn't personally helpful until I started asking for examples. For creative exploration, it's great. I needed the motivation to tackle this project, and applying ChatGPT is helping to keep me going.
+Below is a ChatGPT prompt response to help with my memorization (with a little formatting). I was five prompts deep into training ChatGPT to help me scaffold my memorization of the book of Hebrews. It explained space repetition and mind palaces fairly accurately, but it wasn't personally helpful until I started asking for examples. For creative exploration, it's great. I needed the motivation to tackle this project, and applying ChatGPT is helping to keep me going.
 
-> Provide an outline of the book of Hebrews. For each section of the outline, provide three possible memory palace locations based on the content of that section.
-
+{{< ai prompt="Provide an outline of the book of Hebrews. For each section of the outline, provide three possible memory palace locations based on the content of that section." ai="ChatGPT 3 (March 14)" >}}
 Sure! Here is an outline of the book of Hebrews with three possible memory palace locations for each section:
 
 I. Introduction and Exhortation (Hebrews 1:1-2:4)
@@ -58,3 +57,4 @@ Memory Palace Locations:
 - A home or family gathering (to represent the emphasis on community and hospitality)
 - A marketplace or city center (to represent the practical advice for daily living and interactions)
 - A temple or church (to represent the focus on worship and service to God)
+{{< /ai >}}
