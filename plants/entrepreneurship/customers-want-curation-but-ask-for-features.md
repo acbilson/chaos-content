@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2023-03-16 10:56:58"
+lastmod = "2023-03-20 13:27:56"
 epistemic = "evergreen"
 tags = ["simplicity","curation","customer"]
 +++
@@ -29,7 +29,7 @@ Whether it's due to contractual agreements, package deals, or what, most grocery
 
 Enter Trader Joe's. Do you know how many marinara sauce options you have? Basil or Garlic. Two. That's it. Do you know something else? They're _cheaper_ than most of the options at Jewel. And guess what? They taste better.
 
-Trader Joe's entire business model is built upon product curation. Because average people don't need every possible marinara sauce in the American mid-west, they just need one good sauce. And so Trader Joe's does the labor of testing the options then hides the whole process behind their brand name.
+Trader Joe's business model is built upon product curation. Because average people don't need every possible marinara sauce in the American mid-west, they just need one good sauce. And so Trader Joe's does the labor of testing the options then hides the whole process behind their brand name. They have discovered that simplicity is not about maximum optimization, {{< backref src="/plants/business/simplicity-is-empathetic" >}}.
 
 ## References
 
