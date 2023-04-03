@@ -1,8 +1,8 @@
 +++
 author = "Alex Bilson"
 date = "2023-04-03 15:38:22"
-lastmod = "2023-04-03 15:41:33"
-epistemic = "evergren"
+lastmod = "2023-04-03 15:42:39"
+epistemic = "evergreen"
 tags = ["recipe"]
 +++
 In distress that I might have lost this recipe trifecta I'm publishing our apple pie recipe. It's the loving combination of many recipes over the years, all combined into one incredible, deep-dish masterpiece. It's my birthday pie.
