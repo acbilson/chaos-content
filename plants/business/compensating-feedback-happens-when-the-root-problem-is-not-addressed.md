@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2018-07-01"
-lastmod = "2022-11-09 09:28:40"
+lastmod = "2023-04-07 07:32:27"
 epistemic = "evergreen"
 tags = ["feedback","repetition","intervention","refinement"]
 +++
@@ -11,7 +11,7 @@ Let's say a person undergoes surgery to relieve debilitating back pain. The surg
 
 Business is full of feedback loops that are often more obscure than personal loops because the change affects another department and the feedback comes back with no connection to the initial change.
 
-For example, a product manager decides that, for the future of the product, a key feature needs to be deprecated. The product department makes the change and its productivity rises now that this difficult feature is gone. Meanwhile, new customers suddenly discover that an important feature is not missing from the product they just purchased. Droves of customers return the product and encourage their friends to find an alternative. The head of Sales discovers that this month's numbers have plummeted and berates the sales team for poorly communicating the product's features.
+For example, a product manager decides that, for the future of the product, a key feature needs to be deprecated. The product department makes the change and its productivity rises now that this difficult feature is gone. Meanwhile, new customers suddenly discover that an important feature is now missing from the product they just purchased. Droves of customers return the product and encourage their friends to find an alternative. The head of Sales discovers that this month's numbers have plummeted and berates the sales team for poorly communicating the product's features.
 
 The head of Sales may never discover that the decision by the product manager was the reason the month's sales numbers dropped. Likewise, the product manager assumes their change was a good idea because he's seeing momentary benefits in his own department. Later, when he can't replace new engineers because the company has had low profits for the last couple months, he'll never suspect that the low profits were the result of his decision.
 
