@@ -7,6 +7,7 @@ date = "2022-02-01"
 page = "768"
 source = "A Sacrifice of Praise"
 tags = ["dark-night-of-the-soul","depression","burnout"]
+title = "Oblique Prayer"
 +++
 {{< raw >}}
 <p>Not the profound <i>dark</i><br />

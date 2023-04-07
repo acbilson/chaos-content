@@ -7,6 +7,7 @@ date = "2022-03-07"
 page = "177"
 source = "Klara and the Sun"
 tags = ["intervention","trust","healing"]
+title = "The sun's special help did not come"
 +++
 It occurred to me this was the ideal time for the Sun to send his special help, and whenever his pattern in the bedroom altered suddenly, or when he burst our in the sky following an overcast spell, I'd watch with particular keenness. But though he continued unfailingly to send his normal nourishment, his special help didn't come.
 

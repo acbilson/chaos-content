@@ -7,6 +7,7 @@ date = "2022-03-31"
 page = "534"
 source = "A Sacrifice of Praise"
 tags = ["peace","suffering","joy","darkness"]
+title = "Per Pacem Ad Lucem"
 +++
 {{< poetry >}}
 I do not ask, O Lord, that life may be

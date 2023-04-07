@@ -7,6 +7,7 @@ date = "2022-02-01"
 page = "525"
 source = "A Sacrifice of Praise"
 tags = ["faith","nature","love","sacrifice","presence","city"]
+title = "What Christ Said"
 +++
 {{< poetry >}}
 I said, "Let me walk in the fields."
