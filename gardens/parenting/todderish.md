@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2023-01-09 11:40:28"
+lastmod = "2023-04-19 11:33:29"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -79,6 +79,15 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   match="Bubbles"
   example="I got pee bubblies!"
   origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Cano"
+  term="noun"
+  phonetic="kā-nō"
+  match="Volcano"
+  example="Cano, lava, boom!"
+  origin="R.A. Bilson"
 >}}
 
 {{< vocab
@@ -196,12 +205,30 @@ Todderish conjunctions have no matching correlation to the host language. Their 
 >}}
 
 {{< vocab
+  word="Keis-Lice"
+  term="noun"
+  phonetic="ˈkēs līs"
+  match="Cheese Slice"
+  example="please keis-lice?"
+  origin="R.A. Bilson"
+>}}
+
+{{< vocab
   word="Lalo"
   term="noun"
   phonetic="lā-lō"
   match="Yellow, or snack"
   example="I want da lalo."
   origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Lime"
+  term="noun"
+  phonetic="ˈlīm"
+  match="Slime"
+  example="Icky lime."
+  origin="R.A. Bilson"
 >}}
 
 {{< vocab
@@ -212,7 +239,6 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   example="I want lalo logurt."
   origin="G.T. Bilson"
 >}}
-
 
 {{< vocab
   word="Look"
@@ -239,6 +265,24 @@ Todderish conjunctions have no matching correlation to the host language. Their 
   match="Snack"
   example="I want nack dere, me."
   origin="G.T. Bilson"
+>}}
+
+{{< vocab
+  word="Nado"
+  term="noun"
+  phonetic="nā-dō"
+  match="Tornado"
+  example="Run, nado coming!"
+  origin="R.A. Bilson"
+>}}
+
+{{< vocab
+  word="No"
+  term="noun"
+  phonetic="no"
+  match="No or now"
+  example="I wanna go coffee shop, no!"
+  origin="R.A. Bilson"
 >}}
 
 {{< vocab

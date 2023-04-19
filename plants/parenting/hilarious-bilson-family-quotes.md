@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2022-10-07 13:20:49"
-lastmod = "2023-02-15 14:26:34"
+lastmod = "2023-04-19 11:34:34"
 epistemic = "evergreen"
 tags = ["comedy","review","children","parenting"]
 Title = "Hilarious Bilson family quotes"
@@ -379,3 +379,33 @@ Royal: "Yes, la la la..."
 {{< /story >}}
 
 {{< caption alt="Graham and Royal together. Royal is in a toy bin." src="https://images.alexbilson.dev/20221212_011020610_iOS.webp" >}}
+
+### March 2022
+
+{{< story >}}
+Royal (screaming): I wanna go coffee shop, no!
+Alex: Ok, I get it. You don't want to go to the coffee shop.
+Royal (louder): Coffee shop, no!
+Alex: I understand. No coffee shop today.
+Royal (loudest): Coffee shop, no!!!
+(There's not much of a sound difference between "no" and "now." My mistake.)
+{{< /story >}}
+
+{{< story >}}
+Alex: The dinosaur nuggets are ready. Want one?
+(Amie eats one while Alex is distracted)
+Alex: Wait, were's the pterodactyl? You ate the pterodactyl? Now there's only one!
+(When the boys preferred the pterodactyl dino nugget and each had to have his own)
+{{< /story >}}
+
+{{< caption alt="Graham and Royal eating snacks in the woods." src="https://images.alexbilson.dev/20230319_173228881_iOS.webp" >}}
+
+### April 2022
+
+{{< story >}}
+Amie: What’s the best thing you did today?
+Graham: go outside
+Royal: come inside
+{{< /story >}}
+
+{{< caption alt="Graham and Royal holding their Easter baskets." src="https://images.alexbilson.dev/20230409_134745033_iOS.webp" >}}
