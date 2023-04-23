@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2020-11-24"
-lastmod = "2023-04-19 11:33:29"
+lastmod = "2023-04-23 09:22:46"
 narrow = true
 title = "Todderish Thicket"
 [coordinates]
@@ -17,6 +17,15 @@ Todderish, or the language of toddlers, may share words from other tongues, but 
 English-influenced Todderish steals several words. “No,” “mine,” and “more” being some of the most recognizable. Some you may not recognize or may associate with another meaning.
 
 Todderish conjunctions have no matching correlation to the host language. Their meaning is unclear, but the intent is mimicry filler phrases.
+
+{{< vocab
+  word="89 Plon"
+  term="noun"
+  phonetic="89 plōn"
+  match="multitool (nail clippers)"
+  example="89 Plon go?"
+  origin="R.A. Bilson"
+>}}
 
 {{< vocab
   word="Amimoses"
