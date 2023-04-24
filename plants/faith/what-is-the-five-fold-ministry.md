@@ -1,9 +1,9 @@
 +++
 author = "Alex Bilson"
 date = "2022-02-02"
-lastmod = "2023-03-16 07:40:33"
+lastmod = "2023-04-24 11:51:48"
 epistemic = "evergreen"
-tags = ["spiritual-gifts","apest"]
+tags = ["spiritual-gifts","apest","identity","humanity"]
 +++
 The acronym {{< acronym APEST "Apostle Prophet Evangelist Shepherd & Teacher" >}} describes five spiritual gifts that {{< backref name="Christ embodied" src="/plants/faith/jesus-fulfills-the-roles-and-gifts" >}} and distributed to humanity. It's not the only list of spiritual gifts, but it's the one that seems most to describe the architecture of a church community, since these are given for the building up of the Church. But what are they exactly?
 
@@ -65,3 +65,45 @@ Payton Jones gives several pages to answering questions about the five-fold gift
 - Develops a biblical worldview
 - Brings clarity to Scripture
 - Applies Word of God to their personal lives
+
+## Gifts By Music (In Progress)
+
+Another way to explore the gifts is to ask, "What does this _sound_ like?" Here are a few examples by song:
+
+## Evangelist/Prophet - Keith Green
+
+Prime example:
+
+- Asleep in the Light (Evangelist/Prophet)
+
+{{< poetry >}}
+Do you see? Do you see?
+All the people sinking down?
+Don't you care? Don't you care?
+Are you gonna let them drown?
+How can you be so numb?
+Not to care if they come
+You close your eyes and pretend the job's done
+
+Oh, bless me, Lord! Bless me, Lord!"
+You know, it's all I ever hear
+No one aches, no one hurts
+No one even sheds one tear
+But, He cries, He weeps, He bleeds
+And He cares for your needs
+And you just lay back and keep soaking it in
+
+...
+
+Come away, come away
+Come away with Me, My love
+{{< /poetry >}}
+
+## Prophet - Common Hymnal
+
+- God Will Heal Our Wounds (Prophet)
+
+{{< poetry >}}
+If we stop loving on our own terms
+God will heal our wounds, God will heal our wounds
+{{< /poetry >}}
