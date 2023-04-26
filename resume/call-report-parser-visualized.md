@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2023-04-14"
-lastmod = "2023-04-14 10:01:59"
+lastmod = "2023-04-26 11:18:42"
 +++
 
 The {{< backref src="/resume/call-report-parser" >}} is a project I've exclusively worked on for about a year. On more than one occasion I found that I had to dig through its internals to answer a question about how it worked or pulled up the [Swagger](https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-7.0) documentation page to run an adhoc query. When I mentioned that it'd be helpful to build a web interface for the parser my colleagues felt it wasn't worth the time. But how much time would it actually be? Turns out, just two days 🏎️💨.
@@ -225,3 +225,7 @@ That's a clean solution without decorators or template parsing. Nice 😎.
 ## Conclusion
 
 I was a believer in native HTML, CSS and JavaScript before I started this project. Still, I'm shocked to build this web interface with no build tools in only two days. If it was going public there'd be more time required to get the brand design just right, but both functionality and layout are complete. I've never been more satisfied with the power and beauty of web development than I am today.
+
+## Riposté
+
+Thanks to a [comment](https://mastodon.social/@westbrook/110205893240016971) from [Westbrook Johnson](https://indieweb.social/@westbrook@mastodon.social) I broke my web components and services into separate files using [Import Maps](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap). Now I have all the organization of a transpiled project without any transpiling step!
