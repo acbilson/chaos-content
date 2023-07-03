@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2023-06-14"
-lastmod = "2023-06-14 12:55:00"
+lastmod = "2023-07-03 08:33:44"
 toc = true
 narrow = true
 title = "Centennial Trail"
@@ -60,3 +60,44 @@ I snapped photos of most of the trail blazons from which I assembled a highly ac
 {{< caption alt="A Google Earth map of the GPS coordinates of the episode #1 route" src="https://images.alexbilson.dev/centennial_trail_episode_1.webp">}}
 
 You can download the Google Earth KML file for Episode #1 [here](/data/kml/centennial_trail_episode_1.kml).
+
+## Episode #2 - Through the Wilderness
+
+My confidence greatly bolstered by my first successful excursion, I opted to try a more arduous hike. This one travels through Black Elk Wilderness - nine miles of ups and downs through a protected zone that includes Black Elk Peak and Mount Rushmore.
+
+As with the first hike, Amie and the boys trekked the beginning. They love hiking as much as I do and lack only stamina, not heart.
+
+{{< caption src="https://images.alexbilson.dev/20230619_153513065_iOS.webp" >}}
+
+We'd seen a couple hitching up horses at the start of the trail. About an hour into the hike they overtook me while I was eating a snack and marveling at a granite outcropping. The wilderness forbids motorized travel, but horses don't have motors.
+
+{{< caption caption="10:17" src="https://images.alexbilson.dev/20230619_161740645_iOS.webp" >}}
+
+This has been a particularly wet Spring and the trail had numerous bogs dug by horse hooves in mud. Since I carried only a day pack these treacherous points weren't an obstacle, but I met a family with full kit. I prayed that their ankles would be protected - not fun picking your way carefully with a 50 kilo backpack.
+
+{{< caption caption="10:34" src="https://images.alexbilson.dev/20230619_173253388_iOS.webp" >}}
+
+I gave myself quite a scare when I stopped for lunch. I was hungry and more focused on the prospect of a meal than my surroundings. My unpresent mind didn't consider that, while I was heating my food on a large rock, the rock itself was liberally sprinkled with dry pine needles which began to blacken as my camp stove heated. Shocked into action by the sight of smoke, I made it worse by attempting to move the stove to another spot. I slipped in the process and sloshed flaming ethanol onto a bed of needles, instantly creating a dozen small flames. I snatched my water bottle and doused the flames, my imagination dancing with terrifying images of perishing in a forest fire. It took over an hour before I stopped shaking. I was so humiliated that I would make such a foolish decision, as though I've never been outside before, and horrified that I'd nearly damaged the beauty I so enjoyed.
+
+{{< caption caption="12:24" src="https://images.alexbilson.dev/20230619_182456384_iOS.webp" >}}
+
+After climbing out of a ravine I encountered a rocky outlook. I had met a traveller heading in the same direction a half-hour before the fire debacle and they'd overtaken me while I ate my lunch. Now I passed them up again, joking that the tortoise beats the hare in the story.
+
+{{< caption caption="13:12" src="https://images.alexbilson.dev/20230619_191223209_iOS.webp" >}}
+
+There are no Centennial Trail blazes in the Black Elk Wilderness, but when the trail crosses another the Forest Service has put up these nice signs. I was just about out of the wilderness at this point.
+
+{{< caption caption="14:42" src="https://images.alexbilson.dev/20230619_204224019_iOS.webp" >}}
+
+I made the mistake of calling Amie around 1:00 to let her know I was ahead of schedule and could be picked up at 3:00. I hadn't realized how much the trail meanders around Horsethief Lake before arriving at the next trailhead. So I spent the last hour hiking on overdrive to beat Amie to the pickup. Next time I won't forget my hammock and can just take it easy if I'm early!
+
+{{< caption caption="15:00" src="https://images.alexbilson.dev/20230619_210017057_iOS.webp" >}}
+
+{{< caption alt="A Google Earth map of the GPS coordinates of the episode #2 route" src="https://images.alexbilson.dev/centennial-trail-episode-2.webp">}}
+
+{{< notice >}}
+Somehow the GPS coordinates for the first part of the hike were botched. It begins on the dirt road to Iron Creek Camp Ground but there are no pins.
+{{< /notice >}}
+
+You can download the Google Earth KML file for Episode #2 [here](/data/kml/centennial_trail_episode_2.kml).
+
