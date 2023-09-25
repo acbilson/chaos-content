@@ -1,6 +1,6 @@
 +++
 date = "2023-09-25"
-lastmod = "2023-09-25 13:40:16"
+lastmod = "2023-09-25 13:43:11"
 epistemic = "evergreen"
 tags = ["trust", "fear", "family", "future", "justice"]
 title = "What I Must Say"
@@ -23,7 +23,7 @@ Even if by some miracle his dying words are not "E tu, Brute?", it may not ultim
 
 To have voted for a Republican which happened to be Donald Trump is unsettling, but I can sympathize with the motives which lead people towards the Republican party. I have voted for Republicans in the past and I would do so again. But I can no longer conceive of a vote for Donald Trump as a purely party decision after all that's happened. A second vote for Trump has become an ethical agreement with his actions.
 
-How does all this circle back to me, a white heterosexual male: of all classes of people the least in danger of a lynching mob? Because with all the courage my quaking, quavering heart can muster I will resist. Not in kind - I will raise no hand in violence - but with the same sacrificial love with which Jesus defeated an Empire.
+How does all this circle back to me, a white heterosexual male: of all classes of people the least in danger of a lynching mob? Because with all the courage my quaking, quavering heart can muster I will resist. Not in kind - I will raise no hand in violence - but with the same sacrificial love with which Jesus defeated an Empire. Which is why I ask that you {{< backref src="/plants/faith/how-to-pray-for-my-family" name="Pray For My Family" >}}.
 
 If you still choose Donald Trump, I do not condemn you, even though you make yourself my enemy by choosing a future that could end my life. Whether you hear my words now or are finally shaken awake by the men pulling your neighbor from her home, the hour is not too late for you to turn away. If the axe is truly at the root of the tree, as it was in the days of Jesus, then neither of us will escape the wrath to come. But we can keep our humanity and, when the day of vindication has fully come, we will be justified by our trust in Jesus.
 
