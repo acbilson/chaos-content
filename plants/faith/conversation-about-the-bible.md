@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2023-09-26"
-lastmod = "2023-09-26 13:24:19"
+lastmod = "2023-09-26 15:53:23"
 epistemic = "evergreen"
 tags = ["formation","interpretation","trust","curiosity","cognitive-bias","literature","ambiguity"]
 title = "Conversation about the Bible"
@@ -26,16 +26,11 @@ This is horrific. Unconscionable. But you'll have to keep reading if you are to 
 We consider great literature those books which honor the ambiguously complex nature of life on earth and give room in our hearts to learn from their wisdom. Why should we afford the #Bible any less honor, though we must read with patience a book written by authors from a time and culture distant to our own, writing to an audience distinct from us.
 
 
-### (see [@Shobeck](https://indieweb.social/@Shobeck/111127275376557020))
-{{< raw >}}
-<!--
-[@Shobeck](https://indieweb.social/@Shobeck/111127275376557020)
+### [@Shobeck](https://indieweb.social/@Shobeck/111127275376557020)
 
 @acbilson I think much of the difference when critiquing the bible is that some people think it comes from the creator of the entire universe and seek to govern others by its contents.  This adds significance and requires more critical assessment of the text.
 
 Secular bible study is possible and explores the poetic and beautiful sections. As soon as someone claims the book is a sufficient explanation of earths origin, then epistemology needs a stronger focus.
--->
-{{< /raw >}}
 
 
 ### [@acbilson](https://indieweb.social/@acbilson/111127655338546719)
@@ -49,14 +44,10 @@ I agree that a dogmatic  interpretation of the first couple chapters doesn't do 
 @corbden has a better meditation on those chapters: https://defcon.social/@corbden/111116603922874258
 
 
-### (see [@Shobeck](https://indieweb.social/@Shobeck/111129968573431954))
+### [@Shobeck](https://indieweb.social/@Shobeck/111129968573431954)
 
-{{< raw >}}
-<!--
 @acbilson @corbden thanks for you reply. my point was not just those specific verses but more the principal that if someone claims a book comes from a divine being, then it attracts a higher level of scrutiny - one can admire poetry or literary flourish but questions about authorship remain.
 The Koran has some nice sections with some nuanced understanding of life on earth. That doesn't make it true, or give credence to the whole thing being divine.
--->
-{{< /raw >}}
 
 
 ### [@acbilson](https://indieweb.social/@acbilson/111131633352587819)
@@ -84,9 +75,8 @@ Informed trust is what the Bible expects, and my trust grows with every encounte
 For me, the #Bible is like a letter written by my closest friend and mentor. I love sharing it with others, not to demand that they believe and comply, but because I love my best friend and enjoy introducing them to others. It makes my joy complete to share it.
 
 
-### (see [@Shobeck](https://indieweb.social/@Shobeck/111131872773100412))
-{{< raw >}}
-<!--
+### [@Shobeck](https://indieweb.social/@Shobeck/111131872773100412)
+
 @acbilson @corbden
 
 I appreciate your interest and passion.
@@ -96,10 +86,10 @@ I'm curious at your comments of acknowledging the cognitive bias, yet skipping o
 If you were speaking with a muslim or a mormon and they said similar - "I know its circular reasoning but it works for me".
 
 Would that make you more likely to believe the central tenets of their faith are true, or would you think its more likely they have mistakenly accepted something as true when its not .
--->
-{{< /raw >}}
+
 
 ### [@acbilson](https://indieweb.social/@acbilson/111131926897128554)
+
 @Shobeck @corbden I haven't actually met any person of faith who has made that claim so it's hard to say... 😆
 
 I think it's fascinating how people come to believe what they do. "Blind" trust isn't limited to people with holy books after all. But if I did encounter a Muslim or a Mormon who made such a claim, I'd take a page from @corbden and stir their curiosity. Also on common ground - not divine authorship but the person of King Jesus.
@@ -110,6 +100,7 @@ I think it's fascinating how people come to believe what they do. "Blind" trust 
 @acbilson @Shobeck I’d imagine that any approach is up to the reader, assuming god* isn’t an authoritarian who punishes people who get it “wrong.” If there is no wrong interpretation in the sense that it will rouse god’s anger. If, like all other forms of literature, we are expected to each take our own impressions from it. As a writer myself, I might intend a certain meaning or prefer an interpretation of my work, but I’d be a huge jerk if I lost it at anyone who took away something else. (Unless they used it to justify or perpetuate harm… then I’d be reasonably upset.) Humans seem designed for subjective interpretation of both art & reality. The Bible is unclear and full of flexible meaning and metaphor. If an all-powerful God didn’t intend that, then I have to wonder why I should take him seriously.
 
 *A note on god/God: I use god when I want to leave what that means open to the broadest possibilities, and God when I’m referring to the personal Father God described by Christianity.
+
 
 ### [@acbilson](https://indieweb.social/@acbilson/111132302126466550)
 
