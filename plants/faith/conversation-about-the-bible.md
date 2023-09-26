@@ -1,13 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2023-09-26"
-lastmod = "2023-09-26 13:16:33"
+lastmod = "2023-09-26 13:24:19"
 epistemic = "evergreen"
 tags = ["formation","interpretation","trust","curiosity","cognitive-bias","literature","ambiguity"]
 title = "Conversation about the Bible"
 +++
 
-What follows is a thread copied from a lovely Mastodon conversation across the past two days between my account [@acbilson](https://indieweb.social/@acbilson), [@corben](https://indieweb.social/@corbden@defcon.social), and [@Shobeck](https://indieweb.social/@Shobeck)).
+What follows is a thread copied from a lovely Mastodon conversation across the past two days between my account [@acbilson](https://indieweb.social/@acbilson), [@corbden](https://indieweb.social/@corbden@defcon.social), and [@Shobeck](https://indieweb.social/@Shobeck)).
 
 Visit the start of the thread [here](https://indieweb.social/@acbilson/111126354686426099) to read in full.
 
