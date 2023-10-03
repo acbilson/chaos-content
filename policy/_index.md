@@ -13,3 +13,7 @@ I have zero ways to track anyone who visits my site, and no means for anyone to 
 My site is like a brick-and-mortar library. As the curator, I decide what books are on my shelf whether I've written the content or not. I do offer the works of other authors and will not modify their content without permission. But I might take it off the shelf.
 
 I've also begun a small index of some of my favorite webmasters. If anyone is listed on my index and wishes to be forgotten, simply email me at acbilson (at) ofchaosandorder (dot) com and I'll remove all traces.
+
+# AI Policy
+
+All content on this site is written by myself. I note where an AI, such as ChatGPT 3.5, was leveraged in any capacity. I do not wish for my site to be used in an AI model of any kind without my express written consent.
