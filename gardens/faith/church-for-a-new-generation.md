@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2021-08-25"
-lastmod = "2023-02-13 10:35:24"
+lastmod = "2023-10-03 16:08:19"
 narrow = true
 toc = true
 title = "Church Cañon"
@@ -23,21 +23,29 @@ How do we organize? With our preoccupation with ideal Sunday gatherings, let's c
 
 The DMM mission resounds with the Hamilton Broadway quote, "I wanna make sumpthin that's gonna outlive me." It's Disciple-Making Movements in every geography and every affinity. Chicago and Mozambique, soccer fans and pregnant mothers.
 
+{{< notice >}}
+The following are distinctives, quotes and shifts borrowed from a New Generations presentation hosted in Phoenix, AZ, in 2022.
+{{< /notice >}}
+
+### Distinctives
+
 1. God directed. We listen to the Father and do what he says. That's at the individual and community level (micro/macro).
 2. Replication obsessed. The process goes with the growth. Psalm 105 - God’s command to a thousand generations. Degradation of the DNA is natural; it takes obsessive perceverance to keep the DNA stable.
 3. Apostolically spirited. Send the news where it has never been or has never flourished. Won’t happen without us, but won’t depend on us either
 4. Locally directed. Those who live in an area/context, lead in that context
 5. Kingdom committed. We expect the good news transforms people and communities. The world is broken, but we are not impotent
 
-You cannot make one-size fits all, but neither can you do violence to the essence (DNA).
+### Key Quotes
 
 Deuteronomy 6:1-9
 
-The only way that this passes on well is out of passionate love for Jesus.
+"The only way that this passes on well is out of passionate love for Jesus."
 
-Every day in every way you reinforce the DNA.
+"Every day in every way you reinforce the DNA."
 
-**10 Seismic Shifts**
+"You cannot make one-size fits all, but neither can you do violence to the essence (DNA)."
+
+### Seismic Shifts
 
 1. Professional -> Ordinary People
 2. Knowledge -> Obedience
@@ -107,6 +115,13 @@ There are as many ways to pray as there are people. Prayer stretches into the pa
 One of the oldest and most prolific ways to pray is to model your prayer from Jesus' own example. I've written some notes about it in {{< backref src="/plants/faith/your-kingdom-come" >}}.
 
 C.S. Lewis explores the experience of speaking both to and by God in his poem, {{< backref src="/stones/clive-staples-lewis/prayer" >}}, while Madeleine L'Engle validates {{< backref src="/stones/madeleine-lengle/before-i-can-listen-to-god-in-prayer-i-must-fumble-through-the-prayers-of-words" name="the need for words, even in listening" >}}. She also ties prayer with both discipline and art when she says {{< backref src="/stones/madeleine-lengle/the-greatest-moments-of-prayer-come-in-the-midst-of-fumbling" >}}. And {{< backref src="/stones/madeleine-lengle/we-are-afraid-of-this-kind-of-prayer" name="the experience of personal death" >}} links with Thomas Merton's thoughts about {{< backref src="/stones/thomas-merton/there-is-only-one-vocation" name="vocation" >}}, {{< backref src="/stones/thomas-merton/to-become-myself-i-must-cease-to-be-what-i-thought-i-wanted-to-be" name="identity" >}} and {{< backref src="/stones/thomas-merton/contemplation-is-no-escape-from-anguish" name="doubt" >}}.
+
+Most of those links are about private prayer, but the community of Jesus also prays together. How this looks varies, and I've found literature on prayer is exclusively private, but there are some points to consider.
+
+(TODO: add to its own post)
+
+Corporate prayer reflects the gifts of its organizers. I've attended prayer meetings which bend towards social justice in my city, others where we petition God for the expansion of His kingdom, yet others where we pray through a list of people with prayer needs (illness, finances, etc.), or where we pray for the attendees to experience God's love and healing. While it's never helpful to stereotype everything into five buckets, knowing the bent of the organizers will give one a better sense of what to expect. Advertisements and invitations should also take their bent into account in their explanations to give people a better sense of their participation. It's unheard of for a person to attend a generic prayer meeting, but you might pique curiosity with a better description.
+
 
 #### Sabbath
 
