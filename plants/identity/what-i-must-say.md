@@ -1,9 +1,9 @@
 +++
 date = "2023-09-25"
-lastmod = "2023-09-25 13:43:11"
+lastmod = "2023-10-24 08:57:34"
 epistemic = "evergreen"
 tags = ["trust", "fear", "family", "future", "justice"]
-title = "What I Must Say"
+title = "What I must say"
 +++
 There's a fear which keeps surfacing in my psyche. It's the fear that I will be taken away from my children by a society increasingly free to exercise violence towards nonconformity. This fear arises most often when I read articles about the narrow edge our society balances upon with the upcoming presidential election.
 
