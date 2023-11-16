@@ -1,6 +1,6 @@
 +++
 date = "2023-09-25"
-lastmod = "2023-10-24 08:57:34"
+lastmod = "2023-11-16 10:25:15"
 epistemic = "evergreen"
 tags = ["trust", "fear", "family", "future", "justice"]
 title = "What I must say"
@@ -28,3 +28,7 @@ How does all this circle back to me, a white heterosexual male: of all classes o
 If you still choose Donald Trump, I do not condemn you, even though you make yourself my enemy by choosing a future that could end my life. Whether you hear my words now or are finally shaken awake by the men pulling your neighbor from her home, the hour is not too late for you to turn away. If the axe is truly at the root of the tree, as it was in the days of Jesus, then neither of us will escape the wrath to come. But we can keep our humanity and, when the day of vindication has fully come, we will be justified by our trust in Jesus.
 
 If you are ardently against Donald Trump but do not share my trust in Jesus and his resurrection, join me before your resolve is tested at gunpoint. We will need the Power that sustained Jesus on the path to Calvary if we are to face a similar fate with honor. Become acquainted with the suffering King whose death liberates those who were in lifelong bondage because of their fear of death.
+
+## Two Months Later
+
+I wrote the initial post in September 2023. This topic weighed heavily on my psyche and I wanted to record it in hopes that I could let it go. I also confessed these fears to a trustworthy friend. Here in November I can confidently announce that, between writing and confession, this is no longer weighing heavily on me! My perception has not changed, but it's no longer filling me with the same dread. I suspect there's an element of spiritual attack in this feeling that was weakened through confession.
