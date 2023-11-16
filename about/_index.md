@@ -4,15 +4,11 @@ displayInMenu = true
 kind = "page"
 narrow = true
 +++
-My name's Alex, and I'm a refiner by trade and passion, an engineer of software and systems, a husband to the lovely Amie, father to Graham and baby incoming, and a follower of Jesus.
+I’m a refiner by trade and passion, a husband to the lovely Amie, father to Graham and Royal, and a loving disciple of Jesus. I develop software by day and steward church planting seeds by night.
 
-Share a hot beverage and I'll talk your ear off about books, software, business strategy, language, history, and Jesus.  Corner me in a crowded room and you'll get _nothing_.
+Share a hot beverage and I’ll talk your ear off about books, business strategy, technology, language, history, church planting, spiritual gifts and Jesus. Corner me in a crowded room and you’ll get _nothing_.
 
-I am earnest, loyal, tenacious, analytical, and brave. If you become my friend, you'll find I'm also silly, musical and creative.
-
-To learn more about me from the aspect of work history, review my [LinkedIn Profile](https://www.linkedin.com/in/alexander-bilson-21089b35/).
-
-To see what I've done with code, check out my [Github Page](https://github.com/acbilson).
+I am earnest, loyal, tenacious, analytical, and brave. If you become my friend, you’ll find I’m also silly, musical, and sometimes creative.
 
 From the perspective of the Enneagram, my results are a tie between a One (Reformer) and a Five (Investigator). My assessment is that I lean towards a Five. Here's a summary.
 
