@@ -1,10 +1,12 @@
 +++
 author = "Alex Bilson"
 date = "2023-09-20 09:18:18"
-lastmod = "2023-09-20 14:33:35"
+lastmod = "2023-12-20 15:21:05"
 epistemic = "sprout"
 tags = ["chatgpt","llm","prompt-engineering","ai"]
 +++
+(these notes originate from Jeff Mitchell's presentation at Performance Trust).
+
 # Prompt Engineering Tips
 
 1. use delimiters to instruct the model which text to work upon (and which to ignore).

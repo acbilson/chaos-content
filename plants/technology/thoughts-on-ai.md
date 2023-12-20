@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2023-11-16"
-lastmod = "2023-11-16 10:21:56"
+lastmod = "2023-12-20 15:21:24"
 epistemic = "sprout"
 tags = ["chatgpt","development","centaur","ai"]
+title = "Thoughts on AI"
 +++
 ## In Software Development
 
