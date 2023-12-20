@@ -1,9 +1,10 @@
 +++
 author = "Alex Bilson"
 date = "2023-12-20"
-lastmod = "2023-12-20 13:11:14"
+lastmod = "2023-12-20 13:29:40"
 epistemic = "evergreen"
-tags = ["faith","science"]
+tags = ["faith","science","deconstruction"]
+title = "Deconstruction with Larry Wall"
 +++
 
 Below is the full response from Larry Wall, the creator of the Perl programming language, to a question about faith in God. I've taken it wholesale from [butnotlost.blogspot](https://butnotlost.blogspot.com/2012/05/how-in-world-can-scientific-mind.html) since ya never know when it'll disappear. I've put italics around my favorite parts.
