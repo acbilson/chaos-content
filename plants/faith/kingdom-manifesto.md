@@ -2,7 +2,7 @@
 aliases = ["/gardens/kingdom-manifesto"]
 author = "Alex Bilson"
 date = "2020-11-27"
-lastmod = "2023-01-26 08:55:37"
+lastmod = "2024-03-14 15:56:40"
 epistemic = "evergreen"
 toc = true
 tags = ["kingdom","manifesto","church"]
@@ -159,7 +159,7 @@ Sunday gatherings have been regulated more than any other meeting. Regulations i
 
 Sunday gatherings remind participants of their shared purpose: to love God and their neighbors. The opportunity to celebrate with one another is valuable because it is so rarely done.
 
-## Confession
+## Personal Confession
 
 This manifesto is incomplete, for who can escape the gravity of one's circumstances to envision a community different from one's own? It is bound by my humanity, by time and space, by errors, foibles, and misunderstandings. Nonetheless, it is uniquely my own, and I believe that I also have a measure of God's Spirit.
 
@@ -189,6 +189,9 @@ What I want you to understand with this tongue-in-cheek slang comparison that th
 ### Sunday Gatherings in a new Light
 
 Ok, so I've just stated that Sunday gatherings are not a fundamental service. Does that mean we do away with them? By no means! Instead, let's place the Sunday gathering in a more modest position alongside the other three meetings/services. You may call them "the four fundamental services" if you'd prefer alliteration.
+
+
+### Necessary Discoveries
 
 - discovery 1: a church without a sunday gathering is still a church
 - discovery 2: an attendee that's not a member is still a committed Christian
