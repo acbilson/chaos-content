@@ -125,11 +125,11 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 </tr>
 <tr>
 	<td>C#</td>
-	<td><meter value="8" min="1" max="10">8 out of 10</meter></td>
+	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
 	<td>SCSS</td>
-	<td><meter value="8" min="1" max="10">8 out of 10</meter></td>
+	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
 	<td>T-SQL</td>
@@ -151,6 +151,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <li><a href="https://github.com/acbilson/chaos-micropub">Chaos Micropub (Python)</a></li>
 <li><a href="https://github.com/acbilson/chaos-webhook">Chaos Webhook (Rustlang)</a></li>
 <li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Python/T-SQL)</a></li>
+<li><a href="https://github.com/acbilson/savour-pinoy-sushi">Savour Pinoy & Sushi (Django)</a></li>
 </ul>
 
 <h3>Frontend Frameworks</h3>
@@ -164,7 +165,11 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
-	<td>Python Flask & uWSGI</td>
+	<td>Python Django</td>
+	<td><meter value="8" min="1" max="10">8 out of 10</meter></td>
+</tr>
+<tr>
+	<td>Python Flask</td>
 	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
@@ -180,6 +185,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <h4>Examples</h4>
 <ul role="list">
 <li><a href="https://github.com/acbilson/chaos-theme">Chaos Theme (Web Components)</a></li>
+<li><a href="https://github.com/acbilson/savour-pinoy-sushi">Savour Pinoy & Sushi (Django)</a></li>
 </ul>
 
 <h3>Backend Frameworks</h3>
@@ -193,6 +199,10 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
+	<td>Python Django & uWSGI</td>
+	<td><meter value="7" min="1" max="10">7 out of 10</meter></td>
+</tr>
+<tr>
 	<td>.NET Core & Entity Framework Core</td>
 	<td><meter value="8" min="1" max="10">8 out of 10</meter></td>
 </tr>
@@ -202,6 +212,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <ul role="list">
 <li><a href="https://github.com/acbilson/chaos-micropub">Chaos Micropub (Flask)</a></li>
 <li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Flask)</a></li>
+<li><a href="https://github.com/acbilson/savour-pinoy-sushi">Savour Pinoy & Sushi (Django)</a></li>
 </ul>
 
 <h3>DevOps Tools</h3>
@@ -236,7 +247,9 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <ul role="list">
 <li><a href="https://github.com/acbilson/chaos-theme">Chaos Theme (Hugo)</a></li>
 <li><a href="https://github.com/acbilson/chaos-micropub">Chaos Micropub (Podman)</a></li>
+<li><a href="https://github.com/acbilson/blackhillsfoodtruck">Black Hills Food Truck (Ansible)</a></li>
 <li><a href="https://github.com/acbilson/chaos-deploy">Chaos Deploy (Ansible/Podman)</a></li>
+<li><a href="https://github.com/acbilson/savour-pinoy-sushi">Savour Pinoy & Sushi (Ansible/Podman)</a></li>
 </ul>
 
 <h3>SysAdmin Tools</h3>
@@ -315,6 +328,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <ul role="list">
 <li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Sqlite)</a></li>
 <li><a href="https://github.com/acbilson/chaos-chat">Chaos Chat (Sqlite)</a></li>
+<li><a href="https://github.com/acbilson/chaos-index">Chaos Index (Sqlite)</a></li>
 <li><a href="https://github.com/acbilson/plaintext-budget">Budget App (Flat Files)</a></li>
 </ul>
 
