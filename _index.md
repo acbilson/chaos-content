@@ -23,9 +23,13 @@ kind = "home"
 
 <p>The gardens page is like a map full of places to explore. I try to plant related notes and the writing of others into gardens so that entire themes can be explored in one place.</p>
 
-<h3><a href="{{< ref "/tags" >}}">Tags</a></h3>
+<h3 class="spread"><a href="{{< ref "/plants" >}}">Plants</a>&<a href="/stones">Stones</a></h3>
 
-<p>These are my posts by category. If you want to see what I've written or collected about fear, faith, or formation, this is another place you can start.</p>
+<p>All gardens are made of plants and stones. Plants are articles of my own authorship, while stones are the pithy words of others.</p>
+
+<h3 class="spread"><a href="{{< ref "/tags" >}}">Tags</a>&<a href="/authors">Authors</a></h3>
+
+<p>These are all writings by category. If you want to see what I've written or collected about fear, faith, or formation, this is another place you can start.</p>
 
 <p>Every word has two superscript numbers. The first indicates how many writings are my original works, and the second the works of others. In my site's language, plants (my organic thoughts) and stones (landmarks from others).</p>
 
