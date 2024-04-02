@@ -3,7 +3,7 @@ authors = [
   "Priya Parker"
 ]
 copyright = "2018"
-date = "2023-03-26"
+date = "2024-03-26"
 page = "17,18"
 source = "The Art of Gathering: How We Meet and Why It Matters"
 tags = ["purpose","gathering"]
