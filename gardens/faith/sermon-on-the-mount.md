@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2024-05-29"
-lastmod = "2024-06-27 07:47:29"
+lastmod = "2024-06-27 07:55:08"
 narrow = true
 title = "Sermon on the Mount"
 [coordinates]
@@ -14,23 +14,11 @@ title = "Sermon on the Mount"
 
 ## Intro 5:3-16
 
-How good is life for the powerless, because theirs is the kingdom of the skies
+How good is life for the powerless, because theirs is the kingdom of the skies. How good is life for those who grieve, because they will be comforted. How good is life for the unimportant, because they will inherit the land.
 
-How good is life for those who grieve, because they will be comforted
+How good is life for those who hunger and thirst for right relationships, because they will be satisfied. How good is life for those who show mercy, because they will be shown mercy. How good is life for the pure in heart, because they will see God.
 
-How good is life for the unimportant, because they will inherit the land
-
-How good is life for those who hunger and thirst for right relationships, because they will be satisfied
-
-How good is life for those who show mercy, because they will be shown mercy
-
-How good is life for the pure in heart, because they will see God
-
-How good is life for the peacemakers, because they will be called children of God
-
-How good is life for those who have been persecuted on account of doing what is right, because theirs is the kingdom of the skies
-
-How good is life for you when they insult you and persecute and speak any evil lies against you on account of me. Celebrate and shout for joy, because your reward is great in the skies, because this is how they persecuted the prophets before you.
+How good is life for the peacemakers, because they will be called children of God. How good is life for those who have been persecuted on account of doing what is right, because theirs is the kingdom of the skies. How good is life for you when they insult you and persecute and speak any evil lies against you on account of me. Celebrate and shout for joy, because your reward is great in the skies, because this is how they persecuted the prophets before you.
 
 You are the salt of the land. But if the salt becomes unsalty, with what can it be made salty again? It is useful for nothing, except to be thrown out and stepped on by humans.
 
@@ -40,13 +28,19 @@ You are the light of the world. A city that is set up on a mountain is not able 
 
 ### Torah Part 1 5:17-20
 
-Don't suppose that I have come to do away with the Torah or the Prophets. I have not come to do away with them, but to fill them full. Because truly I tell you, until the sky and the land pass on, not one dot or one squiggle will pass on from the Torah until all things have taken place. Therefore, whoever undoes one of the least of these commands and then they teach people to do this, that person will be called least in the kingdom of the skies. And whoever does the commands and then teaches people to do this, that person will be called great in the kingdom of the skies. Because truly I tell you, unless your doing what is right far surpasses the scribes and Pharisees, you won't be entering into the kingdom of the skies.
+Don't suppose that I have come to do away with the Torah or the Prophets. I have not come to do away with them, but to fill them full. Because truly I tell you, until the sky and the land pass on, not one dot or one squiggle will pass on from the Torah until all things have taken place.
+
+Therefore, whoever undoes one of the least of these commands and then they teach people to do this, that person will be called least in the kingdom of the skies. And whoever does the commands and then teaches people to do this, that person will be called great in the kingdom of the skies. Because truly I tell you, unless your doing what is right far surpasses the scribes and Pharisees, you won't be entering into the kingdom of the skies.
 
 ### Torah Part 2 5:21-32
 
-You have heard that it was said to the ancients, "You will not murder," and "Whoever murders will be guilty by the court." And I say to you that anyone who is angry with his brother will be guilty by the court. And whoever calls his brother "good for nothing" will be guilty by the Sanhedrin, and whoever says, "Fool!" will be guilty of the fire of Gehenna. Therefore if you are presenting your offering at the altar and there remember that your brother has something against you, leave your offering there before the altar and go, first be reconciled to your brother, and then come and present your offering. Settle matters in a friendly way with your legal opponent while you are with him on the way, so that your opponent doesn't hand you over to the court judge, and the court judge to the officer, so that you are thrown into prison. Truly I say to you, you will not come out of there until you have paid back the last coin.
+You have heard that it was said to the ancients, "You will not murder," and "Whoever murders will be guilty by the court." And I say to you that anyone who is angry with his brother will be guilty by the court. And whoever calls his brother "good for nothing" will be guilty by the Sanhedrin, and whoever says, "Fool!" will be guilty of the fire of Gehenna.
 
-You have heard that it was said, "you will not commit adultery." But I say to you that anyone that goes on looking at a woman in order to cultivate lust for her, he has already committed adultery with her in his heart. If your right eye causes your downfall, tear it out and throw it from you. For it is better for you to lose one of the parts of your body than for your whole body to be thrown into Gehenna. If your right hand causes your downfall, cut it off and throw it from you. For it is better for you to lose one of the parts of your body than for your whole body to go off into Gehenna.
+Therefore if you are presenting your offering at the altar and there remember that your brother has something against you, leave your offering there before the altar and go, first be reconciled to your brother, and then come and present your offering. Settle matters in a friendly way with your legal opponent while you are with him on the way, so that your opponent doesn't hand you over to the court judge, and the court judge to the officer, so that you are thrown into prison. Truly I say to you, you will not come out of there until you have paid back the last coin.
+
+You have heard that it was said, "you will not commit adultery." But I say to you that anyone that goes on looking at a woman in order to cultivate lust for her, he has already committed adultery with her in his heart.
+
+If your right eye causes your downfall, tear it out and throw it from you. For it is better for you to lose one of the parts of your body than for your whole body to be thrown into Gehenna. If your right hand causes your downfall, cut it off and throw it from you. For it is better for you to lose one of the parts of your body than for your whole body to go off into Gehenna.
 
 It has also been said, "Whoever sends away his wife, he must give her a certificate of divorce." And I say to you that anyone who sends away his wife, except on the grounds of sexual immorality, he makes her the victim of adultery, and whoever marries a divorced woman commits adultery.
 
@@ -68,7 +62,9 @@ So then, when you do acts of generous giving, don't signal with a trumpet before
 
 ### Righteousness Part 2 6:5-15
 
-And when you pray, don't be like the hypocrites, because they love to pray while standing in the gathering places and at the corners of wide streets, for the purpose of being visible to people. Truly I tell you, they have fully received their reward. But you, when you pray, enter in to your inner room, and shut the door, so you can pray to your Father in hiddenness, and your Father, who sees what is done in hiddenness, he will fully reward you. And when you are praying, don't use meaningless repetition like the Nations, because they suppose that they will be heard on account of their many words. So don't be like them, because your Father knows what you need before you even ask Him. Therefore, when you pray, do it this way:
+And when you pray, don't be like the hypocrites, because they love to pray while standing in the gathering places and at the corners of wide streets, for the purpose of being visible to people. Truly I tell you, they have fully received their reward. But you, when you pray, enter in to your inner room, and shut the door, so you can pray to your Father in hiddenness, and your Father, who sees what is done in hiddenness, he will fully reward you. And when you are praying, don't use meaningless repetition like the Nations, because they suppose that they will be heard on account of their many words. So don't be like them, because your Father knows what you need before you even ask Him.
+
+Therefore, when you pray, do it this way:
 
 Our Father who is in the skies, may your name be recognized as holy.
 
