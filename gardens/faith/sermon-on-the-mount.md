@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2024-05-29"
-lastmod = "2024-06-27 07:46:04"
+lastmod = "2024-06-27 07:47:29"
 narrow = true
 title = "Sermon on the Mount"
 [coordinates]
@@ -12,7 +12,7 @@ title = "Sermon on the Mount"
 +++
 [Bible Project Intro](https://bibleproject.com/explore/video/intro-to-sermon-on-the-mount/)
 
-# Intro 5:3-16
+## Intro 5:3-16
 
 How good is life for the powerless, because theirs is the kingdom of the skies
 
@@ -36,13 +36,13 @@ You are the salt of the land. But if the salt becomes unsalty, with what can it 
 
 You are the light of the world. A city that is set up on a mountain is not able to be hidden, and they don't light a candle and place it under a basket. Rather, upon a candle stand, and it will shine on everyone in the house. In the same way, let your light shine before people, so that they can see your good works and they can give honor to your Father who is in the skies.
 
-# The Torah 5:17-48
+## The Torah 5:17-48
 
-## Torah Part 1 5:17-20
+### Torah Part 1 5:17-20
 
 Don't suppose that I have come to do away with the Torah or the Prophets. I have not come to do away with them, but to fill them full. Because truly I tell you, until the sky and the land pass on, not one dot or one squiggle will pass on from the Torah until all things have taken place. Therefore, whoever undoes one of the least of these commands and then they teach people to do this, that person will be called least in the kingdom of the skies. And whoever does the commands and then teaches people to do this, that person will be called great in the kingdom of the skies. Because truly I tell you, unless your doing what is right far surpasses the scribes and Pharisees, you won't be entering into the kingdom of the skies.
 
-## Torah Part 2 5:21-32
+### Torah Part 2 5:21-32
 
 You have heard that it was said to the ancients, "You will not murder," and "Whoever murders will be guilty by the court." And I say to you that anyone who is angry with his brother will be guilty by the court. And whoever calls his brother "good for nothing" will be guilty by the Sanhedrin, and whoever says, "Fool!" will be guilty of the fire of Gehenna. Therefore if you are presenting your offering at the altar and there remember that your brother has something against you, leave your offering there before the altar and go, first be reconciled to your brother, and then come and present your offering. Settle matters in a friendly way with your legal opponent while you are with him on the way, so that your opponent doesn't hand you over to the court judge, and the court judge to the officer, so that you are thrown into prison. Truly I say to you, you will not come out of there until you have paid back the last coin.
 
@@ -50,7 +50,7 @@ You have heard that it was said, "you will not commit adultery." But I say to yo
 
 It has also been said, "Whoever sends away his wife, he must give her a certificate of divorce." And I say to you that anyone who sends away his wife, except on the grounds of sexual immorality, he makes her the victim of adultery, and whoever marries a divorced woman commits adultery.
 
-## Torah Part 3 5:33-48
+### Torah Part 3 5:33-48
 
 Again, you have heard that it was said to the ancients, "Do not break your oath, but fulfill to the LORD the vows you have made." And I tell you, do not swear an oath at all. Not by the sky, because it is God's throne, not by the land, because it is His footstool, not by Jerusalem, because it is the city of the great king. And do not swear by your head, for you cannot make even one hair white or black. But let your word be "yes", "yes" or "no," "no." Anything beyond this comes from the evil one.
 
@@ -58,15 +58,15 @@ You have heard that it was said, "An eye in recompense for an eye, and a tooth i
 
 You have heard that it was said, "You will love your neighbor, and you will hate your enemy." And I say to you, love your enemies and pray for those who persecute you, so that you may be children of your Father who is in the skies. For He causes His sun to rise on the evil and the good, and he sends rain on the righteous and the unrighteous. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? If you greet only your brothers, what more are you doing than others? Do not even the Nations do the same? Therefore, you are to be whole, as your  Father in the skies is whole.
 
-# Doing What is Right 6:1-18
+## Doing What is Right 6:1-18
 
-## Righteousness Part 1 6:1-4
+### Righteousness Part 1 6:1-4
 
 Be careful about your doing what is right. Don't do it in front of people for the purpose of being seen by them. If you do you will have no reward from your Father in the skies.
 
 So then, when you do acts of generous giving, don't signal with a trumpet before you like the hypocrites do in the gathering places and alleyways, for the purpose of being honored by people. Truly I tell you, they have fully received their reward. But you, when you do acts of generous giving, don't let your left hand know what your right hand is doing, so that your generous giving is done in a hiddenness. And your Father, who sees what is done in a hiddenness, he will fully reward you.
 
-## Righteousness Part 2 6:5-15
+### Righteousness Part 2 6:5-15
 
 And when you pray, don't be like the hypocrites, because they love to pray while standing in the gathering places and at the corners of wide streets, for the purpose of being visible to people. Truly I tell you, they have fully received their reward. But you, when you pray, enter in to your inner room, and shut the door, so you can pray to your Father in hiddenness, and your Father, who sees what is done in hiddenness, he will fully reward you. And when you are praying, don't use meaningless repetition like the Nations, because they suppose that they will be heard on account of their many words. So don't be like them, because your Father knows what you need before you even ask Him. Therefore, when you pray, do it this way:
 
@@ -82,13 +82,13 @@ And don't lead us to be tested, but deliver us from the evil one.
 
 For if you forgive people their transgressions, your Father in the skies will also forgive you. But if you will not forgive people, then neither will your Father forgive your transgressions.
 
-## Righteousness Part 3 6:16-18
+### Righteousness Part 3 6:16-18
 
 And when you fast, don't look gloomy like the hypocrites, for they make their faces look disfigured so that their fasting will be visible to people. Truly I tell you, they have fully received their reward. But you, when you fast, anoint your head with oil and wash your face, so you your fasting won't be visible to people, but to your Father in a hidden way, and your Father who sees what is hidden, he will fully reward you.
 
-# Treasures in the Skies 6:19-7:12
+## Treasures in the Skies 6:19-7:12
 
-# Treasures Part 1 6:19-34
+## Treasures Part 1 6:19-34
 
 Don't store up for yourselves stored wealth on the land, where moth and nibbler can ruin, and where thieves break in and steal. But store up for yourselves stored wealth in the sky, where neither moth nor nibbler can ruin, and where thieves can't break in or steal. For where your stored wealth is, there your heart will be also.
 
@@ -98,7 +98,7 @@ No one is able to serve two masters, for either he will hate the one and love th
 
 Because of this I say to you, do not worry about your life being, what you will eat or what you will drink, not even about your body, what you will put on. Isn't the living self more than food and the body more than clothing? Look at the birds of the air, how they don't sow seed, and they don't harvest, and they don't gather into barns, and yet your Father in the skies feeds them. Aren't you all much more valuable than they? And who among you is able to add an hour to your lifespan by worry? And about clothing, why do you worry? Pay attention to the lilies of the field, how they grow. They don't labor, and they don't weave cloth, but I say to you all that not even Solomon with all his honor clothed himself like one of these. Now if the grass of the field, which is there today and tomorrow is tossed into the furnace, is clothed this way by God, won't He much more clothe you all, who have so little trust? So then, don't worry, saying, "What will we eat?" or "What will we drink?" or "What will we wear for clothing?" For the Nations they constantly seek for all these things, and your Father in the skies knows that you need all that. Rather, first of all seek for His kingdom and doing what is right by Him, and all these things will be added to you. So then don't worry about tomorrow, tomorrow can worry about itself. Each day has enough trouble of its own.
 
-## Treasures Part 2 7:1-11
+### Treasures Part 2 7:1-11
 
 Do not judge, so that you will not be judged. Because with the judgment that you judge, you will be judged, and with the measure that you measure, it will be measured to you. Why do you see the speck in the eye of your brother, but you don't perceive the beam in your eye? Or how can you say to your brother, "Allow me to take out the speck from your eye," and look, the beam is in your eye! Hypocrite, first take out the beam from your eye, and then you can see clearly the speck in the eye of your brother.
 
@@ -108,11 +108,11 @@ Ask and it will be given to you, seek and you will find, knock and it will be op
 
 Or what person is among you who, when their son asks for bread, will give him a rock? Or when he asks for a fish will give him a snake? So then, if you all are bad, but you know how to give good gifts to your children, how much more will your Father in the skies give good things to those who ask.
 
-## Treasures Part 3 7:12
+### Treasures Part 3 7:12
 
 So then, everything you desire that people do to you, so also you do to them. For this is the Torah and the Prophets.
 
-# Outro 7:13-27
+## Outro 7:13-27
 
 Enter through the narrow gate, because wide is the gate and broad is the road that leads to ruin, and those who enter through it are many. How narrow is the gate and constricted is the road that leads to life, and those who find it are few.
 
