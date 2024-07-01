@@ -1,7 +1,7 @@
 +++
 author = "Alex Bilson"
 date = "2024-05-29"
-lastmod = "2024-06-27 07:55:08"
+lastmod = "2024-06-27 08:21:13"
 narrow = true
 title = "Sermon on the Mount"
 [coordinates]
@@ -50,7 +50,7 @@ Again, you have heard that it was said to the ancients, "Do not break your oath,
 
 You have heard that it was said, "An eye in recompense for an eye, and a tooth in recompense for a tooth." And I say to you, do not resist in kind an evil person, but whoever slaps you on your right cheek, turn the other to him also. If anyone wants to sue you and take your shirt, let him have your coat also. Whoever forces you to go one mile, go with him two. To the one who asks of you, give, and the one who wants to borrow from you, don't turn away.
 
-You have heard that it was said, "You will love your neighbor, and you will hate your enemy." And I say to you, love your enemies and pray for those who persecute you, so that you may be children of your Father who is in the skies. For He causes His sun to rise on the evil and the good, and he sends rain on the righteous and the unrighteous. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? If you greet only your brothers, what more are you doing than others? Do not even the Nations do the same? Therefore, you are to be whole, as your  Father in the skies is whole.
+You have heard that it was said, "You will love your neighbor, and you will hate your enemy." And I say to you, love your enemies and pray for those who persecute you, so that you may be children of your Father who is in the skies. For He causes His sun to rise on the evil and the good, and he sends rain on the righteous and the unrighteous. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? If you greet only your brothers, what more are you doing than others? Do not even the Nations do the same? Therefore, you are to be whole, as your Father in the skies is whole.
 
 ## Doing What is Right 6:1-18
 
