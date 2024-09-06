@@ -107,9 +107,8 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 
 <h5>2024</h5>
 <ul role="list">
-<li>The year started off with a boring Angular upgrade project which took <i>way</i> too long. Ugh. It was demoralizing. However, I've transferred to a new team as the Web guru for two new projects. The first is a new business line that's been very lucrative for the firm, and the second is a rebuild of an old Web Forms project that's become unwieldy. Both are using the latest Angular 18 goodness with Material UI and SyncFusion.</li>
+<li>The year started off with a boring Angular upgrade project which took <i>way</i> too long. Ugh. It was demoralizing. However, I've transferred to a new team as the Web guru for two new projects. The first is a <a href="{{< ref "/resume/derivatives-ui" >}}">new Derivatives business line</a> that's been very lucrative for the firm, and the second is a rebuild of an old Web Forms project that's become unwieldy. Both are using the latest Angular 18 goodness with Material UI and SyncFusion.</li>
 </ul>
-
 </article>
 
 <article class="flow-m">
