@@ -101,7 +101,13 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 
 <h5>2023</h5>
 <ul role="list">
-<li>My current project at Performance Trust is the <a href="{{< ref "/resume/call-report-parser" >}}">Regulatory Crawler</a>. I'm really enjoying building out a .NET Core app from sratch and learning how to use NSwag to generate OpenAPI clients.</li>
+<li>Enjoys a greenfield project called the <a href="{{< ref "/resume/call-report-parser" >}}">Regulatory Crawler</a>. It's a .NET 8 Core app that was built from scratch where I learned how to configure NSwag to generate OpenAPI clients.</li>
+<li>Our IT department performs semi-regular Lunch N' Learns where a person compiles something that interests them or in which they have a specialty to share with the others. I realized that our presentations are heavy on the server-side, code-first world and so I developed a presentation for the latest changes to CSS. It was well received and I felt proud of my work. Now I'm the resident CSS expert, lol.</li>
+</ul>
+
+<h5>2024</h5>
+<ul role="list">
+<li>The year started off with a boring Angular upgrade project which took <i>way</i> too long. Ugh. It was demoralizing. However, I've transferred to a new team as the Web guru for two new projects. The first is a new business line that's been very lucrative for the firm, and the second is a rebuild of an old Web Forms project that's become unwieldy. Both are using the latest Angular 18 goodness with Material UI and SyncFusion.</li>
 </ul>
 
 </article>
@@ -161,7 +167,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 	<th>Acumen</th>
 </tr>
 <tr>
-	<td>AngularJS & RxJS</td>
+	<td>Angular, RxJS and Signals</td>
 	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
@@ -173,7 +179,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 	<td><meter value="9" min="1" max="10">9 out of 10</meter></td>
 </tr>
 <tr>
-	<td>Web Components & Lit</td>
+	<td>Native Web Components & Lit</td>
 	<td><meter value="8" min="1" max="10">8 out of 10</meter></td>
 </tr>
 <tr>
