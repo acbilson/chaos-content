@@ -1,10 +1,10 @@
 +++
 date = "2025-04-22 15:41:07"
-lastmod = "2025-04-22 15:58:49"
+lastmod = "2025-04-22 16:05:11"
 epistemic = "plant"
 tags = ["creativity", "formation"]
 +++
-Jerome Berryman illuminates the creative process in his book, "Godly Play: An Imaginative Approach to Religious Education".
+Jerome Berryman illuminates the creative process in his book, "Godly Play: An Imaginative Approach to Religious Education". There are so many parallels to a good DBS group and the creative process (see {{< backref src="/gardens/discovery-stories" >}}.
 
 ## The Creative Process (pg. 94)
 

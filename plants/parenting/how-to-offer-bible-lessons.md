@@ -1,11 +1,13 @@
 +++
 author = "Alex Bilson"
 date = "2025-04-22 14:59:41"
-lastmod = "2025-04-22 15:36:07"
+lastmod = "2025-04-22 16:04:01"
 epistemic = "sprout"
 tags = ["children", "bible", "discipleship", "teaching"]
 +++
-I've been so intimidated at the prospect of teaching my children about Jesus and the Bible. There are so many facets to consider: age-relevant methods, following their interests, not overloading them with instruction, choosing a topic, where to learn together, etc. One of the resources I've borrowed from a friend (thanks Natalie!) called [Godly Play: An Imaginative Approach to Religious Education](https://bookshop.org/p/books/godly-play-jerome-w-berryman/8976616?ean=9780806627854&next=t) by Jerome Berryman has been a useful tool to organize my priorities and envision how a lesson might play out. It's especially helpful since it's heavily inspired by Montessori; the same teaching philosophy with which my boy's are already comfortable. A typical lesson might flow like this:
+I've been so intimidated at the prospect of teaching my children about Jesus and the Bible. There are so many facets to consider: age-relevant methods, following their interests, not overloading them with instruction, choosing a topic, where to learn together, etc. One of the resources I've borrowed from a friend (thanks Natalie!) called [Godly Play: An Imaginative Approach to Religious Education](https://bookshop.org/p/books/godly-play-jerome-w-berryman/8976616?ean=9780806627854&next=t) by Jerome Berryman has been a useful tool to organize my priorities and envision how a lesson might play out. It's especially helpful since it's heavily inspired by Montessori; the same teaching philosophy with which my boy's are already comfortable. The general structure of a lesson attempts to follow both {{< backref src="/plants/identity/the-creative-process" >}} and liturgical practice.
+
+A typical lesson might flow like this:
 
 ## Gathering / Preparation (10m)
 
