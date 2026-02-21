@@ -9,7 +9,9 @@ kind = "home"
  <img src="https://images.alexbilson.dev/IMG_0049.webp" alt="Graham on Alex's Shoulders">
 </figure>
 
-<p>Welcome! You can call me Alex.</p>
+<p>Welcome!</p>
+
+<p>By day, I'm a senior software engineer, collaborating with the business and writing code with and without the use of AI. By night, I'm a church-planter, sowing the seeds of purposeful and intimate community around the person of King Jesus. At all times, I'm a husband to the singular Amie and father to Graham and Royal. You can call me Alex.</p>
 
 <p>There's lots to explore here; let me give you a tour.</p>
 
