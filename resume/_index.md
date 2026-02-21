@@ -12,7 +12,7 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 
 {{< raw >}}
 <article class="flow-m timeline">
-<h2 id="journey">Alex's Technology Journey</h2>
+<h2 id="journey">Alex's Professional & <span class="ministry">Ministry</span> Journey</h2>
 
 <h5>2025</h5>
 <ul role="list">
@@ -28,11 +28,12 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <ul role="list">
 <li>Enjoys a greenfield project called the <a href="{{< ref "/resume/call-report-parser" >}}">Regulatory Crawler</a>. It's a .NET 8 Core app that was built from scratch where I learned how to configure NSwag to generate OpenAPI clients.</li>
 <li>Our IT department performs semi-regular Lunch N' Learns where a person compiles something that interests them or in which they have a specialty to share with the others. I realized that our presentations are heavy on the server-side, code-first world and so I developed a presentation for the latest changes to CSS. It was well received and I felt proud of my work. Now I'm the resident CSS expert, lol.</li>
+<li class="ministry">Becomes a postulant in the Order of the Common Life. Although I decide not to proceed into the Novitiate right now, I love everything about their rhythms and commitments.</li>
 </ul>
 
 <h5>2022</h5>
 <ul role="list">
-<li>My second major project at Performance Trust was one of my best, the <a href="{{< ref "/resume/ratio-sorting-page" >}}">Data+ Web Tool</a>. My growing know-how with Angular development paid off in a flexible, performant, low-bug offering. In the words of Bart Smith, "This is *!$#%^ awesome!". Most of the praise for the performant engine, however, goes to our resident database whiz, Mary Mistica, for an amazing SQL Stored Procedure.</li>
+<li>My second major project at Performance Trust was one of my best to-date, the <a href="{{< ref "/resume/ratio-sorting-page" >}}">Data+ Web Tool</a>. My growing know-how with Angular development paid off in a flexible, performant, low-bug offering. In the words of Bart Smith, "This is *!$#%^ awesome!". Most of the praise for the performant engine, however, goes to our resident database whiz, Mary Mistica, for an amazing SQL Stored Procedure.</li>
 <li>My third major project at Performance Trust, the <a href="{{< ref "/resume/call-report-parser" >}}">Call Report Parser</a>, was given to me because I was the only one on my team proficient in Python. I leveraged a lot of skills to get this working and learned a ton. I even submitted a bug report for the Python Selenium package!</li>
 </ul>
 
@@ -63,7 +64,9 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <ul role="list">
 <li>Communicates the intricate steps to build a Relativity Integration Point (RIP) provider in a three-hour RelativityFest <a href="https://github.com/acbilson/relativity-fest-rip-workshop">workshop </a> with <a href="https://www.linkedin.com/in/kevin-stephenson-3027432/">Kevin Stephenson</a>.</li>
 <li>Surprises a prospective Silicon Valley client looking to integrate their Python code with RelativityOne by building a prototype IronPython integration in time to demo it live on their office tour. Great teamwork <a href="https://www.linkedin.com/in/umarani18/">Uma Rani</a>.</li>
+<li class="ministry">Launches a Discovery Bible Study group among Christians that meet over our lunch break.</li>
 <li class="personal">Our first son, Graham, is born.</li>
+<li class="ministry">Joins "The Neighborhood" leadership team to support the church plant's growth and health.</li>
 </ul>
 
 <h5>2017</h5>
@@ -74,6 +77,8 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <h5>2016</h5>
 <ul role="list">
 <li>Pioneers the first technical business analyst (TBA) position. Sets the bar for client satisfaction and technical acumen. Formulates every workflow, template, and process needed to onboard the next five TBAs.</li>
+<li class="ministry">Shares numerous Jesus stories with my teammates and others that I work with across the firm. At times this leads to further discussion or invitations to have dinner in our home.</li>
+<li class="ministry">Joins a church plant of the Evanston Vineyard called "The Neighborhood." Trains everyone in Discovery Bible Study over the course of several years of DBS small groups.</li>
 </ul>
 
 <h5>2015</h5>
@@ -90,19 +95,31 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <li class="quote">"I had the pleasure of working together with Alex on multiple development projects. He is a skilled coder and passionate about finding and implementing good design patterns. He possess some of the deepest knowledge I've seen on unit testing frameworks and he uses it to increase the quality of deliverables." - <a href="https://www.linkedin.com/in/marlon-smith-6566245a/">Marlon Smith</a></li>
 </ul>
 
+<h5>2013</h5>
+<ul role="list">
+<li class="ministry">Studies church-planting methodologies from Nathan Lutz at a TOAG internship in Tempe, AZ. Learns team dynamics such as conflict-resolution and the exercise of spiritual gifts (APEST). Meets thrice weekly for extended prayer, study and accountability, and Bible study. Mentors later interns on these topics and Discovery Bible Study (DBS). Memorizes a dozen Jesus stories to share them with neighbors from diverse nationalities. Develops a personal curriculum for Christlikeness (Dallas Willard).</li>
+<li class="ministry">Travels to Bangalore, India, for a two-week practicum in search of people of peace with whom later missionaries could assist in the formation of a local church in the Muslim quarter.</li>
+<li class="ministry">Organizes prayer support for next year’s practicum to Mafraq, Jordan.</li>
+</ul>
+
+
+
 <h5>2010</h5>
 <ul role="list">
 <li>Mines thousands of complex technical records to ascertain threat locations while stationed in Afghanistan. Persuades senior leaders to collect data, deploy special forces, and anticipate attacks with data-driven presentations.</li>
+<li class="ministry">Shares the good news about Jesus with my colleagues in Afghanistan. Encounters spiritual forces of evil for the first time.</li>
 </ul>
 
 <h5>2009</h5>
 <ul role="list">
 <li>Incorporates a mobile coffee shop LLC with Tommy Smith and Matthew Gonzales in Denver, CO. Hosts the company website with BlueHost on WordPress. Learns HTML and CSS from scratch, then adds logic with PHP.</li>
+<li>Finds a person of peace while playing worship songs on my guitar at 16th Street Mall. Introduces him to Jesus and watches in wonder as he brings many of his family along with him.</li>
 </ul>
 
 <h5>2007</h5>
 <ul role="list">
 <li>Monitors world-wide sea traffic for suspicious patterns to supply risk assessments to leaders.</li>
+<li class="ministry">Is introduced to Jesus by Matthew, Mark and Tommy. Begins to read the Bible in earnest, reads every theological or biographical book he can get his hands on. Travels downtown to hand out gospel tracts, share time and supplies with the homeless, and practice street preaching.</li>
 </ul>
 
 <h5>2006</h5>
