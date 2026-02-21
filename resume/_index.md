@@ -14,6 +14,11 @@ This page aims to ease your aprehensions by laying out, in plain terms, where my
 <article class="flow-m timeline">
 <h2 id="journey">Alex's Technology Journey</h2>
 
+<h5>2025</h5>
+<ul role="list">
+<li>The shift to another team was like crawling out of a narrow space into an expansive cavern. This year I've had opportunity to mentor others in UI best-practices (Angular, but also the bedrock HTML/CSS), and have full control in building a quality piece of software for my firm, from the database architecture to the backend, the numerous cross-service clients and the UI. This also marks the sixth year I've worked fully remotely, and the fifth year at Performance Trust (yay!).</li>
+</ul>
+
 <h5>2024</h5>
 <ul role="list">
 <li>The year started off with a boring Angular upgrade project which took <i>way</i> too long. Ugh. It was demoralizing. However, I've transferred to a new team as the Web guru for two new projects. The first is a <a href="{{< ref "/resume/derivatives-ui" >}}">new Derivatives business line</a> that's been very lucrative for the firm, and the second is a rebuild of an old Web Forms project that's become unwieldy. Both are using the latest Angular 18 goodness with Material UI and SyncFusion.</li>
