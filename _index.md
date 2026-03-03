@@ -46,4 +46,5 @@ kind = "home"
 <p>I frequent a number of websites myself. If you wanna follow me into other places, check out the Blog Roll.</p>
 
 <p>You can reach me via email to acbilson (at) ofchaosandorder (dot) com.</p>
+
 {{< /raw >}}
