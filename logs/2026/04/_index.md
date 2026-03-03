@@ -1,1 +1,5 @@
-+++ Title = "2026/04 Ship's Log" displayInMenu = false kind = "section" narrow = true +++
+Title = "2026/04 Ship's Log"
+displayInMenu = false
+kind = "section"
+narrow = true
++++
