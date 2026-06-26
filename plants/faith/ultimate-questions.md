@@ -1,4 +1,4 @@
-+++
+plant+++
 author = "Alex Bilson"
 date = "2026-06-26"
 lastmod = "2026-06-26 16:08:00"
@@ -8,7 +8,7 @@ toc = true
 +++
 For those curious, here's how I answer existential questions.
 
-# The Meaning of Life
+## The Meaning of Life
 
 All that is was brought into existence and given order by God ([Gen. 1:1-5](https://www.esv.org/Genesis+1+1/)), through the collaboration of the three persons of God ([John 1:1-5](https://www.esv.org/John+1+1/); [Gen. 1:2](https://www.esv.org/Genesis+1+2/)), and it was called “good” ([Gen. 1:31](https://www.esv.org/Genesis+1+31/)). Humans were given authority as image-bearers to represent and enact God’s kingdom on the earth ([Gen. 1:26-28](https://www.esv.org/Genesis+1+26/)).
 
@@ -24,7 +24,7 @@ Those joined to Christ are gathered into his full body, the Church, and entruste
 
 At the complete end, when all things have been placed fully under the authority of Jesus ([Ps. 110:1](https://www.esv.org/Psalm+110+1/); [1 Cor. 15:24-26](https://www.esv.org/1+Corinthians+15+24/)), all that is will be fully restored to its proper order ([Rev. 22:1-5](https://www.esv.org/Revelation+22+1/)). Creation groans until humanity's vocation and creation's freedom are fulfilled together ([Rom. 8:19-23](https://www.esv.org/Romans+8+19/)). Then God will be “all in all” ([1 Cor. 15:28](https://www.esv.org/1+Corinthians+15+28/)).
 
-# The Meaning of Death
+## The Meaning of Death
 
 God formed humanity from the dust and gave them life with his breath ([Gen. 2:7](https://www.esv.org/Genesis+2+7/)). He warned them that death would ensue if his commandment was not obeyed ([Gen. 2:16-17](https://www.esv.org/Genesis+2+16/)), but they valued the serpent's lie over life.
 
@@ -36,7 +36,7 @@ Those joined to Christ share in his death and resurrection even now ([Rom. 6:3-1
 
 When the time is ripe, Christ will destroy death, the last enemy. itself: death will be swallowed up in victory, the resurrected standing over it in triumph ([1 Cor. 15:26, 52-55](https://www.esv.org/1+Corinthians+15+26/); [Rev. 21:4](https://www.esv.org/Revelation+21+4/)).
 
-# How Do You Explain Misfortune
+## How Do You Explain Misfortune
 
 God created the world full of goodness and ordered human life for communion with him, one another, and creation ([Gen. 1:31](https://www.esv.org/Genesis+1+31/); [Gen. 2:18](https://www.esv.org/Genesis+2+18/)). Yet at the earliest account of humanity we experience a terrible breach in our relationship with God, one another, and the earth ([Gen. 3:16-19](https://www.esv.org/Genesis+3+16/)). Cain's response may echo the generations, "my punishment is greater than I can bear." ([Gen. 4:13](https://www.esv.org/Genesis+4+13/)).
 
@@ -50,7 +50,7 @@ Those joined to Christ learn this wisdom born of suffering. They trust that God 
 
 The throne room of God holds bowls full of the prayers of the saints, and God carefully preserves their tears ([Rev. 5:8](https://www.esv.org/Revelation+5+8/); [Ps. 56:8](https://www.esv.org/Psalm+56+8/)). At the complete end, God will answer the unfinished lament of his people: their misfortunes will be neither wasted nor forgotten, the righteous will be vindicated, and God himself will dwell with them and wipe away every tear from their eyes ([Rev. 6:9-11](https://www.esv.org/Revelation+6+9/); [Rev. 21:3-4](https://www.esv.org/Revelation+21+3/)).
 
-# How Do You Achieve Well-being
+## How Do You Achieve Well-being
 
 After God created, he gave his blessing to multiply and fill the earth ([Gen. 1:22, 28-31](https://www.esv.org/Genesis+1+22/)). When the woman reasons about the forbidden tree, she notices that it was good for food, that it was delightful, and desirable to make one wise, and she takes it ([Gen. 3:1-7](https://www.esv.org/Genesis+3+1/)).
 
@@ -64,7 +64,7 @@ Jesus shares this well-being with those loved by the Father ([John 16:23-27](htt
 
 At the resurrection, well-being will become incorruptible, embodied life in God's presence ([1 Cor. 15:42-49, 53-57](https://www.esv.org/1+Corinthians+15+42/)). The river and tree of life picture creation's abundance freely shared, with fruit for food and leaves for the healing of the nations ([Rev. 22:1-2](https://www.esv.org/Revelation+22+1/)). No one's flourishing will then require another's deprivation.
 
-# How Do You Understand Right and Wrong
+## How Do You Understand Right and Wrong
 
 From the beginning, the tree of life and the tree of the knowledge of good and not good present humanity with a choice ([Gen. 2:8-9, 17](https://www.esv.org/Genesis+2+8/)). God defines what is good and gives humanity his command ([Gen. 1:31](https://www.esv.org/Genesis+1+31/); [Gen. 2:16-17](https://www.esv.org/Genesis+2+16/)). Yet God's good command, when it is broken by humanity, brings death ([Rom. 7:12-14](https://www.esv.org/Romans+7+12/)).
 
@@ -76,7 +76,7 @@ The Church understands right and wrong by becoming a people whose loves are reor
 
 At the complete end, nothing false, unjust, or unclean will remain, and the heart-written law will flower in the untainted soil of new creation ([Rev. 21:27-22:3](https://www.esv.org/Revelation+21+27/)).
 
-# How Do You Receive Guidance
+## How Do You Receive Guidance
 
 From the beginning, wisdom is found in God's presence, who shares it with those who seek ([Pro. 8:22-23, 34](https://www.esv.org/Proverbs+8+22/); [Gen. 2:16-17](https://www.esv.org/Genesis+2+16/)). Yet humans seek wisdom on their own terms. Distrusting God's wisdom, they grasp after judgment for themselves which, far from giving them wisdom, leads them into the futility of life separated from God's presence ([Gen. 3:6-8](https://www.esv.org/Genesis+3+8/); [Rom. 1:21-25](https://www.esv.org/Romans+1+21/)).
 
@@ -88,7 +88,7 @@ The Church receives guidance from the Spirit as it worships, fasts, prays, liste
 
 At the complete end, unbroken fellowship with God will supply endless growth in wisdom. The Lamb will shepherd his people and guide them to springs of living water, and God's servants will follow wherever he goes ([Rev. 7:17](https://www.esv.org/Revelation+7+17/); [Rev. 14:4](https://www.esv.org/Revelation+14+4/)).
 
-# How Do You Understand the Unknown
+## How Do You Understand the Unknown
 
 Cryptic have been God's counsels from the start. The first command warns of an unexplainable death ([Gen. 2:16-17](https://www.esv.org/Genesis+2+16/)); the first promise of rescue cryptically joins the serpent's defeat to the woman's wounded offspring ([Gen. 3:15](https://www.esv.org/Genesis+3+15/)). Rather than live in trust within what God has revealed, humanity grasps after knowledge on its own terms, only to discover nakedness and hide ([Gen. 3:4-10](https://www.esv.org/Genesis+3+4/)).
 
