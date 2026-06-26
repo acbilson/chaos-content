@@ -2,8 +2,9 @@
 author = "Alex Bilson"
 date = "2026-06-26"
 lastmod = "2026-06-26 16:08:00"
-epistemic = "plant"
+epistemic = "evergreen"
 tags = ["epistemology","biblical-theology","purpose","telos","existential"]
+toc = true
 +++
 For those curious, here's how I answer existential questions.
 
